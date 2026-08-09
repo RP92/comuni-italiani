@@ -1,0 +1,24 @@
+[anagrafica]
+path = "tests/fixtures/istat_anagrafica.csv"
+delimiter = ";"
+encoding = "utf-8"
+
+[popolazione]
+path = "tests/fixtures/popolazione.csv"
+delimiter = ";"
+encoding = "utf-8"
+
+[superficie]
+path = "tests/fixtures/superficie.csv"
+delimiter = ";"
+encoding = "utf-8"
+
+[coordinate]
+path = "tests/fixtures/coordinate.csv"
+delimiter = ";"
+encoding = "utf-8"
+
+[cap]
+path = "tests/fixtures/cap.csv"
+delimiter = ";"
+encoding = "utf-8"
