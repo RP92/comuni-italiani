@@ -6,7 +6,7 @@
 #
 # CAP + coordinate source: Garda Informatica "Database dei comuni italiani"
 # License: MIT — https://www.gardainformatica.it/database-comuni-italiani
-# Decision rationale: docs/internal/specs/2026-08-09-cap-source-decision.md
+# Decision rationale: docs/cap-source.md
 
 # ---------------------------------------------------------------------------
 # ISTAT Elenco comuni italiani — anagrafica, territorial codes, sigla, etc.

@@ -10,7 +10,7 @@ Attribution:
   - CAP (postal codes) and geographic coordinates: Garda Informatica —
     "Database dei comuni italiani" (https://www.gardainformatica.it/database-comuni-italiani),
     licensed MIT; source acknowledged here in compliance with both licenses.
-  - Full source details and rationale: see docs/internal/specs/2026-08-09-cap-source-decision.md.
+  - Full source details and rationale: see docs/cap-source.md.
 
 You are free to:
   - Share — copy and redistribute the data in any medium or format.

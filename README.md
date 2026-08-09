@@ -71,7 +71,7 @@ Known limitations:
   changes and Poste Italiane routing updates.
 
 Full source evaluation and decision rationale:
-[`docs/internal/specs/2026-08-09-cap-source-decision.md`](docs/internal/specs/2026-08-09-cap-source-decision.md)
+[`docs/cap-source.md`](docs/cap-source.md)
 
 ---
 
