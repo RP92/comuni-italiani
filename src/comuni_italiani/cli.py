@@ -22,12 +22,12 @@ def _read_rows(spec: dict, cache_dir: Path, offline: bool) -> list[dict]:
         path = Path(spec["path"])
     else:
         cache_dir.mkdir(parents=True, exist_ok=True)
-        path = fetch(spec["url"], cache_dir / spec["cache"], force=False) if not offline else Path(spec["cache"])
+        path = fetch(spec["url"], cache_dir / spec["cache"], force=False) if not offline else cache_dir / spec["cache"]
     text = path.read_text(encoding=spec.get("encoding", "utf-8"))
     rows = list(csv.DictReader(text.splitlines(), delimiter=spec.get("delimiter", ";")))
     remap = spec.get("columns")
     if remap:
-        rows = [{new: r.get(old, "") for new, old in remap.items()} | r for r in rows]
+        rows = [r | {new: r.get(old, "") for new, old in remap.items()} for r in rows]
     return rows
 
 def build(config: dict, cache_dir: Path, out_dir: Path, *, offline: bool = False) -> dict:
