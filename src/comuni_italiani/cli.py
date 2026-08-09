@@ -29,16 +29,24 @@ def _read_rows(spec: dict, cache_dir: Path, offline: bool) -> list[dict]:
     if is_zip:
         with zipfile.ZipFile(path) as zf:
             if "member" in spec:
+                available = zf.namelist()
+                if spec["member"] not in available:
+                    raise ValueError(
+                        f"ZIP {path.name} has no member {spec['member']!r}; "
+                        f"available: {available}"
+                    )
                 member_name = spec["member"]
             else:
-                csv_members = [n for n in zf.namelist() if n.endswith(".csv") or n.endswith(".txt")]
-                if len(csv_members) == 1:
-                    member_name = csv_members[0]
-                else:
+                names = [n for n in zf.namelist() if n.endswith(".csv") or n.endswith(".txt")]
+                if len(names) == 0:
                     raise ValueError(
-                        f"ZIP contains multiple CSV/TXT members {csv_members!r}; "
-                        "specify 'member' in the source spec"
+                        f"ZIP {path.name} has no CSV/TXT member; specify 'member' in the source spec"
                     )
+                if len(names) > 1:
+                    raise ValueError(
+                        f"ZIP {path.name} has multiple CSV/TXT members {names}; specify 'member' in the source spec"
+                    )
+                member_name = names[0]
             text = zf.read(member_name).decode(encoding)
     else:
         text = path.read_text(encoding=encoding)
