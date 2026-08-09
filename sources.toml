@@ -1,0 +1,89 @@
+# Production source configuration for comuni-italiani pipeline.
+# Run: python -m comuni_italiani.cli sources.toml
+#
+# All remote files are cached in .cache/ on first download.
+# Delete .cache/<file> to force a fresh download on the next run.
+#
+# CAP + coordinate source: Garda Informatica "Database dei comuni italiani"
+# License: MIT — https://www.gardainformatica.it/database-comuni-italiani
+# Decision rationale: docs/superpowers/specs/2026-08-09-cap-source-decision.md
+
+# ---------------------------------------------------------------------------
+# ISTAT Elenco comuni italiani — anagrafica, territorial codes, sigla, etc.
+# Source: https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.csv
+# License: CC BY 3.0 IT — https://www.istat.it/it/note-legali
+# Delimiter: semicolon; encoding: UTF-8 with BOM (Windows-1252 on older files)
+# No column remap needed: parser reads exact ISTAT column header strings.
+# ---------------------------------------------------------------------------
+[anagrafica]
+url = "https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.csv"
+cache = "istat_anagrafica.csv"
+delimiter = ";"
+encoding = "utf-8-sig"   # handles optional BOM present in some ISTAT releases
+
+# ---------------------------------------------------------------------------
+# ISTAT Popolazione residente — bilancio demografico
+# Source: https://demo.istat.it/app/asc/?a=2024&d=01&t=1&ta=A&la=it&fmt=csv
+# License: CC BY 3.0 IT
+# Raw column names in the ISTAT demographic CSV (verify at download time):
+#   "Codice comune" or "Codice Comune" → remapped to "codice"  # TODO verify column name
+#   "Totale" or "Popolazione al 1° gennaio" → remapped to "popolazione"  # TODO verify column name
+# ---------------------------------------------------------------------------
+[popolazione]
+url = "https://demo.istat.it/app/asc/?a=2024&d=01&t=1&ta=A&la=it&fmt=csv"
+cache = "istat_popolazione.csv"
+delimiter = ";"
+encoding = "utf-8-sig"
+[popolazione.columns]
+codice     = "Codice comune"       # TODO verify column name
+popolazione = "Totale"              # TODO verify column name
+
+# ---------------------------------------------------------------------------
+# ISTAT Superficie dei comuni — from ISTAT territorial codelist
+# Source: https://www.istat.it/storage/codici-unita-amministrative/Codici-statistici-e-denominazioni-al-01_01_2024.zip
+# The ZIP contains a file with superficie per comune (km²).
+# Raw column names (verify at download time):
+#   "Codice Comune formato alfanumerico" → remapped to "codice"  # TODO verify column name
+#   "Superficie totale (Kmq)" → remapped to "superficie"         # TODO verify column name
+# ---------------------------------------------------------------------------
+[superficie]
+url = "https://www.istat.it/storage/codici-unita-amministrative/Codici-statistici-e-denominazioni-al-01_01_2024.zip"
+cache = "istat_superficie.csv"
+delimiter = ";"
+encoding = "utf-8-sig"
+[superficie.columns]
+codice     = "Codice Comune formato alfanumerico"  # TODO verify column name
+superficie = "Superficie totale (Kmq)"              # TODO verify column name
+
+# ---------------------------------------------------------------------------
+# Garda Informatica gi_comuni — geographic coordinates (lat, lng)
+# Source: https://www.gardainformatica.it/gi_db_comuni/gi_db_comuni-2026-08-07-8ef58.zip
+# License: MIT — https://www.gardainformatica.it/database-comuni-italiani
+# The ZIP contains gi_comuni.csv (or equivalent) with columns including
+#   codice_istat, lat, lng (verify exact header names at download time).
+# ---------------------------------------------------------------------------
+[coordinate]
+url = "https://www.gardainformatica.it/gi_db_comuni/gi_db_comuni-2026-08-07-8ef58.zip"
+cache = "gi_coordinate.csv"
+delimiter = ","
+encoding = "utf-8"
+[coordinate.columns]
+codice = "codice_istat"  # TODO verify column name (may be "cod_istat" or "codice_istat")
+lat    = "lat"           # TODO verify column name
+lng    = "lng"           # TODO verify column name (may be "lon" or "lng")
+
+# ---------------------------------------------------------------------------
+# Garda Informatica gi_cap — CAP (postal codes) per comune, one row per CAP
+# Same ZIP as coordinate above; extract gi_cap.csv (or gi_comuni_cap.csv).
+# Raw column names (verify at download time):
+#   codice_istat → remapped to "codice"
+#   cap          → used as-is
+# ---------------------------------------------------------------------------
+[cap]
+url = "https://www.gardainformatica.it/gi_db_comuni/gi_db_comuni-2026-08-07-8ef58.zip"
+cache = "gi_cap.csv"
+delimiter = ","
+encoding = "utf-8"
+[cap.columns]
+codice = "codice_istat"  # TODO verify column name (same as coordinate source)
+cap    = "cap"           # TODO verify column name
