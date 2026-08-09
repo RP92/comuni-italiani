@@ -1,0 +1,28 @@
+name: update-dataset
+on:
+  schedule:
+    - cron: "0 4 1 * *"   # monthly, 1st at 04:00 UTC
+  workflow_dispatch:
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python -m comuni_italiani.cli sources.toml
+      - name: Open PR on changes
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: auto/dataset-update
+          title: "chore: dataset update"
+          commit-message: "chore: automated dataset regeneration"
+          body: "Automated monthly regeneration. Review the diff in `data/` before merging."
+          add-paths: |
+            data/**
+            CHANGELOG.md

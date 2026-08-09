@@ -1,0 +1,25 @@
+Data License — Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The datasets contained in the `data/` directory of this repository are
+licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0).
+
+Attribution:
+  - Anagrafica, population, and territorial data: ISTAT — Istituto Nazionale
+    di Statistica (https://www.istat.it/).
+  - CAP (postal codes) and geographic coordinates: Garda Informatica —
+    "Database dei comuni italiani" (https://www.gardainformatica.it/database-comuni-italiani),
+    licensed MIT; source acknowledged here in compliance with both licenses.
+  - Full source details and rationale: see docs/internal/specs/2026-08-09-cap-source-decision.md.
+
+You are free to:
+  - Share — copy and redistribute the data in any medium or format.
+  - Adapt — remix, transform, and build upon the data for any purpose,
+    including commercially.
+
+Under the following terms:
+  - Attribution — You must give appropriate credit to ISTAT and the sources
+    above, provide a link to the license, and indicate if changes were made.
+
+Canonical legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
