@@ -49,6 +49,7 @@ popolazione = "Totale"              # TODO verify column name
 [superficie]
 url = "https://www.istat.it/storage/codici-unita-amministrative/Codici-statistici-e-denominazioni-al-01_01_2024.zip"
 cache = "istat_superficie.csv"
+member = "Codici-statistici-e-denominazioni-al-01_01_2024.csv"  # TODO verify member filename
 delimiter = ";"
 encoding = "utf-8-sig"
 [superficie.columns]
@@ -65,6 +66,7 @@ superficie = "Superficie totale (Kmq)"              # TODO verify column name
 [coordinate]
 url = "https://www.gardainformatica.it/gi_db_comuni/gi_db_comuni-2026-08-07-8ef58.zip"
 cache = "gi_coordinate.csv"
+member = "gi_comuni.csv"  # TODO verify member filename
 delimiter = ","
 encoding = "utf-8"
 [coordinate.columns]
@@ -82,6 +84,7 @@ lng    = "lng"           # TODO verify column name (may be "lon" or "lng")
 [cap]
 url = "https://www.gardainformatica.it/gi_db_comuni/gi_db_comuni-2026-08-07-8ef58.zip"
 cache = "gi_cap.csv"
+member = "gi_cap.csv"  # TODO verify member filename
 delimiter = ","
 encoding = "utf-8"
 [cap.columns]
