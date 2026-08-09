@@ -3,6 +3,7 @@ import csv
 import json
 import sys
 import tomllib
+import zipfile
 from pathlib import Path
 
 from comuni_italiani.download import fetch
@@ -23,7 +24,24 @@ def _read_rows(spec: dict, cache_dir: Path, offline: bool) -> list[dict]:
     else:
         cache_dir.mkdir(parents=True, exist_ok=True)
         path = fetch(spec["url"], cache_dir / spec["cache"], force=False) if not offline else cache_dir / spec["cache"]
-    text = path.read_text(encoding=spec.get("encoding", "utf-8"))
+    encoding = spec.get("encoding", "utf-8")
+    is_zip = "member" in spec or (path.exists() and path.read_bytes()[:4] == b"PK\x03\x04")
+    if is_zip:
+        with zipfile.ZipFile(path) as zf:
+            if "member" in spec:
+                member_name = spec["member"]
+            else:
+                csv_members = [n for n in zf.namelist() if n.endswith(".csv") or n.endswith(".txt")]
+                if len(csv_members) == 1:
+                    member_name = csv_members[0]
+                else:
+                    raise ValueError(
+                        f"ZIP contains multiple CSV/TXT members {csv_members!r}; "
+                        "specify 'member' in the source spec"
+                    )
+            text = zf.read(member_name).decode(encoding)
+    else:
+        text = path.read_text(encoding=encoding)
     rows = list(csv.DictReader(text.splitlines(), delimiter=spec.get("delimiter", ";")))
     remap = spec.get("columns")
     if remap:
