@@ -1,22 +1,25 @@
 # comuni-italiani
 
-Machine-readable dataset of all Italian comuni (municipalities) as of 2026,
-built from official ISTAT sources. Includes names, codes, CAP (postal codes),
-geographic coordinates, population, surface area, and administrative hierarchy
+> 🇬🇧 **English version: [`README.en.md`](README.en.md).**
+
+Database **non ufficiale** dei comuni italiani, con informazioni ISTAT e CAP.
+Costruito da fonti ufficiali ISTAT più una fonte open (best-effort) per CAP e
+coordinate. Contiene denominazioni, codici, CAP, coordinate geografiche,
+popolazione, superficie e la gerarchia amministrativa
 (regione / provincia / zona geografica).
 
-Inspired by [`matteocontrini/comuni-json`](https://github.com/matteocontrini/comuni-json).
+Ispirato a [`matteocontrini/comuni-json`](https://github.com/matteocontrini/comuni-json).
 
 ---
 
-## Quick start — CDN (no install required)
+## Avvio rapido — CDN (nessuna installazione)
 
 ```
 https://cdn.jsdelivr.net/gh/RP92/comuni-italiani/data/comuni.json
 ```
 
-The file is served directly from the `data/` directory of this repository via
-jsDelivr. Pin to a specific commit for reproducibility:
+Il file è servito direttamente dalla cartella `data/` di questo repository
+tramite jsDelivr. Per riproducibilità puoi agganciarti a un commit specifico:
 
 ```
 https://cdn.jsdelivr.net/gh/RP92/comuni-italiani@<commit>/data/comuni.json
@@ -24,70 +27,101 @@ https://cdn.jsdelivr.net/gh/RP92/comuni-italiani@<commit>/data/comuni.json
 
 ---
 
-## Available formats
+## Rappresentazione di esempio
 
-| File | Description |
+Il file JSON con tutti i **7896** comuni è `comuni.json`. Ogni elemento è fatto
+così:
+
+```json
+{
+  "nome": "Abano Terme",
+  "nomeAltraLingua": null,
+  "codice": "028001",
+  "codiceCatastale": "A001",
+  "sigla": "PD",
+  "cap": ["35031"],
+  "capoluogo": false,
+  "popolazione": 20433,
+  "superficie": 21.3082,
+  "coordinate": { "lat": 45.3593736, "lng": 11.7886941 },
+  "zona": { "nome": "Nord-est", "codice": "2" },
+  "regione": { "nome": "Veneto", "codice": "05" },
+  "provincia": { "nome": "Padova", "codice": "028", "sigla": "PD", "tipo": "provincia" }
+}
+```
+
+Il campo `cap` è **sempre una lista**: i comuni con più aree postali li
+contengono tutti (es. Roma ha 73 CAP, Torino 33). In tutto 41 comuni hanno più
+di un CAP.
+
+---
+
+## Formati disponibili
+
+| File | Descrizione |
 |------|-------------|
-| `data/comuni.json` | Full dataset — JSON array, one object per comune |
-| `data/comuni.csv` | Same data in CSV (RFC 4180, UTF-8) |
-| `data/comuni.ndjson` | Newline-delimited JSON, one object per line |
-| `data/regioni/<slug>.json` | Per-regione split — one file per regione |
-| `data/quality-report.json` | Pipeline validation report (count, CAP coverage). Schema and invariant failures cause the build to abort; the report's `errors` field is always an empty list on a successful run. |
+| `data/comuni.json` | Dataset completo — array JSON, un oggetto per comune |
+| `data/comuni.csv` | Stessi dati in CSV (RFC 4180, UTF-8) |
+| `data/comuni.ndjson` | JSON delimitato da newline, un oggetto per riga |
+| `data/regioni/<slug>.json` | Suddivisione per regione — un file per regione |
+| `data/quality-report.json` | Report di validazione della pipeline (conteggio, copertura CAP). Errori di schema o di invariante interrompono la build; il campo `errors` del report è sempre una lista vuota in caso di run riuscito. |
 
 ---
 
 ## Schema
 
-Each comune object has exactly the following 13 fields:
+Ogni comune ha esattamente questi 13 campi:
 
-| Field | Type | Description |
+| Campo | Tipo | Descrizione |
 |-------|------|-------------|
-| `nome` | `string` | Official Italian name of the comune |
-| `nomeAltraLingua` | `string \| null` | Name in a co-official language (German, French, Ladin, Slovenian), or `null` |
-| `codice` | `string` | ISTAT numeric code, zero-padded to 6 digits (e.g. `"001272"`) |
-| `codiceCatastale` | `string \| null` | Codice Catastale (Belfiore code) used in tax documents, e.g. `"L219"`, or `null` |
-| `sigla` | `string \| null` | Provincia abbreviation (e.g. `"TO"`), or `null` for autonomous provinces |
-| `cap` | `array[string]` | List of 5-digit postal codes (CAP). May contain more than one for large cities. Empty array if unknown (see CAP disclaimer below) |
-| `capoluogo` | `boolean` | `true` if the comune is the capoluogo of its provincia / città metropolitana |
-| `popolazione` | `integer \| null` | Resident population (latest ISTAT census/estimate), or `null` if unavailable |
-| `superficie` | `number \| null` | Surface area in km², or `null` if unavailable |
-| `coordinate` | `object \| null` | `{"lat": <number>, "lng": <number>}` centroid coordinates, or `null` if unavailable |
-| `zona` | `object` | Geographic zone: `{"nome": <string>, "codice": <string>}` (e.g. Nord-ovest / 1) |
-| `regione` | `object` | Region: `{"nome": <string>, "codice": <string>}` |
-| `provincia` | `object` | Province: `{"nome": <string>, "codice": <string>, "sigla": <string \| null>, "tipo": <enum>}` where `tipo` is one of `"provincia"`, `"citta-metropolitana"`, `"libero-consorzio"`, `"provincia-autonoma"`, `"decentramento-regionale"` |
+| `nome` | `string` | Denominazione italiana ufficiale del comune |
+| `nomeAltraLingua` | `string \| null` | Denominazione in lingua co-ufficiale (tedesco, francese, ladino, sloveno), oppure `null` |
+| `codice` | `string` | Codice ISTAT numerico, con zero-padding a 6 cifre (es. `"001272"`) |
+| `codiceCatastale` | `string \| null` | Codice Catastale (codice Belfiore) usato nei documenti fiscali, es. `"L219"`, oppure `null` |
+| `sigla` | `string \| null` | Sigla della provincia (es. `"TO"`), oppure `null` |
+| `cap` | `array[string]` | Lista di CAP a 5 cifre. Può contenerne più di uno per le grandi città. Lista vuota se sconosciuto |
+| `capoluogo` | `boolean` | `true` se il comune è capoluogo della sua provincia / città metropolitana |
+| `popolazione` | `integer \| null` | Popolazione residente (ISTAT), oppure `null` se non disponibile |
+| `superficie` | `number \| null` | Superficie in km², oppure `null` se non disponibile |
+| `coordinate` | `object \| null` | `{"lat": <number>, "lng": <number>}`, oppure `null` se non disponibile |
+| `zona` | `object` | Zona geografica: `{"nome": <string>, "codice": <string>}` (es. Nord-ovest / 1) |
+| `regione` | `object` | Regione: `{"nome": <string>, "codice": <string>}` |
+| `provincia` | `object` | Provincia: `{"nome": <string>, "codice": <string>, "sigla": <string \| null>, "tipo": <enum>}` dove `tipo` è uno tra `"provincia"`, `"citta-metropolitana"`, `"libero-consorzio"`, `"provincia-autonoma"`, `"decentramento-regionale"` (Friuli-Venezia Giulia) |
 
 ---
 
-## CAP disclaimer (best-effort)
+## Nota sui CAP (best-effort)
 
-CAP (postal codes) are sourced from **Garda Informatica — "Database dei comuni
-italiani"** (MIT license). This is a community-maintained dataset derived from
-official ISTAT codes; it is **not** an official Poste Italiane publication.
+I CAP provengono da **Garda Informatica — "Database dei comuni italiani"**
+(licenza MIT): un dataset mantenuto dalla community e derivato dai codici
+ufficiali ISTAT, **non** una pubblicazione ufficiale di Poste Italiane. La
+completezza e la correttezza dei CAP non possono essere garantite.
 
-Known limitations:
-- Large cities (Roma, Milano, Torino, …) have multiple CAPs per district;
-  sub-municipal postal areas may be incomplete.
-- No documented conflict-resolution methodology between ISTAT administrative
-  changes and Poste Italiane routing updates.
+Limiti noti:
+- Le grandi città (Roma, Milano, Torino, …) hanno più CAP per zona; alcune
+  aree postali sub-comunali possono essere incomplete.
+- Non esiste una metodologia documentata di riconciliazione tra le variazioni
+  amministrative ISTAT e gli aggiornamenti di recapito di Poste Italiane.
 
-Full source evaluation and decision rationale:
-[`docs/cap-source.md`](docs/cap-source.md)
+Valutazione delle fonti e motivazioni:
+[`docs/cap-source.md`](docs/cap-source.md).
 
 ---
 
-## Local rebuild
+## Rigenerare in locale
 
-Requirements: Python 3.11+.
+Requisiti: Python 3.11+.
 
 ```bash
 pip install .
 python -m comuni_italiani.cli sources.toml
 ```
 
-Output is written to `data/`. A `.cache/` directory is used for downloaded
-source files (re-runs skip re-downloading unless the cache is deleted).
+L'output viene scritto in `data/`. Una cartella `.cache/` conserva i file
+sorgente scaricati (le esecuzioni successive non riscaricano finché la cache
+non viene cancellata).
 
-Run the test suite:
+Esegui i test:
 
 ```bash
 pytest -q
@@ -95,18 +129,18 @@ pytest -q
 
 ---
 
-## Licensing
+## Licenze
 
-**Code** (everything except `data/`): MIT — see [`LICENSE`](LICENSE).
+**Codice** (tutto tranne `data/`): MIT — vedi [`LICENSE`](LICENSE).
 
-**Data** (`data/`): Creative Commons Attribution 4.0 International (CC BY 4.0)
-— see [`LICENSE-DATA`](LICENSE-DATA).  
-Attribution: ISTAT and the sources documented in `LICENSE-DATA`.
+**Dati** (`data/`): Creative Commons Attribution 4.0 International (CC BY 4.0)
+— vedi [`LICENSE-DATA`](LICENSE-DATA).
+Attribuzione: ISTAT e le fonti documentate in `LICENSE-DATA`.
 
 ---
 
-## Credits
+## Crediti
 
-Inspired by [`matteocontrini/comuni-json`](https://github.com/matteocontrini/comuni-json).
-Anagrafica, population, and surface-area data from [ISTAT](https://www.istat.it/).
-CAP and coordinates from [Garda Informatica](https://www.gardainformatica.it/database-comuni-italiani).
+Ispirato a [`matteocontrini/comuni-json`](https://github.com/matteocontrini/comuni-json).
+Anagrafica, popolazione e superficie da [ISTAT](https://www.istat.it/).
+CAP e coordinate da [Garda Informatica](https://www.gardainformatica.it/database-comuni-italiani).
