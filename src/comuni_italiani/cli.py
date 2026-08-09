@@ -1,5 +1,6 @@
 # src/comuni_italiani/cli.py
 import csv
+import datetime
 import io
 import json
 import sys
@@ -7,6 +8,7 @@ import tomllib
 import zipfile
 from pathlib import Path
 
+from comuni_italiani import discover
 from comuni_italiani.changelog import diff_datasets
 from comuni_italiani.download import fetch
 from comuni_italiani.parse.anagrafica import parse_anagrafica
@@ -76,9 +78,28 @@ def _read_rows(spec: dict, cache_dir: Path, offline: bool) -> list[dict]:
         rows = [r | {new: r.get(old, "") for new, old in remap.items()} for r in rows]
     return rows
 
+def _resolve_urls(config: dict) -> None:
+    """Fill in `url` for sources declaring `url_from` (dynamic source URLs)."""
+    resolved: dict[str, str] = {}
+    for spec in config.values():
+        kind = spec.get("url_from")
+        if not kind or "url" in spec or "path" in spec:
+            continue
+        if kind not in resolved:
+            if kind == "garda":
+                resolved[kind] = discover.latest_garda_zip()
+            elif kind == "posas":
+                resolved[kind] = discover.latest_posas_zip(datetime.date.today().year)
+            else:
+                raise ValueError(f"unknown url_from: {kind!r}")
+        spec["url"] = resolved[kind]
+
+
 def build(config: dict, cache_dir: Path, out_dir: Path, *, offline: bool = False,
           changelog_path=None) -> dict:
     cache_dir, out_dir = Path(cache_dir), Path(out_dir)
+    if not offline:
+        _resolve_urls(config)
     anagrafica = parse_anagrafica(_read_rows(config["anagrafica"], cache_dir, offline))
 
     # Bridge for sources whose join key is the cadastral (Belfiore) code rather

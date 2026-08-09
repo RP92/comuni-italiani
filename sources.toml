@@ -28,12 +28,12 @@ encoding = "cp1252"
 # License: CC BY 4.0
 # ---------------------------------------------------------------------------
 [popolazione]
-url = "https://demo.istat.it/data/posas/POSAS_2024_it_Comuni.zip"
+url_from = "posas"   # auto-discovers the latest POSAS_<year>_it_Comuni.zip
 cache = "istat_posas.zip"
-member = "POSAS_2024_it_Comuni.csv"
 delimiter = ";"
 encoding = "utf-8-sig"
 skip_lines = 1
+# member auto-detected: the ZIP has a single CSV (name carries the year)
 [popolazione.filter]
 column = "Età"
 equals = "999"
@@ -48,7 +48,7 @@ popolazione = "Totale"
 # License: MIT — https://www.gardainformatica.it/database-comuni-italiani
 # ---------------------------------------------------------------------------
 [superficie]
-url = "https://www.gardainformatica.it/gi_db_comuni/gi_db_comuni-2026-08-07-8ef58.zip"
+url_from = "garda"   # auto-discovers the latest Garda ZIP from the DB page
 cache = "garda.zip"
 member = "csv/gi_comuni.csv"
 delimiter = ";"
@@ -63,7 +63,7 @@ superficie = "superficie_kmq"
 # (mapped to lng); values use the Italian decimal comma.
 # ---------------------------------------------------------------------------
 [coordinate]
-url = "https://www.gardainformatica.it/gi_db_comuni/gi_db_comuni-2026-08-07-8ef58.zip"
+url_from = "garda"   # auto-discovers the latest Garda ZIP from the DB page
 cache = "garda.zip"
 member = "csv/gi_comuni.csv"
 delimiter = ";"
@@ -78,7 +78,7 @@ lng = "lon"
 # CAP (postal codes) — Garda gi_cap.csv, one row per (comune, CAP).
 # ---------------------------------------------------------------------------
 [cap]
-url = "https://www.gardainformatica.it/gi_db_comuni/gi_db_comuni-2026-08-07-8ef58.zip"
+url_from = "garda"   # auto-discovers the latest Garda ZIP from the DB page
 cache = "garda.zip"
 member = "csv/gi_comuni_cap.csv"
 delimiter = ";"

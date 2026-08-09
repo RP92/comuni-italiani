@@ -9,7 +9,7 @@
       "01021"
     ],
     "capoluogo": false,
-    "popolazione": 5273,
+    "popolazione": 5222,
     "superficie": 130.8617,
     "coordinate": {
       "lat": 42.7439645,
@@ -40,7 +40,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 820,
+    "popolazione": 791,
     "superficie": 22.0529,
     "coordinate": {
       "lat": 42.4629823,
@@ -71,7 +71,7 @@
       "01022"
     ],
     "capoluogo": false,
-    "popolazione": 3327,
+    "popolazione": 3258,
     "superficie": 73.0103,
     "coordinate": {
       "lat": 42.6258333,
@@ -102,7 +102,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 986,
+    "popolazione": 980,
     "superficie": 37.6078,
     "coordinate": {
       "lat": 42.252165,
@@ -133,7 +133,7 @@
       "01030"
     ],
     "capoluogo": false,
-    "popolazione": 4629,
+    "popolazione": 4680,
     "superficie": 37.4293,
     "coordinate": {
       "lat": 42.2181657,
@@ -164,7 +164,7 @@
       "01030"
     ],
     "capoluogo": false,
-    "popolazione": 1286,
+    "popolazione": 1272,
     "superficie": 12.4415,
     "coordinate": {
       "lat": 42.4631159,
@@ -195,7 +195,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 2892,
+    "popolazione": 2895,
     "superficie": 92.5448,
     "coordinate": {
       "lat": 42.2751414,
@@ -226,7 +226,7 @@
       "01023"
     ],
     "capoluogo": false,
-    "popolazione": 3671,
+    "popolazione": 3649,
     "superficie": 63.4369,
     "coordinate": {
       "lat": 42.644077,
@@ -257,7 +257,7 @@
       "01020"
     ],
     "capoluogo": false,
-    "popolazione": 1692,
+    "popolazione": 1695,
     "superficie": 39.4302,
     "coordinate": {
       "lat": 42.4911337,
@@ -288,7 +288,7 @@
       "01030"
     ],
     "capoluogo": false,
-    "popolazione": 909,
+    "popolazione": 905,
     "superficie": 7.6681,
     "coordinate": {
       "lat": 42.2199891,
@@ -319,7 +319,7 @@
       "01030"
     ],
     "capoluogo": false,
-    "popolazione": 2915,
+    "popolazione": 2900,
     "superficie": 20.8185,
     "coordinate": {
       "lat": 42.3808496,
@@ -350,7 +350,7 @@
       "01011"
     ],
     "capoluogo": false,
-    "popolazione": 5009,
+    "popolazione": 5029,
     "superficie": 123.7302,
     "coordinate": {
       "lat": 42.4642903,
@@ -381,7 +381,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 1663,
+    "popolazione": 1647,
     "superficie": 61.377,
     "coordinate": {
       "lat": 42.5516986,
@@ -412,7 +412,7 @@
       "01012"
     ],
     "capoluogo": false,
-    "popolazione": 6354,
+    "popolazione": 6351,
     "superficie": 41.2491,
     "coordinate": {
       "lat": 42.256475,
@@ -443,7 +443,7 @@
       "01032"
     ],
     "capoluogo": false,
-    "popolazione": 5162,
+    "popolazione": 5160,
     "superficie": 57.7922,
     "coordinate": {
       "lat": 42.3276502,
@@ -474,7 +474,7 @@
       "01030"
     ],
     "capoluogo": false,
-    "popolazione": 1947,
+    "popolazione": 1951,
     "superficie": 17.5129,
     "coordinate": {
       "lat": 42.3317261,
@@ -536,7 +536,7 @@
       "01024"
     ],
     "capoluogo": false,
-    "popolazione": 2301,
+    "popolazione": 2289,
     "superficie": 20.5067,
     "coordinate": {
       "lat": 42.6446814,
@@ -567,7 +567,7 @@
       "01020"
     ],
     "capoluogo": false,
-    "popolazione": 1298,
+    "popolazione": 1315,
     "superficie": 23.9428,
     "coordinate": {
       "lat": 42.5599399,
@@ -598,7 +598,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 1075,
+    "popolazione": 1087,
     "superficie": 37.399,
     "coordinate": {
       "lat": 42.5080763,
@@ -629,7 +629,7 @@
       "01033"
     ],
     "capoluogo": false,
-    "popolazione": 15143,
+    "popolazione": 15011,
     "superficie": 84.0444,
     "coordinate": {
       "lat": 42.2888265,
@@ -660,7 +660,7 @@
       "01020"
     ],
     "capoluogo": false,
-    "popolazione": 1450,
+    "popolazione": 1444,
     "superficie": 32.6462,
     "coordinate": {
       "lat": 42.6060981,
@@ -691,7 +691,7 @@
       "01030"
     ],
     "capoluogo": false,
-    "popolazione": 3550,
+    "popolazione": 3531,
     "superficie": 33.6604,
     "coordinate": {
       "lat": 42.345409,
@@ -722,7 +722,7 @@
       "01034"
     ],
     "capoluogo": false,
-    "popolazione": 8217,
+    "popolazione": 8167,
     "superficie": 34.6431,
     "coordinate": {
       "lat": 42.3344906,
@@ -753,7 +753,7 @@
       "01030"
     ],
     "capoluogo": false,
-    "popolazione": 1995,
+    "popolazione": 2024,
     "superficie": 25.8682,
     "coordinate": {
       "lat": 42.2262678,
@@ -784,7 +784,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 1382,
+    "popolazione": 1337,
     "superficie": 52.5228,
     "coordinate": {
       "lat": 42.5499431,
@@ -815,7 +815,7 @@
       "01035"
     ],
     "capoluogo": false,
-    "popolazione": 2563,
+    "popolazione": 2551,
     "superficie": 36.6056,
     "coordinate": {
       "lat": 42.373176,
@@ -846,7 +846,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 1241,
+    "popolazione": 1220,
     "superficie": 44.0649,
     "coordinate": {
       "lat": 42.6440945,
@@ -877,7 +877,7 @@
       "01020"
     ],
     "capoluogo": false,
-    "popolazione": 2090,
+    "popolazione": 2058,
     "superficie": 29.2063,
     "coordinate": {
       "lat": 42.573012,
@@ -908,7 +908,7 @@
       "01025"
     ],
     "capoluogo": false,
-    "popolazione": 2387,
+    "popolazione": 2374,
     "superficie": 33.2086,
     "coordinate": {
       "lat": 42.6739173,
@@ -939,7 +939,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 2096,
+    "popolazione": 2107,
     "superficie": 104.8317,
     "coordinate": {
       "lat": 42.5440771,
@@ -970,7 +970,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 763,
+    "popolazione": 772,
     "superficie": 22.4258,
     "coordinate": {
       "lat": 42.626216,
@@ -1001,7 +1001,7 @@
       "01020"
     ],
     "capoluogo": false,
-    "popolazione": 854,
+    "popolazione": 841,
     "superficie": 16.4842,
     "coordinate": {
       "lat": 42.6352636,
@@ -1032,7 +1032,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 3207,
+    "popolazione": 3211,
     "superficie": 33.5746,
     "coordinate": {
       "lat": 42.5354912,
@@ -1063,7 +1063,7 @@
       "01014"
     ],
     "capoluogo": false,
-    "popolazione": 8689,
+    "popolazione": 8679,
     "superficie": 190.3416,
     "coordinate": {
       "lat": 42.353401,
@@ -1094,7 +1094,7 @@
       "01027"
     ],
     "capoluogo": false,
-    "popolazione": 13008,
+    "popolazione": 12979,
     "superficie": 104.6714,
     "coordinate": {
       "lat": 42.5379013,
@@ -1125,7 +1125,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 1854,
+    "popolazione": 1847,
     "superficie": 86.811,
     "coordinate": {
       "lat": 42.2677047,
@@ -1156,7 +1156,7 @@
       "01030"
     ],
     "capoluogo": false,
-    "popolazione": 4759,
+    "popolazione": 4789,
     "superficie": 10.8677,
     "coordinate": {
       "lat": 42.1967045,
@@ -1187,7 +1187,7 @@
       "01036"
     ],
     "capoluogo": false,
-    "popolazione": 9467,
+    "popolazione": 9550,
     "superficie": 83.0771,
     "coordinate": {
       "lat": 42.2424861,
@@ -1218,7 +1218,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 890,
+    "popolazione": 865,
     "superficie": 24.2052,
     "coordinate": {
       "lat": 42.6919545,
@@ -1249,7 +1249,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 3699,
+    "popolazione": 3673,
     "superficie": 19.3867,
     "coordinate": {
       "lat": 42.1589286,
@@ -1280,7 +1280,7 @@
       "01028"
     ],
     "capoluogo": false,
-    "popolazione": 9087,
+    "popolazione": 9243,
     "superficie": 69.4845,
     "coordinate": {
       "lat": 42.4603917,
@@ -1311,7 +1311,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 1998,
+    "popolazione": 2039,
     "superficie": 26.7072,
     "coordinate": {
       "lat": 42.5175751,
@@ -1342,7 +1342,7 @@
       "01020"
     ],
     "capoluogo": false,
-    "popolazione": 530,
+    "popolazione": 521,
     "superficie": 42.2673,
     "coordinate": {
       "lat": 42.7570051,
@@ -1373,7 +1373,7 @@
       "01037"
     ],
     "capoluogo": false,
-    "popolazione": 8429,
+    "popolazione": 8439,
     "superficie": 52.4879,
     "coordinate": {
       "lat": 42.2914614,
@@ -1404,7 +1404,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 1223,
+    "popolazione": 1212,
     "superficie": 5.3397,
     "coordinate": {
       "lat": 42.2834496,
@@ -1435,7 +1435,7 @@
       "01020"
     ],
     "capoluogo": false,
-    "popolazione": 2017,
+    "popolazione": 2029,
     "superficie": 26.9895,
     "coordinate": {
       "lat": 42.6857394,
@@ -1466,7 +1466,7 @@
       "01038"
     ],
     "capoluogo": false,
-    "popolazione": 7909,
+    "popolazione": 7888,
     "superficie": 78.6117,
     "coordinate": {
       "lat": 42.4184989,
@@ -1497,7 +1497,7 @@
       "01015"
     ],
     "capoluogo": false,
-    "popolazione": 6738,
+    "popolazione": 6764,
     "superficie": 60.9981,
     "coordinate": {
       "lat": 42.2417161,
@@ -1528,7 +1528,7 @@
       "01016"
     ],
     "capoluogo": false,
-    "popolazione": 15953,
+    "popolazione": 15862,
     "superficie": 278.9929,
     "coordinate": {
       "lat": 42.2545274,
@@ -1559,7 +1559,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 288,
+    "popolazione": 283,
     "superficie": 14.4976,
     "coordinate": {
       "lat": 42.4769318,
@@ -1590,7 +1590,7 @@
       "01017"
     ],
     "capoluogo": false,
-    "popolazione": 8189,
+    "popolazione": 8088,
     "superficie": 208.5351,
     "coordinate": {
       "lat": 42.4167042,
@@ -1621,7 +1621,7 @@
       "01018"
     ],
     "capoluogo": false,
-    "popolazione": 2789,
+    "popolazione": 2854,
     "superficie": 43.1416,
     "coordinate": {
       "lat": 42.5691935,
@@ -1652,7 +1652,7 @@
       "01030"
     ],
     "capoluogo": false,
-    "popolazione": 2397,
+    "popolazione": 2349,
     "superficie": 15.5119,
     "coordinate": {
       "lat": 42.3836792,
@@ -1683,7 +1683,7 @@
       "01030"
     ],
     "capoluogo": false,
-    "popolazione": 3985,
+    "popolazione": 3959,
     "superficie": 28.7397,
     "coordinate": {
       "lat": 42.4184269,
@@ -1714,7 +1714,7 @@
       "01010"
     ],
     "capoluogo": false,
-    "popolazione": 2142,
+    "popolazione": 2147,
     "superficie": 44.6465,
     "coordinate": {
       "lat": 42.2159456,
@@ -1745,7 +1745,7 @@
       "01019"
     ],
     "capoluogo": false,
-    "popolazione": 13351,
+    "popolazione": 13370,
     "superficie": 113.1904,
     "coordinate": {
       "lat": 42.3209049,
@@ -1776,7 +1776,7 @@
       "01039"
     ],
     "capoluogo": false,
-    "popolazione": 4293,
+    "popolazione": 4260,
     "superficie": 20.3244,
     "coordinate": {
       "lat": 42.3837383,
@@ -1807,7 +1807,7 @@
       "01100"
     ],
     "capoluogo": true,
-    "popolazione": 66188,
+    "popolazione": 66767,
     "superficie": 406.0012,
     "coordinate": {
       "lat": 42.416936,
@@ -1838,7 +1838,7 @@
       "01030"
     ],
     "capoluogo": false,
-    "popolazione": 5256,
+    "popolazione": 5221,
     "superficie": 30.3657,
     "coordinate": {
       "lat": 42.4703096,
@@ -1869,7 +1869,7 @@
       "02011"
     ],
     "capoluogo": false,
-    "popolazione": 516,
+    "popolazione": 493,
     "superficie": 87.1008,
     "coordinate": {
       "lat": 42.7133138,
@@ -1900,7 +1900,7 @@
       "02012"
     ],
     "capoluogo": false,
-    "popolazione": 2208,
+    "popolazione": 2146,
     "superficie": 174.8661,
     "coordinate": {
       "lat": 42.6270392,
@@ -1931,7 +1931,7 @@
       "02013"
     ],
     "capoluogo": false,
-    "popolazione": 2292,
+    "popolazione": 2238,
     "superficie": 63.8122,
     "coordinate": {
       "lat": 42.4166519,
@@ -1962,7 +1962,7 @@
       "02020"
     ],
     "capoluogo": false,
-    "popolazione": 208,
+    "popolazione": 195,
     "superficie": 13.9643,
     "coordinate": {
       "lat": 42.1960453,
@@ -1993,7 +1993,7 @@
       "02020"
     ],
     "capoluogo": false,
-    "popolazione": 631,
+    "popolazione": 653,
     "superficie": 23.5906,
     "coordinate": {
       "lat": 42.3179583,
@@ -2055,7 +2055,7 @@
       "02021"
     ],
     "capoluogo": false,
-    "popolazione": 4198,
+    "popolazione": 4210,
     "superficie": 145.3195,
     "coordinate": {
       "lat": 42.1928238,
@@ -2086,7 +2086,7 @@
       "02010"
     ],
     "capoluogo": false,
-    "popolazione": 913,
+    "popolazione": 901,
     "superficie": 18.0325,
     "coordinate": {
       "lat": 42.4056768,
@@ -2117,7 +2117,7 @@
       "02014"
     ],
     "capoluogo": false,
-    "popolazione": 2439,
+    "popolazione": 2386,
     "superficie": 37.5738,
     "coordinate": {
       "lat": 42.4682146,
@@ -2148,7 +2148,7 @@
       "02040"
     ],
     "capoluogo": false,
-    "popolazione": 1663,
+    "popolazione": 1657,
     "superficie": 10.3805,
     "coordinate": {
       "lat": 42.3061611,
@@ -2179,7 +2179,7 @@
       "02030"
     ],
     "capoluogo": false,
-    "popolazione": 670,
+    "popolazione": 678,
     "superficie": 14.501,
     "coordinate": {
       "lat": 42.2519188,
@@ -2210,7 +2210,7 @@
       "02041"
     ],
     "capoluogo": false,
-    "popolazione": 1190,
+    "popolazione": 1215,
     "superficie": 25.3395,
     "coordinate": {
       "lat": 42.3379368,
@@ -2272,7 +2272,7 @@
       "02031"
     ],
     "capoluogo": false,
-    "popolazione": 996,
+    "popolazione": 987,
     "superficie": 9.0458,
     "coordinate": {
       "lat": 42.2319246,
@@ -2303,7 +2303,7 @@
       "02010"
     ],
     "capoluogo": false,
-    "popolazione": 1186,
+    "popolazione": 1156,
     "superficie": 31.7185,
     "coordinate": {
       "lat": 42.3948143,
@@ -2334,7 +2334,7 @@
       "02015"
     ],
     "capoluogo": false,
-    "popolazione": 6411,
+    "popolazione": 6400,
     "superficie": 70.9389,
     "coordinate": {
       "lat": 42.3864345,
@@ -2365,7 +2365,7 @@
       "02010"
     ],
     "capoluogo": false,
-    "popolazione": 388,
+    "popolazione": 374,
     "superficie": 59.481,
     "coordinate": {
       "lat": 42.617499,
@@ -2396,7 +2396,7 @@
       "02022"
     ],
     "capoluogo": false,
-    "popolazione": 382,
+    "popolazione": 369,
     "superficie": 22.7677,
     "coordinate": {
       "lat": 42.1361438,
@@ -2427,7 +2427,7 @@
       "02020"
     ],
     "capoluogo": false,
-    "popolazione": 367,
+    "popolazione": 348,
     "superficie": 14.5677,
     "coordinate": {
       "lat": 42.2090351,
@@ -2458,7 +2458,7 @@
       "02020"
     ],
     "capoluogo": false,
-    "popolazione": 125,
+    "popolazione": 133,
     "superficie": 10.3414,
     "coordinate": {
       "lat": 42.1754281,
@@ -2489,7 +2489,7 @@
       "02042"
     ],
     "capoluogo": false,
-    "popolazione": 1589,
+    "popolazione": 1575,
     "superficie": 26.5495,
     "coordinate": {
       "lat": 42.3355572,
@@ -2520,7 +2520,7 @@
       "02010"
     ],
     "capoluogo": false,
-    "popolazione": 455,
+    "popolazione": 465,
     "superficie": 12.4446,
     "coordinate": {
       "lat": 42.4988945,
@@ -2551,7 +2551,7 @@
       "02020"
     ],
     "capoluogo": false,
-    "popolazione": 277,
+    "popolazione": 282,
     "superficie": 21.2146,
     "coordinate": {
       "lat": 42.3232975,
@@ -2582,7 +2582,7 @@
       "02040"
     ],
     "capoluogo": false,
-    "popolazione": 572,
+    "popolazione": 556,
     "superficie": 22.9133,
     "coordinate": {
       "lat": 42.4235834,
@@ -2613,7 +2613,7 @@
       "02043"
     ],
     "capoluogo": false,
-    "popolazione": 3665,
+    "popolazione": 3657,
     "superficie": 53.2213,
     "coordinate": {
       "lat": 42.4108288,
@@ -2644,7 +2644,7 @@
       "02040"
     ],
     "capoluogo": false,
-    "popolazione": 530,
+    "popolazione": 517,
     "superficie": 37.1225,
     "coordinate": {
       "lat": 42.4060405,
@@ -2675,7 +2675,7 @@
       "02032"
     ],
     "capoluogo": false,
-    "popolazione": 13843,
+    "popolazione": 13968,
     "superficie": 54.5651,
     "coordinate": {
       "lat": 42.2098511,
@@ -2706,7 +2706,7 @@
       "02023"
     ],
     "capoluogo": false,
-    "popolazione": 1169,
+    "popolazione": 1151,
     "superficie": 100.5535,
     "coordinate": {
       "lat": 42.264747,
@@ -2737,7 +2737,7 @@
       "02044"
     ],
     "capoluogo": false,
-    "popolazione": 3229,
+    "popolazione": 3230,
     "superficie": 17.6494,
     "coordinate": {
       "lat": 42.2980132,
@@ -2768,7 +2768,7 @@
       "02030"
     ],
     "capoluogo": false,
-    "popolazione": 754,
+    "popolazione": 733,
     "superficie": 4.3276,
     "coordinate": {
       "lat": 42.2297305,
@@ -2799,7 +2799,7 @@
       "02045"
     ],
     "capoluogo": false,
-    "popolazione": 1465,
+    "popolazione": 1448,
     "superficie": 18.0075,
     "coordinate": {
       "lat": 42.4525943,
@@ -2830,7 +2830,7 @@
       "02010"
     ],
     "capoluogo": false,
-    "popolazione": 354,
+    "popolazione": 342,
     "superficie": 11.9433,
     "coordinate": {
       "lat": 42.525694,
@@ -2861,7 +2861,7 @@
       "02016"
     ],
     "capoluogo": false,
-    "popolazione": 2085,
+    "popolazione": 2019,
     "superficie": 204.0404,
     "coordinate": {
       "lat": 42.561448,
@@ -2892,7 +2892,7 @@
       "02020"
     ],
     "capoluogo": false,
-    "popolazione": 516,
+    "popolazione": 510,
     "superficie": 34.1359,
     "coordinate": {
       "lat": 42.3216568,
@@ -2923,7 +2923,7 @@
       "02046"
     ],
     "capoluogo": false,
-    "popolazione": 3459,
+    "popolazione": 3457,
     "superficie": 43.0811,
     "coordinate": {
       "lat": 42.361671,
@@ -2954,7 +2954,7 @@
       "02020"
     ],
     "capoluogo": false,
-    "popolazione": 57,
+    "popolazione": 53,
     "superficie": 11.0482,
     "coordinate": {
       "lat": 42.2265834,
@@ -2985,7 +2985,7 @@
       "02010"
     ],
     "capoluogo": false,
-    "popolazione": 112,
+    "popolazione": 119,
     "superficie": 36.8852,
     "coordinate": {
       "lat": 42.451859,
@@ -3016,7 +3016,7 @@
       "02040"
     ],
     "capoluogo": false,
-    "popolazione": 512,
+    "popolazione": 504,
     "superficie": 10.6802,
     "coordinate": {
       "lat": 42.2480356,
@@ -3047,7 +3047,7 @@
       "02040"
     ],
     "capoluogo": false,
-    "popolazione": 392,
+    "popolazione": 398,
     "superficie": 12.8491,
     "coordinate": {
       "lat": 42.3854427,
@@ -3078,7 +3078,7 @@
       "02040"
     ],
     "capoluogo": false,
-    "popolazione": 801,
+    "popolazione": 844,
     "superficie": 20.0114,
     "coordinate": {
       "lat": 42.3655121,
@@ -3109,7 +3109,7 @@
       "02033"
     ],
     "capoluogo": false,
-    "popolazione": 1154,
+    "popolazione": 1128,
     "superficie": 18.9845,
     "coordinate": {
       "lat": 42.2321604,
@@ -3140,7 +3140,7 @@
       "02040"
     ],
     "capoluogo": false,
-    "popolazione": 267,
+    "popolazione": 268,
     "superficie": 22.6992,
     "coordinate": {
       "lat": 42.2811888,
@@ -3171,7 +3171,7 @@
       "02040"
     ],
     "capoluogo": false,
-    "popolazione": 647,
+    "popolazione": 664,
     "superficie": 30.7763,
     "coordinate": {
       "lat": 42.3280101,
@@ -3202,7 +3202,7 @@
       "02034"
     ],
     "capoluogo": false,
-    "popolazione": 4066,
+    "popolazione": 4109,
     "superficie": 38.3407,
     "coordinate": {
       "lat": 42.2445811,
@@ -3233,7 +3233,7 @@
       "02010"
     ],
     "capoluogo": false,
-    "popolazione": 340,
+    "popolazione": 334,
     "superficie": 15.6782,
     "coordinate": {
       "lat": 42.5255752,
@@ -3264,7 +3264,7 @@
       "02020"
     ],
     "capoluogo": false,
-    "popolazione": 195,
+    "popolazione": 207,
     "superficie": 8.6462,
     "coordinate": {
       "lat": 42.1566551,
@@ -3295,7 +3295,7 @@
       "02035"
     ],
     "capoluogo": false,
-    "popolazione": 392,
+    "popolazione": 379,
     "superficie": 24.7047,
     "coordinate": {
       "lat": 42.1317291,
@@ -3326,7 +3326,7 @@
       "02020"
     ],
     "capoluogo": false,
-    "popolazione": 157,
+    "popolazione": 155,
     "superficie": 9.4446,
     "coordinate": {
       "lat": 42.1892036,
@@ -3357,7 +3357,7 @@
       "02024"
     ],
     "capoluogo": false,
-    "popolazione": 1824,
+    "popolazione": 1797,
     "superficie": 94.8586,
     "coordinate": {
       "lat": 42.2061837,
@@ -3388,7 +3388,7 @@
       "02025"
     ],
     "capoluogo": false,
-    "popolazione": 1025,
+    "popolazione": 1014,
     "superficie": 103.1298,
     "coordinate": {
       "lat": 42.2945189,
@@ -3419,7 +3419,7 @@
       "02018"
     ],
     "capoluogo": false,
-    "popolazione": 1965,
+    "popolazione": 1957,
     "superficie": 22.327,
     "coordinate": {
       "lat": 42.5019017,
@@ -3450,7 +3450,7 @@
       "02040"
     ],
     "capoluogo": false,
-    "popolazione": 1275,
+    "popolazione": 1303,
     "superficie": 14.9115,
     "coordinate": {
       "lat": 42.2948169,
@@ -3481,7 +3481,7 @@
       "02047"
     ],
     "capoluogo": false,
-    "popolazione": 6124,
+    "popolazione": 6081,
     "superficie": 25.9254,
     "coordinate": {
       "lat": 42.2643456,
@@ -3512,7 +3512,7 @@
       "02037"
     ],
     "capoluogo": false,
-    "popolazione": 2790,
+    "popolazione": 2795,
     "superficie": 26.7117,
     "coordinate": {
       "lat": 42.2016674,
@@ -3543,7 +3543,7 @@
       "02030"
     ],
     "capoluogo": false,
-    "popolazione": 2560,
+    "popolazione": 2582,
     "superficie": 16.3173,
     "coordinate": {
       "lat": 42.2160119,
@@ -3574,7 +3574,7 @@
       "02030"
     ],
     "capoluogo": false,
-    "popolazione": 547,
+    "popolazione": 563,
     "superficie": 8.943,
     "coordinate": {
       "lat": 42.252379,
@@ -3605,7 +3605,7 @@
       "02019"
     ],
     "capoluogo": false,
-    "popolazione": 554,
+    "popolazione": 518,
     "superficie": 66.0168,
     "coordinate": {
       "lat": 42.5234953,
@@ -3636,7 +3636,7 @@
       "02030"
     ],
     "capoluogo": false,
-    "popolazione": 310,
+    "popolazione": 303,
     "superficie": 24.8886,
     "coordinate": {
       "lat": 42.1588929,
@@ -3667,7 +3667,7 @@
       "02100"
     ],
     "capoluogo": true,
-    "popolazione": 45286,
+    "popolazione": 44866,
     "superficie": 206.5099,
     "coordinate": {
       "lat": 42.4029535,
@@ -3698,7 +3698,7 @@
       "02010"
     ],
     "capoluogo": false,
-    "popolazione": 1137,
+    "popolazione": 1121,
     "superficie": 27.0231,
     "coordinate": {
       "lat": 42.5162241,
@@ -3760,7 +3760,7 @@
       "02026"
     ],
     "capoluogo": false,
-    "popolazione": 779,
+    "popolazione": 801,
     "superficie": 49.8403,
     "coordinate": {
       "lat": 42.2740341,
@@ -3791,7 +3791,7 @@
       "02040"
     ],
     "capoluogo": false,
-    "popolazione": 477,
+    "popolazione": 462,
     "superficie": 17.9572,
     "coordinate": {
       "lat": 42.2587986,
@@ -3822,7 +3822,7 @@
       "02038"
     ],
     "capoluogo": false,
-    "popolazione": 3227,
+    "popolazione": 3347,
     "superficie": 63.4658,
     "coordinate": {
       "lat": 42.165136,
@@ -3853,7 +3853,7 @@
       "02040"
     ],
     "capoluogo": false,
-    "popolazione": 1135,
+    "popolazione": 1117,
     "superficie": 7.8618,
     "coordinate": {
       "lat": 42.3198227,
@@ -3884,7 +3884,7 @@
       "02048"
     ],
     "capoluogo": false,
-    "popolazione": 2178,
+    "popolazione": 2205,
     "superficie": 11.7244,
     "coordinate": {
       "lat": 42.2975572,
@@ -3915,7 +3915,7 @@
       "02040"
     ],
     "capoluogo": false,
-    "popolazione": 1366,
+    "popolazione": 1369,
     "superficie": 19.8394,
     "coordinate": {
       "lat": 42.3560092,
@@ -3946,7 +3946,7 @@
       "02039"
     ],
     "capoluogo": false,
-    "popolazione": 1071,
+    "popolazione": 1050,
     "superficie": 11.3668,
     "coordinate": {
       "lat": 42.2125022,
@@ -3977,7 +3977,7 @@
       "02030"
     ],
     "capoluogo": false,
-    "popolazione": 1285,
+    "popolazione": 1283,
     "superficie": 25.7919,
     "coordinate": {
       "lat": 42.2607027,
@@ -4008,7 +4008,7 @@
       "02049"
     ],
     "capoluogo": false,
-    "popolazione": 1220,
+    "popolazione": 1209,
     "superficie": 26.2588,
     "coordinate": {
       "lat": 42.3531536,
@@ -4039,7 +4039,7 @@
       "02020"
     ],
     "capoluogo": false,
-    "popolazione": 237,
+    "popolazione": 233,
     "superficie": 8.3691,
     "coordinate": {
       "lat": 42.1373623,
@@ -4070,7 +4070,7 @@
       "02040"
     ],
     "capoluogo": false,
-    "popolazione": 233,
+    "popolazione": 214,
     "superficie": 9.0818,
     "coordinate": {
       "lat": 42.3859598,
@@ -4101,7 +4101,7 @@
       "02020"
     ],
     "capoluogo": false,
-    "popolazione": 160,
+    "popolazione": 148,
     "superficie": 24.8066,
     "coordinate": {
       "lat": 42.2396846,
@@ -4132,7 +4132,7 @@
       "00021"
     ],
     "capoluogo": false,
-    "popolazione": 1404,
+    "popolazione": 1403,
     "superficie": 14.9986,
     "coordinate": {
       "lat": 41.8840011,
@@ -4163,7 +4163,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 1684,
+    "popolazione": 1679,
     "superficie": 9.6772,
     "coordinate": {
       "lat": 41.9820617,
@@ -4194,7 +4194,7 @@
       "00041"
     ],
     "capoluogo": false,
-    "popolazione": 39773,
+    "popolazione": 39706,
     "superficie": 23.3512,
     "coordinate": {
       "lat": 41.7289918,
@@ -4225,7 +4225,7 @@
       "00051"
     ],
     "capoluogo": false,
-    "popolazione": 3734,
+    "popolazione": 3772,
     "superficie": 92.1489,
     "coordinate": {
       "lat": 42.1563624,
@@ -4256,7 +4256,7 @@
       "00061"
     ],
     "capoluogo": false,
-    "popolazione": 19062,
+    "popolazione": 19037,
     "superficie": 75.0529,
     "coordinate": {
       "lat": 42.0927965,
@@ -4287,7 +4287,7 @@
       "00022"
     ],
     "capoluogo": false,
-    "popolazione": 850,
+    "popolazione": 841,
     "superficie": 15.9575,
     "coordinate": {
       "lat": 42.0092588,
@@ -4318,7 +4318,7 @@
       "00042"
     ],
     "capoluogo": false,
-    "popolazione": 59633,
+    "popolazione": 60063,
     "superficie": 44.0142,
     "coordinate": {
       "lat": 41.4481539,
@@ -4349,7 +4349,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 1222,
+    "popolazione": 1245,
     "superficie": 28.3361,
     "coordinate": {
       "lat": 41.8797197,
@@ -4380,7 +4380,7 @@
       "00072"
     ],
     "capoluogo": false,
-    "popolazione": 17971,
+    "popolazione": 17938,
     "superficie": 18.6809,
     "coordinate": {
       "lat": 41.7198306,
@@ -4411,7 +4411,7 @@
       "00023"
     ],
     "capoluogo": false,
-    "popolazione": 1361,
+    "popolazione": 1347,
     "superficie": 12.1713,
     "coordinate": {
       "lat": 42.0415089,
@@ -4442,7 +4442,7 @@
       "00031"
     ],
     "capoluogo": false,
-    "popolazione": 13654,
+    "popolazione": 13676,
     "superficie": 54.743,
     "coordinate": {
       "lat": 41.7398497,
@@ -4473,7 +4473,7 @@
       "00030"
     ],
     "capoluogo": false,
-    "popolazione": 2626,
+    "popolazione": 2578,
     "superficie": 18.4049,
     "coordinate": {
       "lat": 41.8819292,
@@ -4504,7 +4504,7 @@
       "00062"
     ],
     "capoluogo": false,
-    "popolazione": 18490,
+    "popolazione": 18349,
     "superficie": 142.6922,
     "coordinate": {
       "lat": 42.1036486,
@@ -4535,7 +4535,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 412,
+    "popolazione": 403,
     "superficie": 40.4591,
     "coordinate": {
       "lat": 42.0189662,
@@ -4566,7 +4566,7 @@
       "00063"
     ],
     "capoluogo": false,
-    "popolazione": 10935,
+    "popolazione": 10987,
     "superficie": 46.9492,
     "coordinate": {
       "lat": 42.1408192,
@@ -4597,7 +4597,7 @@
       "00060"
     ],
     "capoluogo": false,
-    "popolazione": 4174,
+    "popolazione": 4164,
     "superficie": 36.8853,
     "coordinate": {
       "lat": 42.1366089,
@@ -4628,7 +4628,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 364,
+    "popolazione": 343,
     "superficie": 7.4521,
     "coordinate": {
       "lat": 41.9425244,
@@ -4659,7 +4659,7 @@
       "00060"
     ],
     "capoluogo": false,
-    "popolazione": 10855,
+    "popolazione": 11071,
     "superficie": 29.5408,
     "coordinate": {
       "lat": 42.1401047,
@@ -4690,7 +4690,7 @@
       "00030"
     ],
     "capoluogo": false,
-    "popolazione": 318,
+    "popolazione": 310,
     "superficie": 20.3372,
     "coordinate": {
       "lat": 41.8621507,
@@ -4721,7 +4721,7 @@
       "00032"
     ],
     "capoluogo": false,
-    "popolazione": 3995,
+    "popolazione": 3911,
     "superficie": 85.9683,
     "coordinate": {
       "lat": 41.6044244,
@@ -4752,7 +4752,7 @@
       "00010"
     ],
     "capoluogo": false,
-    "popolazione": 608,
+    "popolazione": 610,
     "superficie": 5.3435,
     "coordinate": {
       "lat": 41.9057807,
@@ -4783,7 +4783,7 @@
       "00073"
     ],
     "capoluogo": false,
-    "popolazione": 8615,
+    "popolazione": 8536,
     "superficie": 14.0368,
     "coordinate": {
       "lat": 41.7466783,
@@ -4814,7 +4814,7 @@
       "00024"
     ],
     "capoluogo": false,
-    "popolazione": 7026,
+    "popolazione": 7022,
     "superficie": 29.0447,
     "coordinate": {
       "lat": 41.9757362,
@@ -4845,7 +4845,7 @@
       "00060"
     ],
     "capoluogo": false,
-    "popolazione": 8617,
+    "popolazione": 8610,
     "superficie": 30.4692,
     "coordinate": {
       "lat": 42.1253704,
@@ -4876,7 +4876,7 @@
       "00030"
     ],
     "capoluogo": false,
-    "popolazione": 844,
+    "popolazione": 838,
     "superficie": 15.1274,
     "coordinate": {
       "lat": 41.8461644,
@@ -4907,7 +4907,7 @@
       "00033"
     ],
     "capoluogo": false,
-    "popolazione": 10816,
+    "popolazione": 10935,
     "superficie": 18.2742,
     "coordinate": {
       "lat": 41.8172951,
@@ -4938,7 +4938,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 1073,
+    "popolazione": 1075,
     "superficie": 11.9423,
     "coordinate": {
       "lat": 41.9444239,
@@ -4969,7 +4969,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 464,
+    "popolazione": 453,
     "superficie": 31.8571,
     "coordinate": {
       "lat": 41.9881479,
@@ -5000,7 +5000,7 @@
       "00052"
     ],
     "capoluogo": false,
-    "popolazione": 37973,
+    "popolazione": 38206,
     "superficie": 134.9465,
     "coordinate": {
       "lat": 41.9982737,
@@ -5031,7 +5031,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 1253,
+    "popolazione": 1248,
     "superficie": 18.7927,
     "coordinate": {
       "lat": 41.9613475,
@@ -5062,7 +5062,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 583,
+    "popolazione": 579,
     "superficie": 10.3871,
     "coordinate": {
       "lat": 42.0501521,
@@ -5093,7 +5093,7 @@
       "00053"
     ],
     "capoluogo": false,
-    "popolazione": 51697,
+    "popolazione": 51359,
     "superficie": 74.9031,
     "coordinate": {
       "lat": 42.091653,
@@ -5124,7 +5124,7 @@
       "00060"
     ],
     "capoluogo": false,
-    "popolazione": 2011,
+    "popolazione": 2046,
     "superficie": 20.539,
     "coordinate": {
       "lat": 42.1958628,
@@ -5155,7 +5155,7 @@
       "00034"
     ],
     "capoluogo": false,
-    "popolazione": 20454,
+    "popolazione": 20381,
     "superficie": 26.7795,
     "coordinate": {
       "lat": 41.7302146,
@@ -5186,7 +5186,7 @@
       "00030"
     ],
     "capoluogo": false,
-    "popolazione": 4223,
+    "popolazione": 4226,
     "superficie": 3.6538,
     "coordinate": {
       "lat": 41.8342395,
@@ -5217,7 +5217,7 @@
       "00065"
     ],
     "capoluogo": false,
-    "popolazione": 16455,
+    "popolazione": 16893,
     "superficie": 41.2773,
     "coordinate": {
       "lat": 42.1718937,
@@ -5248,7 +5248,7 @@
       "00060"
     ],
     "capoluogo": false,
-    "popolazione": 453,
+    "popolazione": 481,
     "superficie": 5.6015,
     "coordinate": {
       "lat": 42.2558329,
@@ -5279,7 +5279,7 @@
       "00060"
     ],
     "capoluogo": false,
-    "popolazione": 13790,
+    "popolazione": 13925,
     "superficie": 31.3912,
     "coordinate": {
       "lat": 42.0798882,
@@ -5310,7 +5310,7 @@
       "00044"
     ],
     "capoluogo": false,
-    "popolazione": 22805,
+    "popolazione": 22948,
     "superficie": 22.4823,
     "coordinate": {
       "lat": 41.8062361,
@@ -5341,7 +5341,7 @@
       "00010"
     ],
     "capoluogo": false,
-    "popolazione": 6505,
+    "popolazione": 6578,
     "superficie": 25.7183,
     "coordinate": {
       "lat": 41.8715415,
@@ -5372,7 +5372,7 @@
       "00030"
     ],
     "capoluogo": false,
-    "popolazione": 1872,
+    "popolazione": 1854,
     "superficie": 15.1575,
     "coordinate": {
       "lat": 41.698056,
@@ -5403,7 +5403,7 @@
       "00030"
     ],
     "capoluogo": false,
-    "popolazione": 5711,
+    "popolazione": 5737,
     "superficie": 31.5266,
     "coordinate": {
       "lat": 41.8332942,
@@ -5434,7 +5434,7 @@
       "00045"
     ],
     "capoluogo": false,
-    "popolazione": 22674,
+    "popolazione": 22329,
     "superficie": 17.6377,
     "coordinate": {
       "lat": 41.7069368,
@@ -5465,7 +5465,7 @@
       "00025"
     ],
     "capoluogo": false,
-    "popolazione": 1143,
+    "popolazione": 1110,
     "superficie": 10.2229,
     "coordinate": {
       "lat": 41.9337278,
@@ -5496,7 +5496,7 @@
       "00030"
     ],
     "capoluogo": false,
-    "popolazione": 655,
+    "popolazione": 649,
     "superficie": 26.1172,
     "coordinate": {
       "lat": 41.6560026,
@@ -5527,7 +5527,7 @@
       "00046"
     ],
     "capoluogo": false,
-    "popolazione": 20356,
+    "popolazione": 20345,
     "superficie": 18.1254,
     "coordinate": {
       "lat": 41.7887082,
@@ -5558,7 +5558,7 @@
       "00012"
     ],
     "capoluogo": false,
-    "popolazione": 88992,
+    "popolazione": 89420,
     "superficie": 79.8803,
     "coordinate": {
       "lat": 41.9998153,
@@ -5589,7 +5589,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 320,
+    "popolazione": 324,
     "superficie": 31.9158,
     "coordinate": {
       "lat": 41.8875602,
@@ -5620,7 +5620,7 @@
       "00030"
     ],
     "capoluogo": false,
-    "popolazione": 6427,
+    "popolazione": 6409,
     "superficie": 11.7294,
     "coordinate": {
       "lat": 41.7857263,
@@ -5651,7 +5651,7 @@
       "00075"
     ],
     "capoluogo": false,
-    "popolazione": 12892,
+    "popolazione": 12897,
     "superficie": 44.0187,
     "coordinate": {
       "lat": 41.6756604,
@@ -5682,7 +5682,7 @@
       "00026"
     ],
     "capoluogo": false,
-    "popolazione": 887,
+    "popolazione": 988,
     "superficie": 18.1105,
     "coordinate": {
       "lat": 42.0741572,
@@ -5713,7 +5713,7 @@
       "00060"
     ],
     "capoluogo": false,
-    "popolazione": 1375,
+    "popolazione": 1379,
     "superficie": 20.3639,
     "coordinate": {
       "lat": 42.1597059,
@@ -5744,7 +5744,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 904,
+    "popolazione": 931,
     "superficie": 13.9068,
     "coordinate": {
       "lat": 42.0318559,
@@ -5775,7 +5775,7 @@
       "00066"
     ],
     "capoluogo": false,
-    "popolazione": 7739,
+    "popolazione": 7838,
     "superficie": 24.1417,
     "coordinate": {
       "lat": 42.1300619,
@@ -5806,7 +5806,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 770,
+    "popolazione": 757,
     "superficie": 7.8079,
     "coordinate": {
       "lat": 41.9943739,
@@ -5837,7 +5837,7 @@
       "00010"
     ],
     "capoluogo": false,
-    "popolazione": 7008,
+    "popolazione": 7160,
     "superficie": 15.4916,
     "coordinate": {
       "lat": 42.0234676,
@@ -5868,7 +5868,7 @@
       "00047"
     ],
     "capoluogo": false,
-    "popolazione": 46404,
+    "popolazione": 46667,
     "superficie": 23.7724,
     "coordinate": {
       "lat": 41.769633,
@@ -5899,7 +5899,7 @@
       "00060"
     ],
     "capoluogo": false,
-    "popolazione": 2936,
+    "popolazione": 2935,
     "superficie": 29.1704,
     "coordinate": {
       "lat": 42.2044023,
@@ -5930,7 +5930,7 @@
       "00013"
     ],
     "capoluogo": false,
-    "popolazione": 22605,
+    "popolazione": 22615,
     "superficie": 24.5454,
     "coordinate": {
       "lat": 42.0343275,
@@ -5961,7 +5961,7 @@
       "00077"
     ],
     "capoluogo": false,
-    "popolazione": 11757,
+    "popolazione": 11633,
     "superficie": 24.7636,
     "coordinate": {
       "lat": 41.8082029,
@@ -5992,7 +5992,7 @@
       "00010"
     ],
     "capoluogo": false,
-    "popolazione": 1144,
+    "popolazione": 1150,
     "superficie": 16.6235,
     "coordinate": {
       "lat": 42.1104296,
@@ -6023,7 +6023,7 @@
       "00030"
     ],
     "capoluogo": false,
-    "popolazione": 2021,
+    "popolazione": 2003,
     "superficie": 35.5435,
     "coordinate": {
       "lat": 41.6495083,
@@ -6054,7 +6054,7 @@
       "00010"
     ],
     "capoluogo": false,
-    "popolazione": 5137,
+    "popolazione": 5098,
     "superficie": 45.6587,
     "coordinate": {
       "lat": 42.1353082,
@@ -6085,7 +6085,7 @@
       "00078"
     ],
     "capoluogo": false,
-    "popolazione": 8582,
+    "popolazione": 8597,
     "superficie": 9.1056,
     "coordinate": {
       "lat": 41.8157504,
@@ -6116,7 +6116,7 @@
       "00015"
     ],
     "capoluogo": false,
-    "popolazione": 41125,
+    "popolazione": 41185,
     "superficie": 40.8926,
     "coordinate": {
       "lat": 42.0516432,
@@ -6147,7 +6147,7 @@
       "00010"
     ],
     "capoluogo": false,
-    "popolazione": 1910,
+    "popolazione": 1908,
     "superficie": 23.3799,
     "coordinate": {
       "lat": 42.1372884,
@@ -6178,7 +6178,7 @@
       "00010"
     ],
     "capoluogo": false,
-    "popolazione": 2442,
+    "popolazione": 2373,
     "superficie": 19.6832,
     "coordinate": {
       "lat": 42.1168502,
@@ -6209,7 +6209,7 @@
       "00067"
     ],
     "capoluogo": false,
-    "popolazione": 8476,
+    "popolazione": 8553,
     "superficie": 24.109,
     "coordinate": {
       "lat": 42.1434185,
@@ -6240,7 +6240,7 @@
       "00060"
     ],
     "capoluogo": false,
-    "popolazione": 1323,
+    "popolazione": 1298,
     "superficie": 12.4492,
     "coordinate": {
       "lat": 42.2284823,
@@ -6271,7 +6271,7 @@
       "00074"
     ],
     "capoluogo": false,
-    "popolazione": 1870,
+    "popolazione": 1854,
     "superficie": 7.2027,
     "coordinate": {
       "lat": 41.7200661,
@@ -6302,7 +6302,7 @@
       "00017"
     ],
     "capoluogo": false,
-    "popolazione": 1906,
+    "popolazione": 1961,
     "superficie": 17.2728,
     "coordinate": {
       "lat": 42.1610863,
@@ -6333,7 +6333,7 @@
       "00048"
     ],
     "capoluogo": false,
-    "popolazione": 48237,
+    "popolazione": 48111,
     "superficie": 71.6073,
     "coordinate": {
       "lat": 41.4574894,
@@ -6364,7 +6364,7 @@
       "00035"
     ],
     "capoluogo": false,
-    "popolazione": 6353,
+    "popolazione": 6292,
     "superficie": 25.8396,
     "coordinate": {
       "lat": 41.8601745,
@@ -6395,7 +6395,7 @@
       "00036"
     ],
     "capoluogo": false,
-    "popolazione": 22138,
+    "popolazione": 22110,
     "superficie": 46.6886,
     "coordinate": {
       "lat": 41.8394082,
@@ -6426,7 +6426,7 @@
       "00018"
     ],
     "capoluogo": false,
-    "popolazione": 12988,
+    "popolazione": 13157,
     "superficie": 75.9972,
     "coordinate": {
       "lat": 42.0670099,
@@ -6457,7 +6457,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 221,
+    "popolazione": 213,
     "superficie": 17.8034,
     "coordinate": {
       "lat": 42.0948082,
@@ -6488,7 +6488,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 732,
+    "popolazione": 711,
     "superficie": 12.8428,
     "coordinate": {
       "lat": 41.908219,
@@ -6519,7 +6519,7 @@
       "00010"
     ],
     "capoluogo": false,
-    "popolazione": 2208,
+    "popolazione": 2233,
     "superficie": 22.1028,
     "coordinate": {
       "lat": 41.8871893,
@@ -6550,7 +6550,7 @@
       "00071"
     ],
     "capoluogo": false,
-    "popolazione": 64451,
+    "popolazione": 64970,
     "superficie": 86.5875,
     "coordinate": {
       "lat": 41.6692252,
@@ -6581,7 +6581,7 @@
       "00060"
     ],
     "capoluogo": false,
-    "popolazione": 1245,
+    "popolazione": 1265,
     "superficie": 19.8512,
     "coordinate": {
       "lat": 42.2580297,
@@ -6612,7 +6612,7 @@
       "00060"
     ],
     "capoluogo": false,
-    "popolazione": 10417,
+    "popolazione": 10494,
     "superficie": 25.2674,
     "coordinate": {
       "lat": 42.0895698,
@@ -6643,7 +6643,7 @@
       "00068"
     ],
     "capoluogo": false,
-    "popolazione": 10083,
+    "popolazione": 10170,
     "superficie": 39.0611,
     "coordinate": {
       "lat": 42.2100619,
@@ -6674,7 +6674,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 754,
+    "popolazione": 750,
     "superficie": 12.3234,
     "coordinate": {
       "lat": 42.0614031,
@@ -6705,7 +6705,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 171,
+    "popolazione": 170,
     "superficie": 15.6066,
     "coordinate": {
       "lat": 41.9570445,
@@ -6736,7 +6736,7 @@
       "00030"
     ],
     "capoluogo": false,
-    "popolazione": 360,
+    "popolazione": 364,
     "superficie": 11.188,
     "coordinate": {
       "lat": 41.8463827,
@@ -6767,7 +6767,7 @@
       "00040"
     ],
     "capoluogo": false,
-    "popolazione": 17648,
+    "popolazione": 17989,
     "superficie": 40.0384,
     "coordinate": {
       "lat": 41.7594841,
@@ -6798,7 +6798,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 243,
+    "popolazione": 246,
     "superficie": 8.2578,
     "coordinate": {
       "lat": 42.050086,
@@ -6829,7 +6829,7 @@
       "00079"
     ],
     "capoluogo": false,
-    "popolazione": 12023,
+    "popolazione": 12130,
     "superficie": 28.5937,
     "coordinate": {
       "lat": 41.7943761,
@@ -6860,7 +6860,7 @@
       "00030"
     ],
     "capoluogo": false,
-    "popolazione": 912,
+    "popolazione": 906,
     "superficie": 9.8011,
     "coordinate": {
       "lat": 41.9106619,
@@ -6891,7 +6891,7 @@
       "00030"
     ],
     "capoluogo": false,
-    "popolazione": 634,
+    "popolazione": 639,
     "superficie": 10.4871,
     "coordinate": {
       "lat": 41.874056,
@@ -6994,7 +6994,7 @@
       "00199"
     ],
     "capoluogo": true,
-    "popolazione": 2751747,
+    "popolazione": 2745062,
     "superficie": 1288.6696,
     "coordinate": {
       "lat": 41.892984,
@@ -7025,7 +7025,7 @@
       "00027"
     ],
     "capoluogo": false,
-    "popolazione": 1229,
+    "popolazione": 1232,
     "superficie": 8.4529,
     "coordinate": {
       "lat": 42.0255457,
@@ -7056,7 +7056,7 @@
       "00060"
     ],
     "capoluogo": false,
-    "popolazione": 7403,
+    "popolazione": 7512,
     "superficie": 28.479,
     "coordinate": {
       "lat": 42.1060963,
@@ -7087,7 +7087,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 828,
+    "popolazione": 833,
     "superficie": 8.592,
     "coordinate": {
       "lat": 41.9862256,
@@ -7118,7 +7118,7 @@
       "00010"
     ],
     "capoluogo": false,
-    "popolazione": 1422,
+    "popolazione": 1385,
     "superficie": 35.409,
     "coordinate": {
       "lat": 41.9180986,
@@ -7149,7 +7149,7 @@
       "00010"
     ],
     "capoluogo": false,
-    "popolazione": 2762,
+    "popolazione": 2804,
     "superficie": 42.5328,
     "coordinate": {
       "lat": 42.0124208,
@@ -7180,7 +7180,7 @@
       "00058"
     ],
     "capoluogo": false,
-    "popolazione": 18446,
+    "popolazione": 18445,
     "superficie": 48.9153,
     "coordinate": {
       "lat": 42.0342507,
@@ -7211,7 +7211,7 @@
       "00010"
     ],
     "capoluogo": false,
-    "popolazione": 4982,
+    "popolazione": 5066,
     "superficie": 21.228,
     "coordinate": {
       "lat": 42.0340357,
@@ -7242,7 +7242,7 @@
       "00060"
     ],
     "capoluogo": false,
-    "popolazione": 3435,
+    "popolazione": 3398,
     "superficie": 43.1565,
     "coordinate": {
       "lat": 42.2343122,
@@ -7273,7 +7273,7 @@
       "00030"
     ],
     "capoluogo": false,
-    "popolazione": 3035,
+    "popolazione": 3012,
     "superficie": 12.6991,
     "coordinate": {
       "lat": 41.8825767,
@@ -7304,7 +7304,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 172,
+    "popolazione": 177,
     "superficie": 10.924,
     "coordinate": {
       "lat": 42.0038537,
@@ -7335,7 +7335,7 @@
       "00037"
     ],
     "capoluogo": false,
-    "popolazione": 8976,
+    "popolazione": 8961,
     "superficie": 60.8655,
     "coordinate": {
       "lat": 41.6913336,
@@ -7366,7 +7366,7 @@
       "00028"
     ],
     "capoluogo": false,
-    "popolazione": 8524,
+    "popolazione": 8527,
     "superficie": 62.7236,
     "coordinate": {
       "lat": 41.9241295,
@@ -7397,7 +7397,7 @@
       "00019"
     ],
     "capoluogo": false,
-    "popolazione": 55061,
+    "popolazione": 55321,
     "superficie": 67.9991,
     "coordinate": {
       "lat": 41.9636191,
@@ -7428,7 +7428,7 @@
       "00059"
     ],
     "capoluogo": false,
-    "popolazione": 4718,
+    "popolazione": 4691,
     "superficie": 167.9511,
     "coordinate": {
       "lat": 42.1492769,
@@ -7459,7 +7459,7 @@
       "00060"
     ],
     "capoluogo": false,
-    "popolazione": 1090,
+    "popolazione": 1116,
     "superficie": 10.7674,
     "coordinate": {
       "lat": 42.2367435,
@@ -7490,7 +7490,7 @@
       "00069"
     ],
     "capoluogo": false,
-    "popolazione": 5807,
+    "popolazione": 5755,
     "superficie": 38.8385,
     "coordinate": {
       "lat": 42.1563075,
@@ -7521,7 +7521,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 232,
+    "popolazione": 223,
     "superficie": 52.989,
     "coordinate": {
       "lat": 41.9267448,
@@ -7552,7 +7552,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 272,
+    "popolazione": 260,
     "superficie": 16.5666,
     "coordinate": {
       "lat": 42.0842819,
@@ -7583,7 +7583,7 @@
       "00038"
     ],
     "capoluogo": false,
-    "popolazione": 15697,
+    "popolazione": 15654,
     "superficie": 41.0518,
     "coordinate": {
       "lat": 41.7768467,
@@ -7614,7 +7614,7 @@
       "00049"
     ],
     "capoluogo": false,
-    "popolazione": 52862,
+    "popolazione": 53048,
     "superficie": 118.3092,
     "coordinate": {
       "lat": 41.6866627,
@@ -7645,7 +7645,7 @@
       "00029"
     ],
     "capoluogo": false,
-    "popolazione": 3533,
+    "popolazione": 3520,
     "superficie": 35.6761,
     "coordinate": {
       "lat": 42.0148724,
@@ -7676,7 +7676,7 @@
       "00020"
     ],
     "capoluogo": false,
-    "popolazione": 152,
+    "popolazione": 150,
     "superficie": 12.8058,
     "coordinate": {
       "lat": 42.1004237,
@@ -7707,7 +7707,7 @@
       "00039"
     ],
     "capoluogo": false,
-    "popolazione": 18645,
+    "popolazione": 18963,
     "superficie": 28.1284,
     "coordinate": {
       "lat": 41.8397164,
@@ -7738,7 +7738,7 @@
       "00076"
     ],
     "capoluogo": false,
-    "popolazione": 13176,
+    "popolazione": 13297,
     "superficie": 22.6127,
     "coordinate": {
       "lat": 41.7280199,
@@ -7769,7 +7769,7 @@
       "00055"
     ],
     "capoluogo": false,
-    "popolazione": 40855,
+    "popolazione": 40968,
     "superficie": 26.2485,
     "coordinate": {
       "lat": 41.9549834,
@@ -7800,7 +7800,7 @@
       "00040"
     ],
     "capoluogo": false,
-    "popolazione": 50292,
+    "popolazione": 51374,
     "superficie": 72.0923,
     "coordinate": {
       "lat": 41.6104493,
@@ -7831,7 +7831,7 @@
       "00043"
     ],
     "capoluogo": false,
-    "popolazione": 38670,
+    "popolazione": 38913,
     "superficie": 13.3715,
     "coordinate": {
       "lat": 41.8028309,
@@ -7862,7 +7862,7 @@
       "00030"
     ],
     "capoluogo": false,
-    "popolazione": 16223,
+    "popolazione": 16383,
     "superficie": 23.2727,
     "coordinate": {
       "lat": 41.8198093,
@@ -7893,7 +7893,7 @@
       "00054"
     ],
     "capoluogo": false,
-    "popolazione": 82481,
+    "popolazione": 83415,
     "superficie": 214.5166,
     "coordinate": {
       "lat": 41.772519,
@@ -7924,7 +7924,7 @@
       "00013"
     ],
     "capoluogo": false,
-    "popolazione": 32719,
+    "popolazione": 32787,
     "superficie": 20.1069,
     "coordinate": {
       "lat": 41.9963655,
@@ -7955,7 +7955,7 @@
       "04011"
     ],
     "capoluogo": false,
-    "popolazione": 74470,
+    "popolazione": 74697,
     "superficie": 178.3375,
     "coordinate": {
       "lat": 41.5937112,
@@ -7986,7 +7986,7 @@
       "04010"
     ],
     "capoluogo": false,
-    "popolazione": 1433,
+    "popolazione": 1432,
     "superficie": 32.1459,
     "coordinate": {
       "lat": 41.5490106,
@@ -8017,7 +8017,7 @@
       "04020"
     ],
     "capoluogo": false,
-    "popolazione": 566,
+    "popolazione": 545,
     "superficie": 38.2689,
     "coordinate": {
       "lat": 41.3898013,
@@ -8048,7 +8048,7 @@
       "04021"
     ],
     "capoluogo": false,
-    "popolazione": 4065,
+    "popolazione": 4010,
     "superficie": 29.7721,
     "coordinate": {
       "lat": 41.300592,
@@ -8079,7 +8079,7 @@
       "04012"
     ],
     "capoluogo": false,
-    "popolazione": 36213,
+    "popolazione": 36255,
     "superficie": 143.883,
     "coordinate": {
       "lat": 41.5924722,
@@ -8110,7 +8110,7 @@
       "04010"
     ],
     "capoluogo": false,
-    "popolazione": 10379,
+    "popolazione": 10465,
     "superficie": 85.3076,
     "coordinate": {
       "lat": 41.643018,
@@ -8141,7 +8141,7 @@
       "04022"
     ],
     "capoluogo": false,
-    "popolazione": 39760,
+    "popolazione": 40310,
     "superficie": 144.5284,
     "coordinate": {
       "lat": 41.3561734,
@@ -8172,7 +8172,7 @@
       "04023"
     ],
     "capoluogo": false,
-    "popolazione": 36883,
+    "popolazione": 36775,
     "superficie": 74.2509,
     "coordinate": {
       "lat": 41.2557581,
@@ -8203,7 +8203,7 @@
       "04024"
     ],
     "capoluogo": false,
-    "popolazione": 19300,
+    "popolazione": 18908,
     "superficie": 29.2563,
     "coordinate": {
       "lat": 41.2134737,
@@ -8234,7 +8234,7 @@
       "04020"
     ],
     "capoluogo": false,
-    "popolazione": 10431,
+    "popolazione": 10579,
     "superficie": 101.2139,
     "coordinate": {
       "lat": 41.2910621,
@@ -8265,7 +8265,7 @@
       "04100"
     ],
     "capoluogo": true,
-    "popolazione": 127859,
+    "popolazione": 127450,
     "superficie": 278.0095,
     "coordinate": {
       "lat": 41.4678964,
@@ -8296,7 +8296,7 @@
       "04025"
     ],
     "capoluogo": false,
-    "popolazione": 4081,
+    "popolazione": 4095,
     "superficie": 45.1163,
     "coordinate": {
       "lat": 41.4092228,
@@ -8327,7 +8327,7 @@
       "04010"
     ],
     "capoluogo": false,
-    "popolazione": 2940,
+    "popolazione": 2956,
     "superficie": 42.094,
     "coordinate": {
       "lat": 41.5227399,
@@ -8358,7 +8358,7 @@
       "04026"
     ],
     "capoluogo": false,
-    "popolazione": 20389,
+    "popolazione": 20400,
     "superficie": 42.3842,
     "coordinate": {
       "lat": 41.2620131,
@@ -8389,7 +8389,7 @@
       "04020"
     ],
     "capoluogo": false,
-    "popolazione": 6042,
+    "popolazione": 6028,
     "superficie": 65.4349,
     "coordinate": {
       "lat": 41.3525576,
@@ -8420,7 +8420,7 @@
       "04010"
     ],
     "capoluogo": false,
-    "popolazione": 3679,
+    "popolazione": 3723,
     "superficie": 31.0005,
     "coordinate": {
       "lat": 41.5857769,
@@ -8451,7 +8451,7 @@
       "04014"
     ],
     "capoluogo": false,
-    "popolazione": 15080,
+    "popolazione": 15084,
     "superficie": 111.9206,
     "coordinate": {
       "lat": 41.4077161,
@@ -8482,7 +8482,7 @@
       "04027"
     ],
     "capoluogo": false,
-    "popolazione": 3311,
+    "popolazione": 3295,
     "superficie": 10.456,
     "coordinate": {
       "lat": 40.8945196,
@@ -8513,7 +8513,7 @@
       "04015"
     ],
     "capoluogo": false,
-    "popolazione": 13775,
+    "popolazione": 13694,
     "superficie": 57.0308,
     "coordinate": {
       "lat": 41.4735007,
@@ -8544,7 +8544,7 @@
       "04010"
     ],
     "capoluogo": false,
-    "popolazione": 1141,
+    "popolazione": 1112,
     "superficie": 35.3375,
     "coordinate": {
       "lat": 41.516334,
@@ -8575,7 +8575,7 @@
       "04010"
     ],
     "capoluogo": false,
-    "popolazione": 4139,
+    "popolazione": 4087,
     "superficie": 24.5796,
     "coordinate": {
       "lat": 41.5259527,
@@ -8606,7 +8606,7 @@
       "04010"
     ],
     "capoluogo": false,
-    "popolazione": 1081,
+    "popolazione": 1127,
     "superficie": 18.3615,
     "coordinate": {
       "lat": 41.6783492,
@@ -8637,7 +8637,7 @@
       "04010"
     ],
     "capoluogo": false,
-    "popolazione": 1051,
+    "popolazione": 1060,
     "superficie": 23.4654,
     "coordinate": {
       "lat": 41.4798825,
@@ -8668,7 +8668,7 @@
       "04016"
     ],
     "capoluogo": false,
-    "popolazione": 19431,
+    "popolazione": 19326,
     "superficie": 145.7807,
     "coordinate": {
       "lat": 41.2996133,
@@ -8699,7 +8699,7 @@
       "04017"
     ],
     "capoluogo": false,
-    "popolazione": 10146,
+    "popolazione": 10089,
     "superficie": 32.735,
     "coordinate": {
       "lat": 41.23294,
@@ -8730,7 +8730,7 @@
       "04020"
     ],
     "capoluogo": false,
-    "popolazione": 6843,
+    "popolazione": 6878,
     "superficie": 31.7156,
     "coordinate": {
       "lat": 41.2996127,
@@ -8761,7 +8761,7 @@
       "04013"
     ],
     "capoluogo": false,
-    "popolazione": 9994,
+    "popolazione": 9951,
     "superficie": 45.0222,
     "coordinate": {
       "lat": 41.5493637,
@@ -8792,7 +8792,7 @@
       "04018"
     ],
     "capoluogo": false,
-    "popolazione": 23753,
+    "popolazione": 23766,
     "superficie": 100.5267,
     "coordinate": {
       "lat": 41.4984503,
@@ -8823,7 +8823,7 @@
       "04010"
     ],
     "capoluogo": false,
-    "popolazione": 7367,
+    "popolazione": 7465,
     "superficie": 64.1145,
     "coordinate": {
       "lat": 41.4142408,
@@ -8854,7 +8854,7 @@
       "04029"
     ],
     "capoluogo": false,
-    "popolazione": 3042,
+    "popolazione": 2990,
     "superficie": 18.4457,
     "coordinate": {
       "lat": 41.2572489,
@@ -8885,7 +8885,7 @@
       "04020"
     ],
     "capoluogo": false,
-    "popolazione": 2856,
+    "popolazione": 2845,
     "superficie": 38.7719,
     "coordinate": {
       "lat": 41.3055109,
@@ -8916,7 +8916,7 @@
       "04019"
     ],
     "capoluogo": false,
-    "popolazione": 44684,
+    "popolazione": 45055,
     "superficie": 136.7235,
     "coordinate": {
       "lat": 41.2913038,
@@ -8947,7 +8947,7 @@
       "04031"
     ],
     "capoluogo": false,
-    "popolazione": 689,
+    "popolazione": 678,
     "superficie": 2.0245,
     "coordinate": {
       "lat": 40.7961677,
@@ -8978,7 +8978,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 258,
+    "popolazione": 253,
     "superficie": 25.6786,
     "coordinate": {
       "lat": 41.5431316,
@@ -9009,7 +9009,7 @@
       "03010"
     ],
     "capoluogo": false,
-    "popolazione": 1821,
+    "popolazione": 1779,
     "superficie": 13.283,
     "coordinate": {
       "lat": 41.7928482,
@@ -9040,7 +9040,7 @@
       "03011"
     ],
     "capoluogo": false,
-    "popolazione": 27605,
+    "popolazione": 27436,
     "superficie": 96.4722,
     "coordinate": {
       "lat": 41.7263991,
@@ -9071,7 +9071,7 @@
       "03041"
     ],
     "capoluogo": false,
-    "popolazione": 2484,
+    "popolazione": 2434,
     "superficie": 51.5893,
     "coordinate": {
       "lat": 41.6881211,
@@ -9102,7 +9102,7 @@
       "03021"
     ],
     "capoluogo": false,
-    "popolazione": 4082,
+    "popolazione": 4029,
     "superficie": 77.8601,
     "coordinate": {
       "lat": 41.467676,
@@ -9133,7 +9133,7 @@
       "03012"
     ],
     "capoluogo": false,
-    "popolazione": 20627,
+    "popolazione": 20630,
     "superficie": 113.1698,
     "coordinate": {
       "lat": 41.7421952,
@@ -9164,7 +9164,7 @@
       "03031"
     ],
     "capoluogo": false,
-    "popolazione": 4916,
+    "popolazione": 4898,
     "superficie": 19.4705,
     "coordinate": {
       "lat": 41.4927211,
@@ -9195,7 +9195,7 @@
       "03032"
     ],
     "capoluogo": false,
-    "popolazione": 5390,
+    "popolazione": 5376,
     "superficie": 39.4047,
     "coordinate": {
       "lat": 41.5879643,
@@ -9226,7 +9226,7 @@
       "03020"
     ],
     "capoluogo": false,
-    "popolazione": 2199,
+    "popolazione": 2136,
     "superficie": 12.3664,
     "coordinate": {
       "lat": 41.5836525,
@@ -9257,7 +9257,7 @@
       "03033"
     ],
     "capoluogo": false,
-    "popolazione": 6614,
+    "popolazione": 6512,
     "superficie": 56.0683,
     "coordinate": {
       "lat": 41.6479321,
@@ -9288,7 +9288,7 @@
       "03042"
     ],
     "capoluogo": false,
-    "popolazione": 4117,
+    "popolazione": 4079,
     "superficie": 30.1417,
     "coordinate": {
       "lat": 41.6197927,
@@ -9350,7 +9350,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 676,
+    "popolazione": 657,
     "superficie": 14.0664,
     "coordinate": {
       "lat": 41.5784982,
@@ -9381,7 +9381,7 @@
       "03022"
     ],
     "capoluogo": false,
-    "popolazione": 8302,
+    "popolazione": 8214,
     "superficie": 28.3513,
     "coordinate": {
       "lat": 41.6429592,
@@ -9412,7 +9412,7 @@
       "03030"
     ],
     "capoluogo": false,
-    "popolazione": 2642,
+    "popolazione": 2609,
     "superficie": 11.9866,
     "coordinate": {
       "lat": 41.7028359,
@@ -9443,7 +9443,7 @@
       "03030"
     ],
     "capoluogo": false,
-    "popolazione": 1609,
+    "popolazione": 1596,
     "superficie": 32.5278,
     "coordinate": {
       "lat": 41.7379257,
@@ -9474,7 +9474,7 @@
       "03030"
     ],
     "capoluogo": false,
-    "popolazione": 525,
+    "popolazione": 515,
     "superficie": 28.3945,
     "coordinate": {
       "lat": 41.6211446,
@@ -9505,7 +9505,7 @@
       "03034"
     ],
     "capoluogo": false,
-    "popolazione": 2422,
+    "popolazione": 2385,
     "superficie": 27.2341,
     "coordinate": {
       "lat": 41.6313026,
@@ -9536,7 +9536,7 @@
       "03043"
     ],
     "capoluogo": false,
-    "popolazione": 35091,
+    "popolazione": 34760,
     "superficie": 83.7257,
     "coordinate": {
       "lat": 41.4927017,
@@ -9567,7 +9567,7 @@
       "03030"
     ],
     "capoluogo": false,
-    "popolazione": 3176,
+    "popolazione": 3089,
     "superficie": 15.266,
     "coordinate": {
       "lat": 41.6790578,
@@ -9598,7 +9598,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 846,
+    "popolazione": 827,
     "superficie": 10.0838,
     "coordinate": {
       "lat": 41.3780925,
@@ -9629,7 +9629,7 @@
       "03030"
     ],
     "capoluogo": false,
-    "popolazione": 3784,
+    "popolazione": 3727,
     "superficie": 27.893,
     "coordinate": {
       "lat": 41.5311137,
@@ -9660,7 +9660,7 @@
       "03020"
     ],
     "capoluogo": false,
-    "popolazione": 4418,
+    "popolazione": 4337,
     "superficie": 58.1237,
     "coordinate": {
       "lat": 41.5083571,
@@ -9691,7 +9691,7 @@
       "03023"
     ],
     "capoluogo": false,
-    "popolazione": 22207,
+    "popolazione": 21962,
     "superficie": 61.2022,
     "coordinate": {
       "lat": 41.5683975,
@@ -9722,7 +9722,7 @@
       "03024"
     ],
     "capoluogo": false,
-    "popolazione": 8050,
+    "popolazione": 7940,
     "superficie": 38.3318,
     "coordinate": {
       "lat": 41.54644,
@@ -9753,7 +9753,7 @@
       "03044"
     ],
     "capoluogo": false,
-    "popolazione": 7782,
+    "popolazione": 7708,
     "superficie": 39.1905,
     "coordinate": {
       "lat": 41.4813536,
@@ -9784,7 +9784,7 @@
       "03030"
     ],
     "capoluogo": false,
-    "popolazione": 1783,
+    "popolazione": 1747,
     "superficie": 14.5873,
     "coordinate": {
       "lat": 41.5560569,
@@ -9815,7 +9815,7 @@
       "03010"
     ],
     "capoluogo": false,
-    "popolazione": 879,
+    "popolazione": 855,
     "superficie": 24.8511,
     "coordinate": {
       "lat": 41.7613848,
@@ -9846,7 +9846,7 @@
       "03030"
     ],
     "capoluogo": false,
-    "popolazione": 615,
+    "popolazione": 603,
     "superficie": 45.0066,
     "coordinate": {
       "lat": 41.5500795,
@@ -9877,7 +9877,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 1514,
+    "popolazione": 1464,
     "superficie": 26.3806,
     "coordinate": {
       "lat": 41.3458935,
@@ -9908,7 +9908,7 @@
       "03045"
     ],
     "capoluogo": false,
-    "popolazione": 3573,
+    "popolazione": 3545,
     "superficie": 108.1473,
     "coordinate": {
       "lat": 41.3836013,
@@ -9939,7 +9939,7 @@
       "03020"
     ],
     "capoluogo": false,
-    "popolazione": 513,
+    "popolazione": 503,
     "superficie": 12.8001,
     "coordinate": {
       "lat": 41.5035982,
@@ -9970,7 +9970,7 @@
       "03013"
     ],
     "capoluogo": false,
-    "popolazione": 20048,
+    "popolazione": 19902,
     "superficie": 81.0664,
     "coordinate": {
       "lat": 41.6925618,
@@ -10001,7 +10001,7 @@
       "03010"
     ],
     "capoluogo": false,
-    "popolazione": 535,
+    "popolazione": 533,
     "superficie": 78.0624,
     "coordinate": {
       "lat": 41.8901111,
@@ -10032,7 +10032,7 @@
       "03014"
     ],
     "capoluogo": false,
-    "popolazione": 10079,
+    "popolazione": 10180,
     "superficie": 32.9878,
     "coordinate": {
       "lat": 41.803881,
@@ -10063,7 +10063,7 @@
       "03035"
     ],
     "capoluogo": false,
-    "popolazione": 2684,
+    "popolazione": 2589,
     "superficie": 16.2949,
     "coordinate": {
       "lat": 41.6094983,
@@ -10094,7 +10094,7 @@
       "03030"
     ],
     "capoluogo": false,
-    "popolazione": 1225,
+    "popolazione": 1191,
     "superficie": 15.9807,
     "coordinate": {
       "lat": 41.6698513,
@@ -10125,7 +10125,7 @@
       "03100"
     ],
     "capoluogo": true,
-    "popolazione": 43305,
+    "popolazione": 42836,
     "superficie": 46.6027,
     "coordinate": {
       "lat": 41.6392366,
@@ -10156,7 +10156,7 @@
       "03010"
     ],
     "capoluogo": false,
-    "popolazione": 1951,
+    "popolazione": 1929,
     "superficie": 15.0003,
     "coordinate": {
       "lat": 41.7276137,
@@ -10187,7 +10187,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 1182,
+    "popolazione": 1164,
     "superficie": 17.558,
     "coordinate": {
       "lat": 41.6569273,
@@ -10218,7 +10218,7 @@
       "03020"
     ],
     "capoluogo": false,
-    "popolazione": 2295,
+    "popolazione": 2310,
     "superficie": 33.1688,
     "coordinate": {
       "lat": 41.540133,
@@ -10249,7 +10249,7 @@
       "03016"
     ],
     "capoluogo": false,
-    "popolazione": 1506,
+    "popolazione": 1488,
     "superficie": 40.2864,
     "coordinate": {
       "lat": 41.7996223,
@@ -10280,7 +10280,7 @@
       "03036"
     ],
     "capoluogo": false,
-    "popolazione": 10645,
+    "popolazione": 10517,
     "superficie": 16.118,
     "coordinate": {
       "lat": 41.6784748,
@@ -10311,7 +10311,7 @@
       "03025"
     ],
     "capoluogo": false,
-    "popolazione": 11983,
+    "popolazione": 11794,
     "superficie": 48.6547,
     "coordinate": {
       "lat": 41.6389981,
@@ -10342,7 +10342,7 @@
       "03017"
     ],
     "capoluogo": false,
-    "popolazione": 3164,
+    "popolazione": 3114,
     "superficie": 26.496,
     "coordinate": {
       "lat": 41.6380586,
@@ -10373,7 +10373,7 @@
       "03018"
     ],
     "capoluogo": false,
-    "popolazione": 7877,
+    "popolazione": 7852,
     "superficie": 71.263,
     "coordinate": {
       "lat": 41.8047945,
@@ -10404,7 +10404,7 @@
       "03020"
     ],
     "capoluogo": false,
-    "popolazione": 1284,
+    "popolazione": 1248,
     "superficie": 42.3298,
     "coordinate": {
       "lat": 41.4670777,
@@ -10435,7 +10435,7 @@
       "03010"
     ],
     "capoluogo": false,
-    "popolazione": 3061,
+    "popolazione": 3049,
     "superficie": 27.4638,
     "coordinate": {
       "lat": 41.5918344,
@@ -10466,7 +10466,7 @@
       "03030"
     ],
     "capoluogo": false,
-    "popolazione": 1390,
+    "popolazione": 1372,
     "superficie": 44.6809,
     "coordinate": {
       "lat": 41.7491372,
@@ -10497,7 +10497,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 1098,
+    "popolazione": 1106,
     "superficie": 62.2894,
     "coordinate": {
       "lat": 41.6466005,
@@ -10528,7 +10528,7 @@
       "03020"
     ],
     "capoluogo": false,
-    "popolazione": 2625,
+    "popolazione": 2554,
     "superficie": 32.886,
     "coordinate": {
       "lat": 41.4515021,
@@ -10559,7 +10559,7 @@
       "03030"
     ],
     "capoluogo": false,
-    "popolazione": 6297,
+    "popolazione": 6326,
     "superficie": 17.0393,
     "coordinate": {
       "lat": 41.4972719,
@@ -10590,7 +10590,7 @@
       "03010"
     ],
     "capoluogo": false,
-    "popolazione": 4331,
+    "popolazione": 4248,
     "superficie": 35.2293,
     "coordinate": {
       "lat": 41.8298189,
@@ -10621,7 +10621,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 2403,
+    "popolazione": 2374,
     "superficie": 24.4169,
     "coordinate": {
       "lat": 41.4391423,
@@ -10652,7 +10652,7 @@
       "03026"
     ],
     "capoluogo": false,
-    "popolazione": 3878,
+    "popolazione": 3847,
     "superficie": 30.6091,
     "coordinate": {
       "lat": 41.5655085,
@@ -10683,7 +10683,7 @@
       "03037"
     ],
     "capoluogo": false,
-    "popolazione": 12198,
+    "popolazione": 12067,
     "superficie": 88.9326,
     "coordinate": {
       "lat": 41.4569915,
@@ -10714,7 +10714,7 @@
       "03030"
     ],
     "capoluogo": false,
-    "popolazione": 1027,
+    "popolazione": 1035,
     "superficie": 9.763,
     "coordinate": {
       "lat": 41.6929764,
@@ -10745,7 +10745,7 @@
       "03027"
     ],
     "capoluogo": false,
-    "popolazione": 5031,
+    "popolazione": 4991,
     "superficie": 32.0796,
     "coordinate": {
       "lat": 41.6126339,
@@ -10776,7 +10776,7 @@
       "03030"
     ],
     "capoluogo": false,
-    "popolazione": 872,
+    "popolazione": 835,
     "superficie": 11.499,
     "coordinate": {
       "lat": 41.5874841,
@@ -10807,7 +10807,7 @@
       "03038"
     ],
     "capoluogo": false,
-    "popolazione": 6754,
+    "popolazione": 6671,
     "superficie": 43.148,
     "coordinate": {
       "lat": 41.551188,
@@ -10838,7 +10838,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 297,
+    "popolazione": 289,
     "superficie": 31.1161,
     "coordinate": {
       "lat": 41.6134861,
@@ -10869,7 +10869,7 @@
       "03046"
     ],
     "capoluogo": false,
-    "popolazione": 1860,
+    "popolazione": 1852,
     "superficie": 37.4455,
     "coordinate": {
       "lat": 41.7082281,
@@ -10900,7 +10900,7 @@
       "03047"
     ],
     "capoluogo": false,
-    "popolazione": 2959,
+    "popolazione": 2927,
     "superficie": 15.8264,
     "coordinate": {
       "lat": 41.4067572,
@@ -10931,7 +10931,7 @@
       "03028"
     ],
     "capoluogo": false,
-    "popolazione": 3055,
+    "popolazione": 2966,
     "superficie": 24.3889,
     "coordinate": {
       "lat": 41.5026991,
@@ -10962,7 +10962,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 872,
+    "popolazione": 865,
     "superficie": 8.8785,
     "coordinate": {
       "lat": 41.3904677,
@@ -10993,7 +10993,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 1265,
+    "popolazione": 1263,
     "superficie": 17.1458,
     "coordinate": {
       "lat": 41.3658634,
@@ -11024,7 +11024,7 @@
       "03048"
     ],
     "capoluogo": false,
-    "popolazione": 1811,
+    "popolazione": 1765,
     "superficie": 17.7023,
     "coordinate": {
       "lat": 41.4018505,
@@ -11055,7 +11055,7 @@
       "03049"
     ],
     "capoluogo": false,
-    "popolazione": 5654,
+    "popolazione": 5549,
     "superficie": 41.1112,
     "coordinate": {
       "lat": 41.5398497,
@@ -11086,7 +11086,7 @@
       "03030"
     ],
     "capoluogo": false,
-    "popolazione": 1180,
+    "popolazione": 1175,
     "superficie": 21.7518,
     "coordinate": {
       "lat": 41.6023196,
@@ -11117,7 +11117,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 2360,
+    "popolazione": 2339,
     "superficie": 27.5841,
     "coordinate": {
       "lat": 41.4594133,
@@ -11148,7 +11148,7 @@
       "03010"
     ],
     "capoluogo": false,
-    "popolazione": 2954,
+    "popolazione": 2935,
     "superficie": 15.4659,
     "coordinate": {
       "lat": 41.8405932,
@@ -11179,7 +11179,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 718,
+    "popolazione": 700,
     "superficie": 50.8718,
     "coordinate": {
       "lat": 41.6703927,
@@ -11210,7 +11210,7 @@
       "03010"
     ],
     "capoluogo": false,
-    "popolazione": 2361,
+    "popolazione": 2380,
     "superficie": 19.3422,
     "coordinate": {
       "lat": 41.6706386,
@@ -11241,7 +11241,7 @@
       "03039"
     ],
     "capoluogo": false,
-    "popolazione": 24811,
+    "popolazione": 24672,
     "superficie": 72.2853,
     "coordinate": {
       "lat": 41.720079,
@@ -11272,7 +11272,7 @@
       "03020"
     ],
     "capoluogo": false,
-    "popolazione": 2274,
+    "popolazione": 2253,
     "superficie": 10.2671,
     "coordinate": {
       "lat": 41.6010672,
@@ -11303,7 +11303,7 @@
       "03019"
     ],
     "capoluogo": false,
-    "popolazione": 4600,
+    "popolazione": 4557,
     "superficie": 35.6932,
     "coordinate": {
       "lat": 41.6090926,
@@ -11334,7 +11334,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 285,
+    "popolazione": 263,
     "superficie": 31.5049,
     "coordinate": {
       "lat": 41.5536199,
@@ -11365,7 +11365,7 @@
       "03010"
     ],
     "capoluogo": false,
-    "popolazione": 1297,
+    "popolazione": 1317,
     "superficie": 12.0103,
     "coordinate": {
       "lat": 41.7884877,
@@ -11396,7 +11396,7 @@
       "03020"
     ],
     "capoluogo": false,
-    "popolazione": 4675,
+    "popolazione": 4648,
     "superficie": 18.0279,
     "coordinate": {
       "lat": 41.6296836,
@@ -11427,7 +11427,7 @@
       "03010"
     ],
     "capoluogo": false,
-    "popolazione": 1720,
+    "popolazione": 1699,
     "superficie": 54.159,
     "coordinate": {
       "lat": 41.8623768,
@@ -11458,7 +11458,7 @@
       "03010"
     ],
     "capoluogo": false,
-    "popolazione": 1611,
+    "popolazione": 1594,
     "superficie": 12.7421,
     "coordinate": {
       "lat": 41.7757559,
@@ -11489,7 +11489,7 @@
       "03020"
     ],
     "capoluogo": false,
-    "popolazione": 2395,
+    "popolazione": 2323,
     "superficie": 39.5808,
     "coordinate": {
       "lat": 41.4444647,
@@ -11520,7 +11520,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 895,
+    "popolazione": 881,
     "superficie": 18.5891,
     "coordinate": {
       "lat": 41.3661888,
@@ -11551,7 +11551,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 1391,
+    "popolazione": 1365,
     "superficie": 59.0523,
     "coordinate": {
       "lat": 41.5520883,
@@ -11582,7 +11582,7 @@
       "03029"
     ],
     "capoluogo": false,
-    "popolazione": 19543,
+    "popolazione": 19402,
     "superficie": 119.3919,
     "coordinate": {
       "lat": 41.6907583,
@@ -11613,7 +11613,7 @@
       "03030"
     ],
     "capoluogo": false,
-    "popolazione": 717,
+    "popolazione": 694,
     "superficie": 8.3968,
     "coordinate": {
       "lat": 41.6763458,
@@ -11644,7 +11644,7 @@
       "03010"
     ],
     "capoluogo": false,
-    "popolazione": 2068,
+    "popolazione": 2050,
     "superficie": 45.8739,
     "coordinate": {
       "lat": 41.7767699,
@@ -11675,7 +11675,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 1142,
+    "popolazione": 1129,
     "superficie": 17.0541,
     "coordinate": {
       "lat": 41.6136076,
@@ -11706,7 +11706,7 @@
       "03030"
     ],
     "capoluogo": false,
-    "popolazione": 2472,
+    "popolazione": 2436,
     "superficie": 17.6862,
     "coordinate": {
       "lat": 41.5125474,
@@ -11737,7 +11737,7 @@
       "03020"
     ],
     "capoluogo": false,
-    "popolazione": 1598,
+    "popolazione": 1564,
     "superficie": 20.1532,
     "coordinate": {
       "lat": 41.5169756,
@@ -11768,7 +11768,7 @@
       "03040"
     ],
     "capoluogo": false,
-    "popolazione": 296,
+    "popolazione": 282,
     "superficie": 20.7524,
     "coordinate": {
       "lat": 41.5251398,

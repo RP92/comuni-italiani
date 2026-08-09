@@ -41,7 +41,7 @@ like this:
   "sigla": "PD",
   "cap": ["35031"],
   "capoluogo": false,
-  "popolazione": 20433,
+  "popolazione": 20479,
   "superficie": 21.3082,
   "coordinate": { "lat": 45.3593736, "lng": 11.7886941 },
   "zona": { "nome": "Nord-est", "codice": "2" },
