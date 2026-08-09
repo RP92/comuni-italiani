@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["nome","nomeAltraLingua","codice","codiceCatastale","sigla","cap","capoluogo","popolazione","superficie","coordinate","zona","regione","provincia"],
+    "properties": {
+      "nome": {"type": "string"},
+      "nomeAltraLingua": {"type": ["string","null"]},
+      "codice": {"type": "string", "pattern": "^[0-9]{6}$"},
+      "codiceCatastale": {"type": ["string","null"], "pattern": "^[A-Z][0-9]{3}$"},
+      "sigla": {"type": ["string","null"], "pattern": "^[A-Z]{1,2}$"},
+      "cap": {"type": "array", "items": {"type": "string", "pattern": "^[0-9]{5}$"}},
+      "capoluogo": {"type": "boolean"},
+      "popolazione": {"type": ["integer","null"], "minimum": 0},
+      "superficie": {"type": ["number","null"], "minimum": 0},
+      "coordinate": {
+        "type": ["object","null"],
+        "additionalProperties": false,
+        "required": ["lat","lng"],
+        "properties": {"lat": {"type": "number"}, "lng": {"type": "number"}}
+      },
+      "zona": {
+        "type": "object", "additionalProperties": false,
+        "required": ["nome","codice"],
+        "properties": {"nome": {"type": "string"}, "codice": {"type": "string"}}
+      },
+      "regione": {
+        "type": "object", "additionalProperties": false,
+        "required": ["nome","codice"],
+        "properties": {"nome": {"type": "string"}, "codice": {"type": "string"}}
+      },
+      "provincia": {
+        "type": "object", "additionalProperties": false,
+        "required": ["nome","codice","sigla","tipo"],
+        "properties": {
+          "nome": {"type": "string"},
+          "codice": {"type": "string"},
+          "sigla": {"type": ["string","null"]},
+          "tipo": {"enum": ["provincia","citta-metropolitana","libero-consorzio","provincia-autonoma"]}
+        }
+      }
+    }
+  }
+}
