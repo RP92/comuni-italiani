@@ -31,24 +31,24 @@ def test_remap_canonical_keys_win():
 
 def test_remap_wins_over_existing_canonical_key():
     """
-    If the source CSV happened to already have a column named 'codice'
-    the remap must still overwrite it with the value from the source column
-    specified in the mapping (canonical wins, not the pre-existing raw key).
+    The source CSV already has a column named 'codice' (value 'WRONG') AND a
+    column 'PRO_COM' with the real numeric code.  The remap maps 'codice' <-
+    'PRO_COM', so the remapped value must win over the pre-existing 'codice'.
     This verifies the merge order: r | remap, NOT remap | r.
     """
+    conflict_fixture = Path("tests/fixtures/remap_codice_conflict.csv")
     spec = {
-        "path": str(FIXTURE),
+        "path": str(conflict_fixture),
         "delimiter": ";",
         "encoding": "utf-8",
         "columns": {
-            # Map 'codice' <- 'PRO_COM'; if a field named 'codice' existed
-            # in the row the remap dict must still win.
-            "codice": "PRO_COM",
+            "codice": "PRO_COM",  # PRO_COM="001272" must overwrite raw codice="WRONG"
         },
     }
     rows = _read_rows(spec, cache_dir=Path("/tmp"), offline=False)
-    vercelli = next(r for r in rows if r["codice"] == "002158")
-    assert vercelli["codice"] == "002158"
+    torino = next(r for r in rows if r["PRO_COM"] == "001272")
+    assert torino["codice"] == "001272", "remap must overwrite pre-existing 'codice' column"
+    assert torino["codice"] != "WRONG"
 
 
 def test_no_remap_returns_raw_rows():
@@ -61,3 +61,18 @@ def test_no_remap_returns_raw_rows():
     rows = _read_rows(spec, cache_dir=Path("/tmp"), offline=False)
     assert rows[0]["PRO_COM"] == "001272"
     assert "codice" not in rows[0]
+
+
+def test_remap_missing_source_column_raises_value_error():
+    """A remap referencing a column absent from the CSV header must raise ValueError."""
+    import pytest
+    spec = {
+        "path": str(FIXTURE),
+        "delimiter": ";",
+        "encoding": "utf-8",
+        "columns": {
+            "codice": "NONEXISTENT_COL",  # this column does not exist in remap_sample.csv
+        },
+    }
+    with pytest.raises(ValueError, match="NONEXISTENT_COL"):
+        _read_rows(spec, cache_dir=Path("/tmp"), offline=False)

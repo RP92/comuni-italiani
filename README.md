@@ -32,7 +32,7 @@ https://cdn.jsdelivr.net/gh/RP92/comuni-italiani@<commit>/data/comuni.json
 | `data/comuni.csv` | Same data in CSV (RFC 4180, UTF-8) |
 | `data/comuni.ndjson` | Newline-delimited JSON, one object per line |
 | `data/regioni/<slug>.json` | Per-regione split — one file per regione |
-| `data/quality-report.json` | Pipeline validation report (count, CAP coverage, schema errors) |
+| `data/quality-report.json` | Pipeline validation report (count, CAP coverage). Schema and invariant failures cause the build to abort; the report's `errors` field is always an empty list on a successful run. |
 
 ---
 
