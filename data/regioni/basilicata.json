@@ -1,0 +1,4063 @@
+[
+  {
+    "nome": "Abriola",
+    "nomeAltraLingua": null,
+    "codice": "076001",
+    "codiceCatastale": "A013",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1269,
+    "superficie": 97.0869,
+    "coordinate": {
+      "lat": 40.5079571,
+      "lng": 15.8121142
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Acerenza",
+    "nomeAltraLingua": null,
+    "codice": "076002",
+    "codiceCatastale": "A020",
+    "sigla": "PZ",
+    "cap": [
+      "85011"
+    ],
+    "capoluogo": false,
+    "popolazione": 2074,
+    "superficie": 77.1447,
+    "coordinate": {
+      "lat": 40.7954543,
+      "lng": 15.941717
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Albano di Lucania",
+    "nomeAltraLingua": null,
+    "codice": "076003",
+    "codiceCatastale": "A131",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1309,
+    "superficie": 55.9739,
+    "coordinate": {
+      "lat": 40.5839607,
+      "lng": 16.0372922
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Anzi",
+    "nomeAltraLingua": null,
+    "codice": "076004",
+    "codiceCatastale": "A321",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1504,
+    "superficie": 76.8848,
+    "coordinate": {
+      "lat": 40.5162852,
+      "lng": 15.9247912
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Armento",
+    "nomeAltraLingua": null,
+    "codice": "076005",
+    "codiceCatastale": "A415",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 547,
+    "superficie": 58.8226,
+    "coordinate": {
+      "lat": 40.3059668,
+      "lng": 16.0655171
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Atella",
+    "nomeAltraLingua": null,
+    "codice": "076006",
+    "codiceCatastale": "A482",
+    "sigla": "PZ",
+    "cap": [
+      "85020"
+    ],
+    "capoluogo": false,
+    "popolazione": 3632,
+    "superficie": 88.8245,
+    "coordinate": {
+      "lat": 40.8773491,
+      "lng": 15.6527334
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Avigliano",
+    "nomeAltraLingua": null,
+    "codice": "076007",
+    "codiceCatastale": "A519",
+    "sigla": "PZ",
+    "cap": [
+      "85021"
+    ],
+    "capoluogo": false,
+    "popolazione": 10555,
+    "superficie": 85.3545,
+    "coordinate": {
+      "lat": 40.7296284,
+      "lng": 15.7179255
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Balvano",
+    "nomeAltraLingua": null,
+    "codice": "076008",
+    "codiceCatastale": "A604",
+    "sigla": "PZ",
+    "cap": [
+      "85050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1692,
+    "superficie": 42.0191,
+    "coordinate": {
+      "lat": 40.6511768,
+      "lng": 15.5120643
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Banzi",
+    "nomeAltraLingua": null,
+    "codice": "076009",
+    "codiceCatastale": "A612",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1163,
+    "superficie": 82.9951,
+    "coordinate": {
+      "lat": 40.8595056,
+      "lng": 16.0135059
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Baragiano",
+    "nomeAltraLingua": null,
+    "codice": "076010",
+    "codiceCatastale": "A615",
+    "sigla": "PZ",
+    "cap": [
+      "85050"
+    ],
+    "capoluogo": false,
+    "popolazione": 2469,
+    "superficie": 29.7458,
+    "coordinate": {
+      "lat": 40.6819286,
+      "lng": 15.591532
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Barile",
+    "nomeAltraLingua": null,
+    "codice": "076011",
+    "codiceCatastale": "A666",
+    "sigla": "PZ",
+    "cap": [
+      "85022"
+    ],
+    "capoluogo": false,
+    "popolazione": 2569,
+    "superficie": 24.716,
+    "coordinate": {
+      "lat": 40.9460323,
+      "lng": 15.6735662
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bella",
+    "nomeAltraLingua": null,
+    "codice": "076012",
+    "codiceCatastale": "A743",
+    "sigla": "PZ",
+    "cap": [
+      "85051"
+    ],
+    "capoluogo": false,
+    "popolazione": 4666,
+    "superficie": 99.5003,
+    "coordinate": {
+      "lat": 40.7603517,
+      "lng": 15.539508
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Brienza",
+    "nomeAltraLingua": null,
+    "codice": "076013",
+    "codiceCatastale": "B173",
+    "sigla": "PZ",
+    "cap": [
+      "85050"
+    ],
+    "capoluogo": false,
+    "popolazione": 3853,
+    "superficie": 83.0955,
+    "coordinate": {
+      "lat": 40.4784468,
+      "lng": 15.6300219
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Brindisi Montagna",
+    "nomeAltraLingua": null,
+    "codice": "076014",
+    "codiceCatastale": "B181",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 774,
+    "superficie": 60.2115,
+    "coordinate": {
+      "lat": 40.6093331,
+      "lng": 15.940008
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Calvello",
+    "nomeAltraLingua": null,
+    "codice": "076015",
+    "codiceCatastale": "B440",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1774,
+    "superficie": 106.0626,
+    "coordinate": {
+      "lat": 40.4749091,
+      "lng": 15.8475099
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Calvera",
+    "nomeAltraLingua": null,
+    "codice": "076016",
+    "codiceCatastale": "B443",
+    "sigla": "PZ",
+    "cap": [
+      "85030"
+    ],
+    "capoluogo": false,
+    "popolazione": 355,
+    "superficie": 16.0459,
+    "coordinate": {
+      "lat": 40.1480237,
+      "lng": 16.1442525
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Campomaggiore",
+    "nomeAltraLingua": null,
+    "codice": "076017",
+    "codiceCatastale": "B549",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 704,
+    "superficie": 12.4424,
+    "coordinate": {
+      "lat": 40.5658541,
+      "lng": 16.07246
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cancellara",
+    "nomeAltraLingua": null,
+    "codice": "076018",
+    "codiceCatastale": "B580",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1131,
+    "superficie": 42.8012,
+    "coordinate": {
+      "lat": 40.7306036,
+      "lng": 15.9252963
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carbone",
+    "nomeAltraLingua": null,
+    "codice": "076019",
+    "codiceCatastale": "B743",
+    "sigla": "PZ",
+    "cap": [
+      "85030"
+    ],
+    "capoluogo": false,
+    "popolazione": 500,
+    "superficie": 48.4782,
+    "coordinate": {
+      "lat": 40.1415757,
+      "lng": 16.0895417
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Paolo Albanese",
+    "nomeAltraLingua": null,
+    "codice": "076020",
+    "codiceCatastale": "B906",
+    "sigla": "PZ",
+    "cap": [
+      "85030"
+    ],
+    "capoluogo": false,
+    "popolazione": 215,
+    "superficie": 30.202,
+    "coordinate": {
+      "lat": 40.0372266,
+      "lng": 16.3343124
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelgrande",
+    "nomeAltraLingua": null,
+    "codice": "076021",
+    "codiceCatastale": "C120",
+    "sigla": "PZ",
+    "cap": [
+      "85050"
+    ],
+    "capoluogo": false,
+    "popolazione": 807,
+    "superficie": 34.9214,
+    "coordinate": {
+      "lat": 40.7859512,
+      "lng": 15.4322035
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelluccio Inferiore",
+    "nomeAltraLingua": null,
+    "codice": "076022",
+    "codiceCatastale": "C199",
+    "sigla": "PZ",
+    "cap": [
+      "85040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1911,
+    "superficie": 28.7657,
+    "coordinate": {
+      "lat": 40.0053568,
+      "lng": 15.9767011
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelluccio Superiore",
+    "nomeAltraLingua": null,
+    "codice": "076023",
+    "codiceCatastale": "C201",
+    "sigla": "PZ",
+    "cap": [
+      "85040"
+    ],
+    "capoluogo": false,
+    "popolazione": 703,
+    "superficie": 33.1069,
+    "coordinate": {
+      "lat": 40.0098359,
+      "lng": 15.9753165
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelmezzano",
+    "nomeAltraLingua": null,
+    "codice": "076024",
+    "codiceCatastale": "C209",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 704,
+    "superficie": 33.7621,
+    "coordinate": {
+      "lat": 40.5306734,
+      "lng": 16.0484941
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelsaraceno",
+    "nomeAltraLingua": null,
+    "codice": "076025",
+    "codiceCatastale": "C271",
+    "sigla": "PZ",
+    "cap": [
+      "85031"
+    ],
+    "capoluogo": false,
+    "popolazione": 1148,
+    "superficie": 75.0676,
+    "coordinate": {
+      "lat": 40.1649557,
+      "lng": 15.9927147
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castronuovo di Sant'Andrea",
+    "nomeAltraLingua": null,
+    "codice": "076026",
+    "codiceCatastale": "C345",
+    "sigla": "PZ",
+    "cap": [
+      "85030"
+    ],
+    "capoluogo": false,
+    "popolazione": 862,
+    "superficie": 47.48,
+    "coordinate": {
+      "lat": 40.1873902,
+      "lng": 16.1867522
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cersosimo",
+    "nomeAltraLingua": null,
+    "codice": "076027",
+    "codiceCatastale": "C539",
+    "sigla": "PZ",
+    "cap": [
+      "85030"
+    ],
+    "capoluogo": false,
+    "popolazione": 513,
+    "superficie": 24.9628,
+    "coordinate": {
+      "lat": 40.0464077,
+      "lng": 16.3479247
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Chiaromonte",
+    "nomeAltraLingua": null,
+    "codice": "076028",
+    "codiceCatastale": "C619",
+    "sigla": "PZ",
+    "cap": [
+      "85032"
+    ],
+    "capoluogo": false,
+    "popolazione": 1722,
+    "superficie": 70.3229,
+    "coordinate": {
+      "lat": 40.1242479,
+      "lng": 16.2150156
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Corleto Perticara",
+    "nomeAltraLingua": null,
+    "codice": "076029",
+    "codiceCatastale": "D010",
+    "sigla": "PZ",
+    "cap": [
+      "85012"
+    ],
+    "capoluogo": false,
+    "popolazione": 2283,
+    "superficie": 89.8158,
+    "coordinate": {
+      "lat": 40.3836267,
+      "lng": 16.0427747
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Episcopia",
+    "nomeAltraLingua": null,
+    "codice": "076030",
+    "codiceCatastale": "D414",
+    "sigla": "PZ",
+    "cap": [
+      "85033"
+    ],
+    "capoluogo": false,
+    "popolazione": 1267,
+    "superficie": 28.9285,
+    "coordinate": {
+      "lat": 40.0735437,
+      "lng": 16.0978459
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fardella",
+    "nomeAltraLingua": null,
+    "codice": "076031",
+    "codiceCatastale": "D497",
+    "sigla": "PZ",
+    "cap": [
+      "85034"
+    ],
+    "capoluogo": false,
+    "popolazione": 570,
+    "superficie": 28.8189,
+    "coordinate": {
+      "lat": 40.1139608,
+      "lng": 16.1666311
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Filiano",
+    "nomeAltraLingua": null,
+    "codice": "076032",
+    "codiceCatastale": "D593",
+    "sigla": "PZ",
+    "cap": [
+      "85020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2687,
+    "superficie": 72.2036,
+    "coordinate": {
+      "lat": 40.8093394,
+      "lng": 15.7068689
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Forenza",
+    "nomeAltraLingua": null,
+    "codice": "076033",
+    "codiceCatastale": "D696",
+    "sigla": "PZ",
+    "cap": [
+      "85023"
+    ],
+    "capoluogo": false,
+    "popolazione": 1795,
+    "superficie": 116.5415,
+    "coordinate": {
+      "lat": 40.8593146,
+      "lng": 15.8570724
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Francavilla in Sinni",
+    "nomeAltraLingua": null,
+    "codice": "076034",
+    "codiceCatastale": "D766",
+    "sigla": "PZ",
+    "cap": [
+      "85034"
+    ],
+    "capoluogo": false,
+    "popolazione": 3875,
+    "superficie": 46.6348,
+    "coordinate": {
+      "lat": 40.08144,
+      "lng": 16.2029241
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gallicchio",
+    "nomeAltraLingua": null,
+    "codice": "076035",
+    "codiceCatastale": "D876",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 786,
+    "superficie": 23.6177,
+    "coordinate": {
+      "lat": 40.2900155,
+      "lng": 16.1373915
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Genzano di Lucania",
+    "nomeAltraLingua": null,
+    "codice": "076036",
+    "codiceCatastale": "D971",
+    "sigla": "PZ",
+    "cap": [
+      "85013"
+    ],
+    "capoluogo": false,
+    "popolazione": 5183,
+    "superficie": 209.3631,
+    "coordinate": {
+      "lat": 40.8503549,
+      "lng": 16.0314405
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Grumento Nova",
+    "nomeAltraLingua": null,
+    "codice": "076037",
+    "codiceCatastale": "E221",
+    "sigla": "PZ",
+    "cap": [
+      "85050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1538,
+    "superficie": 66.8838,
+    "coordinate": {
+      "lat": 40.2860856,
+      "lng": 15.8903211
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Guardia Perticara",
+    "nomeAltraLingua": null,
+    "codice": "076038",
+    "codiceCatastale": "E246",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 526,
+    "superficie": 53.8126,
+    "coordinate": {
+      "lat": 40.3628552,
+      "lng": 16.0978885
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lagonegro",
+    "nomeAltraLingua": null,
+    "codice": "076039",
+    "codiceCatastale": "E409",
+    "sigla": "PZ",
+    "cap": [
+      "85042"
+    ],
+    "capoluogo": false,
+    "popolazione": 4989,
+    "superficie": 113.148,
+    "coordinate": {
+      "lat": 40.1240378,
+      "lng": 15.7665886
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Latronico",
+    "nomeAltraLingua": null,
+    "codice": "076040",
+    "codiceCatastale": "E474",
+    "sigla": "PZ",
+    "cap": [
+      "85043"
+    ],
+    "capoluogo": false,
+    "popolazione": 4016,
+    "superficie": 76.8565,
+    "coordinate": {
+      "lat": 40.0881137,
+      "lng": 16.0102731
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Laurenzana",
+    "nomeAltraLingua": null,
+    "codice": "076041",
+    "codiceCatastale": "E482",
+    "sigla": "PZ",
+    "cap": [
+      "85014"
+    ],
+    "capoluogo": false,
+    "popolazione": 1563,
+    "superficie": 95.5866,
+    "coordinate": {
+      "lat": 40.459088,
+      "lng": 15.9722019
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lauria",
+    "nomeAltraLingua": null,
+    "codice": "076042",
+    "codiceCatastale": "E483",
+    "sigla": "PZ",
+    "cap": [
+      "85044"
+    ],
+    "capoluogo": false,
+    "popolazione": 11771,
+    "superficie": 176.3236,
+    "coordinate": {
+      "lat": 40.0471476,
+      "lng": 15.8354683
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lavello",
+    "nomeAltraLingua": null,
+    "codice": "076043",
+    "codiceCatastale": "E493",
+    "sigla": "PZ",
+    "cap": [
+      "85024"
+    ],
+    "capoluogo": false,
+    "popolazione": 12922,
+    "superficie": 134.7931,
+    "coordinate": {
+      "lat": 41.0489312,
+      "lng": 15.8006881
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Maratea",
+    "nomeAltraLingua": null,
+    "codice": "076044",
+    "codiceCatastale": "E919",
+    "sigla": "PZ",
+    "cap": [
+      "85046"
+    ],
+    "capoluogo": false,
+    "popolazione": 4609,
+    "superficie": 67.8226,
+    "coordinate": {
+      "lat": 39.9929792,
+      "lng": 15.7230897
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Marsico Nuovo",
+    "nomeAltraLingua": null,
+    "codice": "076045",
+    "codiceCatastale": "E976",
+    "sigla": "PZ",
+    "cap": [
+      "85052"
+    ],
+    "capoluogo": false,
+    "popolazione": 3775,
+    "superficie": 100.975,
+    "coordinate": {
+      "lat": 40.4194501,
+      "lng": 15.7333078
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Marsicovetere",
+    "nomeAltraLingua": null,
+    "codice": "076046",
+    "codiceCatastale": "E977",
+    "sigla": "PZ",
+    "cap": [
+      "85050"
+    ],
+    "capoluogo": false,
+    "popolazione": 5668,
+    "superficie": 38.2049,
+    "coordinate": {
+      "lat": 40.3744184,
+      "lng": 15.8266215
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Maschito",
+    "nomeAltraLingua": null,
+    "codice": "076047",
+    "codiceCatastale": "F006",
+    "sigla": "PZ",
+    "cap": [
+      "85020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1454,
+    "superficie": 46.136,
+    "coordinate": {
+      "lat": 40.9070609,
+      "lng": 15.8298899
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Melfi",
+    "nomeAltraLingua": null,
+    "codice": "076048",
+    "codiceCatastale": "F104",
+    "sigla": "PZ",
+    "cap": [
+      "85025"
+    ],
+    "capoluogo": false,
+    "popolazione": 17031,
+    "superficie": 206.4465,
+    "coordinate": {
+      "lat": 40.9943566,
+      "lng": 15.652948
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Missanello",
+    "nomeAltraLingua": null,
+    "codice": "076049",
+    "codiceCatastale": "F249",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 480,
+    "superficie": 22.488,
+    "coordinate": {
+      "lat": 40.2812771,
+      "lng": 16.1660062
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Moliterno",
+    "nomeAltraLingua": null,
+    "codice": "076050",
+    "codiceCatastale": "F295",
+    "sigla": "PZ",
+    "cap": [
+      "85047"
+    ],
+    "capoluogo": false,
+    "popolazione": 3526,
+    "superficie": 98.8456,
+    "coordinate": {
+      "lat": 40.2419942,
+      "lng": 15.8688526
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montemilone",
+    "nomeAltraLingua": null,
+    "codice": "076051",
+    "codiceCatastale": "F568",
+    "sigla": "PZ",
+    "cap": [
+      "85020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1372,
+    "superficie": 113.7987,
+    "coordinate": {
+      "lat": 41.028554,
+      "lng": 15.9681481
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montemurro",
+    "nomeAltraLingua": null,
+    "codice": "076052",
+    "codiceCatastale": "F573",
+    "sigla": "PZ",
+    "cap": [
+      "85053"
+    ],
+    "capoluogo": false,
+    "popolazione": 1057,
+    "superficie": 57.2631,
+    "coordinate": {
+      "lat": 40.2977426,
+      "lng": 15.9932379
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Muro Lucano",
+    "nomeAltraLingua": null,
+    "codice": "076053",
+    "codiceCatastale": "F817",
+    "sigla": "PZ",
+    "cap": [
+      "85054"
+    ],
+    "capoluogo": false,
+    "popolazione": 4897,
+    "superficie": 126.5371,
+    "coordinate": {
+      "lat": 40.7520109,
+      "lng": 15.4841334
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Nemoli",
+    "nomeAltraLingua": null,
+    "codice": "076054",
+    "codiceCatastale": "F866",
+    "sigla": "PZ",
+    "cap": [
+      "85040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1374,
+    "superficie": 19.2612,
+    "coordinate": {
+      "lat": 40.0671821,
+      "lng": 15.8001714
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Noepoli",
+    "nomeAltraLingua": null,
+    "codice": "076055",
+    "codiceCatastale": "F917",
+    "sigla": "PZ",
+    "cap": [
+      "85035"
+    ],
+    "capoluogo": false,
+    "popolazione": 739,
+    "superficie": 46.5572,
+    "coordinate": {
+      "lat": 40.0870975,
+      "lng": 16.3280978
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Oppido Lucano",
+    "nomeAltraLingua": null,
+    "codice": "076056",
+    "codiceCatastale": "G081",
+    "sigla": "PZ",
+    "cap": [
+      "85015"
+    ],
+    "capoluogo": false,
+    "popolazione": 3524,
+    "superficie": 54.3295,
+    "coordinate": {
+      "lat": 40.7651613,
+      "lng": 15.9902853
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Palazzo San Gervasio",
+    "nomeAltraLingua": null,
+    "codice": "076057",
+    "codiceCatastale": "G261",
+    "sigla": "PZ",
+    "cap": [
+      "85026"
+    ],
+    "capoluogo": false,
+    "popolazione": 4360,
+    "superficie": 62.8749,
+    "coordinate": {
+      "lat": 40.9304787,
+      "lng": 15.98083
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pescopagano",
+    "nomeAltraLingua": null,
+    "codice": "076058",
+    "codiceCatastale": "G496",
+    "sigla": "PZ",
+    "cap": [
+      "85020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1648,
+    "superficie": 69.911,
+    "coordinate": {
+      "lat": 40.8358208,
+      "lng": 15.3969029
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Picerno",
+    "nomeAltraLingua": null,
+    "codice": "076059",
+    "codiceCatastale": "G590",
+    "sigla": "PZ",
+    "cap": [
+      "85055"
+    ],
+    "capoluogo": false,
+    "popolazione": 5612,
+    "superficie": 78.5128,
+    "coordinate": {
+      "lat": 40.6379446,
+      "lng": 15.6373495
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pietragalla",
+    "nomeAltraLingua": null,
+    "codice": "076060",
+    "codiceCatastale": "G616",
+    "sigla": "PZ",
+    "cap": [
+      "85016"
+    ],
+    "capoluogo": false,
+    "popolazione": 3818,
+    "superficie": 65.7572,
+    "coordinate": {
+      "lat": 40.748038,
+      "lng": 15.8824351
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pietrapertosa",
+    "nomeAltraLingua": null,
+    "codice": "076061",
+    "codiceCatastale": "G623",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 870,
+    "superficie": 67.3469,
+    "coordinate": {
+      "lat": 40.5158626,
+      "lng": 16.0637859
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pignola",
+    "nomeAltraLingua": null,
+    "codice": "076062",
+    "codiceCatastale": "G663",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 6811,
+    "superficie": 56.3472,
+    "coordinate": {
+      "lat": 40.5746766,
+      "lng": 15.7844367
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Potenza",
+    "nomeAltraLingua": null,
+    "codice": "076063",
+    "codiceCatastale": "G942",
+    "sigla": "PZ",
+    "cap": [
+      "85100"
+    ],
+    "capoluogo": true,
+    "popolazione": 64070,
+    "superficie": 175.4401,
+    "coordinate": {
+      "lat": 40.6394399,
+      "lng": 15.8050725
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rapolla",
+    "nomeAltraLingua": null,
+    "codice": "076064",
+    "codiceCatastale": "H186",
+    "sigla": "PZ",
+    "cap": [
+      "85027"
+    ],
+    "capoluogo": false,
+    "popolazione": 4137,
+    "superficie": 29.1776,
+    "coordinate": {
+      "lat": 40.9766346,
+      "lng": 15.6719084
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rapone",
+    "nomeAltraLingua": null,
+    "codice": "076065",
+    "codiceCatastale": "H187",
+    "sigla": "PZ",
+    "cap": [
+      "85020"
+    ],
+    "capoluogo": false,
+    "popolazione": 841,
+    "superficie": 29.5199,
+    "coordinate": {
+      "lat": 40.8466155,
+      "lng": 15.5003108
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rionero in Vulture",
+    "nomeAltraLingua": null,
+    "codice": "076066",
+    "codiceCatastale": "H307",
+    "sigla": "PZ",
+    "cap": [
+      "85028"
+    ],
+    "capoluogo": false,
+    "popolazione": 12446,
+    "superficie": 53.3074,
+    "coordinate": {
+      "lat": 40.9257807,
+      "lng": 15.6731469
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ripacandida",
+    "nomeAltraLingua": null,
+    "codice": "076067",
+    "codiceCatastale": "H312",
+    "sigla": "PZ",
+    "cap": [
+      "85020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1565,
+    "superficie": 33.4281,
+    "coordinate": {
+      "lat": 40.9109849,
+      "lng": 15.723653
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rivello",
+    "nomeAltraLingua": null,
+    "codice": "076068",
+    "codiceCatastale": "H348",
+    "sigla": "PZ",
+    "cap": [
+      "85040"
+    ],
+    "capoluogo": false,
+    "popolazione": 2513,
+    "superficie": 69.5522,
+    "coordinate": {
+      "lat": 40.0771356,
+      "lng": 15.7576841
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Roccanova",
+    "nomeAltraLingua": null,
+    "codice": "076069",
+    "codiceCatastale": "H426",
+    "sigla": "PZ",
+    "cap": [
+      "85036"
+    ],
+    "capoluogo": false,
+    "popolazione": 1288,
+    "superficie": 61.7922,
+    "coordinate": {
+      "lat": 40.214149,
+      "lng": 16.2050858
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rotonda",
+    "nomeAltraLingua": null,
+    "codice": "076070",
+    "codiceCatastale": "H590",
+    "sigla": "PZ",
+    "cap": [
+      "85048"
+    ],
+    "capoluogo": false,
+    "popolazione": 3147,
+    "superficie": 42.7457,
+    "coordinate": {
+      "lat": 39.9536236,
+      "lng": 16.0375564
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ruoti",
+    "nomeAltraLingua": null,
+    "codice": "076071",
+    "codiceCatastale": "H641",
+    "sigla": "PZ",
+    "cap": [
+      "85056"
+    ],
+    "capoluogo": false,
+    "popolazione": 3236,
+    "superficie": 55.5652,
+    "coordinate": {
+      "lat": 40.7176309,
+      "lng": 15.6765604
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ruvo del Monte",
+    "nomeAltraLingua": null,
+    "codice": "076072",
+    "codiceCatastale": "H646",
+    "sigla": "PZ",
+    "cap": [
+      "85020"
+    ],
+    "capoluogo": false,
+    "popolazione": 974,
+    "superficie": 32.6905,
+    "coordinate": {
+      "lat": 40.8472012,
+      "lng": 15.5402513
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Chirico Nuovo",
+    "nomeAltraLingua": null,
+    "codice": "076073",
+    "codiceCatastale": "H795",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1138,
+    "superficie": 23.647,
+    "coordinate": {
+      "lat": 40.6758913,
+      "lng": 16.0795737
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Chirico Raparo",
+    "nomeAltraLingua": null,
+    "codice": "076074",
+    "codiceCatastale": "H796",
+    "sigla": "PZ",
+    "cap": [
+      "85030"
+    ],
+    "capoluogo": false,
+    "popolazione": 914,
+    "superficie": 83.6052,
+    "coordinate": {
+      "lat": 40.1904532,
+      "lng": 16.0764134
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Costantino Albanese",
+    "nomeAltraLingua": null,
+    "codice": "076075",
+    "codiceCatastale": "H808",
+    "sigla": "PZ",
+    "cap": [
+      "85030"
+    ],
+    "capoluogo": false,
+    "popolazione": 601,
+    "superficie": 42.9257,
+    "coordinate": {
+      "lat": 40.0352882,
+      "lng": 16.3047941
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Fele",
+    "nomeAltraLingua": null,
+    "codice": "076076",
+    "codiceCatastale": "H831",
+    "sigla": "PZ",
+    "cap": [
+      "85020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2533,
+    "superficie": 96.9293,
+    "coordinate": {
+      "lat": 40.820684,
+      "lng": 15.5402421
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Martino d'Agri",
+    "nomeAltraLingua": null,
+    "codice": "076077",
+    "codiceCatastale": "H994",
+    "sigla": "PZ",
+    "cap": [
+      "85030"
+    ],
+    "capoluogo": false,
+    "popolazione": 643,
+    "superficie": 50.9229,
+    "coordinate": {
+      "lat": 40.2379626,
+      "lng": 16.0519594
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Severino Lucano",
+    "nomeAltraLingua": null,
+    "codice": "076078",
+    "codiceCatastale": "I157",
+    "sigla": "PZ",
+    "cap": [
+      "85030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1373,
+    "superficie": 61.1062,
+    "coordinate": {
+      "lat": 40.0206521,
+      "lng": 16.1392472
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sant'Angelo Le Fratte",
+    "nomeAltraLingua": null,
+    "codice": "076079",
+    "codiceCatastale": "I288",
+    "sigla": "PZ",
+    "cap": [
+      "85050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1290,
+    "superficie": 22.5145,
+    "coordinate": {
+      "lat": 40.5462429,
+      "lng": 15.5590936
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sant'Arcangelo",
+    "nomeAltraLingua": null,
+    "codice": "076080",
+    "codiceCatastale": "I305",
+    "sigla": "PZ",
+    "cap": [
+      "85037"
+    ],
+    "capoluogo": false,
+    "popolazione": 5955,
+    "superficie": 89.4517,
+    "coordinate": {
+      "lat": 40.2464487,
+      "lng": 16.2749057
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sarconi",
+    "nomeAltraLingua": null,
+    "codice": "076081",
+    "codiceCatastale": "I426",
+    "sigla": "PZ",
+    "cap": [
+      "85050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1422,
+    "superficie": 30.7241,
+    "coordinate": {
+      "lat": 40.2471835,
+      "lng": 15.8887521
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sasso di Castalda",
+    "nomeAltraLingua": null,
+    "codice": "076082",
+    "codiceCatastale": "I457",
+    "sigla": "PZ",
+    "cap": [
+      "85050"
+    ],
+    "capoluogo": false,
+    "popolazione": 725,
+    "superficie": 45.9752,
+    "coordinate": {
+      "lat": 40.4879239,
+      "lng": 15.6778314
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Satriano di Lucania",
+    "nomeAltraLingua": null,
+    "codice": "076083",
+    "codiceCatastale": "G614",
+    "sigla": "PZ",
+    "cap": [
+      "85050"
+    ],
+    "capoluogo": false,
+    "popolazione": 2262,
+    "superficie": 32.9347,
+    "coordinate": {
+      "lat": 40.5448519,
+      "lng": 15.638319
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Savoia di Lucania",
+    "nomeAltraLingua": null,
+    "codice": "076084",
+    "codiceCatastale": "H730",
+    "sigla": "PZ",
+    "cap": [
+      "85050"
+    ],
+    "capoluogo": false,
+    "popolazione": 986,
+    "superficie": 33.3438,
+    "coordinate": {
+      "lat": 40.5692831,
+      "lng": 15.5512943
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Senise",
+    "nomeAltraLingua": null,
+    "codice": "076085",
+    "codiceCatastale": "I610",
+    "sigla": "PZ",
+    "cap": [
+      "85038"
+    ],
+    "capoluogo": false,
+    "popolazione": 6463,
+    "superficie": 97.0875,
+    "coordinate": {
+      "lat": 40.1433283,
+      "lng": 16.2907211
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Spinoso",
+    "nomeAltraLingua": null,
+    "codice": "076086",
+    "codiceCatastale": "I917",
+    "sigla": "PZ",
+    "cap": [
+      "85039"
+    ],
+    "capoluogo": false,
+    "popolazione": 1296,
+    "superficie": 38.0141,
+    "coordinate": {
+      "lat": 40.2678248,
+      "lng": 15.9667815
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Teana",
+    "nomeAltraLingua": null,
+    "codice": "076087",
+    "codiceCatastale": "L082",
+    "sigla": "PZ",
+    "cap": [
+      "85032"
+    ],
+    "capoluogo": false,
+    "popolazione": 509,
+    "superficie": 19.2479,
+    "coordinate": {
+      "lat": 40.1259504,
+      "lng": 16.153905
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Terranova di Pollino",
+    "nomeAltraLingua": null,
+    "codice": "076088",
+    "codiceCatastale": "L126",
+    "sigla": "PZ",
+    "cap": [
+      "85030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1006,
+    "superficie": 113.6373,
+    "coordinate": {
+      "lat": 39.9767038,
+      "lng": 16.2982932
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tito",
+    "nomeAltraLingua": null,
+    "codice": "076089",
+    "codiceCatastale": "L181",
+    "sigla": "PZ",
+    "cap": [
+      "85050"
+    ],
+    "capoluogo": false,
+    "popolazione": 7053,
+    "superficie": 70.6956,
+    "coordinate": {
+      "lat": 40.582516,
+      "lng": 15.6767029
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tolve",
+    "nomeAltraLingua": null,
+    "codice": "076090",
+    "codiceCatastale": "L197",
+    "sigla": "PZ",
+    "cap": [
+      "85017"
+    ],
+    "capoluogo": false,
+    "popolazione": 2933,
+    "superficie": 128.3617,
+    "coordinate": {
+      "lat": 40.6961628,
+      "lng": 16.019307
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tramutola",
+    "nomeAltraLingua": null,
+    "codice": "076091",
+    "codiceCatastale": "L326",
+    "sigla": "PZ",
+    "cap": [
+      "85057"
+    ],
+    "capoluogo": false,
+    "popolazione": 2876,
+    "superficie": 36.3739,
+    "coordinate": {
+      "lat": 40.3148139,
+      "lng": 15.7904093
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Trecchina",
+    "nomeAltraLingua": null,
+    "codice": "076092",
+    "codiceCatastale": "L357",
+    "sigla": "PZ",
+    "cap": [
+      "85049"
+    ],
+    "capoluogo": false,
+    "popolazione": 2148,
+    "superficie": 38.2846,
+    "coordinate": {
+      "lat": 40.0264084,
+      "lng": 15.7778677
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Trivigno",
+    "nomeAltraLingua": null,
+    "codice": "076093",
+    "codiceCatastale": "L439",
+    "sigla": "PZ",
+    "cap": [
+      "85018"
+    ],
+    "capoluogo": false,
+    "popolazione": 581,
+    "superficie": 26.1445,
+    "coordinate": {
+      "lat": 40.5802499,
+      "lng": 15.9888326
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vaglio Basilicata",
+    "nomeAltraLingua": null,
+    "codice": "076094",
+    "codiceCatastale": "L532",
+    "sigla": "PZ",
+    "cap": [
+      "85010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1831,
+    "superficie": 43.388,
+    "coordinate": {
+      "lat": 40.6657376,
+      "lng": 15.9200005
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Venosa",
+    "nomeAltraLingua": null,
+    "codice": "076095",
+    "codiceCatastale": "L738",
+    "sigla": "PZ",
+    "cap": [
+      "85029"
+    ],
+    "capoluogo": false,
+    "popolazione": 10795,
+    "superficie": 169.7335,
+    "coordinate": {
+      "lat": 40.9645011,
+      "lng": 15.8230782
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vietri di Potenza",
+    "nomeAltraLingua": null,
+    "codice": "076096",
+    "codiceCatastale": "L859",
+    "sigla": "PZ",
+    "cap": [
+      "85058"
+    ],
+    "capoluogo": false,
+    "popolazione": 2650,
+    "superficie": 52.0774,
+    "coordinate": {
+      "lat": 40.5983566,
+      "lng": 15.5076167
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Viggianello",
+    "nomeAltraLingua": null,
+    "codice": "076097",
+    "codiceCatastale": "L873",
+    "sigla": "PZ",
+    "cap": [
+      "85040"
+    ],
+    "capoluogo": false,
+    "popolazione": 2659,
+    "superficie": 121.2528,
+    "coordinate": {
+      "lat": 39.9725349,
+      "lng": 16.0849109
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Viggiano",
+    "nomeAltraLingua": null,
+    "codice": "076098",
+    "codiceCatastale": "L874",
+    "sigla": "PZ",
+    "cap": [
+      "85059"
+    ],
+    "capoluogo": false,
+    "popolazione": 3208,
+    "superficie": 89.6985,
+    "coordinate": {
+      "lat": 40.3399413,
+      "lng": 15.9018106
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ginestra",
+    "nomeAltraLingua": null,
+    "codice": "076099",
+    "codiceCatastale": "E033",
+    "sigla": "PZ",
+    "cap": [
+      "85020"
+    ],
+    "capoluogo": false,
+    "popolazione": 671,
+    "superficie": 13.3482,
+    "coordinate": {
+      "lat": 40.9312388,
+      "lng": 15.7333532
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Paterno",
+    "nomeAltraLingua": null,
+    "codice": "076100",
+    "codiceCatastale": "M269",
+    "sigla": "PZ",
+    "cap": [
+      "85050"
+    ],
+    "capoluogo": false,
+    "popolazione": 2993,
+    "superficie": 40.548,
+    "coordinate": {
+      "lat": 40.3769731,
+      "lng": 15.7320519
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Potenza",
+      "codice": "076",
+      "sigla": "PZ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Accettura",
+    "nomeAltraLingua": null,
+    "codice": "077001",
+    "codiceCatastale": "A017",
+    "sigla": "MT",
+    "cap": [
+      "75011"
+    ],
+    "capoluogo": false,
+    "popolazione": 1602,
+    "superficie": 90.4896,
+    "coordinate": {
+      "lat": 40.4914864,
+      "lng": 16.1574102
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Aliano",
+    "nomeAltraLingua": null,
+    "codice": "077002",
+    "codiceCatastale": "A196",
+    "sigla": "MT",
+    "cap": [
+      "75010"
+    ],
+    "capoluogo": false,
+    "popolazione": 859,
+    "superficie": 98.3158,
+    "coordinate": {
+      "lat": 40.3111913,
+      "lng": 16.2320406
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bernalda",
+    "nomeAltraLingua": null,
+    "codice": "077003",
+    "codiceCatastale": "A801",
+    "sigla": "MT",
+    "cap": [
+      "75012"
+    ],
+    "capoluogo": false,
+    "popolazione": 11912,
+    "superficie": 125.339,
+    "coordinate": {
+      "lat": 40.4083092,
+      "lng": 16.6858517
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Calciano",
+    "nomeAltraLingua": null,
+    "codice": "077004",
+    "codiceCatastale": "B391",
+    "sigla": "MT",
+    "cap": [
+      "75010"
+    ],
+    "capoluogo": false,
+    "popolazione": 655,
+    "superficie": 49.3118,
+    "coordinate": {
+      "lat": 40.5873776,
+      "lng": 16.1899238
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cirigliano",
+    "nomeAltraLingua": null,
+    "codice": "077005",
+    "codiceCatastale": "C723",
+    "sigla": "MT",
+    "cap": [
+      "75010"
+    ],
+    "capoluogo": false,
+    "popolazione": 273,
+    "superficie": 14.9081,
+    "coordinate": {
+      "lat": 40.394498,
+      "lng": 16.1726557
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Colobraro",
+    "nomeAltraLingua": null,
+    "codice": "077006",
+    "codiceCatastale": "C888",
+    "sigla": "MT",
+    "cap": [
+      "75021"
+    ],
+    "capoluogo": false,
+    "popolazione": 1055,
+    "superficie": 66.0596,
+    "coordinate": {
+      "lat": 40.1876354,
+      "lng": 16.4229581
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Craco",
+    "nomeAltraLingua": null,
+    "codice": "077007",
+    "codiceCatastale": "D128",
+    "sigla": "MT",
+    "cap": [
+      "75010"
+    ],
+    "capoluogo": false,
+    "popolazione": 592,
+    "superficie": 77.2693,
+    "coordinate": {
+      "lat": 40.3588525,
+      "lng": 16.4955431
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ferrandina",
+    "nomeAltraLingua": null,
+    "codice": "077008",
+    "codiceCatastale": "D547",
+    "sigla": "MT",
+    "cap": [
+      "75013"
+    ],
+    "capoluogo": false,
+    "popolazione": 7922,
+    "superficie": 217.9072,
+    "coordinate": {
+      "lat": 40.4928517,
+      "lng": 16.4567912
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Garaguso",
+    "nomeAltraLingua": null,
+    "codice": "077009",
+    "codiceCatastale": "D909",
+    "sigla": "MT",
+    "cap": [
+      "75010"
+    ],
+    "capoluogo": false,
+    "popolazione": 940,
+    "superficie": 38.8026,
+    "coordinate": {
+      "lat": 40.5489471,
+      "lng": 16.2279736
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gorgoglione",
+    "nomeAltraLingua": null,
+    "codice": "077010",
+    "codiceCatastale": "E093",
+    "sigla": "MT",
+    "cap": [
+      "75010"
+    ],
+    "capoluogo": false,
+    "popolazione": 850,
+    "superficie": 34.6054,
+    "coordinate": {
+      "lat": 40.3946017,
+      "lng": 16.1430767
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Grassano",
+    "nomeAltraLingua": null,
+    "codice": "077011",
+    "codiceCatastale": "E147",
+    "sigla": "MT",
+    "cap": [
+      "75014"
+    ],
+    "capoluogo": false,
+    "popolazione": 4655,
+    "superficie": 41.5848,
+    "coordinate": {
+      "lat": 40.6331659,
+      "lng": 16.2841518
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Grottole",
+    "nomeAltraLingua": null,
+    "codice": "077012",
+    "codiceCatastale": "E213",
+    "sigla": "MT",
+    "cap": [
+      "75010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1985,
+    "superficie": 116.8302,
+    "coordinate": {
+      "lat": 40.6011245,
+      "lng": 16.3839534
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Irsina",
+    "nomeAltraLingua": null,
+    "codice": "077013",
+    "codiceCatastale": "E326",
+    "sigla": "MT",
+    "cap": [
+      "75022"
+    ],
+    "capoluogo": false,
+    "popolazione": 4364,
+    "superficie": 264.2826,
+    "coordinate": {
+      "lat": 40.7458339,
+      "lng": 16.2424783
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Matera",
+    "nomeAltraLingua": null,
+    "codice": "077014",
+    "codiceCatastale": "F052",
+    "sigla": "MT",
+    "cap": [
+      "75100"
+    ],
+    "capoluogo": true,
+    "popolazione": 59652,
+    "superficie": 393.2128,
+    "coordinate": {
+      "lat": 40.6665696,
+      "lng": 16.6003782
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Miglionico",
+    "nomeAltraLingua": null,
+    "codice": "077015",
+    "codiceCatastale": "F201",
+    "sigla": "MT",
+    "cap": [
+      "75010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2358,
+    "superficie": 88.6961,
+    "coordinate": {
+      "lat": 40.566643,
+      "lng": 16.5013821
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montalbano Jonico",
+    "nomeAltraLingua": null,
+    "codice": "077016",
+    "codiceCatastale": "F399",
+    "sigla": "MT",
+    "cap": [
+      "75023"
+    ],
+    "capoluogo": false,
+    "popolazione": 6612,
+    "superficie": 135.5174,
+    "coordinate": {
+      "lat": 40.2879472,
+      "lng": 16.5688645
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montescaglioso",
+    "nomeAltraLingua": null,
+    "codice": "077017",
+    "codiceCatastale": "F637",
+    "sigla": "MT",
+    "cap": [
+      "75024"
+    ],
+    "capoluogo": false,
+    "popolazione": 9252,
+    "superficie": 175.6004,
+    "coordinate": {
+      "lat": 40.5575121,
+      "lng": 16.6642492
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Nova Siri",
+    "nomeAltraLingua": null,
+    "codice": "077018",
+    "codiceCatastale": "A942",
+    "sigla": "MT",
+    "cap": [
+      "75020"
+    ],
+    "capoluogo": false,
+    "popolazione": 6810,
+    "superficie": 52.3127,
+    "coordinate": {
+      "lat": 40.1469488,
+      "lng": 16.5387989
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Oliveto Lucano",
+    "nomeAltraLingua": null,
+    "codice": "077019",
+    "codiceCatastale": "G037",
+    "sigla": "MT",
+    "cap": [
+      "75010"
+    ],
+    "capoluogo": false,
+    "popolazione": 345,
+    "superficie": 31.0811,
+    "coordinate": {
+      "lat": 40.5355375,
+      "lng": 16.1854856
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pisticci",
+    "nomeAltraLingua": null,
+    "codice": "077020",
+    "codiceCatastale": "G712",
+    "sigla": "MT",
+    "cap": [
+      "75015"
+    ],
+    "capoluogo": false,
+    "popolazione": 16864,
+    "superficie": 234.9038,
+    "coordinate": {
+      "lat": 40.3906439,
+      "lng": 16.5586462
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Policoro",
+    "nomeAltraLingua": null,
+    "codice": "077021",
+    "codiceCatastale": "G786",
+    "sigla": "MT",
+    "cap": [
+      "75025"
+    ],
+    "capoluogo": false,
+    "popolazione": 17738,
+    "superficie": 67.7199,
+    "coordinate": {
+      "lat": 40.2086976,
+      "lng": 16.6690809
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pomarico",
+    "nomeAltraLingua": null,
+    "codice": "077022",
+    "codiceCatastale": "G806",
+    "sigla": "MT",
+    "cap": [
+      "75016"
+    ],
+    "capoluogo": false,
+    "popolazione": 3767,
+    "superficie": 129.8227,
+    "coordinate": {
+      "lat": 40.5175492,
+      "lng": 16.5468922
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rotondella",
+    "nomeAltraLingua": null,
+    "codice": "077023",
+    "codiceCatastale": "H591",
+    "sigla": "MT",
+    "cap": [
+      "75026"
+    ],
+    "capoluogo": false,
+    "popolazione": 2404,
+    "superficie": 76.604,
+    "coordinate": {
+      "lat": 40.1726344,
+      "lng": 16.5256667
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Salandra",
+    "nomeAltraLingua": null,
+    "codice": "077024",
+    "codiceCatastale": "H687",
+    "sigla": "MT",
+    "cap": [
+      "75017"
+    ],
+    "capoluogo": false,
+    "popolazione": 2486,
+    "superficie": 77.4536,
+    "coordinate": {
+      "lat": 40.5254607,
+      "lng": 16.3196746
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Giorgio Lucano",
+    "nomeAltraLingua": null,
+    "codice": "077025",
+    "codiceCatastale": "H888",
+    "sigla": "MT",
+    "cap": [
+      "75027"
+    ],
+    "capoluogo": false,
+    "popolazione": 1010,
+    "superficie": 39.4072,
+    "coordinate": {
+      "lat": 40.1131596,
+      "lng": 16.389412
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Mauro Forte",
+    "nomeAltraLingua": null,
+    "codice": "077026",
+    "codiceCatastale": "I029",
+    "sigla": "MT",
+    "cap": [
+      "75010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1233,
+    "superficie": 87.2045,
+    "coordinate": {
+      "lat": 40.4871609,
+      "lng": 16.25269
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Stigliano",
+    "nomeAltraLingua": null,
+    "codice": "077027",
+    "codiceCatastale": "I954",
+    "sigla": "MT",
+    "cap": [
+      "75018"
+    ],
+    "capoluogo": false,
+    "popolazione": 3523,
+    "superficie": 211.1887,
+    "coordinate": {
+      "lat": 40.4022207,
+      "lng": 16.2283702
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tricarico",
+    "nomeAltraLingua": null,
+    "codice": "077028",
+    "codiceCatastale": "L418",
+    "sigla": "MT",
+    "cap": [
+      "75019"
+    ],
+    "capoluogo": false,
+    "popolazione": 4710,
+    "superficie": 178.0564,
+    "coordinate": {
+      "lat": 40.6187894,
+      "lng": 16.1419886
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tursi",
+    "nomeAltraLingua": null,
+    "codice": "077029",
+    "codiceCatastale": "L477",
+    "sigla": "MT",
+    "cap": [
+      "75028"
+    ],
+    "capoluogo": false,
+    "popolazione": 4748,
+    "superficie": 160.2664,
+    "coordinate": {
+      "lat": 40.2461016,
+      "lng": 16.468605
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Valsinni",
+    "nomeAltraLingua": null,
+    "codice": "077030",
+    "codiceCatastale": "D513",
+    "sigla": "MT",
+    "cap": [
+      "75029"
+    ],
+    "capoluogo": false,
+    "popolazione": 1314,
+    "superficie": 32.2677,
+    "coordinate": {
+      "lat": 40.1705995,
+      "lng": 16.4419838
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Scanzano Jonico",
+    "nomeAltraLingua": null,
+    "codice": "077031",
+    "codiceCatastale": "M256",
+    "sigla": "MT",
+    "cap": [
+      "75020"
+    ],
+    "capoluogo": false,
+    "popolazione": 7491,
+    "superficie": 72.1191,
+    "coordinate": {
+      "lat": 40.2502969,
+      "lng": 16.6909318
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Basilicata",
+      "codice": "17"
+    },
+    "provincia": {
+      "nome": "Matera",
+      "codice": "077",
+      "sigla": "MT",
+      "tipo": "provincia"
+    }
+  }
+]

@@ -1,0 +1,7310 @@
+[
+  {
+    "nome": "Airole",
+    "nomeAltraLingua": null,
+    "codice": "008001",
+    "codiceCatastale": "A111",
+    "sigla": "IM",
+    "cap": [
+      "18030"
+    ],
+    "capoluogo": false,
+    "popolazione": 359,
+    "superficie": 14.6335,
+    "coordinate": {
+      "lat": 43.8716987,
+      "lng": 7.5535255
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Apricale",
+    "nomeAltraLingua": null,
+    "codice": "008002",
+    "codiceCatastale": "A338",
+    "sigla": "IM",
+    "cap": [
+      "18035"
+    ],
+    "capoluogo": false,
+    "popolazione": 611,
+    "superficie": 19.6643,
+    "coordinate": {
+      "lat": 43.8804395,
+      "lng": 7.6604559
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Aquila d'Arroscia",
+    "nomeAltraLingua": null,
+    "codice": "008003",
+    "codiceCatastale": "A344",
+    "sigla": "IM",
+    "cap": [
+      "18020"
+    ],
+    "capoluogo": false,
+    "popolazione": 138,
+    "superficie": 9.8538,
+    "coordinate": {
+      "lat": 44.0832602,
+      "lng": 8.0054724
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Armo",
+    "nomeAltraLingua": null,
+    "codice": "008004",
+    "codiceCatastale": "A418",
+    "sigla": "IM",
+    "cap": [
+      "18026"
+    ],
+    "capoluogo": false,
+    "popolazione": 120,
+    "superficie": 10.1524,
+    "coordinate": {
+      "lat": 44.0873294,
+      "lng": 7.9139972
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Aurigo",
+    "nomeAltraLingua": null,
+    "codice": "008005",
+    "codiceCatastale": "A499",
+    "sigla": "IM",
+    "cap": [
+      "18020"
+    ],
+    "capoluogo": false,
+    "popolazione": 328,
+    "superficie": 9.3954,
+    "coordinate": {
+      "lat": 43.982982,
+      "lng": 7.9225722
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Badalucco",
+    "nomeAltraLingua": null,
+    "codice": "008006",
+    "codiceCatastale": "A536",
+    "sigla": "IM",
+    "cap": [
+      "18010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1075,
+    "superficie": 16.1435,
+    "coordinate": {
+      "lat": 43.915656,
+      "lng": 7.8470545
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bajardo",
+    "nomeAltraLingua": null,
+    "codice": "008007",
+    "codiceCatastale": "A581",
+    "sigla": "IM",
+    "cap": [
+      "18031"
+    ],
+    "capoluogo": false,
+    "popolazione": 378,
+    "superficie": 24.4246,
+    "coordinate": {
+      "lat": 43.9035671,
+      "lng": 7.7182353
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bordighera",
+    "nomeAltraLingua": null,
+    "codice": "008008",
+    "codiceCatastale": "A984",
+    "sigla": "IM",
+    "cap": [
+      "18012"
+    ],
+    "capoluogo": false,
+    "popolazione": 10213,
+    "superficie": 10.8416,
+    "coordinate": {
+      "lat": 43.7793477,
+      "lng": 7.6723874
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Borghetto d'Arroscia",
+    "nomeAltraLingua": null,
+    "codice": "008009",
+    "codiceCatastale": "A993",
+    "sigla": "IM",
+    "cap": [
+      "18020"
+    ],
+    "capoluogo": false,
+    "popolazione": 403,
+    "superficie": 25.9316,
+    "coordinate": {
+      "lat": 44.0574747,
+      "lng": 7.9818439
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Borgomaro",
+    "nomeAltraLingua": null,
+    "codice": "008010",
+    "codiceCatastale": "B020",
+    "sigla": "IM",
+    "cap": [
+      "18021"
+    ],
+    "capoluogo": false,
+    "popolazione": 814,
+    "superficie": 23.1314,
+    "coordinate": {
+      "lat": 43.9755629,
+      "lng": 7.9449326
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Camporosso",
+    "nomeAltraLingua": null,
+    "codice": "008011",
+    "codiceCatastale": "B559",
+    "sigla": "IM",
+    "cap": [
+      "18033"
+    ],
+    "capoluogo": false,
+    "popolazione": 5611,
+    "superficie": 18.0438,
+    "coordinate": {
+      "lat": 43.8151379,
+      "lng": 7.6283701
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Caravonica",
+    "nomeAltraLingua": null,
+    "codice": "008012",
+    "codiceCatastale": "B734",
+    "sigla": "IM",
+    "cap": [
+      "18020"
+    ],
+    "capoluogo": false,
+    "popolazione": 244,
+    "superficie": 4.6408,
+    "coordinate": {
+      "lat": 43.9923865,
+      "lng": 7.9588567
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castellaro",
+    "nomeAltraLingua": null,
+    "codice": "008014",
+    "codiceCatastale": "C143",
+    "sigla": "IM",
+    "cap": [
+      "18011"
+    ],
+    "capoluogo": false,
+    "popolazione": 1268,
+    "superficie": 7.9908,
+    "coordinate": {
+      "lat": 43.8640914,
+      "lng": 7.8686352
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castel Vittorio",
+    "nomeAltraLingua": null,
+    "codice": "008015",
+    "codiceCatastale": "C110",
+    "sigla": "IM",
+    "cap": [
+      "18030"
+    ],
+    "capoluogo": false,
+    "popolazione": 248,
+    "superficie": 25.7667,
+    "coordinate": {
+      "lat": 43.9286991,
+      "lng": 7.6731642
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ceriana",
+    "nomeAltraLingua": null,
+    "codice": "008016",
+    "codiceCatastale": "C511",
+    "sigla": "IM",
+    "cap": [
+      "18034"
+    ],
+    "capoluogo": false,
+    "popolazione": 1078,
+    "superficie": 32.1632,
+    "coordinate": {
+      "lat": 43.8792158,
+      "lng": 7.77437
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cervo",
+    "nomeAltraLingua": null,
+    "codice": "008017",
+    "codiceCatastale": "C559",
+    "sigla": "IM",
+    "cap": [
+      "18010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1076,
+    "superficie": 3.6269,
+    "coordinate": {
+      "lat": 43.92532,
+      "lng": 8.1144129
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cesio",
+    "nomeAltraLingua": null,
+    "codice": "008018",
+    "codiceCatastale": "C578",
+    "sigla": "IM",
+    "cap": [
+      "18022"
+    ],
+    "capoluogo": false,
+    "popolazione": 257,
+    "superficie": 8.7247,
+    "coordinate": {
+      "lat": 44.0077093,
+      "lng": 7.9749855
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Chiusanico",
+    "nomeAltraLingua": null,
+    "codice": "008019",
+    "codiceCatastale": "C657",
+    "sigla": "IM",
+    "cap": [
+      "18027"
+    ],
+    "capoluogo": false,
+    "popolazione": 599,
+    "superficie": 13.6297,
+    "coordinate": {
+      "lat": 43.9731949,
+      "lng": 7.991604
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Chiusavecchia",
+    "nomeAltraLingua": null,
+    "codice": "008020",
+    "codiceCatastale": "C660",
+    "sigla": "IM",
+    "cap": [
+      "18027"
+    ],
+    "capoluogo": false,
+    "popolazione": 510,
+    "superficie": 4.0137,
+    "coordinate": {
+      "lat": 43.9678804,
+      "lng": 7.9833472
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cipressa",
+    "nomeAltraLingua": null,
+    "codice": "008021",
+    "codiceCatastale": "C718",
+    "sigla": "IM",
+    "cap": [
+      "18017"
+    ],
+    "capoluogo": false,
+    "popolazione": 1203,
+    "superficie": 9.4299,
+    "coordinate": {
+      "lat": 43.8529799,
+      "lng": 7.9339896
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Civezza",
+    "nomeAltraLingua": null,
+    "codice": "008022",
+    "codiceCatastale": "C755",
+    "sigla": "IM",
+    "cap": [
+      "18017"
+    ],
+    "capoluogo": false,
+    "popolazione": 630,
+    "superficie": 4.048,
+    "coordinate": {
+      "lat": 43.8793093,
+      "lng": 7.9513003
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cosio d'Arroscia",
+    "nomeAltraLingua": null,
+    "codice": "008023",
+    "codiceCatastale": "D087",
+    "sigla": "IM",
+    "cap": [
+      "18023"
+    ],
+    "capoluogo": false,
+    "popolazione": 173,
+    "superficie": 40.6052,
+    "coordinate": {
+      "lat": 44.0757649,
+      "lng": 7.8311471
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Costarainera",
+    "nomeAltraLingua": null,
+    "codice": "008024",
+    "codiceCatastale": "D114",
+    "sigla": "IM",
+    "cap": [
+      "18017"
+    ],
+    "capoluogo": false,
+    "popolazione": 783,
+    "superficie": 2.4028,
+    "coordinate": {
+      "lat": 43.8489468,
+      "lng": 7.9498666
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Diano Arentino",
+    "nomeAltraLingua": null,
+    "codice": "008025",
+    "codiceCatastale": "D293",
+    "sigla": "IM",
+    "cap": [
+      "18013"
+    ],
+    "capoluogo": false,
+    "popolazione": 693,
+    "superficie": 8.3816,
+    "coordinate": {
+      "lat": 43.9479689,
+      "lng": 8.0422928
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Diano Castello",
+    "nomeAltraLingua": null,
+    "codice": "008026",
+    "codiceCatastale": "D296",
+    "sigla": "IM",
+    "cap": [
+      "18013"
+    ],
+    "capoluogo": false,
+    "popolazione": 2236,
+    "superficie": 5.9699,
+    "coordinate": {
+      "lat": 43.9241089,
+      "lng": 8.0670603
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Diano Marina",
+    "nomeAltraLingua": null,
+    "codice": "008027",
+    "codiceCatastale": "D297",
+    "sigla": "IM",
+    "cap": [
+      "18013"
+    ],
+    "capoluogo": false,
+    "popolazione": 5552,
+    "superficie": 6.6564,
+    "coordinate": {
+      "lat": 43.9100897,
+      "lng": 8.0817608
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Diano San Pietro",
+    "nomeAltraLingua": null,
+    "codice": "008028",
+    "codiceCatastale": "D298",
+    "sigla": "IM",
+    "cap": [
+      "18013"
+    ],
+    "capoluogo": false,
+    "popolazione": 1094,
+    "superficie": 11.8714,
+    "coordinate": {
+      "lat": 43.9310011,
+      "lng": 8.0685858
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Dolceacqua",
+    "nomeAltraLingua": null,
+    "codice": "008029",
+    "codiceCatastale": "D318",
+    "sigla": "IM",
+    "cap": [
+      "18035"
+    ],
+    "capoluogo": false,
+    "popolazione": 2155,
+    "superficie": 19.9907,
+    "coordinate": {
+      "lat": 43.8480598,
+      "lng": 7.6234003
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Dolcedo",
+    "nomeAltraLingua": null,
+    "codice": "008030",
+    "codiceCatastale": "D319",
+    "sigla": "IM",
+    "cap": [
+      "18020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1267,
+    "superficie": 19.8128,
+    "coordinate": {
+      "lat": 43.9071182,
+      "lng": 7.9510789
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Imperia",
+    "nomeAltraLingua": null,
+    "codice": "008031",
+    "codiceCatastale": "E290",
+    "sigla": "IM",
+    "cap": [
+      "18100"
+    ],
+    "capoluogo": true,
+    "popolazione": 42490,
+    "superficie": 45.2996,
+    "coordinate": {
+      "lat": 43.8855883,
+      "lng": 8.0278634
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Isolabona",
+    "nomeAltraLingua": null,
+    "codice": "008032",
+    "codiceCatastale": "E346",
+    "sigla": "IM",
+    "cap": [
+      "18035"
+    ],
+    "capoluogo": false,
+    "popolazione": 675,
+    "superficie": 12.6567,
+    "coordinate": {
+      "lat": 43.8799711,
+      "lng": 7.6388396
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lucinasco",
+    "nomeAltraLingua": null,
+    "codice": "008033",
+    "codiceCatastale": "E719",
+    "sigla": "IM",
+    "cap": [
+      "18020"
+    ],
+    "capoluogo": false,
+    "popolazione": 308,
+    "superficie": 7.9307,
+    "coordinate": {
+      "lat": 43.9677323,
+      "lng": 7.962708
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mendatica",
+    "nomeAltraLingua": null,
+    "codice": "008034",
+    "codiceCatastale": "F123",
+    "sigla": "IM",
+    "cap": [
+      "18025"
+    ],
+    "capoluogo": false,
+    "popolazione": 161,
+    "superficie": 30.7068,
+    "coordinate": {
+      "lat": 44.0763657,
+      "lng": 7.8055581
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Molini di Triora",
+    "nomeAltraLingua": null,
+    "codice": "008035",
+    "codiceCatastale": "F290",
+    "sigla": "IM",
+    "cap": [
+      "18010"
+    ],
+    "capoluogo": false,
+    "popolazione": 647,
+    "superficie": 58.0593,
+    "coordinate": {
+      "lat": 43.9900855,
+      "lng": 7.7743379
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montegrosso Pian Latte",
+    "nomeAltraLingua": null,
+    "codice": "008037",
+    "codiceCatastale": "F528",
+    "sigla": "IM",
+    "cap": [
+      "18025"
+    ],
+    "capoluogo": false,
+    "popolazione": 111,
+    "superficie": 10.1965,
+    "coordinate": {
+      "lat": 44.066588,
+      "lng": 7.8176147
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Olivetta San Michele",
+    "nomeAltraLingua": null,
+    "codice": "008038",
+    "codiceCatastale": "G041",
+    "sigla": "IM",
+    "cap": [
+      "18030"
+    ],
+    "capoluogo": false,
+    "popolazione": 190,
+    "superficie": 14.001,
+    "coordinate": {
+      "lat": 43.8797738,
+      "lng": 7.5154847
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ospedaletti",
+    "nomeAltraLingua": null,
+    "codice": "008039",
+    "codiceCatastale": "G164",
+    "sigla": "IM",
+    "cap": [
+      "18014"
+    ],
+    "capoluogo": false,
+    "popolazione": 3167,
+    "superficie": 5.2357,
+    "coordinate": {
+      "lat": 43.8007179,
+      "lng": 7.7176938
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Perinaldo",
+    "nomeAltraLingua": null,
+    "codice": "008040",
+    "codiceCatastale": "G454",
+    "sigla": "IM",
+    "cap": [
+      "18032"
+    ],
+    "capoluogo": false,
+    "popolazione": 805,
+    "superficie": 20.1764,
+    "coordinate": {
+      "lat": 43.8667887,
+      "lng": 7.6738554
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pietrabruna",
+    "nomeAltraLingua": null,
+    "codice": "008041",
+    "codiceCatastale": "G607",
+    "sigla": "IM",
+    "cap": [
+      "18010"
+    ],
+    "capoluogo": false,
+    "popolazione": 414,
+    "superficie": 10.1164,
+    "coordinate": {
+      "lat": 43.8896627,
+      "lng": 7.9033984
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pieve di Teco",
+    "nomeAltraLingua": null,
+    "codice": "008042",
+    "codiceCatastale": "G632",
+    "sigla": "IM",
+    "cap": [
+      "18026"
+    ],
+    "capoluogo": false,
+    "popolazione": 1309,
+    "superficie": 40.5732,
+    "coordinate": {
+      "lat": 44.0469735,
+      "lng": 7.9152231
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pigna",
+    "nomeAltraLingua": null,
+    "codice": "008043",
+    "codiceCatastale": "G660",
+    "sigla": "IM",
+    "cap": [
+      "18037"
+    ],
+    "capoluogo": false,
+    "popolazione": 739,
+    "superficie": 53.7245,
+    "coordinate": {
+      "lat": 43.9329372,
+      "lng": 7.6634249
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pompeiana",
+    "nomeAltraLingua": null,
+    "codice": "008044",
+    "codiceCatastale": "G814",
+    "sigla": "IM",
+    "cap": [
+      "18015"
+    ],
+    "capoluogo": false,
+    "popolazione": 849,
+    "superficie": 5.2994,
+    "coordinate": {
+      "lat": 43.8517266,
+      "lng": 7.8875716
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pontedassio",
+    "nomeAltraLingua": null,
+    "codice": "008045",
+    "codiceCatastale": "G840",
+    "sigla": "IM",
+    "cap": [
+      "18027"
+    ],
+    "capoluogo": false,
+    "popolazione": 2343,
+    "superficie": 13.3625,
+    "coordinate": {
+      "lat": 43.9400234,
+      "lng": 8.0124134
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pornassio",
+    "nomeAltraLingua": null,
+    "codice": "008046",
+    "codiceCatastale": "G890",
+    "sigla": "IM",
+    "cap": [
+      "18024"
+    ],
+    "capoluogo": false,
+    "popolazione": 569,
+    "superficie": 26.8538,
+    "coordinate": {
+      "lat": 44.0702516,
+      "lng": 7.8709098
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Prelà",
+    "nomeAltraLingua": null,
+    "codice": "008047",
+    "codiceCatastale": "H027",
+    "sigla": "IM",
+    "cap": [
+      "18020"
+    ],
+    "capoluogo": false,
+    "popolazione": 482,
+    "superficie": 14.9046,
+    "coordinate": {
+      "lat": 43.926193,
+      "lng": 7.937
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ranzo",
+    "nomeAltraLingua": null,
+    "codice": "008048",
+    "codiceCatastale": "H180",
+    "sigla": "IM",
+    "cap": [
+      "18020"
+    ],
+    "capoluogo": false,
+    "popolazione": 562,
+    "superficie": 10.7952,
+    "coordinate": {
+      "lat": 44.0595148,
+      "lng": 8.0144192
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rezzo",
+    "nomeAltraLingua": null,
+    "codice": "008049",
+    "codiceCatastale": "H257",
+    "sigla": "IM",
+    "cap": [
+      "18026"
+    ],
+    "capoluogo": false,
+    "popolazione": 310,
+    "superficie": 37.4462,
+    "coordinate": {
+      "lat": 44.0202886,
+      "lng": 7.8721565
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Riva Ligure",
+    "nomeAltraLingua": null,
+    "codice": "008050",
+    "codiceCatastale": "H328",
+    "sigla": "IM",
+    "cap": [
+      "18015"
+    ],
+    "capoluogo": false,
+    "popolazione": 2780,
+    "superficie": 2.1032,
+    "coordinate": {
+      "lat": 43.8375471,
+      "lng": 7.8819105
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rocchetta Nervina",
+    "nomeAltraLingua": null,
+    "codice": "008051",
+    "codiceCatastale": "H460",
+    "sigla": "IM",
+    "cap": [
+      "18030"
+    ],
+    "capoluogo": false,
+    "popolazione": 284,
+    "superficie": 15.1805,
+    "coordinate": {
+      "lat": 43.8901268,
+      "lng": 7.6003202
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Bartolomeo al Mare",
+    "nomeAltraLingua": null,
+    "codice": "008052",
+    "codiceCatastale": "H763",
+    "sigla": "IM",
+    "cap": [
+      "18016"
+    ],
+    "capoluogo": false,
+    "popolazione": 2958,
+    "superficie": 10.7239,
+    "coordinate": {
+      "lat": 43.9285818,
+      "lng": 8.1021434
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Biagio della Cima",
+    "nomeAltraLingua": null,
+    "codice": "008053",
+    "codiceCatastale": "H780",
+    "sigla": "IM",
+    "cap": [
+      "18036"
+    ],
+    "capoluogo": false,
+    "popolazione": 1237,
+    "superficie": 4.2755,
+    "coordinate": {
+      "lat": 43.8182376,
+      "lng": 7.6498478
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Lorenzo al Mare",
+    "nomeAltraLingua": null,
+    "codice": "008054",
+    "codiceCatastale": "H957",
+    "sigla": "IM",
+    "cap": [
+      "18017"
+    ],
+    "capoluogo": false,
+    "popolazione": 1209,
+    "superficie": 1.4545,
+    "coordinate": {
+      "lat": 43.8536077,
+      "lng": 7.9639299
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sanremo",
+    "nomeAltraLingua": null,
+    "codice": "008055",
+    "codiceCatastale": "I138",
+    "sigla": "IM",
+    "cap": [
+      "18038"
+    ],
+    "capoluogo": false,
+    "popolazione": 52992,
+    "superficie": 56.1378,
+    "coordinate": {
+      "lat": 43.8224858,
+      "lng": 7.7867483
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Santo Stefano al Mare",
+    "nomeAltraLingua": null,
+    "codice": "008056",
+    "codiceCatastale": "I365",
+    "sigla": "IM",
+    "cap": [
+      "18010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2006,
+    "superficie": 2.693,
+    "coordinate": {
+      "lat": 43.837156,
+      "lng": 7.8990725
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Seborga",
+    "nomeAltraLingua": null,
+    "codice": "008057",
+    "codiceCatastale": "I556",
+    "sigla": "IM",
+    "cap": [
+      "18012"
+    ],
+    "capoluogo": false,
+    "popolazione": 278,
+    "superficie": 4.853,
+    "coordinate": {
+      "lat": 43.8261106,
+      "lng": 7.6939512
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Soldano",
+    "nomeAltraLingua": null,
+    "codice": "008058",
+    "codiceCatastale": "I796",
+    "sigla": "IM",
+    "cap": [
+      "18036"
+    ],
+    "capoluogo": false,
+    "popolazione": 975,
+    "superficie": 3.7244,
+    "coordinate": {
+      "lat": 43.8267061,
+      "lng": 7.6540568
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Taggia",
+    "nomeAltraLingua": null,
+    "codice": "008059",
+    "codiceCatastale": "L024",
+    "sigla": "IM",
+    "cap": [
+      "18018"
+    ],
+    "capoluogo": false,
+    "popolazione": 13729,
+    "superficie": 31.0411,
+    "coordinate": {
+      "lat": 43.843576,
+      "lng": 7.8504414
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Terzorio",
+    "nomeAltraLingua": null,
+    "codice": "008060",
+    "codiceCatastale": "L146",
+    "sigla": "IM",
+    "cap": [
+      "18010"
+    ],
+    "capoluogo": false,
+    "popolazione": 220,
+    "superficie": 1.8775,
+    "coordinate": {
+      "lat": 43.8528991,
+      "lng": 7.8982695
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Triora",
+    "nomeAltraLingua": null,
+    "codice": "008061",
+    "codiceCatastale": "L430",
+    "sigla": "IM",
+    "cap": [
+      "18010"
+    ],
+    "capoluogo": false,
+    "popolazione": 400,
+    "superficie": 67.9296,
+    "coordinate": {
+      "lat": 43.9937799,
+      "lng": 7.7621309
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vallebona",
+    "nomeAltraLingua": null,
+    "codice": "008062",
+    "codiceCatastale": "L596",
+    "sigla": "IM",
+    "cap": [
+      "18012"
+    ],
+    "capoluogo": false,
+    "popolazione": 1210,
+    "superficie": 5.724,
+    "coordinate": {
+      "lat": 43.8132937,
+      "lng": 7.6668935
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vallecrosia",
+    "nomeAltraLingua": null,
+    "codice": "008063",
+    "codiceCatastale": "L599",
+    "sigla": "IM",
+    "cap": [
+      "18019"
+    ],
+    "capoluogo": false,
+    "popolazione": 6776,
+    "superficie": 3.6309,
+    "coordinate": {
+      "lat": 43.7931451,
+      "lng": 7.643822
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vasia",
+    "nomeAltraLingua": null,
+    "codice": "008064",
+    "codiceCatastale": "L693",
+    "sigla": "IM",
+    "cap": [
+      "18020"
+    ],
+    "capoluogo": false,
+    "popolazione": 345,
+    "superficie": 11.219,
+    "coordinate": {
+      "lat": 43.9332296,
+      "lng": 7.9542975
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ventimiglia",
+    "nomeAltraLingua": null,
+    "codice": "008065",
+    "codiceCatastale": "L741",
+    "sigla": "IM",
+    "cap": [
+      "18039"
+    ],
+    "capoluogo": false,
+    "popolazione": 22934,
+    "superficie": 53.8736,
+    "coordinate": {
+      "lat": 43.7902499,
+      "lng": 7.6084888
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vessalico",
+    "nomeAltraLingua": null,
+    "codice": "008066",
+    "codiceCatastale": "L809",
+    "sigla": "IM",
+    "cap": [
+      "18026"
+    ],
+    "capoluogo": false,
+    "popolazione": 255,
+    "superficie": 10.4908,
+    "coordinate": {
+      "lat": 44.0462025,
+      "lng": 7.9622667
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Villa Faraldi",
+    "nomeAltraLingua": null,
+    "codice": "008067",
+    "codiceCatastale": "L943",
+    "sigla": "IM",
+    "cap": [
+      "18010"
+    ],
+    "capoluogo": false,
+    "popolazione": 447,
+    "superficie": 9.966,
+    "coordinate": {
+      "lat": 43.9670567,
+      "lng": 8.0914697
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montalto Carpasio",
+    "nomeAltraLingua": null,
+    "codice": "008068",
+    "codiceCatastale": "M387",
+    "sigla": "IM",
+    "cap": [
+      "18028"
+    ],
+    "capoluogo": false,
+    "popolazione": 518,
+    "superficie": 29.9226,
+    "coordinate": {
+      "lat": 43.9598814,
+      "lng": 7.8666656
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Imperia",
+      "codice": "008",
+      "sigla": "IM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Alassio",
+    "nomeAltraLingua": null,
+    "codice": "009001",
+    "codiceCatastale": "A122",
+    "sigla": "SV",
+    "cap": [
+      "17021"
+    ],
+    "capoluogo": false,
+    "popolazione": 10051,
+    "superficie": 17.1522,
+    "coordinate": {
+      "lat": 44.008007,
+      "lng": 8.1729865
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Albenga",
+    "nomeAltraLingua": null,
+    "codice": "009002",
+    "codiceCatastale": "A145",
+    "sigla": "SV",
+    "cap": [
+      "17031"
+    ],
+    "capoluogo": false,
+    "popolazione": 23575,
+    "superficie": 36.6747,
+    "coordinate": {
+      "lat": 44.0490791,
+      "lng": 8.2129091
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Albissola Marina",
+    "nomeAltraLingua": null,
+    "codice": "009003",
+    "codiceCatastale": "A165",
+    "sigla": "SV",
+    "cap": [
+      "17012"
+    ],
+    "capoluogo": false,
+    "popolazione": 5153,
+    "superficie": 3.2536,
+    "coordinate": {
+      "lat": 44.3273186,
+      "lng": 8.5032164
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Albisola Superiore",
+    "nomeAltraLingua": null,
+    "codice": "009004",
+    "codiceCatastale": "A166",
+    "sigla": "SV",
+    "cap": [
+      "17011"
+    ],
+    "capoluogo": false,
+    "popolazione": 9597,
+    "superficie": 28.4813,
+    "coordinate": {
+      "lat": 44.3396826,
+      "lng": 8.5103612
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Altare",
+    "nomeAltraLingua": null,
+    "codice": "009005",
+    "codiceCatastale": "A226",
+    "sigla": "SV",
+    "cap": [
+      "17041"
+    ],
+    "capoluogo": false,
+    "popolazione": 1920,
+    "superficie": 11.6012,
+    "coordinate": {
+      "lat": 44.3347408,
+      "lng": 8.3440312
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Andora",
+    "nomeAltraLingua": null,
+    "codice": "009006",
+    "codiceCatastale": "A278",
+    "sigla": "SV",
+    "cap": [
+      "17051"
+    ],
+    "capoluogo": false,
+    "popolazione": 7262,
+    "superficie": 31.6861,
+    "coordinate": {
+      "lat": 43.9582113,
+      "lng": 8.1400358
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Arnasco",
+    "nomeAltraLingua": null,
+    "codice": "009007",
+    "codiceCatastale": "A422",
+    "sigla": "SV",
+    "cap": [
+      "17032"
+    ],
+    "capoluogo": false,
+    "popolazione": 554,
+    "superficie": 5.8287,
+    "coordinate": {
+      "lat": 44.0778985,
+      "lng": 8.1059023
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Balestrino",
+    "nomeAltraLingua": null,
+    "codice": "009008",
+    "codiceCatastale": "A593",
+    "sigla": "SV",
+    "cap": [
+      "17020"
+    ],
+    "capoluogo": false,
+    "popolazione": 526,
+    "superficie": 11.4417,
+    "coordinate": {
+      "lat": 44.1248954,
+      "lng": 8.1745996
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bardineto",
+    "nomeAltraLingua": null,
+    "codice": "009009",
+    "codiceCatastale": "A647",
+    "sigla": "SV",
+    "cap": [
+      "17057"
+    ],
+    "capoluogo": false,
+    "popolazione": 752,
+    "superficie": 29.9538,
+    "coordinate": {
+      "lat": 44.1920803,
+      "lng": 8.1293496
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bergeggi",
+    "nomeAltraLingua": null,
+    "codice": "009010",
+    "codiceCatastale": "A796",
+    "sigla": "SV",
+    "cap": [
+      "17028"
+    ],
+    "capoluogo": false,
+    "popolazione": 1046,
+    "superficie": 3.7963,
+    "coordinate": {
+      "lat": 44.2489581,
+      "lng": 8.4439553
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Boissano",
+    "nomeAltraLingua": null,
+    "codice": "009011",
+    "codiceCatastale": "A931",
+    "sigla": "SV",
+    "cap": [
+      "17054"
+    ],
+    "capoluogo": false,
+    "popolazione": 2529,
+    "superficie": 8.2823,
+    "coordinate": {
+      "lat": 44.1342859,
+      "lng": 8.221214
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Borghetto Santo Spirito",
+    "nomeAltraLingua": null,
+    "codice": "009012",
+    "codiceCatastale": "A999",
+    "sigla": "SV",
+    "cap": [
+      "17052"
+    ],
+    "capoluogo": false,
+    "popolazione": 4603,
+    "superficie": 5.389,
+    "coordinate": {
+      "lat": 44.1152,
+      "lng": 8.2421829
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Borgio Verezzi",
+    "nomeAltraLingua": null,
+    "codice": "009013",
+    "codiceCatastale": "B005",
+    "sigla": "SV",
+    "cap": [
+      "17022"
+    ],
+    "capoluogo": false,
+    "popolazione": 2098,
+    "superficie": 2.8951,
+    "coordinate": {
+      "lat": 44.1601012,
+      "lng": 8.3047624
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bormida",
+    "nomeAltraLingua": null,
+    "codice": "009014",
+    "codiceCatastale": "B048",
+    "sigla": "SV",
+    "cap": [
+      "17045"
+    ],
+    "capoluogo": false,
+    "popolazione": 327,
+    "superficie": 22.3858,
+    "coordinate": {
+      "lat": 44.2786251,
+      "lng": 8.2326347
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cairo Montenotte",
+    "nomeAltraLingua": null,
+    "codice": "009015",
+    "codiceCatastale": "B369",
+    "sigla": "SV",
+    "cap": [
+      "17014"
+    ],
+    "capoluogo": false,
+    "popolazione": 12767,
+    "superficie": 100.47,
+    "coordinate": {
+      "lat": 44.3979531,
+      "lng": 8.2777014
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Calice Ligure",
+    "nomeAltraLingua": null,
+    "codice": "009016",
+    "codiceCatastale": "B409",
+    "sigla": "SV",
+    "cap": [
+      "17020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1697,
+    "superficie": 20.6744,
+    "coordinate": {
+      "lat": 44.2048877,
+      "lng": 8.2942196
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Calizzano",
+    "nomeAltraLingua": null,
+    "codice": "009017",
+    "codiceCatastale": "B416",
+    "sigla": "SV",
+    "cap": [
+      "17057"
+    ],
+    "capoluogo": false,
+    "popolazione": 1434,
+    "superficie": 62.8537,
+    "coordinate": {
+      "lat": 44.235372,
+      "lng": 8.1155934
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carcare",
+    "nomeAltraLingua": null,
+    "codice": "009018",
+    "codiceCatastale": "B748",
+    "sigla": "SV",
+    "cap": [
+      "17043"
+    ],
+    "capoluogo": false,
+    "popolazione": 5291,
+    "superficie": 10.3028,
+    "coordinate": {
+      "lat": 44.357938,
+      "lng": 8.2908307
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Casanova Lerrone",
+    "nomeAltraLingua": null,
+    "codice": "009019",
+    "codiceCatastale": "B927",
+    "sigla": "SV",
+    "cap": [
+      "17033"
+    ],
+    "capoluogo": false,
+    "popolazione": 740,
+    "superficie": 24.2226,
+    "coordinate": {
+      "lat": 44.0315139,
+      "lng": 8.0482573
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelbianco",
+    "nomeAltraLingua": null,
+    "codice": "009020",
+    "codiceCatastale": "C063",
+    "sigla": "SV",
+    "cap": [
+      "17030"
+    ],
+    "capoluogo": false,
+    "popolazione": 324,
+    "superficie": 14.7196,
+    "coordinate": {
+      "lat": 44.1132216,
+      "lng": 8.0748016
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelvecchio di Rocca Barbena",
+    "nomeAltraLingua": null,
+    "codice": "009021",
+    "codiceCatastale": "C276",
+    "sigla": "SV",
+    "cap": [
+      "17034"
+    ],
+    "capoluogo": false,
+    "popolazione": 127,
+    "superficie": 16.222,
+    "coordinate": {
+      "lat": 44.1303259,
+      "lng": 8.115551
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Celle Ligure",
+    "nomeAltraLingua": null,
+    "codice": "009022",
+    "codiceCatastale": "C443",
+    "sigla": "SV",
+    "cap": [
+      "17015"
+    ],
+    "capoluogo": false,
+    "popolazione": 4817,
+    "superficie": 9.5661,
+    "coordinate": {
+      "lat": 44.3420236,
+      "lng": 8.5452217
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cengio",
+    "nomeAltraLingua": null,
+    "codice": "009023",
+    "codiceCatastale": "C463",
+    "sigla": "SV",
+    "cap": [
+      "17056"
+    ],
+    "capoluogo": false,
+    "popolazione": 3325,
+    "superficie": 18.4864,
+    "coordinate": {
+      "lat": 44.3875739,
+      "lng": 8.208643
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ceriale",
+    "nomeAltraLingua": null,
+    "codice": "009024",
+    "codiceCatastale": "C510",
+    "sigla": "SV",
+    "cap": [
+      "17023"
+    ],
+    "capoluogo": false,
+    "popolazione": 5345,
+    "superficie": 10.9613,
+    "coordinate": {
+      "lat": 44.0963373,
+      "lng": 8.2320759
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cisano sul Neva",
+    "nomeAltraLingua": null,
+    "codice": "009025",
+    "codiceCatastale": "C729",
+    "sigla": "SV",
+    "cap": [
+      "17035"
+    ],
+    "capoluogo": false,
+    "popolazione": 2132,
+    "superficie": 12.1633,
+    "coordinate": {
+      "lat": 44.0871864,
+      "lng": 8.1448887
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cosseria",
+    "nomeAltraLingua": null,
+    "codice": "009026",
+    "codiceCatastale": "D095",
+    "sigla": "SV",
+    "cap": [
+      "17017"
+    ],
+    "capoluogo": false,
+    "popolazione": 1037,
+    "superficie": 12.5746,
+    "coordinate": {
+      "lat": 44.3685146,
+      "lng": 8.2344936
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Dego",
+    "nomeAltraLingua": null,
+    "codice": "009027",
+    "codiceCatastale": "D264",
+    "sigla": "SV",
+    "cap": [
+      "17058"
+    ],
+    "capoluogo": false,
+    "popolazione": 1794,
+    "superficie": 66.8359,
+    "coordinate": {
+      "lat": 44.4493147,
+      "lng": 8.3106031
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Erli",
+    "nomeAltraLingua": null,
+    "codice": "009028",
+    "codiceCatastale": "D424",
+    "sigla": "SV",
+    "cap": [
+      "17030"
+    ],
+    "capoluogo": false,
+    "popolazione": 219,
+    "superficie": 16.5439,
+    "coordinate": {
+      "lat": 44.1365726,
+      "lng": 8.1053238
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Finale Ligure",
+    "nomeAltraLingua": null,
+    "codice": "009029",
+    "codiceCatastale": "D600",
+    "sigla": "SV",
+    "cap": [
+      "17024"
+    ],
+    "capoluogo": false,
+    "popolazione": 11046,
+    "superficie": 35.1041,
+    "coordinate": {
+      "lat": 44.1689406,
+      "lng": 8.3436465
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Garlenda",
+    "nomeAltraLingua": null,
+    "codice": "009030",
+    "codiceCatastale": "D927",
+    "sigla": "SV",
+    "cap": [
+      "17033"
+    ],
+    "capoluogo": false,
+    "popolazione": 1371,
+    "superficie": 8.0899,
+    "coordinate": {
+      "lat": 44.032328,
+      "lng": 8.0942616
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Giustenice",
+    "nomeAltraLingua": null,
+    "codice": "009031",
+    "codiceCatastale": "E064",
+    "sigla": "SV",
+    "cap": [
+      "17027"
+    ],
+    "capoluogo": false,
+    "popolazione": 1013,
+    "superficie": 17.2986,
+    "coordinate": {
+      "lat": 44.1722714,
+      "lng": 8.2462043
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Giusvalla",
+    "nomeAltraLingua": null,
+    "codice": "009032",
+    "codiceCatastale": "E066",
+    "sigla": "SV",
+    "cap": [
+      "17010"
+    ],
+    "capoluogo": false,
+    "popolazione": 396,
+    "superficie": 19.6756,
+    "coordinate": {
+      "lat": 44.4494152,
+      "lng": 8.3937743
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Laigueglia",
+    "nomeAltraLingua": null,
+    "codice": "009033",
+    "codiceCatastale": "E414",
+    "sigla": "SV",
+    "cap": [
+      "17053"
+    ],
+    "capoluogo": false,
+    "popolazione": 1698,
+    "superficie": 2.7559,
+    "coordinate": {
+      "lat": 43.9745778,
+      "lng": 8.1581881
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Loano",
+    "nomeAltraLingua": null,
+    "codice": "009034",
+    "codiceCatastale": "E632",
+    "sigla": "SV",
+    "cap": [
+      "17025"
+    ],
+    "capoluogo": false,
+    "popolazione": 10749,
+    "superficie": 13.558,
+    "coordinate": {
+      "lat": 44.1291321,
+      "lng": 8.2597614
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Magliolo",
+    "nomeAltraLingua": null,
+    "codice": "009035",
+    "codiceCatastale": "E816",
+    "sigla": "SV",
+    "cap": [
+      "17020"
+    ],
+    "capoluogo": false,
+    "popolazione": 968,
+    "superficie": 19.4486,
+    "coordinate": {
+      "lat": 44.1918988,
+      "lng": 8.2505752
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mallare",
+    "nomeAltraLingua": null,
+    "codice": "009036",
+    "codiceCatastale": "E860",
+    "sigla": "SV",
+    "cap": [
+      "17045"
+    ],
+    "capoluogo": false,
+    "popolazione": 1065,
+    "superficie": 32.0486,
+    "coordinate": {
+      "lat": 44.2914624,
+      "lng": 8.2975619
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Massimino",
+    "nomeAltraLingua": null,
+    "codice": "009037",
+    "codiceCatastale": "F046",
+    "sigla": "SV",
+    "cap": [
+      "12071"
+    ],
+    "capoluogo": false,
+    "popolazione": 104,
+    "superficie": 7.9178,
+    "coordinate": {
+      "lat": 44.299391,
+      "lng": 8.0712212
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Millesimo",
+    "nomeAltraLingua": null,
+    "codice": "009038",
+    "codiceCatastale": "F213",
+    "sigla": "SV",
+    "cap": [
+      "17017"
+    ],
+    "capoluogo": false,
+    "popolazione": 3257,
+    "superficie": 15.6556,
+    "coordinate": {
+      "lat": 44.3643481,
+      "lng": 8.2056441
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mioglia",
+    "nomeAltraLingua": null,
+    "codice": "009039",
+    "codiceCatastale": "F226",
+    "sigla": "SV",
+    "cap": [
+      "17040"
+    ],
+    "capoluogo": false,
+    "popolazione": 509,
+    "superficie": 19.253,
+    "coordinate": {
+      "lat": 44.4898722,
+      "lng": 8.4112199
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Murialdo",
+    "nomeAltraLingua": null,
+    "codice": "009040",
+    "codiceCatastale": "F813",
+    "sigla": "SV",
+    "cap": [
+      "17013"
+    ],
+    "capoluogo": false,
+    "popolazione": 729,
+    "superficie": 39.1647,
+    "coordinate": {
+      "lat": 44.315539,
+      "lng": 8.1609525
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Nasino",
+    "nomeAltraLingua": null,
+    "codice": "009041",
+    "codiceCatastale": "F847",
+    "sigla": "SV",
+    "cap": [
+      "17030"
+    ],
+    "capoluogo": false,
+    "popolazione": 163,
+    "superficie": 22.3545,
+    "coordinate": {
+      "lat": 44.1150786,
+      "lng": 8.0278217
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Noli",
+    "nomeAltraLingua": null,
+    "codice": "009042",
+    "codiceCatastale": "F926",
+    "sigla": "SV",
+    "cap": [
+      "17026"
+    ],
+    "capoluogo": false,
+    "popolazione": 2450,
+    "superficie": 9.7306,
+    "coordinate": {
+      "lat": 44.2056521,
+      "lng": 8.4161605
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Onzo",
+    "nomeAltraLingua": null,
+    "codice": "009043",
+    "codiceCatastale": "G076",
+    "sigla": "SV",
+    "cap": [
+      "17037"
+    ],
+    "capoluogo": false,
+    "popolazione": 218,
+    "superficie": 8.0375,
+    "coordinate": {
+      "lat": 44.0693651,
+      "lng": 8.0513121
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Orco Feglino",
+    "nomeAltraLingua": null,
+    "codice": "009044",
+    "codiceCatastale": "D522",
+    "sigla": "SV",
+    "cap": [
+      "17024"
+    ],
+    "capoluogo": false,
+    "popolazione": 917,
+    "superficie": 17.2616,
+    "coordinate": {
+      "lat": 44.2195599,
+      "lng": 8.3251692
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ortovero",
+    "nomeAltraLingua": null,
+    "codice": "009045",
+    "codiceCatastale": "G144",
+    "sigla": "SV",
+    "cap": [
+      "17037"
+    ],
+    "capoluogo": false,
+    "popolazione": 1698,
+    "superficie": 9.6782,
+    "coordinate": {
+      "lat": 44.0538202,
+      "lng": 8.0911228
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Osiglia",
+    "nomeAltraLingua": null,
+    "codice": "009046",
+    "codiceCatastale": "G155",
+    "sigla": "SV",
+    "cap": [
+      "17010"
+    ],
+    "capoluogo": false,
+    "popolazione": 434,
+    "superficie": 28.2112,
+    "coordinate": {
+      "lat": 44.2808891,
+      "lng": 8.2006071
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pallare",
+    "nomeAltraLingua": null,
+    "codice": "009047",
+    "codiceCatastale": "G281",
+    "sigla": "SV",
+    "cap": [
+      "17043"
+    ],
+    "capoluogo": false,
+    "popolazione": 852,
+    "superficie": 21.4329,
+    "coordinate": {
+      "lat": 44.3269439,
+      "lng": 8.275758
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Piana Crixia",
+    "nomeAltraLingua": null,
+    "codice": "009048",
+    "codiceCatastale": "G542",
+    "sigla": "SV",
+    "cap": [
+      "17058"
+    ],
+    "capoluogo": false,
+    "popolazione": 732,
+    "superficie": 30.5873,
+    "coordinate": {
+      "lat": 44.485835,
+      "lng": 8.3068909
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pietra Ligure",
+    "nomeAltraLingua": null,
+    "codice": "009049",
+    "codiceCatastale": "G605",
+    "sigla": "SV",
+    "cap": [
+      "17027"
+    ],
+    "capoluogo": false,
+    "popolazione": 8284,
+    "superficie": 9.7063,
+    "coordinate": {
+      "lat": 44.1488564,
+      "lng": 8.2828306
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Plodio",
+    "nomeAltraLingua": null,
+    "codice": "009050",
+    "codiceCatastale": "G741",
+    "sigla": "SV",
+    "cap": [
+      "17043"
+    ],
+    "capoluogo": false,
+    "popolazione": 624,
+    "superficie": 8.6259,
+    "coordinate": {
+      "lat": 44.3565179,
+      "lng": 8.2435115
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pontinvrea",
+    "nomeAltraLingua": null,
+    "codice": "009051",
+    "codiceCatastale": "G866",
+    "sigla": "SV",
+    "cap": [
+      "17042"
+    ],
+    "capoluogo": false,
+    "popolazione": 797,
+    "superficie": 24.8125,
+    "coordinate": {
+      "lat": 44.4448729,
+      "lng": 8.4345997
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Quiliano",
+    "nomeAltraLingua": null,
+    "codice": "009052",
+    "codiceCatastale": "H126",
+    "sigla": "SV",
+    "cap": [
+      "17047"
+    ],
+    "capoluogo": false,
+    "popolazione": 6858,
+    "superficie": 49.6589,
+    "coordinate": {
+      "lat": 44.2933299,
+      "lng": 8.4114515
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rialto",
+    "nomeAltraLingua": null,
+    "codice": "009053",
+    "codiceCatastale": "H266",
+    "sigla": "SV",
+    "cap": [
+      "17020"
+    ],
+    "capoluogo": false,
+    "popolazione": 533,
+    "superficie": 19.6354,
+    "coordinate": {
+      "lat": 44.2196136,
+      "lng": 8.2747528
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Roccavignale",
+    "nomeAltraLingua": null,
+    "codice": "009054",
+    "codiceCatastale": "H452",
+    "sigla": "SV",
+    "cap": [
+      "17017"
+    ],
+    "capoluogo": false,
+    "popolazione": 749,
+    "superficie": 17.88,
+    "coordinate": {
+      "lat": 44.3619156,
+      "lng": 8.1920058
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sassello",
+    "nomeAltraLingua": null,
+    "codice": "009055",
+    "codiceCatastale": "I453",
+    "sigla": "SV",
+    "cap": [
+      "17046"
+    ],
+    "capoluogo": false,
+    "popolazione": 1687,
+    "superficie": 100.7387,
+    "coordinate": {
+      "lat": 44.4790706,
+      "lng": 8.4899241
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Savona",
+    "nomeAltraLingua": null,
+    "codice": "009056",
+    "codiceCatastale": "I480",
+    "sigla": "SV",
+    "cap": [
+      "17100"
+    ],
+    "capoluogo": true,
+    "popolazione": 58674,
+    "superficie": 65.5253,
+    "coordinate": {
+      "lat": 44.3074889,
+      "lng": 8.4811294
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Spotorno",
+    "nomeAltraLingua": null,
+    "codice": "009057",
+    "codiceCatastale": "I926",
+    "sigla": "SV",
+    "cap": [
+      "17028"
+    ],
+    "capoluogo": false,
+    "popolazione": 3397,
+    "superficie": 7.9846,
+    "coordinate": {
+      "lat": 44.2268292,
+      "lng": 8.4159993
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Stella",
+    "nomeAltraLingua": null,
+    "codice": "009058",
+    "codiceCatastale": "I946",
+    "sigla": "SV",
+    "cap": [
+      "17044"
+    ],
+    "capoluogo": false,
+    "popolazione": 2967,
+    "superficie": 43.8875,
+    "coordinate": {
+      "lat": 44.3968125,
+      "lng": 8.4931401
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Stellanello",
+    "nomeAltraLingua": null,
+    "codice": "009059",
+    "codiceCatastale": "I947",
+    "sigla": "SV",
+    "cap": [
+      "17020"
+    ],
+    "capoluogo": false,
+    "popolazione": 848,
+    "superficie": 17.7682,
+    "coordinate": {
+      "lat": 44.0003152,
+      "lng": 8.0593232
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Testico",
+    "nomeAltraLingua": null,
+    "codice": "009060",
+    "codiceCatastale": "L152",
+    "sigla": "SV",
+    "cap": [
+      "17020"
+    ],
+    "capoluogo": false,
+    "popolazione": 184,
+    "superficie": 10.1533,
+    "coordinate": {
+      "lat": 44.0053965,
+      "lng": 8.0309954
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Toirano",
+    "nomeAltraLingua": null,
+    "codice": "009061",
+    "codiceCatastale": "L190",
+    "sigla": "SV",
+    "cap": [
+      "17055"
+    ],
+    "capoluogo": false,
+    "popolazione": 2715,
+    "superficie": 18.9335,
+    "coordinate": {
+      "lat": 44.12686,
+      "lng": 8.2071763
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tovo San Giacomo",
+    "nomeAltraLingua": null,
+    "codice": "009062",
+    "codiceCatastale": "L315",
+    "sigla": "SV",
+    "cap": [
+      "17020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2526,
+    "superficie": 9.4071,
+    "coordinate": {
+      "lat": 44.1763603,
+      "lng": 8.2683172
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Urbe",
+    "nomeAltraLingua": null,
+    "codice": "009063",
+    "codiceCatastale": "L499",
+    "sigla": "SV",
+    "cap": [
+      "17048"
+    ],
+    "capoluogo": false,
+    "popolazione": 648,
+    "superficie": 31.1704,
+    "coordinate": {
+      "lat": 44.4874668,
+      "lng": 8.5920827
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vado Ligure",
+    "nomeAltraLingua": null,
+    "codice": "009064",
+    "codiceCatastale": "L528",
+    "sigla": "SV",
+    "cap": [
+      "17047"
+    ],
+    "capoluogo": false,
+    "popolazione": 7997,
+    "superficie": 23.779,
+    "coordinate": {
+      "lat": 44.2692584,
+      "lng": 8.4362765
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Varazze",
+    "nomeAltraLingua": null,
+    "codice": "009065",
+    "codiceCatastale": "L675",
+    "sigla": "SV",
+    "cap": [
+      "17019"
+    ],
+    "capoluogo": false,
+    "popolazione": 12523,
+    "superficie": 47.9861,
+    "coordinate": {
+      "lat": 44.3598947,
+      "lng": 8.5763064
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vendone",
+    "nomeAltraLingua": null,
+    "codice": "009066",
+    "codiceCatastale": "L730",
+    "sigla": "SV",
+    "cap": [
+      "17032"
+    ],
+    "capoluogo": false,
+    "popolazione": 340,
+    "superficie": 10.2145,
+    "coordinate": {
+      "lat": 44.0739317,
+      "lng": 8.0743071
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vezzi Portio",
+    "nomeAltraLingua": null,
+    "codice": "009067",
+    "codiceCatastale": "L823",
+    "sigla": "SV",
+    "cap": [
+      "17028"
+    ],
+    "capoluogo": false,
+    "popolazione": 788,
+    "superficie": 9.0668,
+    "coordinate": {
+      "lat": 44.2289477,
+      "lng": 8.3619416
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Villanova d'Albenga",
+    "nomeAltraLingua": null,
+    "codice": "009068",
+    "codiceCatastale": "L975",
+    "sigla": "SV",
+    "cap": [
+      "17038"
+    ],
+    "capoluogo": false,
+    "popolazione": 2787,
+    "superficie": 15.7406,
+    "coordinate": {
+      "lat": 44.0458893,
+      "lng": 8.1430853
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Zuccarello",
+    "nomeAltraLingua": null,
+    "codice": "009069",
+    "codiceCatastale": "M197",
+    "sigla": "SV",
+    "cap": [
+      "17039"
+    ],
+    "capoluogo": false,
+    "popolazione": 284,
+    "superficie": 10.9635,
+    "coordinate": {
+      "lat": 44.1112915,
+      "lng": 8.1156259
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Savona",
+      "codice": "009",
+      "sigla": "SV",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Arenzano",
+    "nomeAltraLingua": null,
+    "codice": "010001",
+    "codiceCatastale": "A388",
+    "sigla": "GE",
+    "cap": [
+      "16011"
+    ],
+    "capoluogo": false,
+    "popolazione": 11150,
+    "superficie": 24.2566,
+    "coordinate": {
+      "lat": 44.4018258,
+      "lng": 8.682309
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Avegno",
+    "nomeAltraLingua": null,
+    "codice": "010002",
+    "codiceCatastale": "A506",
+    "sigla": "GE",
+    "cap": [
+      "16036"
+    ],
+    "capoluogo": false,
+    "popolazione": 2558,
+    "superficie": 11.0251,
+    "coordinate": {
+      "lat": 44.3822968,
+      "lng": 9.1587366
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Bargagli",
+    "nomeAltraLingua": null,
+    "codice": "010003",
+    "codiceCatastale": "A658",
+    "sigla": "GE",
+    "cap": [
+      "16021"
+    ],
+    "capoluogo": false,
+    "popolazione": 2522,
+    "superficie": 16.477,
+    "coordinate": {
+      "lat": 44.4445265,
+      "lng": 9.0882759
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Bogliasco",
+    "nomeAltraLingua": null,
+    "codice": "010004",
+    "codiceCatastale": "A922",
+    "sigla": "GE",
+    "cap": [
+      "16031"
+    ],
+    "capoluogo": false,
+    "popolazione": 4342,
+    "superficie": 4.4305,
+    "coordinate": {
+      "lat": 44.3782034,
+      "lng": 9.0698193
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Borzonasca",
+    "nomeAltraLingua": null,
+    "codice": "010005",
+    "codiceCatastale": "B067",
+    "sigla": "GE",
+    "cap": [
+      "16041"
+    ],
+    "capoluogo": false,
+    "popolazione": 1811,
+    "superficie": 80.3601,
+    "coordinate": {
+      "lat": 44.4221756,
+      "lng": 9.3868095
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Busalla",
+    "nomeAltraLingua": null,
+    "codice": "010006",
+    "codiceCatastale": "B282",
+    "sigla": "GE",
+    "cap": [
+      "16012"
+    ],
+    "capoluogo": false,
+    "popolazione": 5082,
+    "superficie": 16.8761,
+    "coordinate": {
+      "lat": 44.5708295,
+      "lng": 8.9451193
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Camogli",
+    "nomeAltraLingua": null,
+    "codice": "010007",
+    "codiceCatastale": "B490",
+    "sigla": "GE",
+    "cap": [
+      "16032"
+    ],
+    "capoluogo": false,
+    "popolazione": 4930,
+    "superficie": 10.1144,
+    "coordinate": {
+      "lat": 44.3477492,
+      "lng": 9.1564789
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Campo Ligure",
+    "nomeAltraLingua": null,
+    "codice": "010008",
+    "codiceCatastale": "B538",
+    "sigla": "GE",
+    "cap": [
+      "16013"
+    ],
+    "capoluogo": false,
+    "popolazione": 2822,
+    "superficie": 23.5913,
+    "coordinate": {
+      "lat": 44.5383304,
+      "lng": 8.697709
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Campomorone",
+    "nomeAltraLingua": null,
+    "codice": "010009",
+    "codiceCatastale": "B551",
+    "sigla": "GE",
+    "cap": [
+      "16014"
+    ],
+    "capoluogo": false,
+    "popolazione": 6463,
+    "superficie": 25.6882,
+    "coordinate": {
+      "lat": 44.5066837,
+      "lng": 8.8926928
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Carasco",
+    "nomeAltraLingua": null,
+    "codice": "010010",
+    "codiceCatastale": "B726",
+    "sigla": "GE",
+    "cap": [
+      "16042"
+    ],
+    "capoluogo": false,
+    "popolazione": 3736,
+    "superficie": 8.3498,
+    "coordinate": {
+      "lat": 44.3512346,
+      "lng": 9.3439511
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Casarza Ligure",
+    "nomeAltraLingua": null,
+    "codice": "010011",
+    "codiceCatastale": "B939",
+    "sigla": "GE",
+    "cap": [
+      "16030"
+    ],
+    "capoluogo": false,
+    "popolazione": 6732,
+    "superficie": 28.1396,
+    "coordinate": {
+      "lat": 44.2712325,
+      "lng": 9.452694
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Casella",
+    "nomeAltraLingua": null,
+    "codice": "010012",
+    "codiceCatastale": "B956",
+    "sigla": "GE",
+    "cap": [
+      "16015"
+    ],
+    "capoluogo": false,
+    "popolazione": 3065,
+    "superficie": 7.9598,
+    "coordinate": {
+      "lat": 44.5349222,
+      "lng": 8.9991771
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Castiglione Chiavarese",
+    "nomeAltraLingua": null,
+    "codice": "010013",
+    "codiceCatastale": "C302",
+    "sigla": "GE",
+    "cap": [
+      "16030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1565,
+    "superficie": 29.6269,
+    "coordinate": {
+      "lat": 44.2746007,
+      "lng": 9.5133558
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Ceranesi",
+    "nomeAltraLingua": null,
+    "codice": "010014",
+    "codiceCatastale": "C481",
+    "sigla": "GE",
+    "cap": [
+      "16014"
+    ],
+    "capoluogo": false,
+    "popolazione": 3588,
+    "superficie": 31.1068,
+    "coordinate": {
+      "lat": 44.5039658,
+      "lng": 8.8944489
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Chiavari",
+    "nomeAltraLingua": null,
+    "codice": "010015",
+    "codiceCatastale": "C621",
+    "sigla": "GE",
+    "cap": [
+      "16043"
+    ],
+    "capoluogo": false,
+    "popolazione": 27398,
+    "superficie": 12.416,
+    "coordinate": {
+      "lat": 44.3167222,
+      "lng": 9.3240471
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Cicagna",
+    "nomeAltraLingua": null,
+    "codice": "010016",
+    "codiceCatastale": "C673",
+    "sigla": "GE",
+    "cap": [
+      "16044"
+    ],
+    "capoluogo": false,
+    "popolazione": 2251,
+    "superficie": 10.831,
+    "coordinate": {
+      "lat": 44.4085011,
+      "lng": 9.23666
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Cogoleto",
+    "nomeAltraLingua": null,
+    "codice": "010017",
+    "codiceCatastale": "C823",
+    "sigla": "GE",
+    "cap": [
+      "16016"
+    ],
+    "capoluogo": false,
+    "popolazione": 8408,
+    "superficie": 20.6014,
+    "coordinate": {
+      "lat": 44.3895448,
+      "lng": 8.6466775
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Cogorno",
+    "nomeAltraLingua": null,
+    "codice": "010018",
+    "codiceCatastale": "C826",
+    "sigla": "GE",
+    "cap": [
+      "16030"
+    ],
+    "capoluogo": false,
+    "popolazione": 5701,
+    "superficie": 9.2435,
+    "coordinate": {
+      "lat": 44.3284477,
+      "lng": 9.3521265
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Coreglia Ligure",
+    "nomeAltraLingua": null,
+    "codice": "010019",
+    "codiceCatastale": "C995",
+    "sigla": "GE",
+    "cap": [
+      "16040"
+    ],
+    "capoluogo": false,
+    "popolazione": 255,
+    "superficie": 7.8917,
+    "coordinate": {
+      "lat": 44.3919885,
+      "lng": 9.2669615
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Crocefieschi",
+    "nomeAltraLingua": null,
+    "codice": "010020",
+    "codiceCatastale": "D175",
+    "sigla": "GE",
+    "cap": [
+      "16010"
+    ],
+    "capoluogo": false,
+    "popolazione": 534,
+    "superficie": 11.8299,
+    "coordinate": {
+      "lat": 44.5847802,
+      "lng": 9.0231405
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Davagna",
+    "nomeAltraLingua": null,
+    "codice": "010021",
+    "codiceCatastale": "D255",
+    "sigla": "GE",
+    "cap": [
+      "16022"
+    ],
+    "capoluogo": false,
+    "popolazione": 1824,
+    "superficie": 20.6818,
+    "coordinate": {
+      "lat": 44.464727,
+      "lng": 9.0866465
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Fascia",
+    "nomeAltraLingua": null,
+    "codice": "010022",
+    "codiceCatastale": "D509",
+    "sigla": "GE",
+    "cap": [
+      "16020"
+    ],
+    "capoluogo": false,
+    "popolazione": 67,
+    "superficie": 10.8552,
+    "coordinate": {
+      "lat": 44.5645025,
+      "lng": 9.2362835
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Favale di Malvaro",
+    "nomeAltraLingua": null,
+    "codice": "010023",
+    "codiceCatastale": "D512",
+    "sigla": "GE",
+    "cap": [
+      "16040"
+    ],
+    "capoluogo": false,
+    "popolazione": 427,
+    "superficie": 16.7748,
+    "coordinate": {
+      "lat": 44.4519983,
+      "lng": 9.258062
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Fontanigorda",
+    "nomeAltraLingua": null,
+    "codice": "010024",
+    "codiceCatastale": "D677",
+    "sigla": "GE",
+    "cap": [
+      "16023"
+    ],
+    "capoluogo": false,
+    "popolazione": 223,
+    "superficie": 16.3556,
+    "coordinate": {
+      "lat": 44.5465578,
+      "lng": 9.3049637
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Genova",
+    "nomeAltraLingua": null,
+    "codice": "010025",
+    "codiceCatastale": "D969",
+    "sigla": "GE",
+    "cap": [
+      "16121",
+      "16122",
+      "16123",
+      "16124",
+      "16125",
+      "16126",
+      "16127",
+      "16128",
+      "16129",
+      "16131",
+      "16132",
+      "16133",
+      "16134",
+      "16135",
+      "16136",
+      "16137",
+      "16138",
+      "16139",
+      "16141",
+      "16142",
+      "16143",
+      "16144",
+      "16145",
+      "16146",
+      "16147",
+      "16148",
+      "16149",
+      "16151",
+      "16152",
+      "16153",
+      "16154",
+      "16155",
+      "16156",
+      "16157",
+      "16158",
+      "16159",
+      "16161",
+      "16162",
+      "16163",
+      "16164",
+      "16165",
+      "16166",
+      "16167"
+    ],
+    "capoluogo": true,
+    "popolazione": 562422,
+    "superficie": 239.9337,
+    "coordinate": {
+      "lat": 44.4114928,
+      "lng": 8.9326876
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Gorreto",
+    "nomeAltraLingua": null,
+    "codice": "010026",
+    "codiceCatastale": "E109",
+    "sigla": "GE",
+    "cap": [
+      "16020"
+    ],
+    "capoluogo": false,
+    "popolazione": 92,
+    "superficie": 19.1434,
+    "coordinate": {
+      "lat": 44.6049722,
+      "lng": 9.2920884
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Isola del Cantone",
+    "nomeAltraLingua": null,
+    "codice": "010027",
+    "codiceCatastale": "E341",
+    "sigla": "GE",
+    "cap": [
+      "16017"
+    ],
+    "capoluogo": false,
+    "popolazione": 1390,
+    "superficie": 47.8463,
+    "coordinate": {
+      "lat": 44.64581,
+      "lng": 8.9562761
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Lavagna",
+    "nomeAltraLingua": null,
+    "codice": "010028",
+    "codiceCatastale": "E488",
+    "sigla": "GE",
+    "cap": [
+      "16033"
+    ],
+    "capoluogo": false,
+    "popolazione": 12342,
+    "superficie": 13.9207,
+    "coordinate": {
+      "lat": 44.3070784,
+      "lng": 9.3448784
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Leivi",
+    "nomeAltraLingua": null,
+    "codice": "010029",
+    "codiceCatastale": "E519",
+    "sigla": "GE",
+    "cap": [
+      "16040"
+    ],
+    "capoluogo": false,
+    "popolazione": 2439,
+    "superficie": 9.5142,
+    "coordinate": {
+      "lat": 44.345472,
+      "lng": 9.3182319
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Lorsica",
+    "nomeAltraLingua": null,
+    "codice": "010030",
+    "codiceCatastale": "E695",
+    "sigla": "GE",
+    "cap": [
+      "16045"
+    ],
+    "capoluogo": false,
+    "popolazione": 394,
+    "superficie": 18.0129,
+    "coordinate": {
+      "lat": 44.4320633,
+      "lng": 9.2747218
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Lumarzo",
+    "nomeAltraLingua": null,
+    "codice": "010031",
+    "codiceCatastale": "E737",
+    "sigla": "GE",
+    "cap": [
+      "16024"
+    ],
+    "capoluogo": false,
+    "popolazione": 1418,
+    "superficie": 25.4929,
+    "coordinate": {
+      "lat": 44.441009,
+      "lng": 9.1360629
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Masone",
+    "nomeAltraLingua": null,
+    "codice": "010032",
+    "codiceCatastale": "F020",
+    "sigla": "GE",
+    "cap": [
+      "16010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3310,
+    "superficie": 29.6541,
+    "coordinate": {
+      "lat": 44.5036411,
+      "lng": 8.7116755
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Mele",
+    "nomeAltraLingua": null,
+    "codice": "010033",
+    "codiceCatastale": "F098",
+    "sigla": "GE",
+    "cap": [
+      "16010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2522,
+    "superficie": 16.9408,
+    "coordinate": {
+      "lat": 44.4453633,
+      "lng": 8.7480039
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Mezzanego",
+    "nomeAltraLingua": null,
+    "codice": "010034",
+    "codiceCatastale": "F173",
+    "sigla": "GE",
+    "cap": [
+      "16046"
+    ],
+    "capoluogo": false,
+    "popolazione": 1533,
+    "superficie": 28.6185,
+    "coordinate": {
+      "lat": 44.3836639,
+      "lng": 9.3769092
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Mignanego",
+    "nomeAltraLingua": null,
+    "codice": "010035",
+    "codiceCatastale": "F202",
+    "sigla": "GE",
+    "cap": [
+      "16018"
+    ],
+    "capoluogo": false,
+    "popolazione": 3538,
+    "superficie": 16.4181,
+    "coordinate": {
+      "lat": 44.5276135,
+      "lng": 8.9147518
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Moconesi",
+    "nomeAltraLingua": null,
+    "codice": "010036",
+    "codiceCatastale": "F256",
+    "sigla": "GE",
+    "cap": [
+      "16047"
+    ],
+    "capoluogo": false,
+    "popolazione": 2404,
+    "superficie": 16.5087,
+    "coordinate": {
+      "lat": 44.4195246,
+      "lng": 9.2123522
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Moneglia",
+    "nomeAltraLingua": null,
+    "codice": "010037",
+    "codiceCatastale": "F354",
+    "sigla": "GE",
+    "cap": [
+      "16030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2514,
+    "superficie": 15.6124,
+    "coordinate": {
+      "lat": 44.2385296,
+      "lng": 9.4901413
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Montebruno",
+    "nomeAltraLingua": null,
+    "codice": "010038",
+    "codiceCatastale": "F445",
+    "sigla": "GE",
+    "cap": [
+      "16025"
+    ],
+    "capoluogo": false,
+    "popolazione": 201,
+    "superficie": 17.5701,
+    "coordinate": {
+      "lat": 44.5270623,
+      "lng": 9.2498687
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Montoggio",
+    "nomeAltraLingua": null,
+    "codice": "010039",
+    "codiceCatastale": "F682",
+    "sigla": "GE",
+    "cap": [
+      "16026"
+    ],
+    "capoluogo": false,
+    "popolazione": 2003,
+    "superficie": 47.6669,
+    "coordinate": {
+      "lat": 44.5155926,
+      "lng": 9.0442261
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Ne",
+    "nomeAltraLingua": null,
+    "codice": "010040",
+    "codiceCatastale": "F858",
+    "sigla": "GE",
+    "cap": [
+      "16040"
+    ],
+    "capoluogo": false,
+    "popolazione": 2123,
+    "superficie": 63.3296,
+    "coordinate": {
+      "lat": 44.3442564,
+      "lng": 9.3985063
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Neirone",
+    "nomeAltraLingua": null,
+    "codice": "010041",
+    "codiceCatastale": "F862",
+    "sigla": "GE",
+    "cap": [
+      "16040"
+    ],
+    "capoluogo": false,
+    "popolazione": 885,
+    "superficie": 30.206,
+    "coordinate": {
+      "lat": 44.4542763,
+      "lng": 9.1908948
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Orero",
+    "nomeAltraLingua": null,
+    "codice": "010042",
+    "codiceCatastale": "G093",
+    "sigla": "GE",
+    "cap": [
+      "16040"
+    ],
+    "capoluogo": false,
+    "popolazione": 489,
+    "superficie": 16.1774,
+    "coordinate": {
+      "lat": 44.4071951,
+      "lng": 9.2746498
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Pieve Ligure",
+    "nomeAltraLingua": null,
+    "codice": "010043",
+    "codiceCatastale": "G646",
+    "sigla": "GE",
+    "cap": [
+      "16031"
+    ],
+    "capoluogo": false,
+    "popolazione": 2401,
+    "superficie": 3.657,
+    "coordinate": {
+      "lat": 44.3750042,
+      "lng": 9.0864821
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Portofino",
+    "nomeAltraLingua": null,
+    "codice": "010044",
+    "codiceCatastale": "G913",
+    "sigla": "GE",
+    "cap": [
+      "16034"
+    ],
+    "capoluogo": false,
+    "popolazione": 358,
+    "superficie": 2.6968,
+    "coordinate": {
+      "lat": 44.3039959,
+      "lng": 9.2073993
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Propata",
+    "nomeAltraLingua": null,
+    "codice": "010045",
+    "codiceCatastale": "H073",
+    "sigla": "GE",
+    "cap": [
+      "16027"
+    ],
+    "capoluogo": false,
+    "popolazione": 113,
+    "superficie": 17.2717,
+    "coordinate": {
+      "lat": 44.5646978,
+      "lng": 9.1848861
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Rapallo",
+    "nomeAltraLingua": null,
+    "codice": "010046",
+    "codiceCatastale": "H183",
+    "sigla": "GE",
+    "cap": [
+      "16035"
+    ],
+    "capoluogo": false,
+    "popolazione": 29455,
+    "superficie": 33.7735,
+    "coordinate": {
+      "lat": 44.3503136,
+      "lng": 9.2318083
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Recco",
+    "nomeAltraLingua": null,
+    "codice": "010047",
+    "codiceCatastale": "H212",
+    "sigla": "GE",
+    "cap": [
+      "16036"
+    ],
+    "capoluogo": false,
+    "popolazione": 9345,
+    "superficie": 9.5648,
+    "coordinate": {
+      "lat": 44.3621696,
+      "lng": 9.1435571
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Rezzoaglio",
+    "nomeAltraLingua": null,
+    "codice": "010048",
+    "codiceCatastale": "H258",
+    "sigla": "GE",
+    "cap": [
+      "16048"
+    ],
+    "capoluogo": false,
+    "popolazione": 860,
+    "superficie": 104.1467,
+    "coordinate": {
+      "lat": 44.525721,
+      "lng": 9.3867174
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Ronco Scrivia",
+    "nomeAltraLingua": null,
+    "codice": "010049",
+    "codiceCatastale": "H536",
+    "sigla": "GE",
+    "cap": [
+      "16019"
+    ],
+    "capoluogo": false,
+    "popolazione": 4177,
+    "superficie": 30.3478,
+    "coordinate": {
+      "lat": 44.6081978,
+      "lng": 8.9550222
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Rondanina",
+    "nomeAltraLingua": null,
+    "codice": "010050",
+    "codiceCatastale": "H546",
+    "sigla": "GE",
+    "cap": [
+      "16025"
+    ],
+    "capoluogo": false,
+    "popolazione": 59,
+    "superficie": 12.8943,
+    "coordinate": {
+      "lat": 44.5623634,
+      "lng": 9.2176327
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Rossiglione",
+    "nomeAltraLingua": null,
+    "codice": "010051",
+    "codiceCatastale": "H581",
+    "sigla": "GE",
+    "cap": [
+      "16010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2509,
+    "superficie": 47.8634,
+    "coordinate": {
+      "lat": 44.5620283,
+      "lng": 8.6705257
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Rovegno",
+    "nomeAltraLingua": null,
+    "codice": "010052",
+    "codiceCatastale": "H599",
+    "sigla": "GE",
+    "cap": [
+      "16028"
+    ],
+    "capoluogo": false,
+    "popolazione": 466,
+    "superficie": 44.4603,
+    "coordinate": {
+      "lat": 44.5770857,
+      "lng": 9.2786696
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "San Colombano Certenoli",
+    "nomeAltraLingua": null,
+    "codice": "010053",
+    "codiceCatastale": "H802",
+    "sigla": "GE",
+    "cap": [
+      "16040"
+    ],
+    "capoluogo": false,
+    "popolazione": 2666,
+    "superficie": 41.5576,
+    "coordinate": {
+      "lat": 44.3717295,
+      "lng": 9.3130861
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Santa Margherita Ligure",
+    "nomeAltraLingua": null,
+    "codice": "010054",
+    "codiceCatastale": "I225",
+    "sigla": "GE",
+    "cap": [
+      "16038"
+    ],
+    "capoluogo": false,
+    "popolazione": 8437,
+    "superficie": 10.1008,
+    "coordinate": {
+      "lat": 44.3348732,
+      "lng": 9.2099514
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Sant'Olcese",
+    "nomeAltraLingua": null,
+    "codice": "010055",
+    "codiceCatastale": "I346",
+    "sigla": "GE",
+    "cap": [
+      "16010"
+    ],
+    "capoluogo": false,
+    "popolazione": 5568,
+    "superficie": 21.9523,
+    "coordinate": {
+      "lat": 44.4836522,
+      "lng": 8.9676521
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Santo Stefano d'Aveto",
+    "nomeAltraLingua": null,
+    "codice": "010056",
+    "codiceCatastale": "I368",
+    "sigla": "GE",
+    "cap": [
+      "16049"
+    ],
+    "capoluogo": false,
+    "popolazione": 983,
+    "superficie": 55.0797,
+    "coordinate": {
+      "lat": 44.547796,
+      "lng": 9.450978
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Savignone",
+    "nomeAltraLingua": null,
+    "codice": "010057",
+    "codiceCatastale": "I475",
+    "sigla": "GE",
+    "cap": [
+      "16010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2997,
+    "superficie": 21.6156,
+    "coordinate": {
+      "lat": 44.5637789,
+      "lng": 8.9879703
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Serra Riccò",
+    "nomeAltraLingua": null,
+    "codice": "010058",
+    "codiceCatastale": "I640",
+    "sigla": "GE",
+    "cap": [
+      "16010"
+    ],
+    "capoluogo": false,
+    "popolazione": 7581,
+    "superficie": 26.4233,
+    "coordinate": {
+      "lat": 44.5078432,
+      "lng": 8.9360067
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Sestri Levante",
+    "nomeAltraLingua": null,
+    "codice": "010059",
+    "codiceCatastale": "I693",
+    "sigla": "GE",
+    "cap": [
+      "16039"
+    ],
+    "capoluogo": false,
+    "popolazione": 17269,
+    "superficie": 33.4093,
+    "coordinate": {
+      "lat": 44.2698329,
+      "lng": 9.3931921
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Sori",
+    "nomeAltraLingua": null,
+    "codice": "010060",
+    "codiceCatastale": "I852",
+    "sigla": "GE",
+    "cap": [
+      "16031"
+    ],
+    "capoluogo": false,
+    "popolazione": 3983,
+    "superficie": 13.0486,
+    "coordinate": {
+      "lat": 44.3728046,
+      "lng": 9.1043663
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Tiglieto",
+    "nomeAltraLingua": null,
+    "codice": "010061",
+    "codiceCatastale": "L167",
+    "sigla": "GE",
+    "cap": [
+      "16010"
+    ],
+    "capoluogo": false,
+    "popolazione": 451,
+    "superficie": 24.5797,
+    "coordinate": {
+      "lat": 44.524639,
+      "lng": 8.6200184
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Torriglia",
+    "nomeAltraLingua": null,
+    "codice": "010062",
+    "codiceCatastale": "L298",
+    "sigla": "GE",
+    "cap": [
+      "16029"
+    ],
+    "capoluogo": false,
+    "popolazione": 2241,
+    "superficie": 59.8266,
+    "coordinate": {
+      "lat": 44.5189732,
+      "lng": 9.1577277
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Tribogna",
+    "nomeAltraLingua": null,
+    "codice": "010063",
+    "codiceCatastale": "L416",
+    "sigla": "GE",
+    "cap": [
+      "16030"
+    ],
+    "capoluogo": false,
+    "popolazione": 584,
+    "superficie": 6.8616,
+    "coordinate": {
+      "lat": 44.4162732,
+      "lng": 9.1956089
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Uscio",
+    "nomeAltraLingua": null,
+    "codice": "010064",
+    "codiceCatastale": "L507",
+    "sigla": "GE",
+    "cap": [
+      "16036"
+    ],
+    "capoluogo": false,
+    "popolazione": 2140,
+    "superficie": 9.6564,
+    "coordinate": {
+      "lat": 44.4131786,
+      "lng": 9.163329
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Valbrevenna",
+    "nomeAltraLingua": null,
+    "codice": "010065",
+    "codiceCatastale": "L546",
+    "sigla": "GE",
+    "cap": [
+      "16010"
+    ],
+    "capoluogo": false,
+    "popolazione": 751,
+    "superficie": 34.5696,
+    "coordinate": {
+      "lat": 44.5565372,
+      "lng": 9.0650533
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Vobbia",
+    "nomeAltraLingua": null,
+    "codice": "010066",
+    "codiceCatastale": "M105",
+    "sigla": "GE",
+    "cap": [
+      "16010"
+    ],
+    "capoluogo": false,
+    "popolazione": 377,
+    "superficie": 33.4785,
+    "coordinate": {
+      "lat": 44.5997275,
+      "lng": 9.0398278
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Zoagli",
+    "nomeAltraLingua": null,
+    "codice": "010067",
+    "codiceCatastale": "M182",
+    "sigla": "GE",
+    "cap": [
+      "16035"
+    ],
+    "capoluogo": false,
+    "popolazione": 2384,
+    "superficie": 7.7978,
+    "coordinate": {
+      "lat": 44.3370093,
+      "lng": 9.2672588
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "Genova",
+      "codice": "210",
+      "sigla": "GE",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Ameglia",
+    "nomeAltraLingua": null,
+    "codice": "011001",
+    "codiceCatastale": "A261",
+    "sigla": "SP",
+    "cap": [
+      "19031"
+    ],
+    "capoluogo": false,
+    "popolazione": 4283,
+    "superficie": 14.4725,
+    "coordinate": {
+      "lat": 44.0678535,
+      "lng": 9.958058
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Arcola",
+    "nomeAltraLingua": null,
+    "codice": "011002",
+    "codiceCatastale": "A373",
+    "sigla": "SP",
+    "cap": [
+      "19021"
+    ],
+    "capoluogo": false,
+    "popolazione": 10181,
+    "superficie": 16.3743,
+    "coordinate": {
+      "lat": 44.1142763,
+      "lng": 9.9053428
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Beverino",
+    "nomeAltraLingua": null,
+    "codice": "011003",
+    "codiceCatastale": "A836",
+    "sigla": "SP",
+    "cap": [
+      "19020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2241,
+    "superficie": 34.9018,
+    "coordinate": {
+      "lat": 44.1939159,
+      "lng": 9.76923
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bolano",
+    "nomeAltraLingua": null,
+    "codice": "011004",
+    "codiceCatastale": "A932",
+    "sigla": "SP",
+    "cap": [
+      "19020"
+    ],
+    "capoluogo": false,
+    "popolazione": 7457,
+    "superficie": 14.5006,
+    "coordinate": {
+      "lat": 44.1888909,
+      "lng": 9.8953074
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bonassola",
+    "nomeAltraLingua": null,
+    "codice": "011005",
+    "codiceCatastale": "A961",
+    "sigla": "SP",
+    "cap": [
+      "19011"
+    ],
+    "capoluogo": false,
+    "popolazione": 782,
+    "superficie": 9.3061,
+    "coordinate": {
+      "lat": 44.1832875,
+      "lng": 9.5841131
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Borghetto di Vara",
+    "nomeAltraLingua": null,
+    "codice": "011006",
+    "codiceCatastale": "A992",
+    "sigla": "SP",
+    "cap": [
+      "19020"
+    ],
+    "capoluogo": false,
+    "popolazione": 881,
+    "superficie": 26.9429,
+    "coordinate": {
+      "lat": 44.2237902,
+      "lng": 9.7213442
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Brugnato",
+    "nomeAltraLingua": null,
+    "codice": "011007",
+    "codiceCatastale": "B214",
+    "sigla": "SP",
+    "cap": [
+      "19020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1282,
+    "superficie": 12.1625,
+    "coordinate": {
+      "lat": 44.2368382,
+      "lng": 9.725056
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Calice al Cornoviglio",
+    "nomeAltraLingua": null,
+    "codice": "011008",
+    "codiceCatastale": "B410",
+    "sigla": "SP",
+    "cap": [
+      "19020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1053,
+    "superficie": 33.8331,
+    "coordinate": {
+      "lat": 44.2424361,
+      "lng": 9.8358532
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carro",
+    "nomeAltraLingua": null,
+    "codice": "011009",
+    "codiceCatastale": "B838",
+    "sigla": "SP",
+    "cap": [
+      "19012"
+    ],
+    "capoluogo": false,
+    "popolazione": 483,
+    "superficie": 31.5562,
+    "coordinate": {
+      "lat": 44.2722122,
+      "lng": 9.6087517
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carrodano",
+    "nomeAltraLingua": null,
+    "codice": "011010",
+    "codiceCatastale": "B839",
+    "sigla": "SP",
+    "cap": [
+      "19020"
+    ],
+    "capoluogo": false,
+    "popolazione": 465,
+    "superficie": 21.8866,
+    "coordinate": {
+      "lat": 44.2420333,
+      "lng": 9.6562163
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelnuovo Magra",
+    "nomeAltraLingua": null,
+    "codice": "011011",
+    "codiceCatastale": "C240",
+    "sigla": "SP",
+    "cap": [
+      "19033"
+    ],
+    "capoluogo": false,
+    "popolazione": 8253,
+    "superficie": 15.141,
+    "coordinate": {
+      "lat": 44.0912585,
+      "lng": 10.0025445
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Deiva Marina",
+    "nomeAltraLingua": null,
+    "codice": "011012",
+    "codiceCatastale": "D265",
+    "sigla": "SP",
+    "cap": [
+      "19013"
+    ],
+    "capoluogo": false,
+    "popolazione": 1288,
+    "superficie": 13.9702,
+    "coordinate": {
+      "lat": 44.2188221,
+      "lng": 9.520611
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Follo",
+    "nomeAltraLingua": null,
+    "codice": "011013",
+    "codiceCatastale": "D655",
+    "sigla": "SP",
+    "cap": [
+      "19020"
+    ],
+    "capoluogo": false,
+    "popolazione": 6099,
+    "superficie": 23.1713,
+    "coordinate": {
+      "lat": 44.1626947,
+      "lng": 9.8621288
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Framura",
+    "nomeAltraLingua": null,
+    "codice": "011014",
+    "codiceCatastale": "D758",
+    "sigla": "SP",
+    "cap": [
+      "19014"
+    ],
+    "capoluogo": false,
+    "popolazione": 563,
+    "superficie": 19.3551,
+    "coordinate": {
+      "lat": 44.2088771,
+      "lng": 9.554363
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "La Spezia",
+    "nomeAltraLingua": null,
+    "codice": "011015",
+    "codiceCatastale": "E463",
+    "sigla": "SP",
+    "cap": [
+      "19121",
+      "19122",
+      "19123",
+      "19124",
+      "19125",
+      "19126",
+      "19131",
+      "19132",
+      "19133",
+      "19134",
+      "19135",
+      "19136",
+      "19137"
+    ],
+    "capoluogo": true,
+    "popolazione": 92696,
+    "superficie": 51.7986,
+    "coordinate": {
+      "lat": 44.1070346,
+      "lng": 9.8281896
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lerici",
+    "nomeAltraLingua": null,
+    "codice": "011016",
+    "codiceCatastale": "E542",
+    "sigla": "SP",
+    "cap": [
+      "19032"
+    ],
+    "capoluogo": false,
+    "popolazione": 9346,
+    "superficie": 15.8122,
+    "coordinate": {
+      "lat": 44.0764146,
+      "lng": 9.9114739
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Levanto",
+    "nomeAltraLingua": null,
+    "codice": "011017",
+    "codiceCatastale": "E560",
+    "sigla": "SP",
+    "cap": [
+      "19015"
+    ],
+    "capoluogo": false,
+    "popolazione": 5100,
+    "superficie": 36.4792,
+    "coordinate": {
+      "lat": 44.1699213,
+      "lng": 9.6124474
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Maissana",
+    "nomeAltraLingua": null,
+    "codice": "011018",
+    "codiceCatastale": "E842",
+    "sigla": "SP",
+    "cap": [
+      "19010"
+    ],
+    "capoluogo": false,
+    "popolazione": 589,
+    "superficie": 45.5611,
+    "coordinate": {
+      "lat": 44.3366364,
+      "lng": 9.5349897
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monterosso al Mare",
+    "nomeAltraLingua": null,
+    "codice": "011019",
+    "codiceCatastale": "F609",
+    "sigla": "SP",
+    "cap": [
+      "19016"
+    ],
+    "capoluogo": false,
+    "popolazione": 1318,
+    "superficie": 11.033,
+    "coordinate": {
+      "lat": 44.1462552,
+      "lng": 9.6560966
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Luni",
+    "nomeAltraLingua": null,
+    "codice": "011020",
+    "codiceCatastale": "G143",
+    "sigla": "SP",
+    "cap": [
+      "19034"
+    ],
+    "capoluogo": false,
+    "popolazione": 8117,
+    "superficie": 13.8414,
+    "coordinate": {
+      "lat": 44.0850025,
+      "lng": 10.0419073
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pignone",
+    "nomeAltraLingua": null,
+    "codice": "011021",
+    "codiceCatastale": "G664",
+    "sigla": "SP",
+    "cap": [
+      "19020"
+    ],
+    "capoluogo": false,
+    "popolazione": 527,
+    "superficie": 17.972,
+    "coordinate": {
+      "lat": 44.179163,
+      "lng": 9.7240793
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Portovenere",
+    "nomeAltraLingua": null,
+    "codice": "011022",
+    "codiceCatastale": "G925",
+    "sigla": "SP",
+    "cap": [
+      "19025"
+    ],
+    "capoluogo": false,
+    "popolazione": 3257,
+    "superficie": 7.8305,
+    "coordinate": {
+      "lat": 44.0524778,
+      "lng": 9.8365543
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Riccò del Golfo di Spezia",
+    "nomeAltraLingua": null,
+    "codice": "011023",
+    "codiceCatastale": "H275",
+    "sigla": "SP",
+    "cap": [
+      "19020"
+    ],
+    "capoluogo": false,
+    "popolazione": 3596,
+    "superficie": 37.6766,
+    "coordinate": {
+      "lat": 44.1555447,
+      "lng": 9.7634101
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Riomaggiore",
+    "nomeAltraLingua": null,
+    "codice": "011024",
+    "codiceCatastale": "H304",
+    "sigla": "SP",
+    "cap": [
+      "19017"
+    ],
+    "capoluogo": false,
+    "popolazione": 1313,
+    "superficie": 10.2247,
+    "coordinate": {
+      "lat": 44.0997191,
+      "lng": 9.737862
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rocchetta di Vara",
+    "nomeAltraLingua": null,
+    "codice": "011025",
+    "codiceCatastale": "H461",
+    "sigla": "SP",
+    "cap": [
+      "19020"
+    ],
+    "capoluogo": false,
+    "popolazione": 646,
+    "superficie": 32.7521,
+    "coordinate": {
+      "lat": 44.251171,
+      "lng": 9.7569008
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Santo Stefano di Magra",
+    "nomeAltraLingua": null,
+    "codice": "011026",
+    "codiceCatastale": "I363",
+    "sigla": "SP",
+    "cap": [
+      "19037"
+    ],
+    "capoluogo": false,
+    "popolazione": 10116,
+    "superficie": 14.0178,
+    "coordinate": {
+      "lat": 44.1623774,
+      "lng": 9.9151666
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sarzana",
+    "nomeAltraLingua": null,
+    "codice": "011027",
+    "codiceCatastale": "I449",
+    "sigla": "SP",
+    "cap": [
+      "19038"
+    ],
+    "capoluogo": false,
+    "popolazione": 21786,
+    "superficie": 34.6015,
+    "coordinate": {
+      "lat": 44.1128722,
+      "lng": 9.9597012
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sesta Godano",
+    "nomeAltraLingua": null,
+    "codice": "011028",
+    "codiceCatastale": "E070",
+    "sigla": "SP",
+    "cap": [
+      "19020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1263,
+    "superficie": 68.397,
+    "coordinate": {
+      "lat": 44.293957,
+      "lng": 9.6757573
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Varese Ligure",
+    "nomeAltraLingua": null,
+    "codice": "011029",
+    "codiceCatastale": "L681",
+    "sigla": "SP",
+    "cap": [
+      "19028"
+    ],
+    "capoluogo": false,
+    "popolazione": 1761,
+    "superficie": 137.5714,
+    "coordinate": {
+      "lat": 44.3776925,
+      "lng": 9.5956378
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vernazza",
+    "nomeAltraLingua": null,
+    "codice": "011030",
+    "codiceCatastale": "L774",
+    "sigla": "SP",
+    "cap": [
+      "19018"
+    ],
+    "capoluogo": false,
+    "popolazione": 708,
+    "superficie": 12.3823,
+    "coordinate": {
+      "lat": 44.1353166,
+      "lng": 9.6836947
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vezzano Ligure",
+    "nomeAltraLingua": null,
+    "codice": "011031",
+    "codiceCatastale": "L819",
+    "sigla": "SP",
+    "cap": [
+      "19020"
+    ],
+    "capoluogo": false,
+    "popolazione": 7172,
+    "superficie": 18.2257,
+    "coordinate": {
+      "lat": 44.1412538,
+      "lng": 9.8845273
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Zignago",
+    "nomeAltraLingua": null,
+    "codice": "011032",
+    "codiceCatastale": "M177",
+    "sigla": "SP",
+    "cap": [
+      "19020"
+    ],
+    "capoluogo": false,
+    "popolazione": 469,
+    "superficie": 28.5997,
+    "coordinate": {
+      "lat": 44.2775369,
+      "lng": 9.7450346
+    },
+    "zona": {
+      "nome": "Nord-ovest",
+      "codice": "1"
+    },
+    "regione": {
+      "nome": "Liguria",
+      "codice": "07"
+    },
+    "provincia": {
+      "nome": "La Spezia",
+      "codice": "011",
+      "sigla": "SP",
+      "tipo": "provincia"
+    }
+  }
+]

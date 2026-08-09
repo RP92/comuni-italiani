@@ -1,0 +1,7982 @@
+[
+  {
+    "nome": "Accadia",
+    "nomeAltraLingua": null,
+    "codice": "071001",
+    "codiceCatastale": "A015",
+    "sigla": "FG",
+    "cap": [
+      "71021"
+    ],
+    "capoluogo": false,
+    "popolazione": 2204,
+    "superficie": 30.5009,
+    "coordinate": {
+      "lat": 41.158617,
+      "lng": 15.3312354
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Alberona",
+    "nomeAltraLingua": null,
+    "codice": "071002",
+    "codiceCatastale": "A150",
+    "sigla": "FG",
+    "cap": [
+      "71031"
+    ],
+    "capoluogo": false,
+    "popolazione": 857,
+    "superficie": 49.622,
+    "coordinate": {
+      "lat": 41.4299431,
+      "lng": 15.1245871
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Anzano di Puglia",
+    "nomeAltraLingua": null,
+    "codice": "071003",
+    "codiceCatastale": "A320",
+    "sigla": "FG",
+    "cap": [
+      "71020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1069,
+    "superficie": 10.7978,
+    "coordinate": {
+      "lat": 41.1189491,
+      "lng": 15.2914149
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Apricena",
+    "nomeAltraLingua": null,
+    "codice": "071004",
+    "codiceCatastale": "A339",
+    "sigla": "FG",
+    "cap": [
+      "71011"
+    ],
+    "capoluogo": false,
+    "popolazione": 12513,
+    "superficie": 172.7147,
+    "coordinate": {
+      "lat": 41.7854937,
+      "lng": 15.4431214
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ascoli Satriano",
+    "nomeAltraLingua": null,
+    "codice": "071005",
+    "codiceCatastale": "A463",
+    "sigla": "FG",
+    "cap": [
+      "71022"
+    ],
+    "capoluogo": false,
+    "popolazione": 5774,
+    "superficie": 337.1378,
+    "coordinate": {
+      "lat": 41.2043966,
+      "lng": 15.560575
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Biccari",
+    "nomeAltraLingua": null,
+    "codice": "071006",
+    "codiceCatastale": "A854",
+    "sigla": "FG",
+    "cap": [
+      "71032"
+    ],
+    "capoluogo": false,
+    "popolazione": 2628,
+    "superficie": 106.6591,
+    "coordinate": {
+      "lat": 41.3977635,
+      "lng": 15.1955195
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bovino",
+    "nomeAltraLingua": null,
+    "codice": "071007",
+    "codiceCatastale": "B104",
+    "sigla": "FG",
+    "cap": [
+      "71023"
+    ],
+    "capoluogo": false,
+    "popolazione": 2903,
+    "superficie": 85.1845,
+    "coordinate": {
+      "lat": 41.2525032,
+      "lng": 15.341716
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cagnano Varano",
+    "nomeAltraLingua": null,
+    "codice": "071008",
+    "codiceCatastale": "B357",
+    "sigla": "FG",
+    "cap": [
+      "71010"
+    ],
+    "capoluogo": false,
+    "popolazione": 6587,
+    "superficie": 167.026,
+    "coordinate": {
+      "lat": 41.8293497,
+      "lng": 15.7719111
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Candela",
+    "nomeAltraLingua": null,
+    "codice": "071009",
+    "codiceCatastale": "B584",
+    "sigla": "FG",
+    "cap": [
+      "71024"
+    ],
+    "capoluogo": false,
+    "popolazione": 2497,
+    "superficie": 96.9171,
+    "coordinate": {
+      "lat": 41.137545,
+      "lng": 15.5155674
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carapelle",
+    "nomeAltraLingua": null,
+    "codice": "071010",
+    "codiceCatastale": "B724",
+    "sigla": "FG",
+    "cap": [
+      "71041"
+    ],
+    "capoluogo": false,
+    "popolazione": 6948,
+    "superficie": 24.5424,
+    "coordinate": {
+      "lat": 41.3646029,
+      "lng": 15.6936748
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carlantino",
+    "nomeAltraLingua": null,
+    "codice": "071011",
+    "codiceCatastale": "B784",
+    "sigla": "FG",
+    "cap": [
+      "71030"
+    ],
+    "capoluogo": false,
+    "popolazione": 791,
+    "superficie": 34.6958,
+    "coordinate": {
+      "lat": 41.5920037,
+      "lng": 14.9766292
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carpino",
+    "nomeAltraLingua": null,
+    "codice": "071012",
+    "codiceCatastale": "B829",
+    "sigla": "FG",
+    "cap": [
+      "71010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3772,
+    "superficie": 79.839,
+    "coordinate": {
+      "lat": 41.8447768,
+      "lng": 15.8555098
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Casalnuovo Monterotaro",
+    "nomeAltraLingua": null,
+    "codice": "071013",
+    "codiceCatastale": "B904",
+    "sigla": "FG",
+    "cap": [
+      "71033"
+    ],
+    "capoluogo": false,
+    "popolazione": 1366,
+    "superficie": 48.1695,
+    "coordinate": {
+      "lat": 41.6183401,
+      "lng": 15.1026791
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Casalvecchio di Puglia",
+    "nomeAltraLingua": null,
+    "codice": "071014",
+    "codiceCatastale": "B917",
+    "sigla": "FG",
+    "cap": [
+      "71030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1659,
+    "superficie": 31.7958,
+    "coordinate": {
+      "lat": 41.5948378,
+      "lng": 15.1102844
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelluccio dei Sauri",
+    "nomeAltraLingua": null,
+    "codice": "071015",
+    "codiceCatastale": "C198",
+    "sigla": "FG",
+    "cap": [
+      "71025"
+    ],
+    "capoluogo": false,
+    "popolazione": 2011,
+    "superficie": 51.195,
+    "coordinate": {
+      "lat": 41.3040432,
+      "lng": 15.473615
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelluccio Valmaggiore",
+    "nomeAltraLingua": null,
+    "codice": "071016",
+    "codiceCatastale": "C202",
+    "sigla": "FG",
+    "cap": [
+      "71020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1182,
+    "superficie": 26.7327,
+    "coordinate": {
+      "lat": 41.3419248,
+      "lng": 15.2002806
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelnuovo della Daunia",
+    "nomeAltraLingua": null,
+    "codice": "071017",
+    "codiceCatastale": "C222",
+    "sigla": "FG",
+    "cap": [
+      "71034"
+    ],
+    "capoluogo": false,
+    "popolazione": 1286,
+    "superficie": 61.4684,
+    "coordinate": {
+      "lat": 41.5828708,
+      "lng": 15.1183733
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Celenza Valfortore",
+    "nomeAltraLingua": null,
+    "codice": "071018",
+    "codiceCatastale": "C429",
+    "sigla": "FG",
+    "cap": [
+      "71035"
+    ],
+    "capoluogo": false,
+    "popolazione": 1347,
+    "superficie": 65.5306,
+    "coordinate": {
+      "lat": 41.5616528,
+      "lng": 14.9778822
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Celle di San Vito",
+    "nomeAltraLingua": null,
+    "codice": "071019",
+    "codiceCatastale": "C442",
+    "sigla": "FG",
+    "cap": [
+      "71020"
+    ],
+    "capoluogo": false,
+    "popolazione": 148,
+    "superficie": 18.3537,
+    "coordinate": {
+      "lat": 41.3249829,
+      "lng": 15.18095
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cerignola",
+    "nomeAltraLingua": null,
+    "codice": "071020",
+    "codiceCatastale": "C514",
+    "sigla": "FG",
+    "cap": [
+      "71042"
+    ],
+    "capoluogo": false,
+    "popolazione": 57066,
+    "superficie": 593.739,
+    "coordinate": {
+      "lat": 41.2648778,
+      "lng": 15.9041862
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Chieuti",
+    "nomeAltraLingua": null,
+    "codice": "071021",
+    "codiceCatastale": "C633",
+    "sigla": "FG",
+    "cap": [
+      "71010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1490,
+    "superficie": 61.2881,
+    "coordinate": {
+      "lat": 41.8466349,
+      "lng": 15.1666266
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Deliceto",
+    "nomeAltraLingua": null,
+    "codice": "071022",
+    "codiceCatastale": "D269",
+    "sigla": "FG",
+    "cap": [
+      "71026"
+    ],
+    "capoluogo": false,
+    "popolazione": 3494,
+    "superficie": 75.7968,
+    "coordinate": {
+      "lat": 41.2224489,
+      "lng": 15.3876782
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Faeto",
+    "nomeAltraLingua": null,
+    "codice": "071023",
+    "codiceCatastale": "D459",
+    "sigla": "FG",
+    "cap": [
+      "71020"
+    ],
+    "capoluogo": false,
+    "popolazione": 613,
+    "superficie": 25.8732,
+    "coordinate": {
+      "lat": 41.3237846,
+      "lng": 15.1608059
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Foggia",
+    "nomeAltraLingua": null,
+    "codice": "071024",
+    "codiceCatastale": "D643",
+    "sigla": "FG",
+    "cap": [
+      "71121",
+      "71122"
+    ],
+    "capoluogo": true,
+    "popolazione": 145652,
+    "superficie": 509.2854,
+    "coordinate": {
+      "lat": 41.4622051,
+      "lng": 15.5431113
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ischitella",
+    "nomeAltraLingua": null,
+    "codice": "071025",
+    "codiceCatastale": "E332",
+    "sigla": "FG",
+    "cap": [
+      "71010"
+    ],
+    "capoluogo": false,
+    "popolazione": 4110,
+    "superficie": 85.1288,
+    "coordinate": {
+      "lat": 41.9042996,
+      "lng": 15.8965514
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Isole Tremiti",
+    "nomeAltraLingua": null,
+    "codice": "071026",
+    "codiceCatastale": "E363",
+    "sigla": "FG",
+    "cap": [
+      "71051"
+    ],
+    "capoluogo": false,
+    "popolazione": 494,
+    "superficie": 3.2994,
+    "coordinate": {
+      "lat": 42.1202605,
+      "lng": 15.5046145
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lesina",
+    "nomeAltraLingua": null,
+    "codice": "071027",
+    "codiceCatastale": "E549",
+    "sigla": "FG",
+    "cap": [
+      "71010"
+    ],
+    "capoluogo": false,
+    "popolazione": 6246,
+    "superficie": 160.6343,
+    "coordinate": {
+      "lat": 41.8650691,
+      "lng": 15.352822
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lucera",
+    "nomeAltraLingua": null,
+    "codice": "071028",
+    "codiceCatastale": "E716",
+    "sigla": "FG",
+    "cap": [
+      "71036"
+    ],
+    "capoluogo": false,
+    "popolazione": 30723,
+    "superficie": 340.0719,
+    "coordinate": {
+      "lat": 41.5057058,
+      "lng": 15.3362235
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Manfredonia",
+    "nomeAltraLingua": null,
+    "codice": "071029",
+    "codiceCatastale": "E885",
+    "sigla": "FG",
+    "cap": [
+      "71043"
+    ],
+    "capoluogo": false,
+    "popolazione": 53722,
+    "superficie": 355.046,
+    "coordinate": {
+      "lat": 41.6280962,
+      "lng": 15.9188769
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mattinata",
+    "nomeAltraLingua": null,
+    "codice": "071031",
+    "codiceCatastale": "F059",
+    "sigla": "FG",
+    "cap": [
+      "71030"
+    ],
+    "capoluogo": false,
+    "popolazione": 5918,
+    "superficie": 73.3907,
+    "coordinate": {
+      "lat": 41.7103966,
+      "lng": 16.0515998
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monteleone di Puglia",
+    "nomeAltraLingua": null,
+    "codice": "071032",
+    "codiceCatastale": "F538",
+    "sigla": "FG",
+    "cap": [
+      "71020"
+    ],
+    "capoluogo": false,
+    "popolazione": 942,
+    "superficie": 36.2998,
+    "coordinate": {
+      "lat": 41.1664314,
+      "lng": 15.2599057
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte Sant'Angelo",
+    "nomeAltraLingua": null,
+    "codice": "071033",
+    "codiceCatastale": "F631",
+    "sigla": "FG",
+    "cap": [
+      "71037"
+    ],
+    "capoluogo": false,
+    "popolazione": 11239,
+    "superficie": 244.9722,
+    "coordinate": {
+      "lat": 41.7055003,
+      "lng": 15.9581748
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Motta Montecorvino",
+    "nomeAltraLingua": null,
+    "codice": "071034",
+    "codiceCatastale": "F777",
+    "sigla": "FG",
+    "cap": [
+      "71030"
+    ],
+    "capoluogo": false,
+    "popolazione": 630,
+    "superficie": 20.0543,
+    "coordinate": {
+      "lat": 41.5072417,
+      "lng": 15.1145705
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Orsara di Puglia",
+    "nomeAltraLingua": null,
+    "codice": "071035",
+    "codiceCatastale": "G125",
+    "sigla": "FG",
+    "cap": [
+      "71027"
+    ],
+    "capoluogo": false,
+    "popolazione": 2499,
+    "superficie": 82.9425,
+    "coordinate": {
+      "lat": 41.2808177,
+      "lng": 15.2658636
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Orta Nova",
+    "nomeAltraLingua": null,
+    "codice": "071036",
+    "codiceCatastale": "G131",
+    "sigla": "FG",
+    "cap": [
+      "71045"
+    ],
+    "capoluogo": false,
+    "popolazione": 16645,
+    "superficie": 105.5155,
+    "coordinate": {
+      "lat": 41.3268277,
+      "lng": 15.7069353
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Panni",
+    "nomeAltraLingua": null,
+    "codice": "071037",
+    "codiceCatastale": "G312",
+    "sigla": "FG",
+    "cap": [
+      "71020"
+    ],
+    "capoluogo": false,
+    "popolazione": 682,
+    "superficie": 32.6515,
+    "coordinate": {
+      "lat": 41.2198904,
+      "lng": 15.2766416
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Peschici",
+    "nomeAltraLingua": null,
+    "codice": "071038",
+    "codiceCatastale": "G487",
+    "sigla": "FG",
+    "cap": [
+      "71010"
+    ],
+    "capoluogo": false,
+    "popolazione": 4296,
+    "superficie": 49.453,
+    "coordinate": {
+      "lat": 41.9469536,
+      "lng": 16.0157309
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pietramontecorvino",
+    "nomeAltraLingua": null,
+    "codice": "071039",
+    "codiceCatastale": "G604",
+    "sigla": "FG",
+    "cap": [
+      "71038"
+    ],
+    "capoluogo": false,
+    "popolazione": 2457,
+    "superficie": 71.7606,
+    "coordinate": {
+      "lat": 41.5431227,
+      "lng": 15.1299786
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Poggio Imperiale",
+    "nomeAltraLingua": null,
+    "codice": "071040",
+    "codiceCatastale": "G761",
+    "sigla": "FG",
+    "cap": [
+      "71010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2486,
+    "superficie": 52.8464,
+    "coordinate": {
+      "lat": 41.823711,
+      "lng": 15.36518
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rignano Garganico",
+    "nomeAltraLingua": null,
+    "codice": "071041",
+    "codiceCatastale": "H287",
+    "sigla": "FG",
+    "cap": [
+      "71010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1789,
+    "superficie": 90.0138,
+    "coordinate": {
+      "lat": 41.6781127,
+      "lng": 15.5887825
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rocchetta Sant'Antonio",
+    "nomeAltraLingua": null,
+    "codice": "071042",
+    "codiceCatastale": "H467",
+    "sigla": "FG",
+    "cap": [
+      "71020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1650,
+    "superficie": 72.3285,
+    "coordinate": {
+      "lat": 41.1027983,
+      "lng": 15.4576112
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rodi Garganico",
+    "nomeAltraLingua": null,
+    "codice": "071043",
+    "codiceCatastale": "H480",
+    "sigla": "FG",
+    "cap": [
+      "71012"
+    ],
+    "capoluogo": false,
+    "popolazione": 3338,
+    "superficie": 13.6217,
+    "coordinate": {
+      "lat": 41.9279413,
+      "lng": 15.8811785
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Roseto Valfortore",
+    "nomeAltraLingua": null,
+    "codice": "071044",
+    "codiceCatastale": "H568",
+    "sigla": "FG",
+    "cap": [
+      "71039"
+    ],
+    "capoluogo": false,
+    "popolazione": 994,
+    "superficie": 49.9468,
+    "coordinate": {
+      "lat": 41.3699072,
+      "lng": 15.0939119
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Giovanni Rotondo",
+    "nomeAltraLingua": null,
+    "codice": "071046",
+    "codiceCatastale": "H926",
+    "sigla": "FG",
+    "cap": [
+      "71013"
+    ],
+    "capoluogo": false,
+    "popolazione": 26314,
+    "superficie": 261.969,
+    "coordinate": {
+      "lat": 41.7070077,
+      "lng": 15.7272656
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Marco in Lamis",
+    "nomeAltraLingua": null,
+    "codice": "071047",
+    "codiceCatastale": "H985",
+    "sigla": "FG",
+    "cap": [
+      "71014"
+    ],
+    "capoluogo": false,
+    "popolazione": 12469,
+    "superficie": 233.9136,
+    "coordinate": {
+      "lat": 41.7129353,
+      "lng": 15.6385841
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Marco la Catola",
+    "nomeAltraLingua": null,
+    "codice": "071048",
+    "codiceCatastale": "H986",
+    "sigla": "FG",
+    "cap": [
+      "71030"
+    ],
+    "capoluogo": false,
+    "popolazione": 860,
+    "superficie": 28.5165,
+    "coordinate": {
+      "lat": 41.5256684,
+      "lng": 15.0054368
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Nicandro Garganico",
+    "nomeAltraLingua": null,
+    "codice": "071049",
+    "codiceCatastale": "I054",
+    "sigla": "FG",
+    "cap": [
+      "71015"
+    ],
+    "capoluogo": false,
+    "popolazione": 13618,
+    "superficie": 172.7403,
+    "coordinate": {
+      "lat": 41.8369729,
+      "lng": 15.563369
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Paolo di Civitate",
+    "nomeAltraLingua": null,
+    "codice": "071050",
+    "codiceCatastale": "I072",
+    "sigla": "FG",
+    "cap": [
+      "71010"
+    ],
+    "capoluogo": false,
+    "popolazione": 5397,
+    "superficie": 90.6605,
+    "coordinate": {
+      "lat": 41.7404466,
+      "lng": 15.2593219
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Severo",
+    "nomeAltraLingua": null,
+    "codice": "071051",
+    "codiceCatastale": "I158",
+    "sigla": "FG",
+    "cap": [
+      "71016"
+    ],
+    "capoluogo": false,
+    "popolazione": 49287,
+    "superficie": 335.3807,
+    "coordinate": {
+      "lat": 41.6862049,
+      "lng": 15.3806446
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sant'Agata di Puglia",
+    "nomeAltraLingua": null,
+    "codice": "071052",
+    "codiceCatastale": "I193",
+    "sigla": "FG",
+    "cap": [
+      "71028"
+    ],
+    "capoluogo": false,
+    "popolazione": 1793,
+    "superficie": 116.1235,
+    "coordinate": {
+      "lat": 41.1510067,
+      "lng": 15.3802022
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Serracapriola",
+    "nomeAltraLingua": null,
+    "codice": "071053",
+    "codiceCatastale": "I641",
+    "sigla": "FG",
+    "cap": [
+      "71010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3615,
+    "superficie": 143.8905,
+    "coordinate": {
+      "lat": 41.8054128,
+      "lng": 15.1594113
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Stornara",
+    "nomeAltraLingua": null,
+    "codice": "071054",
+    "codiceCatastale": "I962",
+    "sigla": "FG",
+    "cap": [
+      "71047"
+    ],
+    "capoluogo": false,
+    "popolazione": 5785,
+    "superficie": 33.6899,
+    "coordinate": {
+      "lat": 41.2883229,
+      "lng": 15.7682964
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Stornarella",
+    "nomeAltraLingua": null,
+    "codice": "071055",
+    "codiceCatastale": "I963",
+    "sigla": "FG",
+    "cap": [
+      "71048"
+    ],
+    "capoluogo": false,
+    "popolazione": 5329,
+    "superficie": 33.8528,
+    "coordinate": {
+      "lat": 41.2563854,
+      "lng": 15.7300576
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Torremaggiore",
+    "nomeAltraLingua": null,
+    "codice": "071056",
+    "codiceCatastale": "L273",
+    "sigla": "FG",
+    "cap": [
+      "71017"
+    ],
+    "capoluogo": false,
+    "popolazione": 16471,
+    "superficie": 210.019,
+    "coordinate": {
+      "lat": 41.688985,
+      "lng": 15.29243
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Troia",
+    "nomeAltraLingua": null,
+    "codice": "071058",
+    "codiceCatastale": "L447",
+    "sigla": "FG",
+    "cap": [
+      "71029"
+    ],
+    "capoluogo": false,
+    "popolazione": 6602,
+    "superficie": 168.8224,
+    "coordinate": {
+      "lat": 41.3622123,
+      "lng": 15.3098447
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vico del Gargano",
+    "nomeAltraLingua": null,
+    "codice": "071059",
+    "codiceCatastale": "L842",
+    "sigla": "FG",
+    "cap": [
+      "71018"
+    ],
+    "capoluogo": false,
+    "popolazione": 7290,
+    "superficie": 111.2645,
+    "coordinate": {
+      "lat": 41.8963157,
+      "lng": 15.9569128
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vieste",
+    "nomeAltraLingua": null,
+    "codice": "071060",
+    "codiceCatastale": "L858",
+    "sigla": "FG",
+    "cap": [
+      "71019"
+    ],
+    "capoluogo": false,
+    "popolazione": 13296,
+    "superficie": 169.0969,
+    "coordinate": {
+      "lat": 41.8824648,
+      "lng": 16.1796703
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Volturara Appula",
+    "nomeAltraLingua": null,
+    "codice": "071061",
+    "codiceCatastale": "M131",
+    "sigla": "FG",
+    "cap": [
+      "71030"
+    ],
+    "capoluogo": false,
+    "popolazione": 366,
+    "superficie": 52.2767,
+    "coordinate": {
+      "lat": 41.4946846,
+      "lng": 15.0517398
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Volturino",
+    "nomeAltraLingua": null,
+    "codice": "071062",
+    "codiceCatastale": "M132",
+    "sigla": "FG",
+    "cap": [
+      "71030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1517,
+    "superficie": 58.2102,
+    "coordinate": {
+      "lat": 41.4816263,
+      "lng": 15.1243594
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ordona",
+    "nomeAltraLingua": null,
+    "codice": "071063",
+    "codiceCatastale": "M266",
+    "sigla": "FG",
+    "cap": [
+      "71040"
+    ],
+    "capoluogo": false,
+    "popolazione": 3063,
+    "superficie": 39.5362,
+    "coordinate": {
+      "lat": 41.3159843,
+      "lng": 15.6260359
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Zapponeta",
+    "nomeAltraLingua": null,
+    "codice": "071064",
+    "codiceCatastale": "M267",
+    "sigla": "FG",
+    "cap": [
+      "71030"
+    ],
+    "capoluogo": false,
+    "popolazione": 3289,
+    "superficie": 41.8074,
+    "coordinate": {
+      "lat": 41.4555893,
+      "lng": 15.9549987
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Foggia",
+      "codice": "071",
+      "sigla": "FG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Acquaviva delle Fonti",
+    "nomeAltraLingua": null,
+    "codice": "072001",
+    "codiceCatastale": "A048",
+    "sigla": "BA",
+    "cap": [
+      "70021"
+    ],
+    "capoluogo": false,
+    "popolazione": 19826,
+    "superficie": 132.6181,
+    "coordinate": {
+      "lat": 40.8968023,
+      "lng": 16.8426152
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Adelfia",
+    "nomeAltraLingua": null,
+    "codice": "072002",
+    "codiceCatastale": "A055",
+    "sigla": "BA",
+    "cap": [
+      "70010"
+    ],
+    "capoluogo": false,
+    "popolazione": 16473,
+    "superficie": 29.7739,
+    "coordinate": {
+      "lat": 41.0033877,
+      "lng": 16.8711576
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Alberobello",
+    "nomeAltraLingua": null,
+    "codice": "072003",
+    "codiceCatastale": "A149",
+    "sigla": "BA",
+    "cap": [
+      "70011"
+    ],
+    "capoluogo": false,
+    "popolazione": 10177,
+    "superficie": 41.0328,
+    "coordinate": {
+      "lat": 40.7839704,
+      "lng": 17.2372225
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Altamura",
+    "nomeAltraLingua": null,
+    "codice": "072004",
+    "codiceCatastale": "A225",
+    "sigla": "BA",
+    "cap": [
+      "70022"
+    ],
+    "capoluogo": false,
+    "popolazione": 70093,
+    "superficie": 430.3976,
+    "coordinate": {
+      "lat": 40.8284111,
+      "lng": 16.5523558
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Bari",
+    "nomeAltraLingua": null,
+    "codice": "072006",
+    "codiceCatastale": "A662",
+    "sigla": "BA",
+    "cap": [
+      "70121",
+      "70122",
+      "70123",
+      "70124",
+      "70125",
+      "70126",
+      "70127",
+      "70128",
+      "70129",
+      "70131",
+      "70132"
+    ],
+    "capoluogo": true,
+    "popolazione": 316226,
+    "superficie": 116.9993,
+    "coordinate": {
+      "lat": 41.1254785,
+      "lng": 16.8670863
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Binetto",
+    "nomeAltraLingua": null,
+    "codice": "072008",
+    "codiceCatastale": "A874",
+    "sigla": "BA",
+    "cap": [
+      "70020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2151,
+    "superficie": 17.4675,
+    "coordinate": {
+      "lat": 41.0249839,
+      "lng": 16.7099242
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Bitetto",
+    "nomeAltraLingua": null,
+    "codice": "072010",
+    "codiceCatastale": "A892",
+    "sigla": "BA",
+    "cap": [
+      "70020"
+    ],
+    "capoluogo": false,
+    "popolazione": 11743,
+    "superficie": 33.7264,
+    "coordinate": {
+      "lat": 41.0401869,
+      "lng": 16.7483775
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Bitonto",
+    "nomeAltraLingua": null,
+    "codice": "072011",
+    "codiceCatastale": "A893",
+    "sigla": "BA",
+    "cap": [
+      "70032"
+    ],
+    "capoluogo": false,
+    "popolazione": 53103,
+    "superficie": 174.066,
+    "coordinate": {
+      "lat": 41.1101665,
+      "lng": 16.6940714
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Bitritto",
+    "nomeAltraLingua": null,
+    "codice": "072012",
+    "codiceCatastale": "A894",
+    "sigla": "BA",
+    "cap": [
+      "70020"
+    ],
+    "capoluogo": false,
+    "popolazione": 11333,
+    "superficie": 18.1967,
+    "coordinate": {
+      "lat": 41.041309,
+      "lng": 16.8259837
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Capurso",
+    "nomeAltraLingua": null,
+    "codice": "072014",
+    "codiceCatastale": "B716",
+    "sigla": "BA",
+    "cap": [
+      "70010"
+    ],
+    "capoluogo": false,
+    "popolazione": 15174,
+    "superficie": 15.1947,
+    "coordinate": {
+      "lat": 41.0485905,
+      "lng": 16.918807
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Casamassima",
+    "nomeAltraLingua": null,
+    "codice": "072015",
+    "codiceCatastale": "B923",
+    "sigla": "BA",
+    "cap": [
+      "70010"
+    ],
+    "capoluogo": false,
+    "popolazione": 19208,
+    "superficie": 78.4398,
+    "coordinate": {
+      "lat": 40.955388,
+      "lng": 16.9182742
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Cassano delle Murge",
+    "nomeAltraLingua": null,
+    "codice": "072016",
+    "codiceCatastale": "B998",
+    "sigla": "BA",
+    "cap": [
+      "70020"
+    ],
+    "capoluogo": false,
+    "popolazione": 15083,
+    "superficie": 90.2241,
+    "coordinate": {
+      "lat": 40.8896021,
+      "lng": 16.7717311
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Castellana Grotte",
+    "nomeAltraLingua": null,
+    "codice": "072017",
+    "codiceCatastale": "C134",
+    "sigla": "BA",
+    "cap": [
+      "70013"
+    ],
+    "capoluogo": false,
+    "popolazione": 19675,
+    "superficie": 68.6854,
+    "coordinate": {
+      "lat": 40.8828985,
+      "lng": 17.1687493
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Cellamare",
+    "nomeAltraLingua": null,
+    "codice": "072018",
+    "codiceCatastale": "C436",
+    "sigla": "BA",
+    "cap": [
+      "70010"
+    ],
+    "capoluogo": false,
+    "popolazione": 5810,
+    "superficie": 6.0119,
+    "coordinate": {
+      "lat": 41.018125,
+      "lng": 16.9290108
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Conversano",
+    "nomeAltraLingua": null,
+    "codice": "072019",
+    "codiceCatastale": "C975",
+    "sigla": "BA",
+    "cap": [
+      "70014"
+    ],
+    "capoluogo": false,
+    "popolazione": 25827,
+    "superficie": 128.5699,
+    "coordinate": {
+      "lat": 40.9665299,
+      "lng": 17.1145414
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Corato",
+    "nomeAltraLingua": null,
+    "codice": "072020",
+    "codiceCatastale": "C983",
+    "sigla": "BA",
+    "cap": [
+      "70033"
+    ],
+    "capoluogo": false,
+    "popolazione": 46985,
+    "superficie": 169.7679,
+    "coordinate": {
+      "lat": 41.1537234,
+      "lng": 16.4132867
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Gioia del Colle",
+    "nomeAltraLingua": null,
+    "codice": "072021",
+    "codiceCatastale": "E038",
+    "sigla": "BA",
+    "cap": [
+      "70023"
+    ],
+    "capoluogo": false,
+    "popolazione": 26502,
+    "superficie": 208.9294,
+    "coordinate": {
+      "lat": 40.8014568,
+      "lng": 16.9233093
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Giovinazzo",
+    "nomeAltraLingua": null,
+    "codice": "072022",
+    "codiceCatastale": "E047",
+    "sigla": "BA",
+    "cap": [
+      "70054"
+    ],
+    "capoluogo": false,
+    "popolazione": 19260,
+    "superficie": 44.4059,
+    "coordinate": {
+      "lat": 41.1880532,
+      "lng": 16.6726122
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Gravina in Puglia",
+    "nomeAltraLingua": null,
+    "codice": "072023",
+    "codiceCatastale": "E155",
+    "sigla": "BA",
+    "cap": [
+      "70024"
+    ],
+    "capoluogo": false,
+    "popolazione": 42341,
+    "superficie": 384.5132,
+    "coordinate": {
+      "lat": 40.8195622,
+      "lng": 16.4163079
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Grumo Appula",
+    "nomeAltraLingua": null,
+    "codice": "072024",
+    "codiceCatastale": "E223",
+    "sigla": "BA",
+    "cap": [
+      "70025"
+    ],
+    "capoluogo": false,
+    "popolazione": 12078,
+    "superficie": 81.4587,
+    "coordinate": {
+      "lat": 41.0128387,
+      "lng": 16.7101208
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Locorotondo",
+    "nomeAltraLingua": null,
+    "codice": "072025",
+    "codiceCatastale": "E645",
+    "sigla": "BA",
+    "cap": [
+      "70010"
+    ],
+    "capoluogo": false,
+    "popolazione": 13896,
+    "superficie": 48.1483,
+    "coordinate": {
+      "lat": 40.7542447,
+      "lng": 17.3265998
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Modugno",
+    "nomeAltraLingua": null,
+    "codice": "072027",
+    "codiceCatastale": "F262",
+    "sigla": "BA",
+    "cap": [
+      "70026"
+    ],
+    "capoluogo": false,
+    "popolazione": 36162,
+    "superficie": 32.4937,
+    "coordinate": {
+      "lat": 41.0823478,
+      "lng": 16.7811249
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Mola di Bari",
+    "nomeAltraLingua": null,
+    "codice": "072028",
+    "codiceCatastale": "F280",
+    "sigla": "BA",
+    "cap": [
+      "70042"
+    ],
+    "capoluogo": false,
+    "popolazione": 24334,
+    "superficie": 50.6526,
+    "coordinate": {
+      "lat": 41.0601866,
+      "lng": 17.0829143
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Molfetta",
+    "nomeAltraLingua": null,
+    "codice": "072029",
+    "codiceCatastale": "F284",
+    "sigla": "BA",
+    "cap": [
+      "70056"
+    ],
+    "capoluogo": false,
+    "popolazione": 57305,
+    "superficie": 58.7418,
+    "coordinate": {
+      "lat": 41.2053661,
+      "lng": 16.6006722
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Monopoli",
+    "nomeAltraLingua": null,
+    "codice": "072030",
+    "codiceCatastale": "F376",
+    "sigla": "BA",
+    "cap": [
+      "70043"
+    ],
+    "capoluogo": false,
+    "popolazione": 47857,
+    "superficie": 157.4072,
+    "coordinate": {
+      "lat": 40.9529257,
+      "lng": 17.3014267
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Noci",
+    "nomeAltraLingua": null,
+    "codice": "072031",
+    "codiceCatastale": "F915",
+    "sigla": "BA",
+    "cap": [
+      "70015"
+    ],
+    "capoluogo": false,
+    "popolazione": 18221,
+    "superficie": 150.4339,
+    "coordinate": {
+      "lat": 40.7930112,
+      "lng": 17.1280576
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Noicattaro",
+    "nomeAltraLingua": null,
+    "codice": "072032",
+    "codiceCatastale": "F923",
+    "sigla": "BA",
+    "cap": [
+      "70016"
+    ],
+    "capoluogo": false,
+    "popolazione": 25912,
+    "superficie": 40.7512,
+    "coordinate": {
+      "lat": 41.0339124,
+      "lng": 16.9852638
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Palo del Colle",
+    "nomeAltraLingua": null,
+    "codice": "072033",
+    "codiceCatastale": "G291",
+    "sigla": "BA",
+    "cap": [
+      "70027"
+    ],
+    "capoluogo": false,
+    "popolazione": 20475,
+    "superficie": 79.7539,
+    "coordinate": {
+      "lat": 41.0567859,
+      "lng": 16.7034029
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Poggiorsini",
+    "nomeAltraLingua": null,
+    "codice": "072034",
+    "codiceCatastale": "G769",
+    "sigla": "BA",
+    "cap": [
+      "70020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1271,
+    "superficie": 43.435,
+    "coordinate": {
+      "lat": 40.916552,
+      "lng": 16.2537472
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Polignano a Mare",
+    "nomeAltraLingua": null,
+    "codice": "072035",
+    "codiceCatastale": "G787",
+    "sigla": "BA",
+    "cap": [
+      "70044"
+    ],
+    "capoluogo": false,
+    "popolazione": 17463,
+    "superficie": 63.7475,
+    "coordinate": {
+      "lat": 40.9916543,
+      "lng": 17.2193566
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Putignano",
+    "nomeAltraLingua": null,
+    "codice": "072036",
+    "codiceCatastale": "H096",
+    "sigla": "BA",
+    "cap": [
+      "70017"
+    ],
+    "capoluogo": false,
+    "popolazione": 25851,
+    "superficie": 100.3375,
+    "coordinate": {
+      "lat": 40.8497063,
+      "lng": 17.1204885
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Rutigliano",
+    "nomeAltraLingua": null,
+    "codice": "072037",
+    "codiceCatastale": "H643",
+    "sigla": "BA",
+    "cap": [
+      "70018"
+    ],
+    "capoluogo": false,
+    "popolazione": 18219,
+    "superficie": 53.8553,
+    "coordinate": {
+      "lat": 41.0106742,
+      "lng": 17.008521
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Ruvo di Puglia",
+    "nomeAltraLingua": null,
+    "codice": "072038",
+    "codiceCatastale": "H645",
+    "sigla": "BA",
+    "cap": [
+      "70037"
+    ],
+    "capoluogo": false,
+    "popolazione": 24350,
+    "superficie": 223.9096,
+    "coordinate": {
+      "lat": 41.1168666,
+      "lng": 16.4845748
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Sammichele di Bari",
+    "nomeAltraLingua": null,
+    "codice": "072039",
+    "codiceCatastale": "H749",
+    "sigla": "BA",
+    "cap": [
+      "70010"
+    ],
+    "capoluogo": false,
+    "popolazione": 5966,
+    "superficie": 34.1588,
+    "coordinate": {
+      "lat": 40.8897011,
+      "lng": 16.9495249
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Sannicandro di Bari",
+    "nomeAltraLingua": null,
+    "codice": "072040",
+    "codiceCatastale": "I053",
+    "sigla": "BA",
+    "cap": [
+      "70028"
+    ],
+    "capoluogo": false,
+    "popolazione": 9515,
+    "superficie": 56.5488,
+    "coordinate": {
+      "lat": 41.0005533,
+      "lng": 16.7993814
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Santeramo in Colle",
+    "nomeAltraLingua": null,
+    "codice": "072041",
+    "codiceCatastale": "I330",
+    "sigla": "BA",
+    "cap": [
+      "70029"
+    ],
+    "capoluogo": false,
+    "popolazione": 25721,
+    "superficie": 144.9289,
+    "coordinate": {
+      "lat": 40.7938777,
+      "lng": 16.7543754
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Terlizzi",
+    "nomeAltraLingua": null,
+    "codice": "072043",
+    "codiceCatastale": "L109",
+    "sigla": "BA",
+    "cap": [
+      "70038"
+    ],
+    "capoluogo": false,
+    "popolazione": 26013,
+    "superficie": 69.0691,
+    "coordinate": {
+      "lat": 41.13064,
+      "lng": 16.5427159
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Toritto",
+    "nomeAltraLingua": null,
+    "codice": "072044",
+    "codiceCatastale": "L220",
+    "sigla": "BA",
+    "cap": [
+      "70020"
+    ],
+    "capoluogo": false,
+    "popolazione": 8000,
+    "superficie": 75.9089,
+    "coordinate": {
+      "lat": 40.9968363,
+      "lng": 16.6796297
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Triggiano",
+    "nomeAltraLingua": null,
+    "codice": "072046",
+    "codiceCatastale": "L425",
+    "sigla": "BA",
+    "cap": [
+      "70019"
+    ],
+    "capoluogo": false,
+    "popolazione": 25866,
+    "superficie": 20.2459,
+    "coordinate": {
+      "lat": 41.0651814,
+      "lng": 16.9250287
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Turi",
+    "nomeAltraLingua": null,
+    "codice": "072047",
+    "codiceCatastale": "L472",
+    "sigla": "BA",
+    "cap": [
+      "70010"
+    ],
+    "capoluogo": false,
+    "popolazione": 13002,
+    "superficie": 71.4212,
+    "coordinate": {
+      "lat": 40.9158697,
+      "lng": 17.020421
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Valenzano",
+    "nomeAltraLingua": null,
+    "codice": "072048",
+    "codiceCatastale": "L571",
+    "sigla": "BA",
+    "cap": [
+      "70010"
+    ],
+    "capoluogo": false,
+    "popolazione": 17215,
+    "superficie": 15.8895,
+    "coordinate": {
+      "lat": 41.041883,
+      "lng": 16.8872838
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Bari",
+      "codice": "272",
+      "sigla": "BA",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Avetrana",
+    "nomeAltraLingua": null,
+    "codice": "073001",
+    "codiceCatastale": "A514",
+    "sigla": "TA",
+    "cap": [
+      "74020"
+    ],
+    "capoluogo": false,
+    "popolazione": 6194,
+    "superficie": 74.2944,
+    "coordinate": {
+      "lat": 40.3484878,
+      "lng": 17.725547
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carosino",
+    "nomeAltraLingua": null,
+    "codice": "073002",
+    "codiceCatastale": "B808",
+    "sigla": "TA",
+    "cap": [
+      "74021"
+    ],
+    "capoluogo": false,
+    "popolazione": 6530,
+    "superficie": 11.059,
+    "coordinate": {
+      "lat": 40.4662031,
+      "lng": 17.3979804
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castellaneta",
+    "nomeAltraLingua": null,
+    "codice": "073003",
+    "codiceCatastale": "C136",
+    "sigla": "TA",
+    "cap": [
+      "74011"
+    ],
+    "capoluogo": false,
+    "popolazione": 16073,
+    "superficie": 242.438,
+    "coordinate": {
+      "lat": 40.6304704,
+      "lng": 16.9347741
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Crispiano",
+    "nomeAltraLingua": null,
+    "codice": "073004",
+    "codiceCatastale": "D171",
+    "sigla": "TA",
+    "cap": [
+      "74012"
+    ],
+    "capoluogo": false,
+    "popolazione": 13031,
+    "superficie": 112.2109,
+    "coordinate": {
+      "lat": 40.6052874,
+      "lng": 17.231099
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Faggiano",
+    "nomeAltraLingua": null,
+    "codice": "073005",
+    "codiceCatastale": "D463",
+    "sigla": "TA",
+    "cap": [
+      "74020"
+    ],
+    "capoluogo": false,
+    "popolazione": 3392,
+    "superficie": 21.4886,
+    "coordinate": {
+      "lat": 40.4215577,
+      "lng": 17.3878223
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fragagnano",
+    "nomeAltraLingua": null,
+    "codice": "073006",
+    "codiceCatastale": "D754",
+    "sigla": "TA",
+    "cap": [
+      "74022"
+    ],
+    "capoluogo": false,
+    "popolazione": 4952,
+    "superficie": 22.6878,
+    "coordinate": {
+      "lat": 40.4324352,
+      "lng": 17.4746129
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ginosa",
+    "nomeAltraLingua": null,
+    "codice": "073007",
+    "codiceCatastale": "E036",
+    "sigla": "TA",
+    "cap": [
+      "74013"
+    ],
+    "capoluogo": false,
+    "popolazione": 21818,
+    "superficie": 188.813,
+    "coordinate": {
+      "lat": 40.5780011,
+      "lng": 16.7575052
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Grottaglie",
+    "nomeAltraLingua": null,
+    "codice": "073008",
+    "codiceCatastale": "E205",
+    "sigla": "TA",
+    "cap": [
+      "74023"
+    ],
+    "capoluogo": false,
+    "popolazione": 30472,
+    "superficie": 101.5684,
+    "coordinate": {
+      "lat": 40.5337583,
+      "lng": 17.4272599
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Laterza",
+    "nomeAltraLingua": null,
+    "codice": "073009",
+    "codiceCatastale": "E469",
+    "sigla": "TA",
+    "cap": [
+      "74014"
+    ],
+    "capoluogo": false,
+    "popolazione": 14761,
+    "superficie": 161.0867,
+    "coordinate": {
+      "lat": 40.623391,
+      "lng": 16.7994893
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Leporano",
+    "nomeAltraLingua": null,
+    "codice": "073010",
+    "codiceCatastale": "E537",
+    "sigla": "TA",
+    "cap": [
+      "74020"
+    ],
+    "capoluogo": false,
+    "popolazione": 8227,
+    "superficie": 15.2869,
+    "coordinate": {
+      "lat": 40.3836413,
+      "lng": 17.3325867
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lizzano",
+    "nomeAltraLingua": null,
+    "codice": "073011",
+    "codiceCatastale": "E630",
+    "sigla": "TA",
+    "cap": [
+      "74020"
+    ],
+    "capoluogo": false,
+    "popolazione": 9528,
+    "superficie": 46.9504,
+    "coordinate": {
+      "lat": 40.3906529,
+      "lng": 17.4473169
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Manduria",
+    "nomeAltraLingua": null,
+    "codice": "073012",
+    "codiceCatastale": "E882",
+    "sigla": "TA",
+    "cap": [
+      "74024"
+    ],
+    "capoluogo": false,
+    "popolazione": 29810,
+    "superficie": 180.2046,
+    "coordinate": {
+      "lat": 40.4086081,
+      "lng": 17.6403644
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Martina Franca",
+    "nomeAltraLingua": null,
+    "codice": "073013",
+    "codiceCatastale": "E986",
+    "sigla": "TA",
+    "cap": [
+      "74015"
+    ],
+    "capoluogo": false,
+    "popolazione": 46849,
+    "superficie": 298.9621,
+    "coordinate": {
+      "lat": 40.7051135,
+      "lng": 17.3393164
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Maruggio",
+    "nomeAltraLingua": null,
+    "codice": "073014",
+    "codiceCatastale": "E995",
+    "sigla": "TA",
+    "cap": [
+      "74020"
+    ],
+    "capoluogo": false,
+    "popolazione": 5235,
+    "superficie": 49.1692,
+    "coordinate": {
+      "lat": 40.3225013,
+      "lng": 17.5699567
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Massafra",
+    "nomeAltraLingua": null,
+    "codice": "073015",
+    "codiceCatastale": "F027",
+    "sigla": "TA",
+    "cap": [
+      "74016"
+    ],
+    "capoluogo": false,
+    "popolazione": 31966,
+    "superficie": 128.4887,
+    "coordinate": {
+      "lat": 40.5881822,
+      "lng": 17.1124417
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monteiasi",
+    "nomeAltraLingua": null,
+    "codice": "073016",
+    "codiceCatastale": "F531",
+    "sigla": "TA",
+    "cap": [
+      "74020"
+    ],
+    "capoluogo": false,
+    "popolazione": 5281,
+    "superficie": 9.7377,
+    "coordinate": {
+      "lat": 40.5021263,
+      "lng": 17.378601
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montemesola",
+    "nomeAltraLingua": null,
+    "codice": "073017",
+    "codiceCatastale": "F563",
+    "sigla": "TA",
+    "cap": [
+      "74020"
+    ],
+    "capoluogo": false,
+    "popolazione": 3512,
+    "superficie": 16.3972,
+    "coordinate": {
+      "lat": 40.5626952,
+      "lng": 17.3384464
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monteparano",
+    "nomeAltraLingua": null,
+    "codice": "073018",
+    "codiceCatastale": "F587",
+    "sigla": "TA",
+    "cap": [
+      "74020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2295,
+    "superficie": 3.7851,
+    "coordinate": {
+      "lat": 40.4456083,
+      "lng": 17.4140162
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mottola",
+    "nomeAltraLingua": null,
+    "codice": "073019",
+    "codiceCatastale": "F784",
+    "sigla": "TA",
+    "cap": [
+      "74017"
+    ],
+    "capoluogo": false,
+    "popolazione": 15228,
+    "superficie": 212.972,
+    "coordinate": {
+      "lat": 40.6332725,
+      "lng": 17.0385218
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Palagianello",
+    "nomeAltraLingua": null,
+    "codice": "073020",
+    "codiceCatastale": "G251",
+    "sigla": "TA",
+    "cap": [
+      "74018"
+    ],
+    "capoluogo": false,
+    "popolazione": 7543,
+    "superficie": 44.0431,
+    "coordinate": {
+      "lat": 40.6116659,
+      "lng": 16.9773892
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Palagiano",
+    "nomeAltraLingua": null,
+    "codice": "073021",
+    "codiceCatastale": "G252",
+    "sigla": "TA",
+    "cap": [
+      "74019"
+    ],
+    "capoluogo": false,
+    "popolazione": 15724,
+    "superficie": 70.115,
+    "coordinate": {
+      "lat": 40.578695,
+      "lng": 17.0394357
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pulsano",
+    "nomeAltraLingua": null,
+    "codice": "073022",
+    "codiceCatastale": "H090",
+    "sigla": "TA",
+    "cap": [
+      "74026"
+    ],
+    "capoluogo": false,
+    "popolazione": 11202,
+    "superficie": 18.9202,
+    "coordinate": {
+      "lat": 40.3823679,
+      "lng": 17.351797
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Roccaforzata",
+    "nomeAltraLingua": null,
+    "codice": "073023",
+    "codiceCatastale": "H409",
+    "sigla": "TA",
+    "cap": [
+      "74020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1758,
+    "superficie": 6.1435,
+    "coordinate": {
+      "lat": 40.4376024,
+      "lng": 17.3885443
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Giorgio Ionico",
+    "nomeAltraLingua": null,
+    "codice": "073024",
+    "codiceCatastale": "H882",
+    "sigla": "TA",
+    "cap": [
+      "74027"
+    ],
+    "capoluogo": false,
+    "popolazione": 14062,
+    "superficie": 23.6728,
+    "coordinate": {
+      "lat": 40.4596023,
+      "lng": 17.3860656
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Marzano di San Giuseppe",
+    "nomeAltraLingua": null,
+    "codice": "073025",
+    "codiceCatastale": "I018",
+    "sigla": "TA",
+    "cap": [
+      "74020"
+    ],
+    "capoluogo": false,
+    "popolazione": 8874,
+    "superficie": 19.2691,
+    "coordinate": {
+      "lat": 40.4509218,
+      "lng": 17.5063259
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sava",
+    "nomeAltraLingua": null,
+    "codice": "073026",
+    "codiceCatastale": "I467",
+    "sigla": "TA",
+    "cap": [
+      "74028"
+    ],
+    "capoluogo": false,
+    "popolazione": 15262,
+    "superficie": 44.5544,
+    "coordinate": {
+      "lat": 40.4036374,
+      "lng": 17.5568385
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Taranto",
+    "nomeAltraLingua": null,
+    "codice": "073027",
+    "codiceCatastale": "L049",
+    "sigla": "TA",
+    "cap": [
+      "74121",
+      "74122",
+      "74123"
+    ],
+    "capoluogo": true,
+    "popolazione": 187025,
+    "superficie": 249.0175,
+    "coordinate": {
+      "lat": 40.4734399,
+      "lng": 17.2325724
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Torricella",
+    "nomeAltraLingua": null,
+    "codice": "073028",
+    "codiceCatastale": "L294",
+    "sigla": "TA",
+    "cap": [
+      "74020"
+    ],
+    "capoluogo": false,
+    "popolazione": 4110,
+    "superficie": 26.9729,
+    "coordinate": {
+      "lat": 40.3549082,
+      "lng": 17.5028474
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Statte",
+    "nomeAltraLingua": null,
+    "codice": "073029",
+    "codiceCatastale": "M298",
+    "sigla": "TA",
+    "cap": [
+      "74010"
+    ],
+    "capoluogo": false,
+    "popolazione": 12787,
+    "superficie": 67.3203,
+    "coordinate": {
+      "lat": 40.5649393,
+      "lng": 17.2038475
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Taranto",
+      "codice": "073",
+      "sigla": "TA",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Brindisi",
+    "nomeAltraLingua": null,
+    "codice": "074001",
+    "codiceCatastale": "B180",
+    "sigla": "BR",
+    "cap": [
+      "72100"
+    ],
+    "capoluogo": true,
+    "popolazione": 82298,
+    "superficie": 333.1215,
+    "coordinate": {
+      "lat": 40.6383521,
+      "lng": 17.9458098
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carovigno",
+    "nomeAltraLingua": null,
+    "codice": "074002",
+    "codiceCatastale": "B809",
+    "sigla": "BR",
+    "cap": [
+      "72012"
+    ],
+    "capoluogo": false,
+    "popolazione": 16943,
+    "superficie": 106.6101,
+    "coordinate": {
+      "lat": 40.7071909,
+      "lng": 17.6596879
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ceglie Messapica",
+    "nomeAltraLingua": null,
+    "codice": "074003",
+    "codiceCatastale": "C424",
+    "sigla": "BR",
+    "cap": [
+      "72013"
+    ],
+    "capoluogo": false,
+    "popolazione": 18636,
+    "superficie": 131.7235,
+    "coordinate": {
+      "lat": 40.6480963,
+      "lng": 17.5173854
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cellino San Marco",
+    "nomeAltraLingua": null,
+    "codice": "074004",
+    "codiceCatastale": "C448",
+    "sigla": "BR",
+    "cap": [
+      "72020"
+    ],
+    "capoluogo": false,
+    "popolazione": 6023,
+    "superficie": 37.8122,
+    "coordinate": {
+      "lat": 40.4746196,
+      "lng": 17.9697461
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cisternino",
+    "nomeAltraLingua": null,
+    "codice": "074005",
+    "codiceCatastale": "C741",
+    "sigla": "BR",
+    "cap": [
+      "72014"
+    ],
+    "capoluogo": false,
+    "popolazione": 11095,
+    "superficie": 53.9554,
+    "coordinate": {
+      "lat": 40.739411,
+      "lng": 17.4284438
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Erchie",
+    "nomeAltraLingua": null,
+    "codice": "074006",
+    "codiceCatastale": "D422",
+    "sigla": "BR",
+    "cap": [
+      "72020"
+    ],
+    "capoluogo": false,
+    "popolazione": 8173,
+    "superficie": 44.7516,
+    "coordinate": {
+      "lat": 40.4370757,
+      "lng": 17.7341475
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fasano",
+    "nomeAltraLingua": null,
+    "codice": "074007",
+    "codiceCatastale": "D508",
+    "sigla": "BR",
+    "cap": [
+      "72015"
+    ],
+    "capoluogo": false,
+    "popolazione": 38724,
+    "superficie": 131.7215,
+    "coordinate": {
+      "lat": 40.8349654,
+      "lng": 17.3593214
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Francavilla Fontana",
+    "nomeAltraLingua": null,
+    "codice": "074008",
+    "codiceCatastale": "D761",
+    "sigla": "BR",
+    "cap": [
+      "72021"
+    ],
+    "capoluogo": false,
+    "popolazione": 34759,
+    "superficie": 177.9958,
+    "coordinate": {
+      "lat": 40.5326899,
+      "lng": 17.5841407
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Latiano",
+    "nomeAltraLingua": null,
+    "codice": "074009",
+    "codiceCatastale": "E471",
+    "sigla": "BR",
+    "cap": [
+      "72022"
+    ],
+    "capoluogo": false,
+    "popolazione": 13461,
+    "superficie": 55.0862,
+    "coordinate": {
+      "lat": 40.5548303,
+      "lng": 17.7167698
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mesagne",
+    "nomeAltraLingua": null,
+    "codice": "074010",
+    "codiceCatastale": "F152",
+    "sigla": "BR",
+    "cap": [
+      "72023"
+    ],
+    "capoluogo": false,
+    "popolazione": 26077,
+    "superficie": 124.2778,
+    "coordinate": {
+      "lat": 40.5573159,
+      "lng": 17.8101522
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Oria",
+    "nomeAltraLingua": null,
+    "codice": "074011",
+    "codiceCatastale": "G098",
+    "sigla": "BR",
+    "cap": [
+      "72024"
+    ],
+    "capoluogo": false,
+    "popolazione": 14455,
+    "superficie": 83.5368,
+    "coordinate": {
+      "lat": 40.5019879,
+      "lng": 17.6412614
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ostuni",
+    "nomeAltraLingua": null,
+    "codice": "074012",
+    "codiceCatastale": "G187",
+    "sigla": "BR",
+    "cap": [
+      "72017"
+    ],
+    "capoluogo": false,
+    "popolazione": 29942,
+    "superficie": 226.3166,
+    "coordinate": {
+      "lat": 40.7320927,
+      "lng": 17.5775643
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Donaci",
+    "nomeAltraLingua": null,
+    "codice": "074013",
+    "codiceCatastale": "H822",
+    "sigla": "BR",
+    "cap": [
+      "72025"
+    ],
+    "capoluogo": false,
+    "popolazione": 6154,
+    "superficie": 34.0427,
+    "coordinate": {
+      "lat": 40.4462245,
+      "lng": 17.9216359
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Michele Salentino",
+    "nomeAltraLingua": null,
+    "codice": "074014",
+    "codiceCatastale": "I045",
+    "sigla": "BR",
+    "cap": [
+      "72018"
+    ],
+    "capoluogo": false,
+    "popolazione": 6079,
+    "superficie": 26.6505,
+    "coordinate": {
+      "lat": 40.6297556,
+      "lng": 17.631633
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Pancrazio Salentino",
+    "nomeAltraLingua": null,
+    "codice": "074015",
+    "codiceCatastale": "I066",
+    "sigla": "BR",
+    "cap": [
+      "72026"
+    ],
+    "capoluogo": false,
+    "popolazione": 9130,
+    "superficie": 56.7995,
+    "coordinate": {
+      "lat": 40.4182452,
+      "lng": 17.8388623
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Pietro Vernotico",
+    "nomeAltraLingua": null,
+    "codice": "074016",
+    "codiceCatastale": "I119",
+    "sigla": "BR",
+    "cap": [
+      "72027"
+    ],
+    "capoluogo": false,
+    "popolazione": 13013,
+    "superficie": 46.7409,
+    "coordinate": {
+      "lat": 40.4885934,
+      "lng": 18.00002
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Vito dei Normanni",
+    "nomeAltraLingua": null,
+    "codice": "074017",
+    "codiceCatastale": "I396",
+    "sigla": "BR",
+    "cap": [
+      "72019"
+    ],
+    "capoluogo": false,
+    "popolazione": 17931,
+    "superficie": 67.0196,
+    "coordinate": {
+      "lat": 40.6558381,
+      "lng": 17.7037098
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Torchiarolo",
+    "nomeAltraLingua": null,
+    "codice": "074018",
+    "codiceCatastale": "L213",
+    "sigla": "BR",
+    "cap": [
+      "72020"
+    ],
+    "capoluogo": false,
+    "popolazione": 5280,
+    "superficie": 32.8411,
+    "coordinate": {
+      "lat": 40.4799318,
+      "lng": 18.0558832
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Torre Santa Susanna",
+    "nomeAltraLingua": null,
+    "codice": "074019",
+    "codiceCatastale": "L280",
+    "sigla": "BR",
+    "cap": [
+      "72028"
+    ],
+    "capoluogo": false,
+    "popolazione": 10094,
+    "superficie": 55.4896,
+    "coordinate": {
+      "lat": 40.463583,
+      "lng": 17.7424847
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Villa Castelli",
+    "nomeAltraLingua": null,
+    "codice": "074020",
+    "codiceCatastale": "L920",
+    "sigla": "BR",
+    "cap": [
+      "72029"
+    ],
+    "capoluogo": false,
+    "popolazione": 8973,
+    "superficie": 34.9541,
+    "coordinate": {
+      "lat": 40.5776621,
+      "lng": 17.4759029
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Brindisi",
+      "codice": "074",
+      "sigla": "BR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Alessano",
+    "nomeAltraLingua": null,
+    "codice": "075002",
+    "codiceCatastale": "A184",
+    "sigla": "LE",
+    "cap": [
+      "73031"
+    ],
+    "capoluogo": false,
+    "popolazione": 6038,
+    "superficie": 28.825,
+    "coordinate": {
+      "lat": 39.8892354,
+      "lng": 18.3318997
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Alezio",
+    "nomeAltraLingua": null,
+    "codice": "075003",
+    "codiceCatastale": "A185",
+    "sigla": "LE",
+    "cap": [
+      "73011"
+    ],
+    "capoluogo": false,
+    "popolazione": 5670,
+    "superficie": 16.5698,
+    "coordinate": {
+      "lat": 40.0612876,
+      "lng": 18.0622661
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Alliste",
+    "nomeAltraLingua": null,
+    "codice": "075004",
+    "codiceCatastale": "A208",
+    "sigla": "LE",
+    "cap": [
+      "73040"
+    ],
+    "capoluogo": false,
+    "popolazione": 6419,
+    "superficie": 23.6793,
+    "coordinate": {
+      "lat": 39.9476271,
+      "lng": 18.0898902
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Andrano",
+    "nomeAltraLingua": null,
+    "codice": "075005",
+    "codiceCatastale": "A281",
+    "sigla": "LE",
+    "cap": [
+      "73032"
+    ],
+    "capoluogo": false,
+    "popolazione": 4501,
+    "superficie": 15.9114,
+    "coordinate": {
+      "lat": 39.9824266,
+      "lng": 18.3819407
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Aradeo",
+    "nomeAltraLingua": null,
+    "codice": "075006",
+    "codiceCatastale": "A350",
+    "sigla": "LE",
+    "cap": [
+      "73040"
+    ],
+    "capoluogo": false,
+    "popolazione": 8863,
+    "superficie": 8.46,
+    "coordinate": {
+      "lat": 40.129386,
+      "lng": 18.1320206
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Arnesano",
+    "nomeAltraLingua": null,
+    "codice": "075007",
+    "codiceCatastale": "A425",
+    "sigla": "LE",
+    "cap": [
+      "73010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3899,
+    "superficie": 13.6718,
+    "coordinate": {
+      "lat": 40.3340985,
+      "lng": 18.090777
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bagnolo del Salento",
+    "nomeAltraLingua": null,
+    "codice": "075008",
+    "codiceCatastale": "A572",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1743,
+    "superficie": 6.5366,
+    "coordinate": {
+      "lat": 40.1477648,
+      "lng": 18.3524353
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Botrugno",
+    "nomeAltraLingua": null,
+    "codice": "075009",
+    "codiceCatastale": "B086",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2623,
+    "superficie": 9.5649,
+    "coordinate": {
+      "lat": 40.064331,
+      "lng": 18.3245568
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Calimera",
+    "nomeAltraLingua": null,
+    "codice": "075010",
+    "codiceCatastale": "B413",
+    "sigla": "LE",
+    "cap": [
+      "73021"
+    ],
+    "capoluogo": false,
+    "popolazione": 6698,
+    "superficie": 11.1356,
+    "coordinate": {
+      "lat": 40.2505756,
+      "lng": 18.2801247
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Campi Salentina",
+    "nomeAltraLingua": null,
+    "codice": "075011",
+    "codiceCatastale": "B506",
+    "sigla": "LE",
+    "cap": [
+      "73012"
+    ],
+    "capoluogo": false,
+    "popolazione": 9740,
+    "superficie": 45.7568,
+    "coordinate": {
+      "lat": 40.3989252,
+      "lng": 18.0198803
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cannole",
+    "nomeAltraLingua": null,
+    "codice": "075012",
+    "codiceCatastale": "B616",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1576,
+    "superficie": 20.4766,
+    "coordinate": {
+      "lat": 40.163787,
+      "lng": 18.3618889
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Caprarica di Lecce",
+    "nomeAltraLingua": null,
+    "codice": "075013",
+    "codiceCatastale": "B690",
+    "sigla": "LE",
+    "cap": [
+      "73010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2263,
+    "superficie": 10.8881,
+    "coordinate": {
+      "lat": 40.2623493,
+      "lng": 18.2452456
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carmiano",
+    "nomeAltraLingua": null,
+    "codice": "075014",
+    "codiceCatastale": "B792",
+    "sigla": "LE",
+    "cap": [
+      "73041"
+    ],
+    "capoluogo": false,
+    "popolazione": 11653,
+    "superficie": 23.9292,
+    "coordinate": {
+      "lat": 40.3463194,
+      "lng": 18.0461355
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carpignano Salentino",
+    "nomeAltraLingua": null,
+    "codice": "075015",
+    "codiceCatastale": "B822",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 3630,
+    "superficie": 48.9827,
+    "coordinate": {
+      "lat": 40.1979772,
+      "lng": 18.3416751
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Casarano",
+    "nomeAltraLingua": null,
+    "codice": "075016",
+    "codiceCatastale": "B936",
+    "sigla": "LE",
+    "cap": [
+      "73042"
+    ],
+    "capoluogo": false,
+    "popolazione": 19151,
+    "superficie": 38.4503,
+    "coordinate": {
+      "lat": 40.0097559,
+      "lng": 18.1602468
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castri di Lecce",
+    "nomeAltraLingua": null,
+    "codice": "075017",
+    "codiceCatastale": "C334",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2732,
+    "superficie": 12.7778,
+    "coordinate": {
+      "lat": 40.2738851,
+      "lng": 18.2649338
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castrignano de' Greci",
+    "nomeAltraLingua": null,
+    "codice": "075018",
+    "codiceCatastale": "C335",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 3639,
+    "superficie": 9.4486,
+    "coordinate": {
+      "lat": 40.1733798,
+      "lng": 18.297113
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castrignano del Capo",
+    "nomeAltraLingua": null,
+    "codice": "075019",
+    "codiceCatastale": "C336",
+    "sigla": "LE",
+    "cap": [
+      "73040"
+    ],
+    "capoluogo": false,
+    "popolazione": 5098,
+    "superficie": 20.7483,
+    "coordinate": {
+      "lat": 39.8313438,
+      "lng": 18.3526581
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cavallino",
+    "nomeAltraLingua": null,
+    "codice": "075020",
+    "codiceCatastale": "C377",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 12931,
+    "superficie": 22.8459,
+    "coordinate": {
+      "lat": 40.31535,
+      "lng": 18.194558
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Collepasso",
+    "nomeAltraLingua": null,
+    "codice": "075021",
+    "codiceCatastale": "C865",
+    "sigla": "LE",
+    "cap": [
+      "73040"
+    ],
+    "capoluogo": false,
+    "popolazione": 5554,
+    "superficie": 12.7732,
+    "coordinate": {
+      "lat": 40.0725668,
+      "lng": 18.1623445
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Copertino",
+    "nomeAltraLingua": null,
+    "codice": "075022",
+    "codiceCatastale": "C978",
+    "sigla": "LE",
+    "cap": [
+      "73043"
+    ],
+    "capoluogo": false,
+    "popolazione": 22969,
+    "superficie": 59.1577,
+    "coordinate": {
+      "lat": 40.2751225,
+      "lng": 18.0461176
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Corigliano d'Otranto",
+    "nomeAltraLingua": null,
+    "codice": "075023",
+    "codiceCatastale": "D006",
+    "sigla": "LE",
+    "cap": [
+      "73022"
+    ],
+    "capoluogo": false,
+    "popolazione": 5598,
+    "superficie": 28.8332,
+    "coordinate": {
+      "lat": 40.1590999,
+      "lng": 18.2578548
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Corsano",
+    "nomeAltraLingua": null,
+    "codice": "075024",
+    "codiceCatastale": "D044",
+    "sigla": "LE",
+    "cap": [
+      "73033"
+    ],
+    "capoluogo": false,
+    "popolazione": 5119,
+    "superficie": 9.1784,
+    "coordinate": {
+      "lat": 39.8889147,
+      "lng": 18.3692398
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cursi",
+    "nomeAltraLingua": null,
+    "codice": "075025",
+    "codiceCatastale": "D223",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 3839,
+    "superficie": 8.6091,
+    "coordinate": {
+      "lat": 40.1497981,
+      "lng": 18.3136446
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cutrofiano",
+    "nomeAltraLingua": null,
+    "codice": "075026",
+    "codiceCatastale": "D237",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 8657,
+    "superficie": 56.4702,
+    "coordinate": {
+      "lat": 40.1271464,
+      "lng": 18.2083555
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Diso",
+    "nomeAltraLingua": null,
+    "codice": "075027",
+    "codiceCatastale": "D305",
+    "sigla": "LE",
+    "cap": [
+      "73030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2803,
+    "superficie": 11.5931,
+    "coordinate": {
+      "lat": 40.0080661,
+      "lng": 18.387339
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gagliano del Capo",
+    "nomeAltraLingua": null,
+    "codice": "075028",
+    "codiceCatastale": "D851",
+    "sigla": "LE",
+    "cap": [
+      "73034"
+    ],
+    "capoluogo": false,
+    "popolazione": 4863,
+    "superficie": 16.6639,
+    "coordinate": {
+      "lat": 39.8453105,
+      "lng": 18.3726354
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Galatina",
+    "nomeAltraLingua": null,
+    "codice": "075029",
+    "codiceCatastale": "D862",
+    "sigla": "LE",
+    "cap": [
+      "73013"
+    ],
+    "capoluogo": false,
+    "popolazione": 25485,
+    "superficie": 82.1111,
+    "coordinate": {
+      "lat": 40.1739095,
+      "lng": 18.16982
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Galatone",
+    "nomeAltraLingua": null,
+    "codice": "075030",
+    "codiceCatastale": "D863",
+    "sigla": "LE",
+    "cap": [
+      "73044"
+    ],
+    "capoluogo": false,
+    "popolazione": 14884,
+    "superficie": 46.9501,
+    "coordinate": {
+      "lat": 40.1486758,
+      "lng": 18.0729802
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gallipoli",
+    "nomeAltraLingua": null,
+    "codice": "075031",
+    "codiceCatastale": "D883",
+    "sigla": "LE",
+    "cap": [
+      "73014"
+    ],
+    "capoluogo": false,
+    "popolazione": 19139,
+    "superficie": 40.4862,
+    "coordinate": {
+      "lat": 40.0548261,
+      "lng": 17.9758288
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Giuggianello",
+    "nomeAltraLingua": null,
+    "codice": "075032",
+    "codiceCatastale": "E053",
+    "sigla": "LE",
+    "cap": [
+      "73030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1127,
+    "superficie": 10.5427,
+    "coordinate": {
+      "lat": 40.0954147,
+      "lng": 18.3697271
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Giurdignano",
+    "nomeAltraLingua": null,
+    "codice": "075033",
+    "codiceCatastale": "E061",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1953,
+    "superficie": 13.8849,
+    "coordinate": {
+      "lat": 40.1244493,
+      "lng": 18.4299478
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Guagnano",
+    "nomeAltraLingua": null,
+    "codice": "075034",
+    "codiceCatastale": "E227",
+    "sigla": "LE",
+    "cap": [
+      "73010"
+    ],
+    "capoluogo": false,
+    "popolazione": 5321,
+    "superficie": 38.3058,
+    "coordinate": {
+      "lat": 40.4022601,
+      "lng": 17.9509569
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lecce",
+    "nomeAltraLingua": null,
+    "codice": "075035",
+    "codiceCatastale": "E506",
+    "sigla": "LE",
+    "cap": [
+      "73100"
+    ],
+    "capoluogo": true,
+    "popolazione": 94250,
+    "superficie": 239.1705,
+    "coordinate": {
+      "lat": 40.3535014,
+      "lng": 18.1719245
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lequile",
+    "nomeAltraLingua": null,
+    "codice": "075036",
+    "codiceCatastale": "E538",
+    "sigla": "LE",
+    "cap": [
+      "73010"
+    ],
+    "capoluogo": false,
+    "popolazione": 8581,
+    "superficie": 36.1811,
+    "coordinate": {
+      "lat": 40.3072298,
+      "lng": 18.1413697
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Leverano",
+    "nomeAltraLingua": null,
+    "codice": "075037",
+    "codiceCatastale": "E563",
+    "sigla": "LE",
+    "cap": [
+      "73045"
+    ],
+    "capoluogo": false,
+    "popolazione": 13476,
+    "superficie": 49.2956,
+    "coordinate": {
+      "lat": 40.288306,
+      "lng": 17.9957065
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lizzanello",
+    "nomeAltraLingua": null,
+    "codice": "075038",
+    "codiceCatastale": "E629",
+    "sigla": "LE",
+    "cap": [
+      "73023"
+    ],
+    "capoluogo": false,
+    "popolazione": 11759,
+    "superficie": 25.4843,
+    "coordinate": {
+      "lat": 40.3030443,
+      "lng": 18.2225937
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Maglie",
+    "nomeAltraLingua": null,
+    "codice": "075039",
+    "codiceCatastale": "E815",
+    "sigla": "LE",
+    "cap": [
+      "73024"
+    ],
+    "capoluogo": false,
+    "popolazione": 13367,
+    "superficie": 22.665,
+    "coordinate": {
+      "lat": 40.1208448,
+      "lng": 18.2992233
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Martano",
+    "nomeAltraLingua": null,
+    "codice": "075040",
+    "codiceCatastale": "E979",
+    "sigla": "LE",
+    "cap": [
+      "73025"
+    ],
+    "capoluogo": false,
+    "popolazione": 8485,
+    "superficie": 22.2478,
+    "coordinate": {
+      "lat": 40.2034981,
+      "lng": 18.3018645
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Martignano",
+    "nomeAltraLingua": null,
+    "codice": "075041",
+    "codiceCatastale": "E984",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1567,
+    "superficie": 6.5841,
+    "coordinate": {
+      "lat": 40.2390614,
+      "lng": 18.2575607
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Matino",
+    "nomeAltraLingua": null,
+    "codice": "075042",
+    "codiceCatastale": "F054",
+    "sigla": "LE",
+    "cap": [
+      "73046"
+    ],
+    "capoluogo": false,
+    "popolazione": 10875,
+    "superficie": 26.8512,
+    "coordinate": {
+      "lat": 40.0323436,
+      "lng": 18.1339676
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Melendugno",
+    "nomeAltraLingua": null,
+    "codice": "075043",
+    "codiceCatastale": "F101",
+    "sigla": "LE",
+    "cap": [
+      "73026"
+    ],
+    "capoluogo": false,
+    "popolazione": 9999,
+    "superficie": 92.3575,
+    "coordinate": {
+      "lat": 40.2741367,
+      "lng": 18.3376797
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Melissano",
+    "nomeAltraLingua": null,
+    "codice": "075044",
+    "codiceCatastale": "F109",
+    "sigla": "LE",
+    "cap": [
+      "73040"
+    ],
+    "capoluogo": false,
+    "popolazione": 6632,
+    "superficie": 12.868,
+    "coordinate": {
+      "lat": 39.9734452,
+      "lng": 18.124926
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Melpignano",
+    "nomeAltraLingua": null,
+    "codice": "075045",
+    "codiceCatastale": "F117",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2089,
+    "superficie": 10.7163,
+    "coordinate": {
+      "lat": 40.1552535,
+      "lng": 18.2927222
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Miggiano",
+    "nomeAltraLingua": null,
+    "codice": "075046",
+    "codiceCatastale": "F194",
+    "sigla": "LE",
+    "cap": [
+      "73035"
+    ],
+    "capoluogo": false,
+    "popolazione": 3229,
+    "superficie": 8.0147,
+    "coordinate": {
+      "lat": 39.9654726,
+      "lng": 18.3103429
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Minervino di Lecce",
+    "nomeAltraLingua": null,
+    "codice": "075047",
+    "codiceCatastale": "F221",
+    "sigla": "LE",
+    "cap": [
+      "73027"
+    ],
+    "capoluogo": false,
+    "popolazione": 3438,
+    "superficie": 17.8968,
+    "coordinate": {
+      "lat": 40.0924299,
+      "lng": 18.4199397
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monteroni di Lecce",
+    "nomeAltraLingua": null,
+    "codice": "075048",
+    "codiceCatastale": "F604",
+    "sigla": "LE",
+    "cap": [
+      "73047"
+    ],
+    "capoluogo": false,
+    "popolazione": 13236,
+    "superficie": 16.7749,
+    "coordinate": {
+      "lat": 40.3267972,
+      "lng": 18.0960393
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montesano Salentino",
+    "nomeAltraLingua": null,
+    "codice": "075049",
+    "codiceCatastale": "F623",
+    "sigla": "LE",
+    "cap": [
+      "73030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2603,
+    "superficie": 8.6012,
+    "coordinate": {
+      "lat": 39.9761655,
+      "lng": 18.3209211
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Morciano di Leuca",
+    "nomeAltraLingua": null,
+    "codice": "075050",
+    "codiceCatastale": "F716",
+    "sigla": "LE",
+    "cap": [
+      "73040"
+    ],
+    "capoluogo": false,
+    "popolazione": 3030,
+    "superficie": 13.6196,
+    "coordinate": {
+      "lat": 39.8474616,
+      "lng": 18.3110932
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Muro Leccese",
+    "nomeAltraLingua": null,
+    "codice": "075051",
+    "codiceCatastale": "F816",
+    "sigla": "LE",
+    "cap": [
+      "73036"
+    ],
+    "capoluogo": false,
+    "popolazione": 4655,
+    "superficie": 16.5361,
+    "coordinate": {
+      "lat": 40.10234,
+      "lng": 18.334228
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Nardò",
+    "nomeAltraLingua": null,
+    "codice": "075052",
+    "codiceCatastale": "F842",
+    "sigla": "LE",
+    "cap": [
+      "73048"
+    ],
+    "capoluogo": false,
+    "popolazione": 30748,
+    "superficie": 193.3974,
+    "coordinate": {
+      "lat": 40.1760702,
+      "lng": 18.0311005
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Neviano",
+    "nomeAltraLingua": null,
+    "codice": "075053",
+    "codiceCatastale": "F881",
+    "sigla": "LE",
+    "cap": [
+      "73040"
+    ],
+    "capoluogo": false,
+    "popolazione": 4872,
+    "superficie": 16.4633,
+    "coordinate": {
+      "lat": 40.1061504,
+      "lng": 18.1172053
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Nociglia",
+    "nomeAltraLingua": null,
+    "codice": "075054",
+    "codiceCatastale": "F916",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2100,
+    "superficie": 10.863,
+    "coordinate": {
+      "lat": 40.0372694,
+      "lng": 18.3280982
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Novoli",
+    "nomeAltraLingua": null,
+    "codice": "075055",
+    "codiceCatastale": "F970",
+    "sigla": "LE",
+    "cap": [
+      "73051"
+    ],
+    "capoluogo": false,
+    "popolazione": 7482,
+    "superficie": 18.0728,
+    "coordinate": {
+      "lat": 40.376016,
+      "lng": 18.0494984
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ortelle",
+    "nomeAltraLingua": null,
+    "codice": "075056",
+    "codiceCatastale": "G136",
+    "sigla": "LE",
+    "cap": [
+      "73030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2179,
+    "superficie": 10.1984,
+    "coordinate": {
+      "lat": 40.0333795,
+      "lng": 18.3914186
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Otranto",
+    "nomeAltraLingua": null,
+    "codice": "075057",
+    "codiceCatastale": "G188",
+    "sigla": "LE",
+    "cap": [
+      "73028"
+    ],
+    "capoluogo": false,
+    "popolazione": 5612,
+    "superficie": 76.7771,
+    "coordinate": {
+      "lat": 40.1460239,
+      "lng": 18.4908325
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Palmariggi",
+    "nomeAltraLingua": null,
+    "codice": "075058",
+    "codiceCatastale": "G285",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1356,
+    "superficie": 9.2839,
+    "coordinate": {
+      "lat": 40.1311621,
+      "lng": 18.3810448
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Parabita",
+    "nomeAltraLingua": null,
+    "codice": "075059",
+    "codiceCatastale": "G325",
+    "sigla": "LE",
+    "cap": [
+      "73052"
+    ],
+    "capoluogo": false,
+    "popolazione": 8676,
+    "superficie": 21.061,
+    "coordinate": {
+      "lat": 40.0489353,
+      "lng": 18.1257791
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Patù",
+    "nomeAltraLingua": null,
+    "codice": "075060",
+    "codiceCatastale": "G378",
+    "sigla": "LE",
+    "cap": [
+      "73053"
+    ],
+    "capoluogo": false,
+    "popolazione": 1652,
+    "superficie": 8.8271,
+    "coordinate": {
+      "lat": 39.8401141,
+      "lng": 18.3354633
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Poggiardo",
+    "nomeAltraLingua": null,
+    "codice": "075061",
+    "codiceCatastale": "G751",
+    "sigla": "LE",
+    "cap": [
+      "73037"
+    ],
+    "capoluogo": false,
+    "popolazione": 5811,
+    "superficie": 20.027,
+    "coordinate": {
+      "lat": 40.0551952,
+      "lng": 18.3786296
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Racale",
+    "nomeAltraLingua": null,
+    "codice": "075063",
+    "codiceCatastale": "H147",
+    "sigla": "LE",
+    "cap": [
+      "73055"
+    ],
+    "capoluogo": false,
+    "popolazione": 10702,
+    "superficie": 24.2604,
+    "coordinate": {
+      "lat": 39.9593504,
+      "lng": 18.0928562
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ruffano",
+    "nomeAltraLingua": null,
+    "codice": "075064",
+    "codiceCatastale": "H632",
+    "sigla": "LE",
+    "cap": [
+      "73049"
+    ],
+    "capoluogo": false,
+    "popolazione": 9305,
+    "superficie": 39.4259,
+    "coordinate": {
+      "lat": 39.9839146,
+      "lng": 18.2476415
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Salice Salentino",
+    "nomeAltraLingua": null,
+    "codice": "075065",
+    "codiceCatastale": "H708",
+    "sigla": "LE",
+    "cap": [
+      "73015"
+    ],
+    "capoluogo": false,
+    "popolazione": 7732,
+    "superficie": 59.3823,
+    "coordinate": {
+      "lat": 40.3851878,
+      "lng": 17.9645095
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Salve",
+    "nomeAltraLingua": null,
+    "codice": "075066",
+    "codiceCatastale": "H729",
+    "sigla": "LE",
+    "cap": [
+      "73050"
+    ],
+    "capoluogo": false,
+    "popolazione": 4571,
+    "superficie": 32.6681,
+    "coordinate": {
+      "lat": 39.8603269,
+      "lng": 18.2946568
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sanarica",
+    "nomeAltraLingua": null,
+    "codice": "075067",
+    "codiceCatastale": "H757",
+    "sigla": "LE",
+    "cap": [
+      "73030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1475,
+    "superficie": 12.8866,
+    "coordinate": {
+      "lat": 40.087474,
+      "lng": 18.3493898
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Cesario di Lecce",
+    "nomeAltraLingua": null,
+    "codice": "075068",
+    "codiceCatastale": "H793",
+    "sigla": "LE",
+    "cap": [
+      "73016"
+    ],
+    "capoluogo": false,
+    "popolazione": 7887,
+    "superficie": 8.225,
+    "coordinate": {
+      "lat": 40.3027607,
+      "lng": 18.1601881
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Donato di Lecce",
+    "nomeAltraLingua": null,
+    "codice": "075069",
+    "codiceCatastale": "H826",
+    "sigla": "LE",
+    "cap": [
+      "73010"
+    ],
+    "capoluogo": false,
+    "popolazione": 5413,
+    "superficie": 21.6163,
+    "coordinate": {
+      "lat": 40.2674646,
+      "lng": 18.1836726
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sannicola",
+    "nomeAltraLingua": null,
+    "codice": "075070",
+    "codiceCatastale": "I059",
+    "sigla": "LE",
+    "cap": [
+      "73017"
+    ],
+    "capoluogo": false,
+    "popolazione": 5571,
+    "superficie": 28.0809,
+    "coordinate": {
+      "lat": 40.0941287,
+      "lng": 18.0639448
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Pietro in Lama",
+    "nomeAltraLingua": null,
+    "codice": "075071",
+    "codiceCatastale": "I115",
+    "sigla": "LE",
+    "cap": [
+      "73010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3369,
+    "superficie": 8.1197,
+    "coordinate": {
+      "lat": 40.3074606,
+      "lng": 18.1281132
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Santa Cesarea Terme",
+    "nomeAltraLingua": null,
+    "codice": "075072",
+    "codiceCatastale": "I172",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2827,
+    "superficie": 26.9848,
+    "coordinate": {
+      "lat": 40.0380094,
+      "lng": 18.4627142
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Scorrano",
+    "nomeAltraLingua": null,
+    "codice": "075073",
+    "codiceCatastale": "I549",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 6614,
+    "superficie": 35.484,
+    "coordinate": {
+      "lat": 40.0903361,
+      "lng": 18.2971255
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Seclì",
+    "nomeAltraLingua": null,
+    "codice": "075074",
+    "codiceCatastale": "I559",
+    "sigla": "LE",
+    "cap": [
+      "73050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1818,
+    "superficie": 8.945,
+    "coordinate": {
+      "lat": 40.1313876,
+      "lng": 18.1048621
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sogliano Cavour",
+    "nomeAltraLingua": null,
+    "codice": "075075",
+    "codiceCatastale": "I780",
+    "sigla": "LE",
+    "cap": [
+      "73010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3863,
+    "superficie": 5.3327,
+    "coordinate": {
+      "lat": 40.1469476,
+      "lng": 18.1976309
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Soleto",
+    "nomeAltraLingua": null,
+    "codice": "075076",
+    "codiceCatastale": "I800",
+    "sigla": "LE",
+    "cap": [
+      "73010"
+    ],
+    "capoluogo": false,
+    "popolazione": 5131,
+    "superficie": 30.6154,
+    "coordinate": {
+      "lat": 40.1876558,
+      "lng": 18.2073851
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Specchia",
+    "nomeAltraLingua": null,
+    "codice": "075077",
+    "codiceCatastale": "I887",
+    "sigla": "LE",
+    "cap": [
+      "73040"
+    ],
+    "capoluogo": false,
+    "popolazione": 4540,
+    "superficie": 25.0505,
+    "coordinate": {
+      "lat": 39.940628,
+      "lng": 18.2967392
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Spongano",
+    "nomeAltraLingua": null,
+    "codice": "075078",
+    "codiceCatastale": "I923",
+    "sigla": "LE",
+    "cap": [
+      "73038"
+    ],
+    "capoluogo": false,
+    "popolazione": 3431,
+    "superficie": 12.6908,
+    "coordinate": {
+      "lat": 40.0133736,
+      "lng": 18.3653107
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Squinzano",
+    "nomeAltraLingua": null,
+    "codice": "075079",
+    "codiceCatastale": "I930",
+    "sigla": "LE",
+    "cap": [
+      "73018"
+    ],
+    "capoluogo": false,
+    "popolazione": 13379,
+    "superficie": 31.3211,
+    "coordinate": {
+      "lat": 40.4357529,
+      "lng": 18.0455262
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sternatia",
+    "nomeAltraLingua": null,
+    "codice": "075080",
+    "codiceCatastale": "I950",
+    "sigla": "LE",
+    "cap": [
+      "73010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2115,
+    "superficie": 16.6585,
+    "coordinate": {
+      "lat": 40.2193906,
+      "lng": 18.2254956
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Supersano",
+    "nomeAltraLingua": null,
+    "codice": "075081",
+    "codiceCatastale": "L008",
+    "sigla": "LE",
+    "cap": [
+      "73040"
+    ],
+    "capoluogo": false,
+    "popolazione": 4118,
+    "superficie": 36.547,
+    "coordinate": {
+      "lat": 40.0194794,
+      "lng": 18.2402701
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Surano",
+    "nomeAltraLingua": null,
+    "codice": "075082",
+    "codiceCatastale": "L010",
+    "sigla": "LE",
+    "cap": [
+      "73030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1512,
+    "superficie": 8.9117,
+    "coordinate": {
+      "lat": 40.0284816,
+      "lng": 18.3417913
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Surbo",
+    "nomeAltraLingua": null,
+    "codice": "075083",
+    "codiceCatastale": "L011",
+    "sigla": "LE",
+    "cap": [
+      "73010"
+    ],
+    "capoluogo": false,
+    "popolazione": 14603,
+    "superficie": 20.7808,
+    "coordinate": {
+      "lat": 40.3967854,
+      "lng": 18.1332581
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Taurisano",
+    "nomeAltraLingua": null,
+    "codice": "075084",
+    "codiceCatastale": "L064",
+    "sigla": "LE",
+    "cap": [
+      "73056"
+    ],
+    "capoluogo": false,
+    "popolazione": 11242,
+    "superficie": 23.8588,
+    "coordinate": {
+      "lat": 39.9556749,
+      "lng": 18.2149601
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Taviano",
+    "nomeAltraLingua": null,
+    "codice": "075085",
+    "codiceCatastale": "L074",
+    "sigla": "LE",
+    "cap": [
+      "73057"
+    ],
+    "capoluogo": false,
+    "popolazione": 11449,
+    "superficie": 22.2116,
+    "coordinate": {
+      "lat": 39.9826953,
+      "lng": 18.0887353
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tiggiano",
+    "nomeAltraLingua": null,
+    "codice": "075086",
+    "codiceCatastale": "L166",
+    "sigla": "LE",
+    "cap": [
+      "73030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2799,
+    "superficie": 7.5875,
+    "coordinate": {
+      "lat": 39.9026995,
+      "lng": 18.364845
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Trepuzzi",
+    "nomeAltraLingua": null,
+    "codice": "075087",
+    "codiceCatastale": "L383",
+    "sigla": "LE",
+    "cap": [
+      "73019"
+    ],
+    "capoluogo": false,
+    "popolazione": 13783,
+    "superficie": 23.5845,
+    "coordinate": {
+      "lat": 40.4054317,
+      "lng": 18.0734638
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tricase",
+    "nomeAltraLingua": null,
+    "codice": "075088",
+    "codiceCatastale": "L419",
+    "sigla": "LE",
+    "cap": [
+      "73039"
+    ],
+    "capoluogo": false,
+    "popolazione": 16990,
+    "superficie": 42.958,
+    "coordinate": {
+      "lat": 39.9313132,
+      "lng": 18.3607114
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tuglie",
+    "nomeAltraLingua": null,
+    "codice": "075089",
+    "codiceCatastale": "L462",
+    "sigla": "LE",
+    "cap": [
+      "73058"
+    ],
+    "capoluogo": false,
+    "popolazione": 5054,
+    "superficie": 8.4878,
+    "coordinate": {
+      "lat": 40.0727446,
+      "lng": 18.1017697
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ugento",
+    "nomeAltraLingua": null,
+    "codice": "075090",
+    "codiceCatastale": "L484",
+    "sigla": "LE",
+    "cap": [
+      "73059"
+    ],
+    "capoluogo": false,
+    "popolazione": 11970,
+    "superficie": 99.8278,
+    "coordinate": {
+      "lat": 39.9277408,
+      "lng": 18.1620192
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Uggiano la Chiesa",
+    "nomeAltraLingua": null,
+    "codice": "075091",
+    "codiceCatastale": "L485",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 4317,
+    "superficie": 14.9247,
+    "coordinate": {
+      "lat": 40.1011477,
+      "lng": 18.4493313
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Veglie",
+    "nomeAltraLingua": null,
+    "codice": "075092",
+    "codiceCatastale": "L711",
+    "sigla": "LE",
+    "cap": [
+      "73010"
+    ],
+    "capoluogo": false,
+    "popolazione": 13237,
+    "superficie": 62.5875,
+    "coordinate": {
+      "lat": 40.3349657,
+      "lng": 17.9659269
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vernole",
+    "nomeAltraLingua": null,
+    "codice": "075093",
+    "codiceCatastale": "L776",
+    "sigla": "LE",
+    "cap": [
+      "73029"
+    ],
+    "capoluogo": false,
+    "popolazione": 6646,
+    "superficie": 61.2303,
+    "coordinate": {
+      "lat": 40.2887173,
+      "lng": 18.3026602
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Zollino",
+    "nomeAltraLingua": null,
+    "codice": "075094",
+    "codiceCatastale": "M187",
+    "sigla": "LE",
+    "cap": [
+      "73010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1838,
+    "superficie": 9.8061,
+    "coordinate": {
+      "lat": 40.20511,
+      "lng": 18.2519054
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Cassiano",
+    "nomeAltraLingua": null,
+    "codice": "075095",
+    "codiceCatastale": "M264",
+    "sigla": "LE",
+    "cap": [
+      "73020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1941,
+    "superficie": 9.0246,
+    "coordinate": {
+      "lat": 40.0563869,
+      "lng": 18.3343662
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castro",
+    "nomeAltraLingua": null,
+    "codice": "075096",
+    "codiceCatastale": "M261",
+    "sigla": "LE",
+    "cap": [
+      "73030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2348,
+    "superficie": 4.3701,
+    "coordinate": {
+      "lat": 40.0081838,
+      "lng": 18.4255237
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Porto Cesareo",
+    "nomeAltraLingua": null,
+    "codice": "075097",
+    "codiceCatastale": "M263",
+    "sigla": "LE",
+    "cap": [
+      "73010"
+    ],
+    "capoluogo": false,
+    "popolazione": 6463,
+    "superficie": 34.7631,
+    "coordinate": {
+      "lat": 40.2617565,
+      "lng": 17.8995696
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Presicce-Acquarica",
+    "nomeAltraLingua": null,
+    "codice": "075098",
+    "codiceCatastale": "M428",
+    "sigla": "LE",
+    "cap": [
+      "73054"
+    ],
+    "capoluogo": false,
+    "popolazione": 9241,
+    "superficie": 43.6624,
+    "coordinate": {
+      "lat": 39.9014042,
+      "lng": 18.2630342
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Lecce",
+      "codice": "075",
+      "sigla": "LE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Andria",
+    "nomeAltraLingua": null,
+    "codice": "110001",
+    "codiceCatastale": "A285",
+    "sigla": "BT",
+    "cap": [
+      "76123"
+    ],
+    "capoluogo": true,
+    "popolazione": 96941,
+    "superficie": 403.1651,
+    "coordinate": {
+      "lat": 41.2271061,
+      "lng": 16.2952722
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Barletta-Andria-Trani",
+      "codice": "110",
+      "sigla": "BT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Barletta",
+    "nomeAltraLingua": null,
+    "codice": "110002",
+    "codiceCatastale": "A669",
+    "sigla": "BT",
+    "cap": [
+      "76121"
+    ],
+    "capoluogo": true,
+    "popolazione": 92365,
+    "superficie": 149.3536,
+    "coordinate": {
+      "lat": 41.32021,
+      "lng": 16.2796918
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Barletta-Andria-Trani",
+      "codice": "110",
+      "sigla": "BT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bisceglie",
+    "nomeAltraLingua": null,
+    "codice": "110003",
+    "codiceCatastale": "A883",
+    "sigla": "BT",
+    "cap": [
+      "76011"
+    ],
+    "capoluogo": false,
+    "popolazione": 53536,
+    "superficie": 69.0894,
+    "coordinate": {
+      "lat": 41.2423774,
+      "lng": 16.5026184
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Barletta-Andria-Trani",
+      "codice": "110",
+      "sigla": "BT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Canosa di Puglia",
+    "nomeAltraLingua": null,
+    "codice": "110004",
+    "codiceCatastale": "B619",
+    "sigla": "BT",
+    "cap": [
+      "76012"
+    ],
+    "capoluogo": false,
+    "popolazione": 27701,
+    "superficie": 150.4583,
+    "coordinate": {
+      "lat": 41.2252311,
+      "lng": 16.062478
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Barletta-Andria-Trani",
+      "codice": "110",
+      "sigla": "BT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Margherita di Savoia",
+    "nomeAltraLingua": null,
+    "codice": "110005",
+    "codiceCatastale": "E946",
+    "sigla": "BT",
+    "cap": [
+      "76016"
+    ],
+    "capoluogo": false,
+    "popolazione": 11154,
+    "superficie": 35.7823,
+    "coordinate": {
+      "lat": 41.3734979,
+      "lng": 16.1488791
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Barletta-Andria-Trani",
+      "codice": "110",
+      "sigla": "BT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Minervino Murge",
+    "nomeAltraLingua": null,
+    "codice": "110006",
+    "codiceCatastale": "F220",
+    "sigla": "BT",
+    "cap": [
+      "76013"
+    ],
+    "capoluogo": false,
+    "popolazione": 8050,
+    "superficie": 257.6096,
+    "coordinate": {
+      "lat": 41.0905398,
+      "lng": 16.0798893
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Barletta-Andria-Trani",
+      "codice": "110",
+      "sigla": "BT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Ferdinando di Puglia",
+    "nomeAltraLingua": null,
+    "codice": "110007",
+    "codiceCatastale": "H839",
+    "sigla": "BT",
+    "cap": [
+      "76017"
+    ],
+    "capoluogo": false,
+    "popolazione": 13625,
+    "superficie": 41.4088,
+    "coordinate": {
+      "lat": 41.3006605,
+      "lng": 16.0697122
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Barletta-Andria-Trani",
+      "codice": "110",
+      "sigla": "BT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Spinazzola",
+    "nomeAltraLingua": null,
+    "codice": "110008",
+    "codiceCatastale": "I907",
+    "sigla": "BT",
+    "cap": [
+      "76014"
+    ],
+    "capoluogo": false,
+    "popolazione": 5894,
+    "superficie": 183.6075,
+    "coordinate": {
+      "lat": 40.9694069,
+      "lng": 16.0891983
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Barletta-Andria-Trani",
+      "codice": "110",
+      "sigla": "BT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Trani",
+    "nomeAltraLingua": null,
+    "codice": "110009",
+    "codiceCatastale": "L328",
+    "sigla": "BT",
+    "cap": [
+      "76125"
+    ],
+    "capoluogo": true,
+    "popolazione": 54948,
+    "superficie": 103.1306,
+    "coordinate": {
+      "lat": 41.2740349,
+      "lng": 16.4172134
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Barletta-Andria-Trani",
+      "codice": "110",
+      "sigla": "BT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Trinitapoli",
+    "nomeAltraLingua": null,
+    "codice": "110010",
+    "codiceCatastale": "B915",
+    "sigla": "BT",
+    "cap": [
+      "76015"
+    ],
+    "capoluogo": false,
+    "popolazione": 13715,
+    "superficie": 148.9805,
+    "coordinate": {
+      "lat": 41.3590552,
+      "lng": 16.0873388
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Puglia",
+      "codice": "16"
+    },
+    "provincia": {
+      "nome": "Barletta-Andria-Trani",
+      "codice": "110",
+      "sigla": "BT",
+      "tipo": "provincia"
+    }
+  }
+]

@@ -1,0 +1,6987 @@
+[
+  {
+    "nome": "Acqualagna",
+    "nomeAltraLingua": null,
+    "codice": "041001",
+    "codiceCatastale": "A035",
+    "sigla": "PU",
+    "cap": [
+      "61041"
+    ],
+    "capoluogo": false,
+    "popolazione": 4166,
+    "superficie": 50.7655,
+    "coordinate": {
+      "lat": 43.6166773,
+      "lng": 12.6704445
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Apecchio",
+    "nomeAltraLingua": null,
+    "codice": "041002",
+    "codiceCatastale": "A327",
+    "sigla": "PU",
+    "cap": [
+      "61042"
+    ],
+    "capoluogo": false,
+    "popolazione": 1692,
+    "superficie": 103.6839,
+    "coordinate": {
+      "lat": 43.5580147,
+      "lng": 12.4176814
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Belforte all'Isauro",
+    "nomeAltraLingua": null,
+    "codice": "041005",
+    "codiceCatastale": "A740",
+    "sigla": "PU",
+    "cap": [
+      "61026"
+    ],
+    "capoluogo": false,
+    "popolazione": 745,
+    "superficie": 12.2299,
+    "coordinate": {
+      "lat": 43.7169808,
+      "lng": 12.3756958
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Borgo Pace",
+    "nomeAltraLingua": null,
+    "codice": "041006",
+    "codiceCatastale": "B026",
+    "sigla": "PU",
+    "cap": [
+      "61040"
+    ],
+    "capoluogo": false,
+    "popolazione": 522,
+    "superficie": 56.1249,
+    "coordinate": {
+      "lat": 43.6581668,
+      "lng": 12.2945974
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cagli",
+    "nomeAltraLingua": null,
+    "codice": "041007",
+    "codiceCatastale": "B352",
+    "sigla": "PU",
+    "cap": [
+      "61043"
+    ],
+    "capoluogo": false,
+    "popolazione": 7949,
+    "superficie": 226.115,
+    "coordinate": {
+      "lat": 43.5454844,
+      "lng": 12.6474326
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cantiano",
+    "nomeAltraLingua": null,
+    "codice": "041008",
+    "codiceCatastale": "B636",
+    "sigla": "PU",
+    "cap": [
+      "61044"
+    ],
+    "capoluogo": false,
+    "popolazione": 1979,
+    "superficie": 83.3822,
+    "coordinate": {
+      "lat": 43.4725606,
+      "lng": 12.6282508
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carpegna",
+    "nomeAltraLingua": null,
+    "codice": "041009",
+    "codiceCatastale": "B816",
+    "sigla": "PU",
+    "cap": [
+      "61021"
+    ],
+    "capoluogo": false,
+    "popolazione": 1722,
+    "superficie": 29.2326,
+    "coordinate": {
+      "lat": 43.7811747,
+      "lng": 12.3359623
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cartoceto",
+    "nomeAltraLingua": null,
+    "codice": "041010",
+    "codiceCatastale": "B846",
+    "sigla": "PU",
+    "cap": [
+      "61030"
+    ],
+    "capoluogo": false,
+    "popolazione": 8052,
+    "superficie": 23.4698,
+    "coordinate": {
+      "lat": 43.7745051,
+      "lng": 12.9388062
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fano",
+    "nomeAltraLingua": null,
+    "codice": "041013",
+    "codiceCatastale": "D488",
+    "sigla": "PU",
+    "cap": [
+      "61032"
+    ],
+    "capoluogo": false,
+    "popolazione": 59992,
+    "superficie": 120.0077,
+    "coordinate": {
+      "lat": 43.8433005,
+      "lng": 13.0196459
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fermignano",
+    "nomeAltraLingua": null,
+    "codice": "041014",
+    "codiceCatastale": "D541",
+    "sigla": "PU",
+    "cap": [
+      "61033"
+    ],
+    "capoluogo": false,
+    "popolazione": 8240,
+    "superficie": 43.8185,
+    "coordinate": {
+      "lat": 43.6765005,
+      "lng": 12.6452354
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fossombrone",
+    "nomeAltraLingua": null,
+    "codice": "041015",
+    "codiceCatastale": "D749",
+    "sigla": "PU",
+    "cap": [
+      "61034"
+    ],
+    "capoluogo": false,
+    "popolazione": 9057,
+    "superficie": 106.9293,
+    "coordinate": {
+      "lat": 43.6889488,
+      "lng": 12.8060774
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fratte Rosa",
+    "nomeAltraLingua": null,
+    "codice": "041016",
+    "codiceCatastale": "D791",
+    "sigla": "PU",
+    "cap": [
+      "61040"
+    ],
+    "capoluogo": false,
+    "popolazione": 851,
+    "superficie": 15.5496,
+    "coordinate": {
+      "lat": 43.6320509,
+      "lng": 12.901187
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Frontino",
+    "nomeAltraLingua": null,
+    "codice": "041017",
+    "codiceCatastale": "D807",
+    "sigla": "PU",
+    "cap": [
+      "61021"
+    ],
+    "capoluogo": false,
+    "popolazione": 294,
+    "superficie": 10.3953,
+    "coordinate": {
+      "lat": 43.7645664,
+      "lng": 12.3774307
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Frontone",
+    "nomeAltraLingua": null,
+    "codice": "041018",
+    "codiceCatastale": "D808",
+    "sigla": "PU",
+    "cap": [
+      "61040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1216,
+    "superficie": 36.0033,
+    "coordinate": {
+      "lat": 43.5144382,
+      "lng": 12.7383985
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gabicce Mare",
+    "nomeAltraLingua": null,
+    "codice": "041019",
+    "codiceCatastale": "D836",
+    "sigla": "PU",
+    "cap": [
+      "61011"
+    ],
+    "capoluogo": false,
+    "popolazione": 5471,
+    "superficie": 5.0695,
+    "coordinate": {
+      "lat": 43.9663892,
+      "lng": 12.7563938
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gradara",
+    "nomeAltraLingua": null,
+    "codice": "041020",
+    "codiceCatastale": "E122",
+    "sigla": "PU",
+    "cap": [
+      "61012"
+    ],
+    "capoluogo": false,
+    "popolazione": 4893,
+    "superficie": 18.0674,
+    "coordinate": {
+      "lat": 43.9408193,
+      "lng": 12.7730703
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Isola del Piano",
+    "nomeAltraLingua": null,
+    "codice": "041021",
+    "codiceCatastale": "E351",
+    "sigla": "PU",
+    "cap": [
+      "61030"
+    ],
+    "capoluogo": false,
+    "popolazione": 546,
+    "superficie": 23.4532,
+    "coordinate": {
+      "lat": 43.7371383,
+      "lng": 12.7829215
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lunano",
+    "nomeAltraLingua": null,
+    "codice": "041022",
+    "codiceCatastale": "E743",
+    "sigla": "PU",
+    "cap": [
+      "61026"
+    ],
+    "capoluogo": false,
+    "popolazione": 1427,
+    "superficie": 14.9969,
+    "coordinate": {
+      "lat": 43.730441,
+      "lng": 12.4409691
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Macerata Feltria",
+    "nomeAltraLingua": null,
+    "codice": "041023",
+    "codiceCatastale": "E785",
+    "sigla": "PU",
+    "cap": [
+      "61023"
+    ],
+    "capoluogo": false,
+    "popolazione": 1896,
+    "superficie": 40.0474,
+    "coordinate": {
+      "lat": 43.8030099,
+      "lng": 12.4427903
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mercatello sul Metauro",
+    "nomeAltraLingua": null,
+    "codice": "041025",
+    "codiceCatastale": "F135",
+    "sigla": "PU",
+    "cap": [
+      "61040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1321,
+    "superficie": 68.8482,
+    "coordinate": {
+      "lat": 43.6471148,
+      "lng": 12.3367254
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mercatino Conca",
+    "nomeAltraLingua": null,
+    "codice": "041026",
+    "codiceCatastale": "F136",
+    "sigla": "PU",
+    "cap": [
+      "61013"
+    ],
+    "capoluogo": false,
+    "popolazione": 1045,
+    "superficie": 13.7162,
+    "coordinate": {
+      "lat": 43.8704233,
+      "lng": 12.4935658
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mombaroccio",
+    "nomeAltraLingua": null,
+    "codice": "041027",
+    "codiceCatastale": "F310",
+    "sigla": "PU",
+    "cap": [
+      "61024"
+    ],
+    "capoluogo": false,
+    "popolazione": 2091,
+    "superficie": 28.057,
+    "coordinate": {
+      "lat": 43.7968894,
+      "lng": 12.8547991
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mondavio",
+    "nomeAltraLingua": null,
+    "codice": "041028",
+    "codiceCatastale": "F347",
+    "sigla": "PU",
+    "cap": [
+      "61040"
+    ],
+    "capoluogo": false,
+    "popolazione": 3627,
+    "superficie": 29.4666,
+    "coordinate": {
+      "lat": 43.6746404,
+      "lng": 12.9690095
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mondolfo",
+    "nomeAltraLingua": null,
+    "codice": "041029",
+    "codiceCatastale": "F348",
+    "sigla": "PU",
+    "cap": [
+      "61037"
+    ],
+    "capoluogo": false,
+    "popolazione": 14325,
+    "superficie": 24.9893,
+    "coordinate": {
+      "lat": 43.7515269,
+      "lng": 13.0954447
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montecalvo in Foglia",
+    "nomeAltraLingua": null,
+    "codice": "041030",
+    "codiceCatastale": "F450",
+    "sigla": "PU",
+    "cap": [
+      "61020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2739,
+    "superficie": 18.3855,
+    "coordinate": {
+      "lat": 43.8115664,
+      "lng": 12.6316354
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte Cerignone",
+    "nomeAltraLingua": null,
+    "codice": "041031",
+    "codiceCatastale": "F467",
+    "sigla": "PU",
+    "cap": [
+      "61010"
+    ],
+    "capoluogo": false,
+    "popolazione": 585,
+    "superficie": 18.2317,
+    "coordinate": {
+      "lat": 43.8409629,
+      "lng": 12.4125818
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montefelcino",
+    "nomeAltraLingua": null,
+    "codice": "041034",
+    "codiceCatastale": "F497",
+    "sigla": "PU",
+    "cap": [
+      "61030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2475,
+    "superficie": 38.8133,
+    "coordinate": {
+      "lat": 43.735078,
+      "lng": 12.8333453
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte Grimano Terme",
+    "nomeAltraLingua": null,
+    "codice": "041035",
+    "codiceCatastale": "F524",
+    "sigla": "PU",
+    "cap": [
+      "61010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1125,
+    "superficie": 23.7934,
+    "coordinate": {
+      "lat": 43.8654306,
+      "lng": 12.4729436
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montelabbate",
+    "nomeAltraLingua": null,
+    "codice": "041036",
+    "codiceCatastale": "F533",
+    "sigla": "PU",
+    "cap": [
+      "61025"
+    ],
+    "capoluogo": false,
+    "popolazione": 7086,
+    "superficie": 19.9605,
+    "coordinate": {
+      "lat": 43.8490494,
+      "lng": 12.7907777
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte Porzio",
+    "nomeAltraLingua": null,
+    "codice": "041038",
+    "codiceCatastale": "F589",
+    "sigla": "PU",
+    "cap": [
+      "61040"
+    ],
+    "capoluogo": false,
+    "popolazione": 2811,
+    "superficie": 18.3952,
+    "coordinate": {
+      "lat": 43.6898678,
+      "lng": 13.0452536
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Peglio",
+    "nomeAltraLingua": null,
+    "codice": "041041",
+    "codiceCatastale": "G416",
+    "sigla": "PU",
+    "cap": [
+      "61049"
+    ],
+    "capoluogo": false,
+    "popolazione": 646,
+    "superficie": 21.3492,
+    "coordinate": {
+      "lat": 43.6960322,
+      "lng": 12.4960205
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pergola",
+    "nomeAltraLingua": null,
+    "codice": "041043",
+    "codiceCatastale": "G453",
+    "sigla": "PU",
+    "cap": [
+      "61045"
+    ],
+    "capoluogo": false,
+    "popolazione": 5765,
+    "superficie": 112.4177,
+    "coordinate": {
+      "lat": 43.5628542,
+      "lng": 12.8360175
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pesaro",
+    "nomeAltraLingua": null,
+    "codice": "041044",
+    "codiceCatastale": "G479",
+    "sigla": "PU",
+    "cap": [
+      "61121",
+      "61122"
+    ],
+    "capoluogo": true,
+    "popolazione": 95392,
+    "superficie": 152.6834,
+    "coordinate": {
+      "lat": 43.9101021,
+      "lng": 12.9133947
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Petriano",
+    "nomeAltraLingua": null,
+    "codice": "041045",
+    "codiceCatastale": "G514",
+    "sigla": "PU",
+    "cap": [
+      "61020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2809,
+    "superficie": 11.367,
+    "coordinate": {
+      "lat": 43.7802931,
+      "lng": 12.73335
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Piandimeleto",
+    "nomeAltraLingua": null,
+    "codice": "041047",
+    "codiceCatastale": "G551",
+    "sigla": "PU",
+    "cap": [
+      "61026"
+    ],
+    "capoluogo": false,
+    "popolazione": 2021,
+    "superficie": 39.2115,
+    "coordinate": {
+      "lat": 43.7241398,
+      "lng": 12.415343
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pietrarubbia",
+    "nomeAltraLingua": null,
+    "codice": "041048",
+    "codiceCatastale": "G627",
+    "sigla": "PU",
+    "cap": [
+      "61023"
+    ],
+    "capoluogo": false,
+    "popolazione": 577,
+    "superficie": 13.364,
+    "coordinate": {
+      "lat": 43.8041816,
+      "lng": 12.3773503
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Piobbico",
+    "nomeAltraLingua": null,
+    "codice": "041049",
+    "codiceCatastale": "G682",
+    "sigla": "PU",
+    "cap": [
+      "61046"
+    ],
+    "capoluogo": false,
+    "popolazione": 1811,
+    "superficie": 47.7914,
+    "coordinate": {
+      "lat": 43.5888211,
+      "lng": 12.5103747
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Costanzo",
+    "nomeAltraLingua": null,
+    "codice": "041051",
+    "codiceCatastale": "H809",
+    "sigla": "PU",
+    "cap": [
+      "61039"
+    ],
+    "capoluogo": false,
+    "popolazione": 4573,
+    "superficie": 40.7793,
+    "coordinate": {
+      "lat": 43.7632293,
+      "lng": 13.069438
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Lorenzo in Campo",
+    "nomeAltraLingua": null,
+    "codice": "041054",
+    "codiceCatastale": "H958",
+    "sigla": "PU",
+    "cap": [
+      "61047"
+    ],
+    "capoluogo": false,
+    "popolazione": 3183,
+    "superficie": 28.9292,
+    "coordinate": {
+      "lat": 43.6044354,
+      "lng": 12.9464352
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sant'Angelo in Vado",
+    "nomeAltraLingua": null,
+    "codice": "041057",
+    "codiceCatastale": "I287",
+    "sigla": "PU",
+    "cap": [
+      "61048"
+    ],
+    "capoluogo": false,
+    "popolazione": 3883,
+    "superficie": 66.8499,
+    "coordinate": {
+      "lat": 43.6649071,
+      "lng": 12.4131782
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sant'Ippolito",
+    "nomeAltraLingua": null,
+    "codice": "041058",
+    "codiceCatastale": "I344",
+    "sigla": "PU",
+    "cap": [
+      "61040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1468,
+    "superficie": 19.9488,
+    "coordinate": {
+      "lat": 43.6848198,
+      "lng": 12.8709918
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Serra Sant'Abbondio",
+    "nomeAltraLingua": null,
+    "codice": "041061",
+    "codiceCatastale": "I654",
+    "sigla": "PU",
+    "cap": [
+      "61040"
+    ],
+    "capoluogo": false,
+    "popolazione": 881,
+    "superficie": 32.8424,
+    "coordinate": {
+      "lat": 43.4907804,
+      "lng": 12.7706041
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tavoleto",
+    "nomeAltraLingua": null,
+    "codice": "041064",
+    "codiceCatastale": "L078",
+    "sigla": "PU",
+    "cap": [
+      "61020"
+    ],
+    "capoluogo": false,
+    "popolazione": 831,
+    "superficie": 12.3443,
+    "coordinate": {
+      "lat": 43.8462459,
+      "lng": 12.5925827
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tavullia",
+    "nomeAltraLingua": null,
+    "codice": "041065",
+    "codiceCatastale": "L081",
+    "sigla": "PU",
+    "cap": [
+      "61010"
+    ],
+    "capoluogo": false,
+    "popolazione": 7934,
+    "superficie": 41.5435,
+    "coordinate": {
+      "lat": 43.8979485,
+      "lng": 12.7531941
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Urbania",
+    "nomeAltraLingua": null,
+    "codice": "041066",
+    "codiceCatastale": "L498",
+    "sigla": "PU",
+    "cap": [
+      "61049"
+    ],
+    "capoluogo": false,
+    "popolazione": 6891,
+    "superficie": 77.9709,
+    "coordinate": {
+      "lat": 43.6683597,
+      "lng": 12.524225
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Urbino",
+    "nomeAltraLingua": null,
+    "codice": "041067",
+    "codiceCatastale": "L500",
+    "sigla": "PU",
+    "cap": [
+      "61029"
+    ],
+    "capoluogo": false,
+    "popolazione": 13819,
+    "superficie": 226.4693,
+    "coordinate": {
+      "lat": 43.7250667,
+      "lng": 12.6372663
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vallefoglia",
+    "nomeAltraLingua": null,
+    "codice": "041068",
+    "codiceCatastale": "M331",
+    "sigla": "PU",
+    "cap": [
+      "61022"
+    ],
+    "capoluogo": false,
+    "popolazione": 15005,
+    "superficie": 39.4267,
+    "coordinate": {
+      "lat": 43.8547059,
+      "lng": 12.7575142
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Colli al Metauro",
+    "nomeAltraLingua": null,
+    "codice": "041069",
+    "codiceCatastale": "M380",
+    "sigla": "PU",
+    "cap": [
+      "61036"
+    ],
+    "capoluogo": false,
+    "popolazione": 12319,
+    "superficie": 46.6224,
+    "coordinate": {
+      "lat": 43.7521308,
+      "lng": 12.9177099
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Terre Roveresche",
+    "nomeAltraLingua": null,
+    "codice": "041070",
+    "codiceCatastale": "M379",
+    "sigla": "PU",
+    "cap": [
+      "61038"
+    ],
+    "capoluogo": false,
+    "popolazione": 5226,
+    "superficie": 69.939,
+    "coordinate": {
+      "lat": 43.6864314,
+      "lng": 12.9627421
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sassocorvaro Auditore",
+    "nomeAltraLingua": null,
+    "codice": "041071",
+    "codiceCatastale": "M413",
+    "sigla": "PU",
+    "cap": [
+      "61028"
+    ],
+    "capoluogo": false,
+    "popolazione": 4908,
+    "superficie": 87.8862,
+    "coordinate": {
+      "lat": 43.779822,
+      "lng": 12.4973936
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Pesaro e Urbino",
+      "codice": "041",
+      "sigla": "PU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Agugliano",
+    "nomeAltraLingua": null,
+    "codice": "042001",
+    "codiceCatastale": "A092",
+    "sigla": "AN",
+    "cap": [
+      "60020"
+    ],
+    "capoluogo": false,
+    "popolazione": 4629,
+    "superficie": 21.906,
+    "coordinate": {
+      "lat": 43.5433721,
+      "lng": 13.3860708
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ancona",
+    "nomeAltraLingua": null,
+    "codice": "042002",
+    "codiceCatastale": "A271",
+    "sigla": "AN",
+    "cap": [
+      "60121",
+      "60122",
+      "60123",
+      "60124",
+      "60125",
+      "60126",
+      "60127",
+      "60128",
+      "60129",
+      "60131"
+    ],
+    "capoluogo": true,
+    "popolazione": 99377,
+    "superficie": 124.1132,
+    "coordinate": {
+      "lat": 43.616739,
+      "lng": 13.5188738
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Arcevia",
+    "nomeAltraLingua": null,
+    "codice": "042003",
+    "codiceCatastale": "A366",
+    "sigla": "AN",
+    "cap": [
+      "60011"
+    ],
+    "capoluogo": false,
+    "popolazione": 4190,
+    "superficie": 127.9037,
+    "coordinate": {
+      "lat": 43.4999705,
+      "lng": 12.9396409
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Barbara",
+    "nomeAltraLingua": null,
+    "codice": "042004",
+    "codiceCatastale": "A626",
+    "sigla": "AN",
+    "cap": [
+      "60010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1264,
+    "superficie": 11.0411,
+    "coordinate": {
+      "lat": 43.5807252,
+      "lng": 13.0247839
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Belvedere Ostrense",
+    "nomeAltraLingua": null,
+    "codice": "042005",
+    "codiceCatastale": "A769",
+    "sigla": "AN",
+    "cap": [
+      "60030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2075,
+    "superficie": 29.8716,
+    "coordinate": {
+      "lat": 43.5805003,
+      "lng": 13.1665581
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Camerano",
+    "nomeAltraLingua": null,
+    "codice": "042006",
+    "codiceCatastale": "B468",
+    "sigla": "AN",
+    "cap": [
+      "60021"
+    ],
+    "capoluogo": false,
+    "popolazione": 7064,
+    "superficie": 20.266,
+    "coordinate": {
+      "lat": 43.5308607,
+      "lng": 13.5529485
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Camerata Picena",
+    "nomeAltraLingua": null,
+    "codice": "042007",
+    "codiceCatastale": "B470",
+    "sigla": "AN",
+    "cap": [
+      "60020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2492,
+    "superficie": 12.1431,
+    "coordinate": {
+      "lat": 43.5781586,
+      "lng": 13.3527525
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelbellino",
+    "nomeAltraLingua": null,
+    "codice": "042008",
+    "codiceCatastale": "C060",
+    "sigla": "AN",
+    "cap": [
+      "60030"
+    ],
+    "capoluogo": false,
+    "popolazione": 4926,
+    "superficie": 6.1593,
+    "coordinate": {
+      "lat": 43.4878123,
+      "lng": 13.1460842
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelfidardo",
+    "nomeAltraLingua": null,
+    "codice": "042010",
+    "codiceCatastale": "C100",
+    "sigla": "AN",
+    "cap": [
+      "60022"
+    ],
+    "capoluogo": false,
+    "popolazione": 18451,
+    "superficie": 33.3247,
+    "coordinate": {
+      "lat": 43.4644421,
+      "lng": 13.5465554
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelleone di Suasa",
+    "nomeAltraLingua": null,
+    "codice": "042011",
+    "codiceCatastale": "C152",
+    "sigla": "AN",
+    "cap": [
+      "60010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1550,
+    "superficie": 15.9121,
+    "coordinate": {
+      "lat": 43.6073267,
+      "lng": 12.9762386
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelplanio",
+    "nomeAltraLingua": null,
+    "codice": "042012",
+    "codiceCatastale": "C248",
+    "sigla": "AN",
+    "cap": [
+      "60031"
+    ],
+    "capoluogo": false,
+    "popolazione": 3557,
+    "superficie": 15.1389,
+    "coordinate": {
+      "lat": 43.4945668,
+      "lng": 13.081371
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cerreto d'Esi",
+    "nomeAltraLingua": null,
+    "codice": "042013",
+    "codiceCatastale": "C524",
+    "sigla": "AN",
+    "cap": [
+      "60043"
+    ],
+    "capoluogo": false,
+    "popolazione": 3379,
+    "superficie": 17.2095,
+    "coordinate": {
+      "lat": 43.3207116,
+      "lng": 12.9852709
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Chiaravalle",
+    "nomeAltraLingua": null,
+    "codice": "042014",
+    "codiceCatastale": "C615",
+    "sigla": "AN",
+    "cap": [
+      "60033"
+    ],
+    "capoluogo": false,
+    "popolazione": 14260,
+    "superficie": 17.5459,
+    "coordinate": {
+      "lat": 43.599727,
+      "lng": 13.3254738
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Corinaldo",
+    "nomeAltraLingua": null,
+    "codice": "042015",
+    "codiceCatastale": "D007",
+    "sigla": "AN",
+    "cap": [
+      "60013"
+    ],
+    "capoluogo": false,
+    "popolazione": 4751,
+    "superficie": 49.0723,
+    "coordinate": {
+      "lat": 43.6487949,
+      "lng": 13.0478067
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cupramontana",
+    "nomeAltraLingua": null,
+    "codice": "042016",
+    "codiceCatastale": "D211",
+    "sigla": "AN",
+    "cap": [
+      "60034"
+    ],
+    "capoluogo": false,
+    "popolazione": 4383,
+    "superficie": 27.1126,
+    "coordinate": {
+      "lat": 43.445309,
+      "lng": 13.1158416
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fabriano",
+    "nomeAltraLingua": null,
+    "codice": "042017",
+    "codiceCatastale": "D451",
+    "sigla": "AN",
+    "cap": [
+      "60044"
+    ],
+    "capoluogo": false,
+    "popolazione": 28791,
+    "superficie": 271.3107,
+    "coordinate": {
+      "lat": 43.3341063,
+      "lng": 12.907391
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Falconara Marittima",
+    "nomeAltraLingua": null,
+    "codice": "042018",
+    "codiceCatastale": "D472",
+    "sigla": "AN",
+    "cap": [
+      "60015"
+    ],
+    "capoluogo": false,
+    "popolazione": 25685,
+    "superficie": 26.2849,
+    "coordinate": {
+      "lat": 43.6233089,
+      "lng": 13.3938837
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Filottrano",
+    "nomeAltraLingua": null,
+    "codice": "042019",
+    "codiceCatastale": "D597",
+    "sigla": "AN",
+    "cap": [
+      "60024"
+    ],
+    "capoluogo": false,
+    "popolazione": 8855,
+    "superficie": 71.3935,
+    "coordinate": {
+      "lat": 43.4357296,
+      "lng": 13.3512697
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Genga",
+    "nomeAltraLingua": null,
+    "codice": "042020",
+    "codiceCatastale": "D965",
+    "sigla": "AN",
+    "cap": [
+      "60040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1668,
+    "superficie": 73.2612,
+    "coordinate": {
+      "lat": 43.4294391,
+      "lng": 12.9349103
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Jesi",
+    "nomeAltraLingua": null,
+    "codice": "042021",
+    "codiceCatastale": "E388",
+    "sigla": "AN",
+    "cap": [
+      "60035"
+    ],
+    "capoluogo": false,
+    "popolazione": 39301,
+    "superficie": 108.8818,
+    "coordinate": {
+      "lat": 43.5227387,
+      "lng": 13.2437539
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Loreto",
+    "nomeAltraLingua": null,
+    "codice": "042022",
+    "codiceCatastale": "E690",
+    "sigla": "AN",
+    "cap": [
+      "60025"
+    ],
+    "capoluogo": false,
+    "popolazione": 12978,
+    "superficie": 18.033,
+    "coordinate": {
+      "lat": 43.4400166,
+      "lng": 13.6065286
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Maiolati Spontini",
+    "nomeAltraLingua": null,
+    "codice": "042023",
+    "codiceCatastale": "E837",
+    "sigla": "AN",
+    "cap": [
+      "60030"
+    ],
+    "capoluogo": false,
+    "popolazione": 5982,
+    "superficie": 21.5032,
+    "coordinate": {
+      "lat": 43.4774398,
+      "lng": 13.1190001
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mergo",
+    "nomeAltraLingua": null,
+    "codice": "042024",
+    "codiceCatastale": "F145",
+    "sigla": "AN",
+    "cap": [
+      "60030"
+    ],
+    "capoluogo": false,
+    "popolazione": 984,
+    "superficie": 7.2533,
+    "coordinate": {
+      "lat": 43.471398,
+      "lng": 13.0374175
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monsano",
+    "nomeAltraLingua": null,
+    "codice": "042025",
+    "codiceCatastale": "F381",
+    "sigla": "AN",
+    "cap": [
+      "60030"
+    ],
+    "capoluogo": false,
+    "popolazione": 3240,
+    "superficie": 14.6919,
+    "coordinate": {
+      "lat": 43.5634933,
+      "lng": 13.2503499
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montecarotto",
+    "nomeAltraLingua": null,
+    "codice": "042026",
+    "codiceCatastale": "F453",
+    "sigla": "AN",
+    "cap": [
+      "60036"
+    ],
+    "capoluogo": false,
+    "popolazione": 1839,
+    "superficie": 24.2948,
+    "coordinate": {
+      "lat": 43.5263705,
+      "lng": 13.063782
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montemarciano",
+    "nomeAltraLingua": null,
+    "codice": "042027",
+    "codiceCatastale": "F560",
+    "sigla": "AN",
+    "cap": [
+      "60018"
+    ],
+    "capoluogo": false,
+    "popolazione": 9788,
+    "superficie": 22.369,
+    "coordinate": {
+      "lat": 43.6400042,
+      "lng": 13.3103879
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte Roberto",
+    "nomeAltraLingua": null,
+    "codice": "042029",
+    "codiceCatastale": "F600",
+    "sigla": "AN",
+    "cap": [
+      "60030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2974,
+    "superficie": 13.6215,
+    "coordinate": {
+      "lat": 43.481456,
+      "lng": 13.1384087
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte San Vito",
+    "nomeAltraLingua": null,
+    "codice": "042030",
+    "codiceCatastale": "F634",
+    "sigla": "AN",
+    "cap": [
+      "60037"
+    ],
+    "capoluogo": false,
+    "popolazione": 6684,
+    "superficie": 21.8698,
+    "coordinate": {
+      "lat": 43.6006012,
+      "lng": 13.2710014
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Morro d'Alba",
+    "nomeAltraLingua": null,
+    "codice": "042031",
+    "codiceCatastale": "F745",
+    "sigla": "AN",
+    "cap": [
+      "60030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1813,
+    "superficie": 19.3929,
+    "coordinate": {
+      "lat": 43.6010277,
+      "lng": 13.213913
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Numana",
+    "nomeAltraLingua": null,
+    "codice": "042032",
+    "codiceCatastale": "F978",
+    "sigla": "AN",
+    "cap": [
+      "60026"
+    ],
+    "capoluogo": false,
+    "popolazione": 3764,
+    "superficie": 11.0171,
+    "coordinate": {
+      "lat": 43.5134574,
+      "lng": 13.6215023
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Offagna",
+    "nomeAltraLingua": null,
+    "codice": "042033",
+    "codiceCatastale": "G003",
+    "sigla": "AN",
+    "cap": [
+      "60020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2088,
+    "superficie": 10.8015,
+    "coordinate": {
+      "lat": 43.5272223,
+      "lng": 13.4414899
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Osimo",
+    "nomeAltraLingua": null,
+    "codice": "042034",
+    "codiceCatastale": "G157",
+    "sigla": "AN",
+    "cap": [
+      "60027"
+    ],
+    "capoluogo": false,
+    "popolazione": 34774,
+    "superficie": 106.4372,
+    "coordinate": {
+      "lat": 43.4861632,
+      "lng": 13.481902
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ostra",
+    "nomeAltraLingua": null,
+    "codice": "042035",
+    "codiceCatastale": "F401",
+    "sigla": "AN",
+    "cap": [
+      "60010"
+    ],
+    "capoluogo": false,
+    "popolazione": 6264,
+    "superficie": 47.1073,
+    "coordinate": {
+      "lat": 43.6125398,
+      "lng": 13.1583783
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ostra Vetere",
+    "nomeAltraLingua": null,
+    "codice": "042036",
+    "codiceCatastale": "F581",
+    "sigla": "AN",
+    "cap": [
+      "60010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3076,
+    "superficie": 30.2231,
+    "coordinate": {
+      "lat": 43.6036524,
+      "lng": 13.0573844
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Poggio San Marcello",
+    "nomeAltraLingua": null,
+    "codice": "042037",
+    "codiceCatastale": "G771",
+    "sigla": "AN",
+    "cap": [
+      "60030"
+    ],
+    "capoluogo": false,
+    "popolazione": 697,
+    "superficie": 13.215,
+    "coordinate": {
+      "lat": 43.5114522,
+      "lng": 13.0770274
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Polverigi",
+    "nomeAltraLingua": null,
+    "codice": "042038",
+    "codiceCatastale": "G803",
+    "sigla": "AN",
+    "cap": [
+      "60020"
+    ],
+    "capoluogo": false,
+    "popolazione": 4586,
+    "superficie": 25.0092,
+    "coordinate": {
+      "lat": 43.5252507,
+      "lng": 13.39406
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rosora",
+    "nomeAltraLingua": null,
+    "codice": "042040",
+    "codiceCatastale": "H575",
+    "sigla": "AN",
+    "cap": [
+      "60030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1813,
+    "superficie": 9.4151,
+    "coordinate": {
+      "lat": 43.4827561,
+      "lng": 13.0693119
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Marcello",
+    "nomeAltraLingua": null,
+    "codice": "042041",
+    "codiceCatastale": "H979",
+    "sigla": "AN",
+    "cap": [
+      "60030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2008,
+    "superficie": 25.7715,
+    "coordinate": {
+      "lat": 43.5767291,
+      "lng": 13.2061993
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Paolo di Jesi",
+    "nomeAltraLingua": null,
+    "codice": "042042",
+    "codiceCatastale": "I071",
+    "sigla": "AN",
+    "cap": [
+      "60038"
+    ],
+    "capoluogo": false,
+    "popolazione": 893,
+    "superficie": 10.071,
+    "coordinate": {
+      "lat": 43.4549461,
+      "lng": 13.1736398
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Santa Maria Nuova",
+    "nomeAltraLingua": null,
+    "codice": "042043",
+    "codiceCatastale": "I251",
+    "sigla": "AN",
+    "cap": [
+      "60030"
+    ],
+    "capoluogo": false,
+    "popolazione": 3943,
+    "superficie": 18.4843,
+    "coordinate": {
+      "lat": 43.4958997,
+      "lng": 13.3105193
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sassoferrato",
+    "nomeAltraLingua": null,
+    "codice": "042044",
+    "codiceCatastale": "I461",
+    "sigla": "AN",
+    "cap": [
+      "60041"
+    ],
+    "capoluogo": false,
+    "popolazione": 6808,
+    "superficie": 137.2861,
+    "coordinate": {
+      "lat": 43.4359568,
+      "lng": 12.8586831
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Senigallia",
+    "nomeAltraLingua": null,
+    "codice": "042045",
+    "codiceCatastale": "I608",
+    "sigla": "AN",
+    "cap": [
+      "60019"
+    ],
+    "capoluogo": false,
+    "popolazione": 44090,
+    "superficie": 118.1333,
+    "coordinate": {
+      "lat": 43.7147748,
+      "lng": 13.2177666
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Serra de' Conti",
+    "nomeAltraLingua": null,
+    "codice": "042046",
+    "codiceCatastale": "I643",
+    "sigla": "AN",
+    "cap": [
+      "60030"
+    ],
+    "capoluogo": false,
+    "popolazione": 3560,
+    "superficie": 24.5124,
+    "coordinate": {
+      "lat": 43.5424453,
+      "lng": 13.0379576
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Serra San Quirico",
+    "nomeAltraLingua": null,
+    "codice": "042047",
+    "codiceCatastale": "I653",
+    "sigla": "AN",
+    "cap": [
+      "60048"
+    ],
+    "capoluogo": false,
+    "popolazione": 2548,
+    "superficie": 49.4245,
+    "coordinate": {
+      "lat": 43.4477401,
+      "lng": 13.0150464
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sirolo",
+    "nomeAltraLingua": null,
+    "codice": "042048",
+    "codiceCatastale": "I758",
+    "sigla": "AN",
+    "cap": [
+      "60020"
+    ],
+    "capoluogo": false,
+    "popolazione": 4089,
+    "superficie": 16.8056,
+    "coordinate": {
+      "lat": 43.5259722,
+      "lng": 13.6160562
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Staffolo",
+    "nomeAltraLingua": null,
+    "codice": "042049",
+    "codiceCatastale": "I932",
+    "sigla": "AN",
+    "cap": [
+      "60039"
+    ],
+    "capoluogo": false,
+    "popolazione": 2112,
+    "superficie": 27.5555,
+    "coordinate": {
+      "lat": 43.4328341,
+      "lng": 13.1862575
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Trecastelli",
+    "nomeAltraLingua": null,
+    "codice": "042050",
+    "codiceCatastale": "M318",
+    "sigla": "AN",
+    "cap": [
+      "60012"
+    ],
+    "capoluogo": false,
+    "popolazione": 7586,
+    "superficie": 38.7048,
+    "coordinate": {
+      "lat": 43.6717951,
+      "lng": 13.1063385
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ancona",
+      "codice": "042",
+      "sigla": "AN",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Apiro",
+    "nomeAltraLingua": null,
+    "codice": "043002",
+    "codiceCatastale": "A329",
+    "sigla": "MC",
+    "cap": [
+      "62021"
+    ],
+    "capoluogo": false,
+    "popolazione": 2027,
+    "superficie": 53.5921,
+    "coordinate": {
+      "lat": 43.3924782,
+      "lng": 13.1309915
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Appignano",
+    "nomeAltraLingua": null,
+    "codice": "043003",
+    "codiceCatastale": "A334",
+    "sigla": "MC",
+    "cap": [
+      "62010"
+    ],
+    "capoluogo": false,
+    "popolazione": 4078,
+    "superficie": 23.0066,
+    "coordinate": {
+      "lat": 43.3640472,
+      "lng": 13.3462537
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Belforte del Chienti",
+    "nomeAltraLingua": null,
+    "codice": "043004",
+    "codiceCatastale": "A739",
+    "sigla": "MC",
+    "cap": [
+      "62020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1851,
+    "superficie": 15.9965,
+    "coordinate": {
+      "lat": 43.1642416,
+      "lng": 13.2377093
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bolognola",
+    "nomeAltraLingua": null,
+    "codice": "043005",
+    "codiceCatastale": "A947",
+    "sigla": "MC",
+    "cap": [
+      "62035"
+    ],
+    "capoluogo": false,
+    "popolazione": 147,
+    "superficie": 26.1774,
+    "coordinate": {
+      "lat": 42.9943927,
+      "lng": 13.2266305
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Caldarola",
+    "nomeAltraLingua": null,
+    "codice": "043006",
+    "codiceCatastale": "B398",
+    "sigla": "MC",
+    "cap": [
+      "62020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1603,
+    "superficie": 29.3252,
+    "coordinate": {
+      "lat": 43.1383354,
+      "lng": 13.2262592
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Camerino",
+    "nomeAltraLingua": null,
+    "codice": "043007",
+    "codiceCatastale": "B474",
+    "sigla": "MC",
+    "cap": [
+      "62032"
+    ],
+    "capoluogo": false,
+    "popolazione": 6041,
+    "superficie": 129.692,
+    "coordinate": {
+      "lat": 43.1360047,
+      "lng": 13.067895
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Camporotondo di Fiastrone",
+    "nomeAltraLingua": null,
+    "codice": "043008",
+    "codiceCatastale": "B562",
+    "sigla": "MC",
+    "cap": [
+      "62020"
+    ],
+    "capoluogo": false,
+    "popolazione": 472,
+    "superficie": 8.8469,
+    "coordinate": {
+      "lat": 43.1317706,
+      "lng": 13.2655414
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelraimondo",
+    "nomeAltraLingua": null,
+    "codice": "043009",
+    "codiceCatastale": "C251",
+    "sigla": "MC",
+    "cap": [
+      "62022"
+    ],
+    "capoluogo": false,
+    "popolazione": 4360,
+    "superficie": 44.4318,
+    "coordinate": {
+      "lat": 43.2099718,
+      "lng": 13.0577239
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelsantangelo sul Nera",
+    "nomeAltraLingua": null,
+    "codice": "043010",
+    "codiceCatastale": "C267",
+    "sigla": "MC",
+    "cap": [
+      "62039"
+    ],
+    "capoluogo": false,
+    "popolazione": 221,
+    "superficie": 70.9658,
+    "coordinate": {
+      "lat": 42.8943614,
+      "lng": 13.15305
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cessapalombo",
+    "nomeAltraLingua": null,
+    "codice": "043011",
+    "codiceCatastale": "C582",
+    "sigla": "MC",
+    "cap": [
+      "62020"
+    ],
+    "capoluogo": false,
+    "popolazione": 437,
+    "superficie": 27.2751,
+    "coordinate": {
+      "lat": 43.1090694,
+      "lng": 13.2584017
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cingoli",
+    "nomeAltraLingua": null,
+    "codice": "043012",
+    "codiceCatastale": "C704",
+    "sigla": "MC",
+    "cap": [
+      "62011"
+    ],
+    "capoluogo": false,
+    "popolazione": 9556,
+    "superficie": 148.373,
+    "coordinate": {
+      "lat": 43.3742481,
+      "lng": 13.2164535
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Civitanova Marche",
+    "nomeAltraLingua": null,
+    "codice": "043013",
+    "codiceCatastale": "C770",
+    "sigla": "MC",
+    "cap": [
+      "62012"
+    ],
+    "capoluogo": false,
+    "popolazione": 41965,
+    "superficie": 45.9581,
+    "coordinate": {
+      "lat": 43.3068139,
+      "lng": 13.7283984
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Colmurano",
+    "nomeAltraLingua": null,
+    "codice": "043014",
+    "codiceCatastale": "C886",
+    "sigla": "MC",
+    "cap": [
+      "62020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1157,
+    "superficie": 11.0399,
+    "coordinate": {
+      "lat": 43.1638966,
+      "lng": 13.3567096
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Corridonia",
+    "nomeAltraLingua": null,
+    "codice": "043015",
+    "codiceCatastale": "D042",
+    "sigla": "MC",
+    "cap": [
+      "62014"
+    ],
+    "capoluogo": false,
+    "popolazione": 14658,
+    "superficie": 61.8351,
+    "coordinate": {
+      "lat": 43.2480652,
+      "lng": 13.5088126
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Esanatoglia",
+    "nomeAltraLingua": null,
+    "codice": "043016",
+    "codiceCatastale": "D429",
+    "sigla": "MC",
+    "cap": [
+      "62024"
+    ],
+    "capoluogo": false,
+    "popolazione": 1897,
+    "superficie": 48.3249,
+    "coordinate": {
+      "lat": 43.2514531,
+      "lng": 12.9461403
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fiastra",
+    "nomeAltraLingua": null,
+    "codice": "043017",
+    "codiceCatastale": "D564",
+    "sigla": "MC",
+    "cap": [
+      "62035"
+    ],
+    "capoluogo": false,
+    "popolazione": 606,
+    "superficie": 84.4216,
+    "coordinate": {
+      "lat": 43.0357409,
+      "lng": 13.1560024
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fiuminata",
+    "nomeAltraLingua": null,
+    "codice": "043019",
+    "codiceCatastale": "D628",
+    "sigla": "MC",
+    "cap": [
+      "62025"
+    ],
+    "capoluogo": false,
+    "popolazione": 1260,
+    "superficie": 76.0047,
+    "coordinate": {
+      "lat": 43.1885773,
+      "lng": 12.9316837
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gagliole",
+    "nomeAltraLingua": null,
+    "codice": "043020",
+    "codiceCatastale": "D853",
+    "sigla": "MC",
+    "cap": [
+      "62022"
+    ],
+    "capoluogo": false,
+    "popolazione": 519,
+    "superficie": 23.9647,
+    "coordinate": {
+      "lat": 43.2394241,
+      "lng": 13.0679699
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gualdo",
+    "nomeAltraLingua": null,
+    "codice": "043021",
+    "codiceCatastale": "E228",
+    "sigla": "MC",
+    "cap": [
+      "62020"
+    ],
+    "capoluogo": false,
+    "popolazione": 718,
+    "superficie": 22.1281,
+    "coordinate": {
+      "lat": 43.0673094,
+      "lng": 13.3379364
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Loro Piceno",
+    "nomeAltraLingua": null,
+    "codice": "043022",
+    "codiceCatastale": "E694",
+    "sigla": "MC",
+    "cap": [
+      "62020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2133,
+    "superficie": 32.4824,
+    "coordinate": {
+      "lat": 43.1660637,
+      "lng": 13.4162018
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Macerata",
+    "nomeAltraLingua": null,
+    "codice": "043023",
+    "codiceCatastale": "E783",
+    "sigla": "MC",
+    "cap": [
+      "62100"
+    ],
+    "capoluogo": true,
+    "popolazione": 40538,
+    "superficie": 92.4898,
+    "coordinate": {
+      "lat": 43.3002171,
+      "lng": 13.4531221
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Matelica",
+    "nomeAltraLingua": null,
+    "codice": "043024",
+    "codiceCatastale": "F051",
+    "sigla": "MC",
+    "cap": [
+      "62024"
+    ],
+    "capoluogo": false,
+    "popolazione": 9081,
+    "superficie": 81.4145,
+    "coordinate": {
+      "lat": 43.2508713,
+      "lng": 13.007258
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mogliano",
+    "nomeAltraLingua": null,
+    "codice": "043025",
+    "codiceCatastale": "F268",
+    "sigla": "MC",
+    "cap": [
+      "62010"
+    ],
+    "capoluogo": false,
+    "popolazione": 4311,
+    "superficie": 29.3554,
+    "coordinate": {
+      "lat": 43.186275,
+      "lng": 13.4818327
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montecassiano",
+    "nomeAltraLingua": null,
+    "codice": "043026",
+    "codiceCatastale": "F454",
+    "sigla": "MC",
+    "cap": [
+      "62010"
+    ],
+    "capoluogo": false,
+    "popolazione": 6761,
+    "superficie": 33.7441,
+    "coordinate": {
+      "lat": 43.3636273,
+      "lng": 13.436636
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte Cavallo",
+    "nomeAltraLingua": null,
+    "codice": "043027",
+    "codiceCatastale": "F460",
+    "sigla": "MC",
+    "cap": [
+      "62036"
+    ],
+    "capoluogo": false,
+    "popolazione": 103,
+    "superficie": 38.7011,
+    "coordinate": {
+      "lat": 42.9934238,
+      "lng": 13.0013368
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montecosaro",
+    "nomeAltraLingua": null,
+    "codice": "043028",
+    "codiceCatastale": "F482",
+    "sigla": "MC",
+    "cap": [
+      "62010"
+    ],
+    "capoluogo": false,
+    "popolazione": 7395,
+    "superficie": 21.8091,
+    "coordinate": {
+      "lat": 43.3168421,
+      "lng": 13.6351151
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montefano",
+    "nomeAltraLingua": null,
+    "codice": "043029",
+    "codiceCatastale": "F496",
+    "sigla": "MC",
+    "cap": [
+      "62010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3312,
+    "superficie": 33.7177,
+    "coordinate": {
+      "lat": 43.4115767,
+      "lng": 13.4383779
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montelupone",
+    "nomeAltraLingua": null,
+    "codice": "043030",
+    "codiceCatastale": "F552",
+    "sigla": "MC",
+    "cap": [
+      "62010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3358,
+    "superficie": 32.8509,
+    "coordinate": {
+      "lat": 43.3443303,
+      "lng": 13.5671555
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte San Giusto",
+    "nomeAltraLingua": null,
+    "codice": "043031",
+    "codiceCatastale": "F621",
+    "sigla": "MC",
+    "cap": [
+      "62015"
+    ],
+    "capoluogo": false,
+    "popolazione": 7464,
+    "superficie": 20.1184,
+    "coordinate": {
+      "lat": 43.236003,
+      "lng": 13.5941337
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte San Martino",
+    "nomeAltraLingua": null,
+    "codice": "043032",
+    "codiceCatastale": "F622",
+    "sigla": "MC",
+    "cap": [
+      "62020"
+    ],
+    "capoluogo": false,
+    "popolazione": 685,
+    "superficie": 18.8827,
+    "coordinate": {
+      "lat": 43.0312239,
+      "lng": 13.4391053
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Morrovalle",
+    "nomeAltraLingua": null,
+    "codice": "043033",
+    "codiceCatastale": "F749",
+    "sigla": "MC",
+    "cap": [
+      "62010"
+    ],
+    "capoluogo": false,
+    "popolazione": 9792,
+    "superficie": 42.4529,
+    "coordinate": {
+      "lat": 43.3146743,
+      "lng": 13.5799863
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Muccia",
+    "nomeAltraLingua": null,
+    "codice": "043034",
+    "codiceCatastale": "F793",
+    "sigla": "MC",
+    "cap": [
+      "62034"
+    ],
+    "capoluogo": false,
+    "popolazione": 800,
+    "superficie": 25.8648,
+    "coordinate": {
+      "lat": 43.0820838,
+      "lng": 13.0437731
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Penna San Giovanni",
+    "nomeAltraLingua": null,
+    "codice": "043035",
+    "codiceCatastale": "G436",
+    "sigla": "MC",
+    "cap": [
+      "62020"
+    ],
+    "capoluogo": false,
+    "popolazione": 928,
+    "superficie": 27.8079,
+    "coordinate": {
+      "lat": 43.0563723,
+      "lng": 13.4242561
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Petriolo",
+    "nomeAltraLingua": null,
+    "codice": "043036",
+    "codiceCatastale": "G515",
+    "sigla": "MC",
+    "cap": [
+      "62014"
+    ],
+    "capoluogo": false,
+    "popolazione": 1825,
+    "superficie": 15.6862,
+    "coordinate": {
+      "lat": 43.2210136,
+      "lng": 13.4656349
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pieve Torina",
+    "nomeAltraLingua": null,
+    "codice": "043038",
+    "codiceCatastale": "G657",
+    "sigla": "MC",
+    "cap": [
+      "62036"
+    ],
+    "capoluogo": false,
+    "popolazione": 1225,
+    "superficie": 75.0057,
+    "coordinate": {
+      "lat": 43.0443121,
+      "lng": 13.0503575
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pioraco",
+    "nomeAltraLingua": null,
+    "codice": "043039",
+    "codiceCatastale": "G690",
+    "sigla": "MC",
+    "cap": [
+      "62025"
+    ],
+    "capoluogo": false,
+    "popolazione": 957,
+    "superficie": 19.8114,
+    "coordinate": {
+      "lat": 43.1788079,
+      "lng": 12.984852
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Poggio San Vicino",
+    "nomeAltraLingua": null,
+    "codice": "043040",
+    "codiceCatastale": "D566",
+    "sigla": "MC",
+    "cap": [
+      "62021"
+    ],
+    "capoluogo": false,
+    "popolazione": 218,
+    "superficie": 13.1847,
+    "coordinate": {
+      "lat": 43.3744246,
+      "lng": 13.0784162
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pollenza",
+    "nomeAltraLingua": null,
+    "codice": "043041",
+    "codiceCatastale": "F567",
+    "sigla": "MC",
+    "cap": [
+      "62010"
+    ],
+    "capoluogo": false,
+    "popolazione": 6216,
+    "superficie": 39.4141,
+    "coordinate": {
+      "lat": 43.2677669,
+      "lng": 13.347574
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Porto Recanati",
+    "nomeAltraLingua": null,
+    "codice": "043042",
+    "codiceCatastale": "G919",
+    "sigla": "MC",
+    "cap": [
+      "62017"
+    ],
+    "capoluogo": false,
+    "popolazione": 12466,
+    "superficie": 16.9861,
+    "coordinate": {
+      "lat": 43.4298439,
+      "lng": 13.6648412
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Potenza Picena",
+    "nomeAltraLingua": null,
+    "codice": "043043",
+    "codiceCatastale": "F632",
+    "sigla": "MC",
+    "cap": [
+      "62018"
+    ],
+    "capoluogo": false,
+    "popolazione": 15470,
+    "superficie": 48.5056,
+    "coordinate": {
+      "lat": 43.3662388,
+      "lng": 13.6202369
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Recanati",
+    "nomeAltraLingua": null,
+    "codice": "043044",
+    "codiceCatastale": "H211",
+    "sigla": "MC",
+    "cap": [
+      "62019"
+    ],
+    "capoluogo": false,
+    "popolazione": 20673,
+    "superficie": 103.4677,
+    "coordinate": {
+      "lat": 43.4038698,
+      "lng": 13.5489681
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ripe San Ginesio",
+    "nomeAltraLingua": null,
+    "codice": "043045",
+    "codiceCatastale": "H323",
+    "sigla": "MC",
+    "cap": [
+      "62020"
+    ],
+    "capoluogo": false,
+    "popolazione": 801,
+    "superficie": 10.3074,
+    "coordinate": {
+      "lat": 43.1429978,
+      "lng": 13.3674544
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Ginesio",
+    "nomeAltraLingua": null,
+    "codice": "043046",
+    "codiceCatastale": "H876",
+    "sigla": "MC",
+    "cap": [
+      "62026"
+    ],
+    "capoluogo": false,
+    "popolazione": 3055,
+    "superficie": 78.0755,
+    "coordinate": {
+      "lat": 43.1079483,
+      "lng": 13.3167573
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Severino Marche",
+    "nomeAltraLingua": null,
+    "codice": "043047",
+    "codiceCatastale": "I156",
+    "sigla": "MC",
+    "cap": [
+      "62027"
+    ],
+    "capoluogo": false,
+    "popolazione": 11826,
+    "superficie": 194.3335,
+    "coordinate": {
+      "lat": 43.2287886,
+      "lng": 13.1772944
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sant'Angelo in Pontano",
+    "nomeAltraLingua": null,
+    "codice": "043048",
+    "codiceCatastale": "I286",
+    "sigla": "MC",
+    "cap": [
+      "62020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1259,
+    "superficie": 27.534,
+    "coordinate": {
+      "lat": 43.0991821,
+      "lng": 13.3955464
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sarnano",
+    "nomeAltraLingua": null,
+    "codice": "043049",
+    "codiceCatastale": "I436",
+    "sigla": "MC",
+    "cap": [
+      "62028"
+    ],
+    "capoluogo": false,
+    "popolazione": 3053,
+    "superficie": 62.968,
+    "coordinate": {
+      "lat": 43.0355261,
+      "lng": 13.3007299
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sefro",
+    "nomeAltraLingua": null,
+    "codice": "043050",
+    "codiceCatastale": "I569",
+    "sigla": "MC",
+    "cap": [
+      "62025"
+    ],
+    "capoluogo": false,
+    "popolazione": 445,
+    "superficie": 42.2339,
+    "coordinate": {
+      "lat": 43.1462765,
+      "lng": 12.9492812
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Serrapetrona",
+    "nomeAltraLingua": null,
+    "codice": "043051",
+    "codiceCatastale": "I651",
+    "sigla": "MC",
+    "cap": [
+      "62020"
+    ],
+    "capoluogo": false,
+    "popolazione": 886,
+    "superficie": 37.536,
+    "coordinate": {
+      "lat": 43.1768975,
+      "lng": 13.1893799
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Serravalle di Chienti",
+    "nomeAltraLingua": null,
+    "codice": "043052",
+    "codiceCatastale": "I661",
+    "sigla": "MC",
+    "cap": [
+      "62038"
+    ],
+    "capoluogo": false,
+    "popolazione": 1036,
+    "superficie": 96.1059,
+    "coordinate": {
+      "lat": 43.0717912,
+      "lng": 12.9520592
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tolentino",
+    "nomeAltraLingua": null,
+    "codice": "043053",
+    "codiceCatastale": "L191",
+    "sigla": "MC",
+    "cap": [
+      "62029"
+    ],
+    "capoluogo": false,
+    "popolazione": 17719,
+    "superficie": 95.1714,
+    "coordinate": {
+      "lat": 43.2087121,
+      "lng": 13.2843743
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Treia",
+    "nomeAltraLingua": null,
+    "codice": "043054",
+    "codiceCatastale": "L366",
+    "sigla": "MC",
+    "cap": [
+      "62010"
+    ],
+    "capoluogo": false,
+    "popolazione": 9033,
+    "superficie": 93.2989,
+    "coordinate": {
+      "lat": 43.3112417,
+      "lng": 13.3122744
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Urbisaglia",
+    "nomeAltraLingua": null,
+    "codice": "043055",
+    "codiceCatastale": "L501",
+    "sigla": "MC",
+    "cap": [
+      "62010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2391,
+    "superficie": 22.9271,
+    "coordinate": {
+      "lat": 43.1972154,
+      "lng": 13.3773599
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ussita",
+    "nomeAltraLingua": null,
+    "codice": "043056",
+    "codiceCatastale": "L517",
+    "sigla": "MC",
+    "cap": [
+      "62039"
+    ],
+    "capoluogo": false,
+    "popolazione": 360,
+    "superficie": 55.0587,
+    "coordinate": {
+      "lat": 42.9440388,
+      "lng": 13.1384299
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Visso",
+    "nomeAltraLingua": null,
+    "codice": "043057",
+    "codiceCatastale": "M078",
+    "sigla": "MC",
+    "cap": [
+      "62039"
+    ],
+    "capoluogo": false,
+    "popolazione": 952,
+    "superficie": 100.7932,
+    "coordinate": {
+      "lat": 42.9308479,
+      "lng": 13.0888506
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Valfornace",
+    "nomeAltraLingua": null,
+    "codice": "043058",
+    "codiceCatastale": "M382",
+    "sigla": "MC",
+    "cap": [
+      "62031"
+    ],
+    "capoluogo": false,
+    "popolazione": 893,
+    "superficie": 48.2481,
+    "coordinate": {
+      "lat": 43.062193,
+      "lng": 13.0844292
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Macerata",
+      "codice": "043",
+      "sigla": "MC",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Acquasanta Terme",
+    "nomeAltraLingua": null,
+    "codice": "044001",
+    "codiceCatastale": "A044",
+    "sigla": "AP",
+    "cap": [
+      "63095"
+    ],
+    "capoluogo": false,
+    "popolazione": 2453,
+    "superficie": 138.8873,
+    "coordinate": {
+      "lat": 42.7691183,
+      "lng": 13.4092475
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Acquaviva Picena",
+    "nomeAltraLingua": null,
+    "codice": "044002",
+    "codiceCatastale": "A047",
+    "sigla": "AP",
+    "cap": [
+      "63075"
+    ],
+    "capoluogo": false,
+    "popolazione": 3621,
+    "superficie": 21.0432,
+    "coordinate": {
+      "lat": 42.9446387,
+      "lng": 13.812761
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Appignano del Tronto",
+    "nomeAltraLingua": null,
+    "codice": "044005",
+    "codiceCatastale": "A335",
+    "sigla": "AP",
+    "cap": [
+      "63083"
+    ],
+    "capoluogo": false,
+    "popolazione": 1635,
+    "superficie": 23.3298,
+    "coordinate": {
+      "lat": 42.8990632,
+      "lng": 13.665904
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Arquata del Tronto",
+    "nomeAltraLingua": null,
+    "codice": "044006",
+    "codiceCatastale": "A437",
+    "sigla": "AP",
+    "cap": [
+      "63096"
+    ],
+    "capoluogo": false,
+    "popolazione": 955,
+    "superficie": 92.0336,
+    "coordinate": {
+      "lat": 42.7774757,
+      "lng": 13.294112
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ascoli Piceno",
+    "nomeAltraLingua": null,
+    "codice": "044007",
+    "codiceCatastale": "A462",
+    "sigla": "AP",
+    "cap": [
+      "63100"
+    ],
+    "capoluogo": true,
+    "popolazione": 45448,
+    "superficie": 157.9561,
+    "coordinate": {
+      "lat": 42.8532267,
+      "lng": 13.5771546
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carassai",
+    "nomeAltraLingua": null,
+    "codice": "044010",
+    "codiceCatastale": "B727",
+    "sigla": "AP",
+    "cap": [
+      "63063"
+    ],
+    "capoluogo": false,
+    "popolazione": 981,
+    "superficie": 22.121,
+    "coordinate": {
+      "lat": 43.0321354,
+      "lng": 13.6835681
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castel di Lama",
+    "nomeAltraLingua": null,
+    "codice": "044011",
+    "codiceCatastale": "C093",
+    "sigla": "AP",
+    "cap": [
+      "63082"
+    ],
+    "capoluogo": false,
+    "popolazione": 8431,
+    "superficie": 10.9872,
+    "coordinate": {
+      "lat": 42.8703521,
+      "lng": 13.7128569
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castignano",
+    "nomeAltraLingua": null,
+    "codice": "044012",
+    "codiceCatastale": "C321",
+    "sigla": "AP",
+    "cap": [
+      "63072"
+    ],
+    "capoluogo": false,
+    "popolazione": 2540,
+    "superficie": 38.5731,
+    "coordinate": {
+      "lat": 42.9380229,
+      "lng": 13.6216092
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castorano",
+    "nomeAltraLingua": null,
+    "codice": "044013",
+    "codiceCatastale": "C331",
+    "sigla": "AP",
+    "cap": [
+      "63081"
+    ],
+    "capoluogo": false,
+    "popolazione": 2233,
+    "superficie": 14.1233,
+    "coordinate": {
+      "lat": 42.8982806,
+      "lng": 13.7276997
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Colli del Tronto",
+    "nomeAltraLingua": null,
+    "codice": "044014",
+    "codiceCatastale": "C877",
+    "sigla": "AP",
+    "cap": [
+      "63079"
+    ],
+    "capoluogo": false,
+    "popolazione": 3628,
+    "superficie": 5.9645,
+    "coordinate": {
+      "lat": 42.8780015,
+      "lng": 13.7481758
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Comunanza",
+    "nomeAltraLingua": null,
+    "codice": "044015",
+    "codiceCatastale": "C935",
+    "sigla": "AP",
+    "cap": [
+      "63087"
+    ],
+    "capoluogo": false,
+    "popolazione": 2911,
+    "superficie": 54.373,
+    "coordinate": {
+      "lat": 42.9578345,
+      "lng": 13.4139244
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cossignano",
+    "nomeAltraLingua": null,
+    "codice": "044016",
+    "codiceCatastale": "D096",
+    "sigla": "AP",
+    "cap": [
+      "63067"
+    ],
+    "capoluogo": false,
+    "popolazione": 853,
+    "superficie": 15.3525,
+    "coordinate": {
+      "lat": 42.9840577,
+      "lng": 13.6879531
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cupra Marittima",
+    "nomeAltraLingua": null,
+    "codice": "044017",
+    "codiceCatastale": "D210",
+    "sigla": "AP",
+    "cap": [
+      "63064"
+    ],
+    "capoluogo": false,
+    "popolazione": 5388,
+    "superficie": 17.4035,
+    "coordinate": {
+      "lat": 43.0250623,
+      "lng": 13.8590065
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Folignano",
+    "nomeAltraLingua": null,
+    "codice": "044020",
+    "codiceCatastale": "D652",
+    "sigla": "AP",
+    "cap": [
+      "63084"
+    ],
+    "capoluogo": false,
+    "popolazione": 8746,
+    "superficie": 14.9589,
+    "coordinate": {
+      "lat": 42.8210004,
+      "lng": 13.6325695
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Force",
+    "nomeAltraLingua": null,
+    "codice": "044021",
+    "codiceCatastale": "D691",
+    "sigla": "AP",
+    "cap": [
+      "63086"
+    ],
+    "capoluogo": false,
+    "popolazione": 1104,
+    "superficie": 34.6876,
+    "coordinate": {
+      "lat": 42.963013,
+      "lng": 13.4910487
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Grottammare",
+    "nomeAltraLingua": null,
+    "codice": "044023",
+    "codiceCatastale": "E207",
+    "sigla": "AP",
+    "cap": [
+      "63066"
+    ],
+    "capoluogo": false,
+    "popolazione": 15851,
+    "superficie": 17.9335,
+    "coordinate": {
+      "lat": 42.9883984,
+      "lng": 13.8683635
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Maltignano",
+    "nomeAltraLingua": null,
+    "codice": "044027",
+    "codiceCatastale": "E868",
+    "sigla": "AP",
+    "cap": [
+      "63085"
+    ],
+    "capoluogo": false,
+    "popolazione": 2207,
+    "superficie": 8.2915,
+    "coordinate": {
+      "lat": 42.8314676,
+      "lng": 13.686481
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Massignano",
+    "nomeAltraLingua": null,
+    "codice": "044029",
+    "codiceCatastale": "F044",
+    "sigla": "AP",
+    "cap": [
+      "63061"
+    ],
+    "capoluogo": false,
+    "popolazione": 1591,
+    "superficie": 16.5458,
+    "coordinate": {
+      "lat": 43.0509179,
+      "lng": 13.7972086
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monsampolo del Tronto",
+    "nomeAltraLingua": null,
+    "codice": "044031",
+    "codiceCatastale": "F380",
+    "sigla": "AP",
+    "cap": [
+      "63077"
+    ],
+    "capoluogo": false,
+    "popolazione": 4444,
+    "superficie": 15.4135,
+    "coordinate": {
+      "lat": 42.8974116,
+      "lng": 13.7945046
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montalto delle Marche",
+    "nomeAltraLingua": null,
+    "codice": "044032",
+    "codiceCatastale": "F415",
+    "sigla": "AP",
+    "cap": [
+      "63068"
+    ],
+    "capoluogo": false,
+    "popolazione": 1848,
+    "superficie": 33.9115,
+    "coordinate": {
+      "lat": 42.9874682,
+      "lng": 13.6068894
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montedinove",
+    "nomeAltraLingua": null,
+    "codice": "044034",
+    "codiceCatastale": "F487",
+    "sigla": "AP",
+    "cap": [
+      "63069"
+    ],
+    "capoluogo": false,
+    "popolazione": 457,
+    "superficie": 12.0076,
+    "coordinate": {
+      "lat": 42.9705513,
+      "lng": 13.5869228
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montefiore dell'Aso",
+    "nomeAltraLingua": null,
+    "codice": "044036",
+    "codiceCatastale": "F501",
+    "sigla": "AP",
+    "cap": [
+      "63062"
+    ],
+    "capoluogo": false,
+    "popolazione": 1959,
+    "superficie": 28.0033,
+    "coordinate": {
+      "lat": 43.0516574,
+      "lng": 13.7512864
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montegallo",
+    "nomeAltraLingua": null,
+    "codice": "044038",
+    "codiceCatastale": "F516",
+    "sigla": "AP",
+    "cap": [
+      "63094"
+    ],
+    "capoluogo": false,
+    "popolazione": 399,
+    "superficie": 48.2176,
+    "coordinate": {
+      "lat": 42.8420955,
+      "lng": 13.3329853
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montemonaco",
+    "nomeAltraLingua": null,
+    "codice": "044044",
+    "codiceCatastale": "F570",
+    "sigla": "AP",
+    "cap": [
+      "63088"
+    ],
+    "capoluogo": false,
+    "popolazione": 533,
+    "superficie": 67.5478,
+    "coordinate": {
+      "lat": 42.8992482,
+      "lng": 13.3268125
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monteprandone",
+    "nomeAltraLingua": null,
+    "codice": "044045",
+    "codiceCatastale": "F591",
+    "sigla": "AP",
+    "cap": [
+      "63076"
+    ],
+    "capoluogo": false,
+    "popolazione": 13043,
+    "superficie": 26.8679,
+    "coordinate": {
+      "lat": 42.9201338,
+      "lng": 13.8357035
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Offida",
+    "nomeAltraLingua": null,
+    "codice": "044054",
+    "codiceCatastale": "G005",
+    "sigla": "AP",
+    "cap": [
+      "63073"
+    ],
+    "capoluogo": false,
+    "popolazione": 4617,
+    "superficie": 49.182,
+    "coordinate": {
+      "lat": 42.9349959,
+      "lng": 13.6912581
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Palmiano",
+    "nomeAltraLingua": null,
+    "codice": "044056",
+    "codiceCatastale": "G289",
+    "sigla": "AP",
+    "cap": [
+      "63092"
+    ],
+    "capoluogo": false,
+    "popolazione": 158,
+    "superficie": 12.3888,
+    "coordinate": {
+      "lat": 42.8993331,
+      "lng": 13.4584595
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ripatransone",
+    "nomeAltraLingua": null,
+    "codice": "044063",
+    "codiceCatastale": "H321",
+    "sigla": "AP",
+    "cap": [
+      "63065"
+    ],
+    "capoluogo": false,
+    "popolazione": 4141,
+    "superficie": 74.363,
+    "coordinate": {
+      "lat": 43.0002558,
+      "lng": 13.7625897
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Roccafluvione",
+    "nomeAltraLingua": null,
+    "codice": "044064",
+    "codiceCatastale": "H390",
+    "sigla": "AP",
+    "cap": [
+      "63093"
+    ],
+    "capoluogo": false,
+    "popolazione": 1840,
+    "superficie": 61.068,
+    "coordinate": {
+      "lat": 42.8612364,
+      "lng": 13.4751959
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rotella",
+    "nomeAltraLingua": null,
+    "codice": "044065",
+    "codiceCatastale": "H588",
+    "sigla": "AP",
+    "cap": [
+      "63071"
+    ],
+    "capoluogo": false,
+    "popolazione": 789,
+    "superficie": 27.4939,
+    "coordinate": {
+      "lat": 42.9545077,
+      "lng": 13.56095
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Benedetto del Tronto",
+    "nomeAltraLingua": null,
+    "codice": "044066",
+    "codiceCatastale": "H769",
+    "sigla": "AP",
+    "cap": [
+      "63074"
+    ],
+    "capoluogo": false,
+    "popolazione": 47045,
+    "superficie": 25.2292,
+    "coordinate": {
+      "lat": 42.9434153,
+      "lng": 13.8832129
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Spinetoli",
+    "nomeAltraLingua": null,
+    "codice": "044071",
+    "codiceCatastale": "I912",
+    "sigla": "AP",
+    "cap": [
+      "63078"
+    ],
+    "capoluogo": false,
+    "popolazione": 7164,
+    "superficie": 12.2945,
+    "coordinate": {
+      "lat": 42.8892804,
+      "lng": 13.7734708
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Venarotta",
+    "nomeAltraLingua": null,
+    "codice": "044073",
+    "codiceCatastale": "L728",
+    "sigla": "AP",
+    "cap": [
+      "63091"
+    ],
+    "capoluogo": false,
+    "popolazione": 1884,
+    "superficie": 30.0544,
+    "coordinate": {
+      "lat": 42.8811941,
+      "lng": 13.4928768
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Ascoli Piceno",
+      "codice": "044",
+      "sigla": "AP",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Altidona",
+    "nomeAltraLingua": null,
+    "codice": "109001",
+    "codiceCatastale": "A233",
+    "sigla": "FM",
+    "cap": [
+      "63824"
+    ],
+    "capoluogo": false,
+    "popolazione": 3573,
+    "superficie": 13.0441,
+    "coordinate": {
+      "lat": 43.1066623,
+      "lng": 13.7940224
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Amandola",
+    "nomeAltraLingua": null,
+    "codice": "109002",
+    "codiceCatastale": "A252",
+    "sigla": "FM",
+    "cap": [
+      "63857"
+    ],
+    "capoluogo": false,
+    "popolazione": 3239,
+    "superficie": 69.3347,
+    "coordinate": {
+      "lat": 42.9804418,
+      "lng": 13.3558388
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Belmonte Piceno",
+    "nomeAltraLingua": null,
+    "codice": "109003",
+    "codiceCatastale": "A760",
+    "sigla": "FM",
+    "cap": [
+      "63838"
+    ],
+    "capoluogo": false,
+    "popolazione": 562,
+    "superficie": 10.5383,
+    "coordinate": {
+      "lat": 43.0914466,
+      "lng": 13.5388352
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Campofilone",
+    "nomeAltraLingua": null,
+    "codice": "109004",
+    "codiceCatastale": "B534",
+    "sigla": "FM",
+    "cap": [
+      "63828"
+    ],
+    "capoluogo": false,
+    "popolazione": 1898,
+    "superficie": 12.0899,
+    "coordinate": {
+      "lat": 43.0792335,
+      "lng": 13.814558
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Falerone",
+    "nomeAltraLingua": null,
+    "codice": "109005",
+    "codiceCatastale": "D477",
+    "sigla": "FM",
+    "cap": [
+      "63837"
+    ],
+    "capoluogo": false,
+    "popolazione": 3139,
+    "superficie": 24.5938,
+    "coordinate": {
+      "lat": 43.1079308,
+      "lng": 13.4738544
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fermo",
+    "nomeAltraLingua": null,
+    "codice": "109006",
+    "codiceCatastale": "D542",
+    "sigla": "FM",
+    "cap": [
+      "63900"
+    ],
+    "capoluogo": true,
+    "popolazione": 35842,
+    "superficie": 124.2718,
+    "coordinate": {
+      "lat": 43.1605572,
+      "lng": 13.7184586
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Francavilla d'Ete",
+    "nomeAltraLingua": null,
+    "codice": "109007",
+    "codiceCatastale": "D760",
+    "sigla": "FM",
+    "cap": [
+      "63816"
+    ],
+    "capoluogo": false,
+    "popolazione": 901,
+    "superficie": 10.0721,
+    "coordinate": {
+      "lat": 43.191017,
+      "lng": 13.5398936
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Grottazzolina",
+    "nomeAltraLingua": null,
+    "codice": "109008",
+    "codiceCatastale": "E208",
+    "sigla": "FM",
+    "cap": [
+      "63844"
+    ],
+    "capoluogo": false,
+    "popolazione": 3214,
+    "superficie": 9.1864,
+    "coordinate": {
+      "lat": 43.1109586,
+      "lng": 13.6008901
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lapedona",
+    "nomeAltraLingua": null,
+    "codice": "109009",
+    "codiceCatastale": "E447",
+    "sigla": "FM",
+    "cap": [
+      "63823"
+    ],
+    "capoluogo": false,
+    "popolazione": 1149,
+    "superficie": 14.9367,
+    "coordinate": {
+      "lat": 43.1096231,
+      "lng": 13.7727227
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Magliano di Tenna",
+    "nomeAltraLingua": null,
+    "codice": "109010",
+    "codiceCatastale": "E807",
+    "sigla": "FM",
+    "cap": [
+      "63832"
+    ],
+    "capoluogo": false,
+    "popolazione": 1418,
+    "superficie": 8.1701,
+    "coordinate": {
+      "lat": 43.1385531,
+      "lng": 13.586139
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Massa Fermana",
+    "nomeAltraLingua": null,
+    "codice": "109011",
+    "codiceCatastale": "F021",
+    "sigla": "FM",
+    "cap": [
+      "63834"
+    ],
+    "capoluogo": false,
+    "popolazione": 869,
+    "superficie": 7.7728,
+    "coordinate": {
+      "lat": 43.1504611,
+      "lng": 13.4755262
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monsampietro Morico",
+    "nomeAltraLingua": null,
+    "codice": "109012",
+    "codiceCatastale": "F379",
+    "sigla": "FM",
+    "cap": [
+      "63842"
+    ],
+    "capoluogo": false,
+    "popolazione": 590,
+    "superficie": 9.9208,
+    "coordinate": {
+      "lat": 43.0675472,
+      "lng": 13.5557391
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montappone",
+    "nomeAltraLingua": null,
+    "codice": "109013",
+    "codiceCatastale": "F428",
+    "sigla": "FM",
+    "cap": [
+      "63835"
+    ],
+    "capoluogo": false,
+    "popolazione": 1539,
+    "superficie": 10.2089,
+    "coordinate": {
+      "lat": 43.1375457,
+      "lng": 13.4692909
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montefalcone Appennino",
+    "nomeAltraLingua": null,
+    "codice": "109014",
+    "codiceCatastale": "F493",
+    "sigla": "FM",
+    "cap": [
+      "63855"
+    ],
+    "capoluogo": false,
+    "popolazione": 366,
+    "superficie": 15.5734,
+    "coordinate": {
+      "lat": 42.9880607,
+      "lng": 13.4589863
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montefortino",
+    "nomeAltraLingua": null,
+    "codice": "109015",
+    "codiceCatastale": "F509",
+    "sigla": "FM",
+    "cap": [
+      "63858"
+    ],
+    "capoluogo": false,
+    "popolazione": 1037,
+    "superficie": 78.5863,
+    "coordinate": {
+      "lat": 42.9425425,
+      "lng": 13.3412354
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte Giberto",
+    "nomeAltraLingua": null,
+    "codice": "109016",
+    "codiceCatastale": "F517",
+    "sigla": "FM",
+    "cap": [
+      "63846"
+    ],
+    "capoluogo": false,
+    "popolazione": 727,
+    "superficie": 12.5772,
+    "coordinate": {
+      "lat": 43.0912715,
+      "lng": 13.6308289
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montegiorgio",
+    "nomeAltraLingua": null,
+    "codice": "109017",
+    "codiceCatastale": "F520",
+    "sigla": "FM",
+    "cap": [
+      "63833"
+    ],
+    "capoluogo": false,
+    "popolazione": 6281,
+    "superficie": 47.2659,
+    "coordinate": {
+      "lat": 43.1324841,
+      "lng": 13.5373724
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montegranaro",
+    "nomeAltraLingua": null,
+    "codice": "109018",
+    "codiceCatastale": "F522",
+    "sigla": "FM",
+    "cap": [
+      "63812"
+    ],
+    "capoluogo": false,
+    "popolazione": 12441,
+    "superficie": 31.3857,
+    "coordinate": {
+      "lat": 43.2331438,
+      "lng": 13.632514
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monteleone di Fermo",
+    "nomeAltraLingua": null,
+    "codice": "109019",
+    "codiceCatastale": "F536",
+    "sigla": "FM",
+    "cap": [
+      "63841"
+    ],
+    "capoluogo": false,
+    "popolazione": 350,
+    "superficie": 8.1861,
+    "coordinate": {
+      "lat": 43.0473753,
+      "lng": 13.5287067
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montelparo",
+    "nomeAltraLingua": null,
+    "codice": "109020",
+    "codiceCatastale": "F549",
+    "sigla": "FM",
+    "cap": [
+      "63853"
+    ],
+    "capoluogo": false,
+    "popolazione": 694,
+    "superficie": 21.651,
+    "coordinate": {
+      "lat": 43.017988,
+      "lng": 13.5353241
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte Rinaldo",
+    "nomeAltraLingua": null,
+    "codice": "109021",
+    "codiceCatastale": "F599",
+    "sigla": "FM",
+    "cap": [
+      "63852"
+    ],
+    "capoluogo": false,
+    "popolazione": 314,
+    "superficie": 8.0614,
+    "coordinate": {
+      "lat": 43.0283569,
+      "lng": 13.5808883
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monterubbiano",
+    "nomeAltraLingua": null,
+    "codice": "109022",
+    "codiceCatastale": "F614",
+    "sigla": "FM",
+    "cap": [
+      "63825"
+    ],
+    "capoluogo": false,
+    "popolazione": 2002,
+    "superficie": 32.2579,
+    "coordinate": {
+      "lat": 43.0851968,
+      "lng": 13.7167919
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte San Pietrangeli",
+    "nomeAltraLingua": null,
+    "codice": "109023",
+    "codiceCatastale": "F626",
+    "sigla": "FM",
+    "cap": [
+      "63815"
+    ],
+    "capoluogo": false,
+    "popolazione": 2198,
+    "superficie": 18.6011,
+    "coordinate": {
+      "lat": 43.1917432,
+      "lng": 13.5796118
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte Urano",
+    "nomeAltraLingua": null,
+    "codice": "109024",
+    "codiceCatastale": "F653",
+    "sigla": "FM",
+    "cap": [
+      "63813"
+    ],
+    "capoluogo": false,
+    "popolazione": 7844,
+    "superficie": 16.8532,
+    "coordinate": {
+      "lat": 43.2062167,
+      "lng": 13.6710496
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte Vidon Combatte",
+    "nomeAltraLingua": null,
+    "codice": "109025",
+    "codiceCatastale": "F664",
+    "sigla": "FM",
+    "cap": [
+      "63847"
+    ],
+    "capoluogo": false,
+    "popolazione": 399,
+    "superficie": 11.1328,
+    "coordinate": {
+      "lat": 43.0496238,
+      "lng": 13.6307066
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte Vidon Corrado",
+    "nomeAltraLingua": null,
+    "codice": "109026",
+    "codiceCatastale": "F665",
+    "sigla": "FM",
+    "cap": [
+      "63836"
+    ],
+    "capoluogo": false,
+    "popolazione": 679,
+    "superficie": 6.1375,
+    "coordinate": {
+      "lat": 43.1213666,
+      "lng": 13.484484
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montottone",
+    "nomeAltraLingua": null,
+    "codice": "109027",
+    "codiceCatastale": "F697",
+    "sigla": "FM",
+    "cap": [
+      "63843"
+    ],
+    "capoluogo": false,
+    "popolazione": 885,
+    "superficie": 16.3413,
+    "coordinate": {
+      "lat": 43.0619576,
+      "lng": 13.5847022
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Moresco",
+    "nomeAltraLingua": null,
+    "codice": "109028",
+    "codiceCatastale": "F722",
+    "sigla": "FM",
+    "cap": [
+      "63826"
+    ],
+    "capoluogo": false,
+    "popolazione": 522,
+    "superficie": 6.4266,
+    "coordinate": {
+      "lat": 43.0857425,
+      "lng": 13.7318378
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ortezzano",
+    "nomeAltraLingua": null,
+    "codice": "109029",
+    "codiceCatastale": "G137",
+    "sigla": "FM",
+    "cap": [
+      "63851"
+    ],
+    "capoluogo": false,
+    "popolazione": 738,
+    "superficie": 7.1177,
+    "coordinate": {
+      "lat": 43.0315228,
+      "lng": 13.6074624
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pedaso",
+    "nomeAltraLingua": null,
+    "codice": "109030",
+    "codiceCatastale": "G403",
+    "sigla": "FM",
+    "cap": [
+      "63827"
+    ],
+    "capoluogo": false,
+    "popolazione": 2856,
+    "superficie": 3.9529,
+    "coordinate": {
+      "lat": 43.0978391,
+      "lng": 13.8406883
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Petritoli",
+    "nomeAltraLingua": null,
+    "codice": "109031",
+    "codiceCatastale": "G516",
+    "sigla": "FM",
+    "cap": [
+      "63848"
+    ],
+    "capoluogo": false,
+    "popolazione": 2149,
+    "superficie": 24.0478,
+    "coordinate": {
+      "lat": 43.0669042,
+      "lng": 13.6561885
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ponzano di Fermo",
+    "nomeAltraLingua": null,
+    "codice": "109032",
+    "codiceCatastale": "G873",
+    "sigla": "FM",
+    "cap": [
+      "63845"
+    ],
+    "capoluogo": false,
+    "popolazione": 1624,
+    "superficie": 14.287,
+    "coordinate": {
+      "lat": 43.1019602,
+      "lng": 13.6586256
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Porto San Giorgio",
+    "nomeAltraLingua": null,
+    "codice": "109033",
+    "codiceCatastale": "G920",
+    "sigla": "FM",
+    "cap": [
+      "63822"
+    ],
+    "capoluogo": false,
+    "popolazione": 15615,
+    "superficie": 9.0037,
+    "coordinate": {
+      "lat": 43.1846312,
+      "lng": 13.7959167
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Porto Sant'Elpidio",
+    "nomeAltraLingua": null,
+    "codice": "109034",
+    "codiceCatastale": "G921",
+    "sigla": "FM",
+    "cap": [
+      "63821"
+    ],
+    "capoluogo": false,
+    "popolazione": 25860,
+    "superficie": 18.2501,
+    "coordinate": {
+      "lat": 43.2579525,
+      "lng": 13.7580579
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rapagnano",
+    "nomeAltraLingua": null,
+    "codice": "109035",
+    "codiceCatastale": "H182",
+    "sigla": "FM",
+    "cap": [
+      "63831"
+    ],
+    "capoluogo": false,
+    "popolazione": 1919,
+    "superficie": 12.5162,
+    "coordinate": {
+      "lat": 43.1609723,
+      "lng": 13.592778
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Santa Vittoria in Matenano",
+    "nomeAltraLingua": null,
+    "codice": "109036",
+    "codiceCatastale": "I315",
+    "sigla": "FM",
+    "cap": [
+      "63854"
+    ],
+    "capoluogo": false,
+    "popolazione": 1140,
+    "superficie": 26.0844,
+    "coordinate": {
+      "lat": 43.0196774,
+      "lng": 13.4966168
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sant'Elpidio a Mare",
+    "nomeAltraLingua": null,
+    "codice": "109037",
+    "codiceCatastale": "I324",
+    "sigla": "FM",
+    "cap": [
+      "63811"
+    ],
+    "capoluogo": false,
+    "popolazione": 16469,
+    "superficie": 50.3488,
+    "coordinate": {
+      "lat": 43.2294744,
+      "lng": 13.6865127
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Servigliano",
+    "nomeAltraLingua": null,
+    "codice": "109038",
+    "codiceCatastale": "C070",
+    "sigla": "FM",
+    "cap": [
+      "63839"
+    ],
+    "capoluogo": false,
+    "popolazione": 2173,
+    "superficie": 18.5805,
+    "coordinate": {
+      "lat": 43.0807556,
+      "lng": 13.492186
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Smerillo",
+    "nomeAltraLingua": null,
+    "codice": "109039",
+    "codiceCatastale": "I774",
+    "sigla": "FM",
+    "cap": [
+      "63856"
+    ],
+    "capoluogo": false,
+    "popolazione": 327,
+    "superficie": 11.6317,
+    "coordinate": {
+      "lat": 43.004227,
+      "lng": 13.4457695
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Torre San Patrizio",
+    "nomeAltraLingua": null,
+    "codice": "109040",
+    "codiceCatastale": "L279",
+    "sigla": "FM",
+    "cap": [
+      "63814"
+    ],
+    "capoluogo": false,
+    "popolazione": 1803,
+    "superficie": 11.9897,
+    "coordinate": {
+      "lat": 43.1842352,
+      "lng": 13.6076189
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Marche",
+      "codice": "11"
+    },
+    "provincia": {
+      "nome": "Fermo",
+      "codice": "109",
+      "sigla": "FM",
+      "tipo": "provincia"
+    }
+  }
+]

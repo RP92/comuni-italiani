@@ -1,0 +1,8499 @@
+[
+  {
+    "nome": "Aulla",
+    "nomeAltraLingua": null,
+    "codice": "045001",
+    "codiceCatastale": "A496",
+    "sigla": "MS",
+    "cap": [
+      "54011"
+    ],
+    "capoluogo": false,
+    "popolazione": 10671,
+    "superficie": 59.7714,
+    "coordinate": {
+      "lat": 44.2092283,
+      "lng": 9.9681138
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bagnone",
+    "nomeAltraLingua": null,
+    "codice": "045002",
+    "codiceCatastale": "A576",
+    "sigla": "MS",
+    "cap": [
+      "54021"
+    ],
+    "capoluogo": false,
+    "popolazione": 1658,
+    "superficie": 74.2706,
+    "coordinate": {
+      "lat": 44.319413,
+      "lng": 9.9930644
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carrara",
+    "nomeAltraLingua": null,
+    "codice": "045003",
+    "codiceCatastale": "B832",
+    "sigla": "MS",
+    "cap": [
+      "54033"
+    ],
+    "capoluogo": false,
+    "popolazione": 59757,
+    "superficie": 71.0567,
+    "coordinate": {
+      "lat": 44.0775122,
+      "lng": 10.0967816
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Casola in Lunigiana",
+    "nomeAltraLingua": null,
+    "codice": "045004",
+    "codiceCatastale": "B979",
+    "sigla": "MS",
+    "cap": [
+      "54014"
+    ],
+    "capoluogo": false,
+    "popolazione": 931,
+    "superficie": 41.9773,
+    "coordinate": {
+      "lat": 44.2015905,
+      "lng": 10.1757934
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Comano",
+    "nomeAltraLingua": null,
+    "codice": "045005",
+    "codiceCatastale": "C914",
+    "sigla": "MS",
+    "cap": [
+      "54015"
+    ],
+    "capoluogo": false,
+    "popolazione": 666,
+    "superficie": 53.9256,
+    "coordinate": {
+      "lat": 44.2911767,
+      "lng": 10.1290715
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Filattiera",
+    "nomeAltraLingua": null,
+    "codice": "045006",
+    "codiceCatastale": "D590",
+    "sigla": "MS",
+    "cap": [
+      "54023"
+    ],
+    "capoluogo": false,
+    "popolazione": 2164,
+    "superficie": 48.6335,
+    "coordinate": {
+      "lat": 44.3311453,
+      "lng": 9.9369379
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fivizzano",
+    "nomeAltraLingua": null,
+    "codice": "045007",
+    "codiceCatastale": "D629",
+    "sigla": "MS",
+    "cap": [
+      "54013"
+    ],
+    "capoluogo": false,
+    "popolazione": 7034,
+    "superficie": 180.7381,
+    "coordinate": {
+      "lat": 44.2368415,
+      "lng": 10.1228081
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fosdinovo",
+    "nomeAltraLingua": null,
+    "codice": "045008",
+    "codiceCatastale": "D735",
+    "sigla": "MS",
+    "cap": [
+      "54035"
+    ],
+    "capoluogo": false,
+    "popolazione": 4601,
+    "superficie": 48.1796,
+    "coordinate": {
+      "lat": 44.1344635,
+      "lng": 10.0189322
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Licciana Nardi",
+    "nomeAltraLingua": null,
+    "codice": "045009",
+    "codiceCatastale": "E574",
+    "sigla": "MS",
+    "cap": [
+      "54016"
+    ],
+    "capoluogo": false,
+    "popolazione": 4729,
+    "superficie": 55.9239,
+    "coordinate": {
+      "lat": 44.2651023,
+      "lng": 10.0384871
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Massa",
+    "nomeAltraLingua": null,
+    "codice": "045010",
+    "codiceCatastale": "F023",
+    "sigla": "MS",
+    "cap": [
+      "54100"
+    ],
+    "capoluogo": true,
+    "popolazione": 65992,
+    "superficie": 93.8856,
+    "coordinate": {
+      "lat": 44.0366108,
+      "lng": 10.1411152
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montignoso",
+    "nomeAltraLingua": null,
+    "codice": "045011",
+    "codiceCatastale": "F679",
+    "sigla": "MS",
+    "cap": [
+      "54038"
+    ],
+    "capoluogo": false,
+    "popolazione": 10038,
+    "superficie": 16.9674,
+    "coordinate": {
+      "lat": 43.9871017,
+      "lng": 10.1485136
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mulazzo",
+    "nomeAltraLingua": null,
+    "codice": "045012",
+    "codiceCatastale": "F802",
+    "sigla": "MS",
+    "cap": [
+      "54026"
+    ],
+    "capoluogo": false,
+    "popolazione": 2293,
+    "superficie": 62.3117,
+    "coordinate": {
+      "lat": 44.3212692,
+      "lng": 9.9072494
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Podenzana",
+    "nomeAltraLingua": null,
+    "codice": "045013",
+    "codiceCatastale": "G746",
+    "sigla": "MS",
+    "cap": [
+      "54010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2104,
+    "superficie": 17.2284,
+    "coordinate": {
+      "lat": 44.2063586,
+      "lng": 9.9409357
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pontremoli",
+    "nomeAltraLingua": null,
+    "codice": "045014",
+    "codiceCatastale": "G870",
+    "sigla": "MS",
+    "cap": [
+      "54027"
+    ],
+    "capoluogo": false,
+    "popolazione": 6862,
+    "superficie": 182.7137,
+    "coordinate": {
+      "lat": 44.3773184,
+      "lng": 9.8833112
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tresana",
+    "nomeAltraLingua": null,
+    "codice": "045015",
+    "codiceCatastale": "L386",
+    "sigla": "MS",
+    "cap": [
+      "54012"
+    ],
+    "capoluogo": false,
+    "popolazione": 1912,
+    "superficie": 44.6136,
+    "coordinate": {
+      "lat": 44.2377424,
+      "lng": 9.9510889
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Villafranca in Lunigiana",
+    "nomeAltraLingua": null,
+    "codice": "045016",
+    "codiceCatastale": "L946",
+    "sigla": "MS",
+    "cap": [
+      "54028"
+    ],
+    "capoluogo": false,
+    "popolazione": 4651,
+    "superficie": 28.8749,
+    "coordinate": {
+      "lat": 44.2924225,
+      "lng": 9.9513741
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Zeri",
+    "nomeAltraLingua": null,
+    "codice": "045017",
+    "codiceCatastale": "M169",
+    "sigla": "MS",
+    "cap": [
+      "54029"
+    ],
+    "capoluogo": false,
+    "popolazione": 919,
+    "superficie": 73.4829,
+    "coordinate": {
+      "lat": 44.3530294,
+      "lng": 9.7638303
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Massa-Carrara",
+      "codice": "045",
+      "sigla": "MS",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Altopascio",
+    "nomeAltraLingua": null,
+    "codice": "046001",
+    "codiceCatastale": "A241",
+    "sigla": "LU",
+    "cap": [
+      "55011"
+    ],
+    "capoluogo": false,
+    "popolazione": 15952,
+    "superficie": 28.6358,
+    "coordinate": {
+      "lat": 43.8149929,
+      "lng": 10.6748987
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bagni di Lucca",
+    "nomeAltraLingua": null,
+    "codice": "046002",
+    "codiceCatastale": "A560",
+    "sigla": "LU",
+    "cap": [
+      "55022"
+    ],
+    "capoluogo": false,
+    "popolazione": 5576,
+    "superficie": 164.9667,
+    "coordinate": {
+      "lat": 44.0103221,
+      "lng": 10.5915616
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Barga",
+    "nomeAltraLingua": null,
+    "codice": "046003",
+    "codiceCatastale": "A657",
+    "sigla": "LU",
+    "cap": [
+      "55051"
+    ],
+    "capoluogo": false,
+    "popolazione": 9462,
+    "superficie": 66.2621,
+    "coordinate": {
+      "lat": 44.0734132,
+      "lng": 10.4850716
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Borgo a Mozzano",
+    "nomeAltraLingua": null,
+    "codice": "046004",
+    "codiceCatastale": "B007",
+    "sigla": "LU",
+    "cap": [
+      "55023"
+    ],
+    "capoluogo": false,
+    "popolazione": 6677,
+    "superficie": 72.026,
+    "coordinate": {
+      "lat": 43.9782803,
+      "lng": 10.5434745
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Camaiore",
+    "nomeAltraLingua": null,
+    "codice": "046005",
+    "codiceCatastale": "B455",
+    "sigla": "LU",
+    "cap": [
+      "55041"
+    ],
+    "capoluogo": false,
+    "popolazione": 31864,
+    "superficie": 84.8147,
+    "coordinate": {
+      "lat": 43.9385356,
+      "lng": 10.3041795
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Camporgiano",
+    "nomeAltraLingua": null,
+    "codice": "046006",
+    "codiceCatastale": "B557",
+    "sigla": "LU",
+    "cap": [
+      "55031"
+    ],
+    "capoluogo": false,
+    "popolazione": 2005,
+    "superficie": 26.9494,
+    "coordinate": {
+      "lat": 44.158572,
+      "lng": 10.3337021
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Capannori",
+    "nomeAltraLingua": null,
+    "codice": "046007",
+    "codiceCatastale": "B648",
+    "sigla": "LU",
+    "cap": [
+      "55012"
+    ],
+    "capoluogo": false,
+    "popolazione": 46402,
+    "superficie": 155.8573,
+    "coordinate": {
+      "lat": 43.8493281,
+      "lng": 10.5753936
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Careggine",
+    "nomeAltraLingua": null,
+    "codice": "046008",
+    "codiceCatastale": "B760",
+    "sigla": "LU",
+    "cap": [
+      "55030"
+    ],
+    "capoluogo": false,
+    "popolazione": 503,
+    "superficie": 24.2736,
+    "coordinate": {
+      "lat": 44.120686,
+      "lng": 10.325017
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelnuovo di Garfagnana",
+    "nomeAltraLingua": null,
+    "codice": "046009",
+    "codiceCatastale": "C236",
+    "sigla": "LU",
+    "cap": [
+      "55032"
+    ],
+    "capoluogo": false,
+    "popolazione": 5622,
+    "superficie": 28.6287,
+    "coordinate": {
+      "lat": 44.109955,
+      "lng": 10.41157
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castiglione di Garfagnana",
+    "nomeAltraLingua": null,
+    "codice": "046010",
+    "codiceCatastale": "C303",
+    "sigla": "LU",
+    "cap": [
+      "55033"
+    ],
+    "capoluogo": false,
+    "popolazione": 1705,
+    "superficie": 48.4558,
+    "coordinate": {
+      "lat": 44.1485921,
+      "lng": 10.4096899
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Coreglia Antelminelli",
+    "nomeAltraLingua": null,
+    "codice": "046011",
+    "codiceCatastale": "C996",
+    "sigla": "LU",
+    "cap": [
+      "55025"
+    ],
+    "capoluogo": false,
+    "popolazione": 5053,
+    "superficie": 53.0834,
+    "coordinate": {
+      "lat": 44.064417,
+      "lng": 10.525388
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Forte dei Marmi",
+    "nomeAltraLingua": null,
+    "codice": "046013",
+    "codiceCatastale": "D730",
+    "sigla": "LU",
+    "cap": [
+      "55042"
+    ],
+    "capoluogo": false,
+    "popolazione": 6777,
+    "superficie": 9.2547,
+    "coordinate": {
+      "lat": 43.9601821,
+      "lng": 10.1667111
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fosciandora",
+    "nomeAltraLingua": null,
+    "codice": "046014",
+    "codiceCatastale": "D734",
+    "sigla": "LU",
+    "cap": [
+      "55020"
+    ],
+    "capoluogo": false,
+    "popolazione": 551,
+    "superficie": 20.1686,
+    "coordinate": {
+      "lat": 44.1153135,
+      "lng": 10.4552699
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gallicano",
+    "nomeAltraLingua": null,
+    "codice": "046015",
+    "codiceCatastale": "D874",
+    "sigla": "LU",
+    "cap": [
+      "55027"
+    ],
+    "capoluogo": false,
+    "popolazione": 3608,
+    "superficie": 31.1899,
+    "coordinate": {
+      "lat": 44.0607623,
+      "lng": 10.4352497
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lucca",
+    "nomeAltraLingua": null,
+    "codice": "046017",
+    "codiceCatastale": "E715",
+    "sigla": "LU",
+    "cap": [
+      "55100"
+    ],
+    "capoluogo": true,
+    "popolazione": 89234,
+    "superficie": 185.9898,
+    "coordinate": {
+      "lat": 43.8442458,
+      "lng": 10.5015454
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Massarosa",
+    "nomeAltraLingua": null,
+    "codice": "046018",
+    "codiceCatastale": "F035",
+    "sigla": "LU",
+    "cap": [
+      "55054"
+    ],
+    "capoluogo": false,
+    "popolazione": 21865,
+    "superficie": 67.9079,
+    "coordinate": {
+      "lat": 43.8684376,
+      "lng": 10.3422585
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Minucciano",
+    "nomeAltraLingua": null,
+    "codice": "046019",
+    "codiceCatastale": "F225",
+    "sigla": "LU",
+    "cap": [
+      "55034"
+    ],
+    "capoluogo": false,
+    "popolazione": 1778,
+    "superficie": 57.2579,
+    "coordinate": {
+      "lat": 44.1702217,
+      "lng": 10.2078822
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Molazzana",
+    "nomeAltraLingua": null,
+    "codice": "046020",
+    "codiceCatastale": "F283",
+    "sigla": "LU",
+    "cap": [
+      "55020"
+    ],
+    "capoluogo": false,
+    "popolazione": 988,
+    "superficie": 31.238,
+    "coordinate": {
+      "lat": 44.0731602,
+      "lng": 10.4190435
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montecarlo",
+    "nomeAltraLingua": null,
+    "codice": "046021",
+    "codiceCatastale": "F452",
+    "sigla": "LU",
+    "cap": [
+      "55015"
+    ],
+    "capoluogo": false,
+    "popolazione": 4435,
+    "superficie": 16.0335,
+    "coordinate": {
+      "lat": 43.850897,
+      "lng": 10.6677035
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pescaglia",
+    "nomeAltraLingua": null,
+    "codice": "046022",
+    "codiceCatastale": "G480",
+    "sigla": "LU",
+    "cap": [
+      "55064"
+    ],
+    "capoluogo": false,
+    "popolazione": 3282,
+    "superficie": 70.5294,
+    "coordinate": {
+      "lat": 43.9659848,
+      "lng": 10.4107696
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Piazza al Serchio",
+    "nomeAltraLingua": null,
+    "codice": "046023",
+    "codiceCatastale": "G582",
+    "sigla": "LU",
+    "cap": [
+      "55035"
+    ],
+    "capoluogo": false,
+    "popolazione": 2084,
+    "superficie": 27.3077,
+    "coordinate": {
+      "lat": 44.1829353,
+      "lng": 10.2995638
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pietrasanta",
+    "nomeAltraLingua": null,
+    "codice": "046024",
+    "codiceCatastale": "G628",
+    "sigla": "LU",
+    "cap": [
+      "55045"
+    ],
+    "capoluogo": false,
+    "popolazione": 22788,
+    "superficie": 42.2266,
+    "coordinate": {
+      "lat": 43.9601265,
+      "lng": 10.2264924
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pieve Fosciana",
+    "nomeAltraLingua": null,
+    "codice": "046025",
+    "codiceCatastale": "G648",
+    "sigla": "LU",
+    "cap": [
+      "55036"
+    ],
+    "capoluogo": false,
+    "popolazione": 2221,
+    "superficie": 28.5148,
+    "coordinate": {
+      "lat": 44.1329271,
+      "lng": 10.4115266
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Porcari",
+    "nomeAltraLingua": null,
+    "codice": "046026",
+    "codiceCatastale": "G882",
+    "sigla": "LU",
+    "cap": [
+      "55016"
+    ],
+    "capoluogo": false,
+    "popolazione": 8840,
+    "superficie": 18.0093,
+    "coordinate": {
+      "lat": 43.8399896,
+      "lng": 10.6163401
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Romano in Garfagnana",
+    "nomeAltraLingua": null,
+    "codice": "046027",
+    "codiceCatastale": "I142",
+    "sigla": "LU",
+    "cap": [
+      "55038"
+    ],
+    "capoluogo": false,
+    "popolazione": 1328,
+    "superficie": 26.0289,
+    "coordinate": {
+      "lat": 44.1682812,
+      "lng": 10.3472536
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Seravezza",
+    "nomeAltraLingua": null,
+    "codice": "046028",
+    "codiceCatastale": "I622",
+    "sigla": "LU",
+    "cap": [
+      "55047"
+    ],
+    "capoluogo": false,
+    "popolazione": 12435,
+    "superficie": 39.5187,
+    "coordinate": {
+      "lat": 43.9952239,
+      "lng": 10.2284042
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Stazzema",
+    "nomeAltraLingua": null,
+    "codice": "046030",
+    "codiceCatastale": "I942",
+    "sigla": "LU",
+    "cap": [
+      "55040"
+    ],
+    "capoluogo": false,
+    "popolazione": 2903,
+    "superficie": 80.2623,
+    "coordinate": {
+      "lat": 43.9971248,
+      "lng": 10.295815
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vagli Sotto",
+    "nomeAltraLingua": null,
+    "codice": "046031",
+    "codiceCatastale": "L533",
+    "sigla": "LU",
+    "cap": [
+      "55030"
+    ],
+    "capoluogo": false,
+    "popolazione": 787,
+    "superficie": 41.2862,
+    "coordinate": {
+      "lat": 44.113235,
+      "lng": 10.2805519
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Viareggio",
+    "nomeAltraLingua": null,
+    "codice": "046033",
+    "codiceCatastale": "L833",
+    "sigla": "LU",
+    "cap": [
+      "55049"
+    ],
+    "capoluogo": false,
+    "popolazione": 60755,
+    "superficie": 32.7524,
+    "coordinate": {
+      "lat": 43.8669549,
+      "lng": 10.2497985
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Villa Basilica",
+    "nomeAltraLingua": null,
+    "codice": "046034",
+    "codiceCatastale": "L913",
+    "sigla": "LU",
+    "cap": [
+      "55019"
+    ],
+    "capoluogo": false,
+    "popolazione": 1470,
+    "superficie": 36.3366,
+    "coordinate": {
+      "lat": 43.9278648,
+      "lng": 10.6451567
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Villa Collemandina",
+    "nomeAltraLingua": null,
+    "codice": "046035",
+    "codiceCatastale": "L926",
+    "sigla": "LU",
+    "cap": [
+      "55030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1170,
+    "superficie": 34.7106,
+    "coordinate": {
+      "lat": 44.1599022,
+      "lng": 10.3967139
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fabbriche di Vergemoli",
+    "nomeAltraLingua": null,
+    "codice": "046036",
+    "codiceCatastale": "M319",
+    "sigla": "LU",
+    "cap": [
+      "55021"
+    ],
+    "capoluogo": false,
+    "popolazione": 705,
+    "superficie": 42.1997,
+    "coordinate": {
+      "lat": 43.9993138,
+      "lng": 10.4322077
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sillano Giuncugnano",
+    "nomeAltraLingua": null,
+    "codice": "046037",
+    "codiceCatastale": "M347",
+    "sigla": "LU",
+    "cap": [
+      "55039"
+    ],
+    "capoluogo": false,
+    "popolazione": 1001,
+    "superficie": 81.2329,
+    "coordinate": {
+      "lat": 44.223165,
+      "lng": 10.3000078
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Lucca",
+      "codice": "046",
+      "sigla": "LU",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Agliana",
+    "nomeAltraLingua": null,
+    "codice": "047002",
+    "codiceCatastale": "A071",
+    "sigla": "PT",
+    "cap": [
+      "51031"
+    ],
+    "capoluogo": false,
+    "popolazione": 17969,
+    "superficie": 11.7461,
+    "coordinate": {
+      "lat": 43.9027119,
+      "lng": 11.0063926
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Buggiano",
+    "nomeAltraLingua": null,
+    "codice": "047003",
+    "codiceCatastale": "B251",
+    "sigla": "PT",
+    "cap": [
+      "51011"
+    ],
+    "capoluogo": false,
+    "popolazione": 8725,
+    "superficie": 16.1626,
+    "coordinate": {
+      "lat": 43.8799039,
+      "lng": 10.7275639
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lamporecchio",
+    "nomeAltraLingua": null,
+    "codice": "047005",
+    "codiceCatastale": "E432",
+    "sigla": "PT",
+    "cap": [
+      "51035"
+    ],
+    "capoluogo": false,
+    "popolazione": 7401,
+    "superficie": 21.9824,
+    "coordinate": {
+      "lat": 43.8168625,
+      "lng": 10.8966125
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Larciano",
+    "nomeAltraLingua": null,
+    "codice": "047006",
+    "codiceCatastale": "E451",
+    "sigla": "PT",
+    "cap": [
+      "51036"
+    ],
+    "capoluogo": false,
+    "popolazione": 6280,
+    "superficie": 25.4695,
+    "coordinate": {
+      "lat": 43.8243618,
+      "lng": 10.8778629
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Marliana",
+    "nomeAltraLingua": null,
+    "codice": "047007",
+    "codiceCatastale": "E960",
+    "sigla": "PT",
+    "cap": [
+      "51010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3263,
+    "superficie": 42.6902,
+    "coordinate": {
+      "lat": 43.9337989,
+      "lng": 10.7699577
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Massa e Cozzile",
+    "nomeAltraLingua": null,
+    "codice": "047008",
+    "codiceCatastale": "F025",
+    "sigla": "PT",
+    "cap": [
+      "51010"
+    ],
+    "capoluogo": false,
+    "popolazione": 7766,
+    "superficie": 16.3031,
+    "coordinate": {
+      "lat": 43.9099708,
+      "lng": 10.7441629
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monsummano Terme",
+    "nomeAltraLingua": null,
+    "codice": "047009",
+    "codiceCatastale": "F384",
+    "sigla": "PT",
+    "cap": [
+      "51015"
+    ],
+    "capoluogo": false,
+    "popolazione": 20827,
+    "superficie": 32.5603,
+    "coordinate": {
+      "lat": 43.8724188,
+      "lng": 10.8147316
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montale",
+    "nomeAltraLingua": null,
+    "codice": "047010",
+    "codiceCatastale": "F410",
+    "sigla": "PT",
+    "cap": [
+      "51037"
+    ],
+    "capoluogo": false,
+    "popolazione": 10568,
+    "superficie": 32.2551,
+    "coordinate": {
+      "lat": 43.9348142,
+      "lng": 11.0216439
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montecatini-Terme",
+    "nomeAltraLingua": null,
+    "codice": "047011",
+    "codiceCatastale": "A561",
+    "sigla": "PT",
+    "cap": [
+      "51016"
+    ],
+    "capoluogo": false,
+    "popolazione": 21106,
+    "superficie": 17.5712,
+    "coordinate": {
+      "lat": 43.8840878,
+      "lng": 10.7727522
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pescia",
+    "nomeAltraLingua": null,
+    "codice": "047012",
+    "codiceCatastale": "G491",
+    "sigla": "PT",
+    "cap": [
+      "51017"
+    ],
+    "capoluogo": false,
+    "popolazione": 19276,
+    "superficie": 78.686,
+    "coordinate": {
+      "lat": 43.9043151,
+      "lng": 10.6889004
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pieve a Nievole",
+    "nomeAltraLingua": null,
+    "codice": "047013",
+    "codiceCatastale": "G636",
+    "sigla": "PT",
+    "cap": [
+      "51018"
+    ],
+    "capoluogo": false,
+    "popolazione": 9123,
+    "superficie": 12.9622,
+    "coordinate": {
+      "lat": 43.879041,
+      "lng": 10.7949684
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pistoia",
+    "nomeAltraLingua": null,
+    "codice": "047014",
+    "codiceCatastale": "G713",
+    "sigla": "PT",
+    "cap": [
+      "51100"
+    ],
+    "capoluogo": true,
+    "popolazione": 89054,
+    "superficie": 236.4624,
+    "coordinate": {
+      "lat": 43.9338792,
+      "lng": 10.9182623
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ponte Buggianese",
+    "nomeAltraLingua": null,
+    "codice": "047016",
+    "codiceCatastale": "G833",
+    "sigla": "PT",
+    "cap": [
+      "51019"
+    ],
+    "capoluogo": false,
+    "popolazione": 8791,
+    "superficie": 29.8167,
+    "coordinate": {
+      "lat": 43.8408007,
+      "lng": 10.747435
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Quarrata",
+    "nomeAltraLingua": null,
+    "codice": "047017",
+    "codiceCatastale": "H109",
+    "sigla": "PT",
+    "cap": [
+      "51039"
+    ],
+    "capoluogo": false,
+    "popolazione": 26972,
+    "superficie": 46.0423,
+    "coordinate": {
+      "lat": 43.8471367,
+      "lng": 10.9785919
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sambuca Pistoiese",
+    "nomeAltraLingua": null,
+    "codice": "047018",
+    "codiceCatastale": "H744",
+    "sigla": "PT",
+    "cap": [
+      "51020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1426,
+    "superficie": 77.3497,
+    "coordinate": {
+      "lat": 44.1040355,
+      "lng": 10.9990596
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Serravalle Pistoiese",
+    "nomeAltraLingua": null,
+    "codice": "047020",
+    "codiceCatastale": "I660",
+    "sigla": "PT",
+    "cap": [
+      "51034"
+    ],
+    "capoluogo": false,
+    "popolazione": 11802,
+    "superficie": 41.8738,
+    "coordinate": {
+      "lat": 43.9057524,
+      "lng": 10.8328029
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Uzzano",
+    "nomeAltraLingua": null,
+    "codice": "047021",
+    "codiceCatastale": "L522",
+    "sigla": "PT",
+    "cap": [
+      "51010"
+    ],
+    "capoluogo": false,
+    "popolazione": 5646,
+    "superficie": 7.8041,
+    "coordinate": {
+      "lat": 43.8815923,
+      "lng": 10.7087206
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Chiesina Uzzanese",
+    "nomeAltraLingua": null,
+    "codice": "047022",
+    "codiceCatastale": "C631",
+    "sigla": "PT",
+    "cap": [
+      "51013"
+    ],
+    "capoluogo": false,
+    "popolazione": 4495,
+    "superficie": 7.0839,
+    "coordinate": {
+      "lat": 43.8392733,
+      "lng": 10.719637
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Abetone Cutigliano",
+    "nomeAltraLingua": null,
+    "codice": "047023",
+    "codiceCatastale": "M376",
+    "sigla": "PT",
+    "cap": [
+      "51024"
+    ],
+    "capoluogo": false,
+    "popolazione": 1814,
+    "superficie": 74.9055,
+    "coordinate": {
+      "lat": 44.1001033,
+      "lng": 10.7557584
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Marcello Piteglio",
+    "nomeAltraLingua": null,
+    "codice": "047024",
+    "codiceCatastale": "M377",
+    "sigla": "PT",
+    "cap": [
+      "51028"
+    ],
+    "capoluogo": false,
+    "popolazione": 7585,
+    "superficie": 134.9511,
+    "coordinate": {
+      "lat": 44.0555494,
+      "lng": 10.791683
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pistoia",
+      "codice": "047",
+      "sigla": "PT",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bagno a Ripoli",
+    "nomeAltraLingua": null,
+    "codice": "048001",
+    "codiceCatastale": "A564",
+    "sigla": "FI",
+    "cap": [
+      "50012"
+    ],
+    "capoluogo": false,
+    "popolazione": 25041,
+    "superficie": 73.8318,
+    "coordinate": {
+      "lat": 43.7512723,
+      "lng": 11.3196663
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Barberino di Mugello",
+    "nomeAltraLingua": null,
+    "codice": "048002",
+    "codiceCatastale": "A632",
+    "sigla": "FI",
+    "cap": [
+      "50031"
+    ],
+    "capoluogo": false,
+    "popolazione": 10968,
+    "superficie": 132.9396,
+    "coordinate": {
+      "lat": 44.0004033,
+      "lng": 11.2385959
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Borgo San Lorenzo",
+    "nomeAltraLingua": null,
+    "codice": "048004",
+    "codiceCatastale": "B036",
+    "sigla": "FI",
+    "cap": [
+      "50032"
+    ],
+    "capoluogo": false,
+    "popolazione": 18276,
+    "superficie": 146.6511,
+    "coordinate": {
+      "lat": 43.9547698,
+      "lng": 11.3877614
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Calenzano",
+    "nomeAltraLingua": null,
+    "codice": "048005",
+    "codiceCatastale": "B406",
+    "sigla": "FI",
+    "cap": [
+      "50041"
+    ],
+    "capoluogo": false,
+    "popolazione": 18086,
+    "superficie": 77.4714,
+    "coordinate": {
+      "lat": 43.8650863,
+      "lng": 11.1672154
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Campi Bisenzio",
+    "nomeAltraLingua": null,
+    "codice": "048006",
+    "codiceCatastale": "B507",
+    "sigla": "FI",
+    "cap": [
+      "50013"
+    ],
+    "capoluogo": false,
+    "popolazione": 47639,
+    "superficie": 28.7466,
+    "coordinate": {
+      "lat": 43.8205968,
+      "lng": 11.1380393
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Capraia e Limite",
+    "nomeAltraLingua": null,
+    "codice": "048008",
+    "codiceCatastale": "B684",
+    "sigla": "FI",
+    "cap": [
+      "50050"
+    ],
+    "capoluogo": false,
+    "popolazione": 7822,
+    "superficie": 24.9906,
+    "coordinate": {
+      "lat": 43.7425718,
+      "lng": 10.9757845
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Castelfiorentino",
+    "nomeAltraLingua": null,
+    "codice": "048010",
+    "codiceCatastale": "C101",
+    "sigla": "FI",
+    "cap": [
+      "50051"
+    ],
+    "capoluogo": false,
+    "popolazione": 17262,
+    "superficie": 66.1839,
+    "coordinate": {
+      "lat": 43.605787,
+      "lng": 10.97125
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Cerreto Guidi",
+    "nomeAltraLingua": null,
+    "codice": "048011",
+    "codiceCatastale": "C529",
+    "sigla": "FI",
+    "cap": [
+      "50050"
+    ],
+    "capoluogo": false,
+    "popolazione": 10727,
+    "superficie": 49.4217,
+    "coordinate": {
+      "lat": 43.7602307,
+      "lng": 10.8770045
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Certaldo",
+    "nomeAltraLingua": null,
+    "codice": "048012",
+    "codiceCatastale": "C540",
+    "sigla": "FI",
+    "cap": [
+      "50052"
+    ],
+    "capoluogo": false,
+    "popolazione": 15604,
+    "superficie": 75.2447,
+    "coordinate": {
+      "lat": 43.5473834,
+      "lng": 11.0408107
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Dicomano",
+    "nomeAltraLingua": null,
+    "codice": "048013",
+    "codiceCatastale": "D299",
+    "sigla": "FI",
+    "cap": [
+      "50062"
+    ],
+    "capoluogo": false,
+    "popolazione": 5534,
+    "superficie": 61.785,
+    "coordinate": {
+      "lat": 43.8914909,
+      "lng": 11.5236664
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Empoli",
+    "nomeAltraLingua": null,
+    "codice": "048014",
+    "codiceCatastale": "D403",
+    "sigla": "FI",
+    "cap": [
+      "50053"
+    ],
+    "capoluogo": false,
+    "popolazione": 49113,
+    "superficie": 62.7238,
+    "coordinate": {
+      "lat": 43.7189879,
+      "lng": 10.9472435
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Fiesole",
+    "nomeAltraLingua": null,
+    "codice": "048015",
+    "codiceCatastale": "D575",
+    "sigla": "FI",
+    "cap": [
+      "50014"
+    ],
+    "capoluogo": false,
+    "popolazione": 13813,
+    "superficie": 42.1681,
+    "coordinate": {
+      "lat": 43.8065979,
+      "lng": 11.2936484
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Firenze",
+    "nomeAltraLingua": null,
+    "codice": "048017",
+    "codiceCatastale": "D612",
+    "sigla": "FI",
+    "cap": [
+      "50121",
+      "50122",
+      "50123",
+      "50124",
+      "50125",
+      "50126",
+      "50127",
+      "50129",
+      "50131",
+      "50132",
+      "50133",
+      "50134",
+      "50135",
+      "50136",
+      "50137",
+      "50139",
+      "50141",
+      "50142",
+      "50143",
+      "50144",
+      "50145"
+    ],
+    "capoluogo": true,
+    "popolazione": 362613,
+    "superficie": 102.1789,
+    "coordinate": {
+      "lat": 43.7692262,
+      "lng": 11.2566059
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Firenzuola",
+    "nomeAltraLingua": null,
+    "codice": "048018",
+    "codiceCatastale": "D613",
+    "sigla": "FI",
+    "cap": [
+      "50033"
+    ],
+    "capoluogo": false,
+    "popolazione": 4422,
+    "superficie": 271.7573,
+    "coordinate": {
+      "lat": 44.1182653,
+      "lng": 11.3780403
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Fucecchio",
+    "nomeAltraLingua": null,
+    "codice": "048019",
+    "codiceCatastale": "D815",
+    "sigla": "FI",
+    "cap": [
+      "50054"
+    ],
+    "capoluogo": false,
+    "popolazione": 22869,
+    "superficie": 65.2748,
+    "coordinate": {
+      "lat": 43.7285944,
+      "lng": 10.8100981
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Gambassi Terme",
+    "nomeAltraLingua": null,
+    "codice": "048020",
+    "codiceCatastale": "D895",
+    "sigla": "FI",
+    "cap": [
+      "50050"
+    ],
+    "capoluogo": false,
+    "popolazione": 4851,
+    "superficie": 83.184,
+    "coordinate": {
+      "lat": 43.5387197,
+      "lng": 10.9534923
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Greve in Chianti",
+    "nomeAltraLingua": null,
+    "codice": "048021",
+    "codiceCatastale": "E169",
+    "sigla": "FI",
+    "cap": [
+      "50022"
+    ],
+    "capoluogo": false,
+    "popolazione": 13357,
+    "superficie": 169.553,
+    "coordinate": {
+      "lat": 43.5829428,
+      "lng": 11.3168722
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Impruneta",
+    "nomeAltraLingua": null,
+    "codice": "048022",
+    "codiceCatastale": "E291",
+    "sigla": "FI",
+    "cap": [
+      "50023"
+    ],
+    "capoluogo": false,
+    "popolazione": 14346,
+    "superficie": 49.2931,
+    "coordinate": {
+      "lat": 43.6857797,
+      "lng": 11.254639
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Lastra a Signa",
+    "nomeAltraLingua": null,
+    "codice": "048024",
+    "codiceCatastale": "E466",
+    "sigla": "FI",
+    "cap": [
+      "50055"
+    ],
+    "capoluogo": false,
+    "popolazione": 19712,
+    "superficie": 42.5954,
+    "coordinate": {
+      "lat": 43.7703818,
+      "lng": 11.1060673
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Londa",
+    "nomeAltraLingua": null,
+    "codice": "048025",
+    "codiceCatastale": "E668",
+    "sigla": "FI",
+    "cap": [
+      "50060"
+    ],
+    "capoluogo": false,
+    "popolazione": 1826,
+    "superficie": 59.3153,
+    "coordinate": {
+      "lat": 43.8603661,
+      "lng": 11.5668014
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Marradi",
+    "nomeAltraLingua": null,
+    "codice": "048026",
+    "codiceCatastale": "E971",
+    "sigla": "FI",
+    "cap": [
+      "50034"
+    ],
+    "capoluogo": false,
+    "popolazione": 2881,
+    "superficie": 154.3306,
+    "coordinate": {
+      "lat": 44.0756375,
+      "lng": 11.6126918
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Montaione",
+    "nomeAltraLingua": null,
+    "codice": "048027",
+    "codiceCatastale": "F398",
+    "sigla": "FI",
+    "cap": [
+      "50050"
+    ],
+    "capoluogo": false,
+    "popolazione": 3470,
+    "superficie": 105.0052,
+    "coordinate": {
+      "lat": 43.5524323,
+      "lng": 10.9115026
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Montelupo Fiorentino",
+    "nomeAltraLingua": null,
+    "codice": "048028",
+    "codiceCatastale": "F551",
+    "sigla": "FI",
+    "cap": [
+      "50056"
+    ],
+    "capoluogo": false,
+    "popolazione": 14296,
+    "superficie": 25.0036,
+    "coordinate": {
+      "lat": 43.7297003,
+      "lng": 11.0198762
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Montespertoli",
+    "nomeAltraLingua": null,
+    "codice": "048030",
+    "codiceCatastale": "F648",
+    "sigla": "FI",
+    "cap": [
+      "50025"
+    ],
+    "capoluogo": false,
+    "popolazione": 13186,
+    "superficie": 124.4984,
+    "coordinate": {
+      "lat": 43.6430709,
+      "lng": 11.0750837
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Palazzuolo sul Senio",
+    "nomeAltraLingua": null,
+    "codice": "048031",
+    "codiceCatastale": "G270",
+    "sigla": "FI",
+    "cap": [
+      "50035"
+    ],
+    "capoluogo": false,
+    "popolazione": 1081,
+    "superficie": 108.8752,
+    "coordinate": {
+      "lat": 44.1123974,
+      "lng": 11.5474978
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Pelago",
+    "nomeAltraLingua": null,
+    "codice": "048032",
+    "codiceCatastale": "G420",
+    "sigla": "FI",
+    "cap": [
+      "50060"
+    ],
+    "capoluogo": false,
+    "popolazione": 7841,
+    "superficie": 54.7453,
+    "coordinate": {
+      "lat": 43.7700229,
+      "lng": 11.5056991
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Pontassieve",
+    "nomeAltraLingua": null,
+    "codice": "048033",
+    "codiceCatastale": "G825",
+    "sigla": "FI",
+    "cap": [
+      "50065"
+    ],
+    "capoluogo": false,
+    "popolazione": 20171,
+    "superficie": 114.2082,
+    "coordinate": {
+      "lat": 43.7758485,
+      "lng": 11.4399182
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Reggello",
+    "nomeAltraLingua": null,
+    "codice": "048035",
+    "codiceCatastale": "H222",
+    "sigla": "FI",
+    "cap": [
+      "50066"
+    ],
+    "capoluogo": false,
+    "popolazione": 16536,
+    "superficie": 121.5403,
+    "coordinate": {
+      "lat": 43.6824376,
+      "lng": 11.53633
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Rignano sull'Arno",
+    "nomeAltraLingua": null,
+    "codice": "048036",
+    "codiceCatastale": "H286",
+    "sigla": "FI",
+    "cap": [
+      "50067"
+    ],
+    "capoluogo": false,
+    "popolazione": 8552,
+    "superficie": 54.2987,
+    "coordinate": {
+      "lat": 43.721872,
+      "lng": 11.4535273
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Rufina",
+    "nomeAltraLingua": null,
+    "codice": "048037",
+    "codiceCatastale": "H635",
+    "sigla": "FI",
+    "cap": [
+      "50068"
+    ],
+    "capoluogo": false,
+    "popolazione": 7058,
+    "superficie": 46.0019,
+    "coordinate": {
+      "lat": 43.8270611,
+      "lng": 11.4883753
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "San Casciano in Val di Pesa",
+    "nomeAltraLingua": null,
+    "codice": "048038",
+    "codiceCatastale": "H791",
+    "sigla": "FI",
+    "cap": [
+      "50026"
+    ],
+    "capoluogo": false,
+    "popolazione": 16428,
+    "superficie": 106.9081,
+    "coordinate": {
+      "lat": 43.6566884,
+      "lng": 11.1843666
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "San Godenzo",
+    "nomeAltraLingua": null,
+    "codice": "048039",
+    "codiceCatastale": "H937",
+    "sigla": "FI",
+    "cap": [
+      "50060"
+    ],
+    "capoluogo": false,
+    "popolazione": 1040,
+    "superficie": 99.3244,
+    "coordinate": {
+      "lat": 43.926283,
+      "lng": 11.6197288
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Scandicci",
+    "nomeAltraLingua": null,
+    "codice": "048041",
+    "codiceCatastale": "B962",
+    "sigla": "FI",
+    "cap": [
+      "50018"
+    ],
+    "capoluogo": false,
+    "popolazione": 49384,
+    "superficie": 59.9636,
+    "coordinate": {
+      "lat": 43.7584483,
+      "lng": 11.1811544
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Sesto Fiorentino",
+    "nomeAltraLingua": null,
+    "codice": "048043",
+    "codiceCatastale": "I684",
+    "sigla": "FI",
+    "cap": [
+      "50019"
+    ],
+    "capoluogo": false,
+    "popolazione": 48997,
+    "superficie": 48.0989,
+    "coordinate": {
+      "lat": 43.8320801,
+      "lng": 11.1983736
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Signa",
+    "nomeAltraLingua": null,
+    "codice": "048044",
+    "codiceCatastale": "I728",
+    "sigla": "FI",
+    "cap": [
+      "50058"
+    ],
+    "capoluogo": false,
+    "popolazione": 19013,
+    "superficie": 18.9491,
+    "coordinate": {
+      "lat": 43.7822575,
+      "lng": 11.0968612
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Vaglia",
+    "nomeAltraLingua": null,
+    "codice": "048046",
+    "codiceCatastale": "L529",
+    "sigla": "FI",
+    "cap": [
+      "50036"
+    ],
+    "capoluogo": false,
+    "popolazione": 5224,
+    "superficie": 56.7042,
+    "coordinate": {
+      "lat": 43.9065605,
+      "lng": 11.281414
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Vicchio",
+    "nomeAltraLingua": null,
+    "codice": "048049",
+    "codiceCatastale": "L838",
+    "sigla": "FI",
+    "cap": [
+      "50039"
+    ],
+    "capoluogo": false,
+    "popolazione": 8082,
+    "superficie": 137.9278,
+    "coordinate": {
+      "lat": 43.9335756,
+      "lng": 11.4652527
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Vinci",
+    "nomeAltraLingua": null,
+    "codice": "048050",
+    "codiceCatastale": "M059",
+    "sigla": "FI",
+    "cap": [
+      "50059"
+    ],
+    "capoluogo": false,
+    "popolazione": 14578,
+    "superficie": 54.06,
+    "coordinate": {
+      "lat": 43.7875549,
+      "lng": 10.9264903
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Figline e Incisa Valdarno",
+    "nomeAltraLingua": null,
+    "codice": "048052",
+    "codiceCatastale": "M321",
+    "sigla": "FI",
+    "cap": [
+      "50063"
+    ],
+    "capoluogo": false,
+    "popolazione": 23197,
+    "superficie": 97.6504,
+    "coordinate": {
+      "lat": 43.6635132,
+      "lng": 11.4495565
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Scarperia e San Piero",
+    "nomeAltraLingua": null,
+    "codice": "048053",
+    "codiceCatastale": "M326",
+    "sigla": "FI",
+    "cap": [
+      "50038"
+    ],
+    "capoluogo": false,
+    "popolazione": 11957,
+    "superficie": 116.2616,
+    "coordinate": {
+      "lat": 43.9974474,
+      "lng": 11.3554486
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Barberino Tavarnelle",
+    "nomeAltraLingua": null,
+    "codice": "048054",
+    "codiceCatastale": "M408",
+    "sigla": "FI",
+    "cap": [
+      "50028"
+    ],
+    "capoluogo": false,
+    "popolazione": 11932,
+    "superficie": 123.6288,
+    "coordinate": {
+      "lat": 43.560869,
+      "lng": 11.1726921
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Firenze",
+      "codice": "248",
+      "sigla": "FI",
+      "tipo": "citta-metropolitana"
+    }
+  },
+  {
+    "nome": "Bibbona",
+    "nomeAltraLingua": null,
+    "codice": "049001",
+    "codiceCatastale": "A852",
+    "sigla": "LI",
+    "cap": [
+      "57020"
+    ],
+    "capoluogo": false,
+    "popolazione": 3201,
+    "superficie": 65.5981,
+    "coordinate": {
+      "lat": 43.2694022,
+      "lng": 10.5985841
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Campiglia Marittima",
+    "nomeAltraLingua": null,
+    "codice": "049002",
+    "codiceCatastale": "B509",
+    "sigla": "LI",
+    "cap": [
+      "57021"
+    ],
+    "capoluogo": false,
+    "popolazione": 12402,
+    "superficie": 83.1732,
+    "coordinate": {
+      "lat": 43.0310147,
+      "lng": 10.6034063
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Campo nell'Elba",
+    "nomeAltraLingua": null,
+    "codice": "049003",
+    "codiceCatastale": "B553",
+    "sigla": "LI",
+    "cap": [
+      "57034"
+    ],
+    "capoluogo": false,
+    "popolazione": 4683,
+    "superficie": 56.1402,
+    "coordinate": {
+      "lat": 42.7446199,
+      "lng": 10.2334564
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Capoliveri",
+    "nomeAltraLingua": null,
+    "codice": "049004",
+    "codiceCatastale": "B669",
+    "sigla": "LI",
+    "cap": [
+      "57031"
+    ],
+    "capoluogo": false,
+    "popolazione": 3925,
+    "superficie": 39.599,
+    "coordinate": {
+      "lat": 42.7425494,
+      "lng": 10.3820982
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Capraia Isola",
+    "nomeAltraLingua": null,
+    "codice": "049005",
+    "codiceCatastale": "B685",
+    "sigla": "LI",
+    "cap": [
+      "57032"
+    ],
+    "capoluogo": false,
+    "popolazione": 371,
+    "superficie": 19.3668,
+    "coordinate": {
+      "lat": 43.0498667,
+      "lng": 9.8424612
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castagneto Carducci",
+    "nomeAltraLingua": null,
+    "codice": "049006",
+    "codiceCatastale": "C044",
+    "sigla": "LI",
+    "cap": [
+      "57022"
+    ],
+    "capoluogo": false,
+    "popolazione": 8699,
+    "superficie": 142.4476,
+    "coordinate": {
+      "lat": 43.1606226,
+      "lng": 10.6101306
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cecina",
+    "nomeAltraLingua": null,
+    "codice": "049007",
+    "codiceCatastale": "C415",
+    "sigla": "LI",
+    "cap": [
+      "57023"
+    ],
+    "capoluogo": false,
+    "popolazione": 28061,
+    "superficie": 42.4962,
+    "coordinate": {
+      "lat": 43.3121894,
+      "lng": 10.5193778
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Collesalvetti",
+    "nomeAltraLingua": null,
+    "codice": "049008",
+    "codiceCatastale": "C869",
+    "sigla": "LI",
+    "cap": [
+      "57014"
+    ],
+    "capoluogo": false,
+    "popolazione": 16410,
+    "superficie": 107.8828,
+    "coordinate": {
+      "lat": 43.5891291,
+      "lng": 10.4760952
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Livorno",
+    "nomeAltraLingua": null,
+    "codice": "049009",
+    "codiceCatastale": "E625",
+    "sigla": "LI",
+    "cap": [
+      "57121",
+      "57122",
+      "57123",
+      "57124",
+      "57125",
+      "57126",
+      "57127",
+      "57128"
+    ],
+    "capoluogo": true,
+    "popolazione": 153418,
+    "superficie": 105.3372,
+    "coordinate": {
+      "lat": 43.5522323,
+      "lng": 10.308057
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Marciana",
+    "nomeAltraLingua": null,
+    "codice": "049010",
+    "codiceCatastale": "E930",
+    "sigla": "LI",
+    "cap": [
+      "57030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2047,
+    "superficie": 45.3122,
+    "coordinate": {
+      "lat": 42.7898291,
+      "lng": 10.1680074
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Marciana Marina",
+    "nomeAltraLingua": null,
+    "codice": "049011",
+    "codiceCatastale": "E931",
+    "sigla": "LI",
+    "cap": [
+      "57033"
+    ],
+    "capoluogo": false,
+    "popolazione": 1876,
+    "superficie": 5.9601,
+    "coordinate": {
+      "lat": 42.8042992,
+      "lng": 10.1998978
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Piombino",
+    "nomeAltraLingua": null,
+    "codice": "049012",
+    "codiceCatastale": "G687",
+    "sigla": "LI",
+    "cap": [
+      "57025"
+    ],
+    "capoluogo": false,
+    "popolazione": 32509,
+    "superficie": 131.1611,
+    "coordinate": {
+      "lat": 42.9219671,
+      "lng": 10.5268518
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Porto Azzurro",
+    "nomeAltraLingua": null,
+    "codice": "049013",
+    "codiceCatastale": "E680",
+    "sigla": "LI",
+    "cap": [
+      "57036"
+    ],
+    "capoluogo": false,
+    "popolazione": 3632,
+    "superficie": 13.414,
+    "coordinate": {
+      "lat": 42.7645689,
+      "lng": 10.3987053
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Portoferraio",
+    "nomeAltraLingua": null,
+    "codice": "049014",
+    "codiceCatastale": "G912",
+    "sigla": "LI",
+    "cap": [
+      "57037"
+    ],
+    "capoluogo": false,
+    "popolazione": 11845,
+    "superficie": 48.0975,
+    "coordinate": {
+      "lat": 42.8151229,
+      "lng": 10.3309242
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rosignano Marittimo",
+    "nomeAltraLingua": null,
+    "codice": "049017",
+    "codiceCatastale": "H570",
+    "sigla": "LI",
+    "cap": [
+      "57016"
+    ],
+    "capoluogo": false,
+    "popolazione": 30033,
+    "superficie": 120.6128,
+    "coordinate": {
+      "lat": 43.3506483,
+      "lng": 10.4566096
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Vincenzo",
+    "nomeAltraLingua": null,
+    "codice": "049018",
+    "codiceCatastale": "I390",
+    "sigla": "LI",
+    "cap": [
+      "57027"
+    ],
+    "capoluogo": false,
+    "popolazione": 6415,
+    "superficie": 33.1416,
+    "coordinate": {
+      "lat": 43.1007346,
+      "lng": 10.5380286
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sassetta",
+    "nomeAltraLingua": null,
+    "codice": "049019",
+    "codiceCatastale": "I454",
+    "sigla": "LI",
+    "cap": [
+      "57020"
+    ],
+    "capoluogo": false,
+    "popolazione": 472,
+    "superficie": 27.0629,
+    "coordinate": {
+      "lat": 43.1283659,
+      "lng": 10.6442862
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Suvereto",
+    "nomeAltraLingua": null,
+    "codice": "049020",
+    "codiceCatastale": "L019",
+    "sigla": "LI",
+    "cap": [
+      "57028"
+    ],
+    "capoluogo": false,
+    "popolazione": 2932,
+    "superficie": 92.3054,
+    "coordinate": {
+      "lat": 43.0790658,
+      "lng": 10.6791738
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rio",
+    "nomeAltraLingua": null,
+    "codice": "049021",
+    "codiceCatastale": "M391",
+    "sigla": "LI",
+    "cap": [
+      "57038"
+    ],
+    "capoluogo": false,
+    "popolazione": 3384,
+    "superficie": 36.5941,
+    "coordinate": {
+      "lat": 42.8134989,
+      "lng": 10.3996872
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Livorno",
+      "codice": "049",
+      "sigla": "LI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bientina",
+    "nomeAltraLingua": null,
+    "codice": "050001",
+    "codiceCatastale": "A864",
+    "sigla": "PI",
+    "cap": [
+      "56031"
+    ],
+    "capoluogo": false,
+    "popolazione": 8653,
+    "superficie": 29.5691,
+    "coordinate": {
+      "lat": 43.7099767,
+      "lng": 10.6197838
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Buti",
+    "nomeAltraLingua": null,
+    "codice": "050002",
+    "codiceCatastale": "B303",
+    "sigla": "PI",
+    "cap": [
+      "56032"
+    ],
+    "capoluogo": false,
+    "popolazione": 5520,
+    "superficie": 22.9361,
+    "coordinate": {
+      "lat": 43.7275062,
+      "lng": 10.5873636
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Calci",
+    "nomeAltraLingua": null,
+    "codice": "050003",
+    "codiceCatastale": "B390",
+    "sigla": "PI",
+    "cap": [
+      "56011"
+    ],
+    "capoluogo": false,
+    "popolazione": 6312,
+    "superficie": 25.4971,
+    "coordinate": {
+      "lat": 43.7258242,
+      "lng": 10.5156383
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Calcinaia",
+    "nomeAltraLingua": null,
+    "codice": "050004",
+    "codiceCatastale": "B392",
+    "sigla": "PI",
+    "cap": [
+      "56012"
+    ],
+    "capoluogo": false,
+    "popolazione": 12804,
+    "superficie": 14.8528,
+    "coordinate": {
+      "lat": 43.6826798,
+      "lng": 10.6157995
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Capannoli",
+    "nomeAltraLingua": null,
+    "codice": "050005",
+    "codiceCatastale": "B647",
+    "sigla": "PI",
+    "cap": [
+      "56033"
+    ],
+    "capoluogo": false,
+    "popolazione": 6361,
+    "superficie": 22.9427,
+    "coordinate": {
+      "lat": 43.5840318,
+      "lng": 10.6789771
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Casale Marittimo",
+    "nomeAltraLingua": null,
+    "codice": "050006",
+    "codiceCatastale": "B878",
+    "sigla": "PI",
+    "cap": [
+      "56040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1079,
+    "superficie": 14.6314,
+    "coordinate": {
+      "lat": 43.297288,
+      "lng": 10.6154859
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cascina",
+    "nomeAltraLingua": null,
+    "codice": "050008",
+    "codiceCatastale": "B950",
+    "sigla": "PI",
+    "cap": [
+      "56021"
+    ],
+    "capoluogo": false,
+    "popolazione": 44800,
+    "superficie": 78.7206,
+    "coordinate": {
+      "lat": 43.676577,
+      "lng": 10.5486453
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelfranco di Sotto",
+    "nomeAltraLingua": null,
+    "codice": "050009",
+    "codiceCatastale": "C113",
+    "sigla": "PI",
+    "cap": [
+      "56022"
+    ],
+    "capoluogo": false,
+    "popolazione": 13625,
+    "superficie": 47.5218,
+    "coordinate": {
+      "lat": 43.6995578,
+      "lng": 10.7452755
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castellina Marittima",
+    "nomeAltraLingua": null,
+    "codice": "050010",
+    "codiceCatastale": "C174",
+    "sigla": "PI",
+    "cap": [
+      "56040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1846,
+    "superficie": 45.7917,
+    "coordinate": {
+      "lat": 43.4118574,
+      "lng": 10.5755827
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelnuovo di Val di Cecina",
+    "nomeAltraLingua": null,
+    "codice": "050011",
+    "codiceCatastale": "C244",
+    "sigla": "PI",
+    "cap": [
+      "56041"
+    ],
+    "capoluogo": false,
+    "popolazione": 2083,
+    "superficie": 88.8145,
+    "coordinate": {
+      "lat": 43.2067226,
+      "lng": 10.9056421
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Chianni",
+    "nomeAltraLingua": null,
+    "codice": "050012",
+    "codiceCatastale": "C609",
+    "sigla": "PI",
+    "cap": [
+      "56034"
+    ],
+    "capoluogo": false,
+    "popolazione": 1321,
+    "superficie": 62.0807,
+    "coordinate": {
+      "lat": 43.4859201,
+      "lng": 10.642674
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fauglia",
+    "nomeAltraLingua": null,
+    "codice": "050014",
+    "codiceCatastale": "D510",
+    "sigla": "PI",
+    "cap": [
+      "56043"
+    ],
+    "capoluogo": false,
+    "popolazione": 3620,
+    "superficie": 42.6221,
+    "coordinate": {
+      "lat": 43.5670178,
+      "lng": 10.5158318
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Guardistallo",
+    "nomeAltraLingua": null,
+    "codice": "050015",
+    "codiceCatastale": "E250",
+    "sigla": "PI",
+    "cap": [
+      "56040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1185,
+    "superficie": 23.5632,
+    "coordinate": {
+      "lat": 43.3127517,
+      "lng": 10.632915
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lajatico",
+    "nomeAltraLingua": null,
+    "codice": "050016",
+    "codiceCatastale": "E413",
+    "sigla": "PI",
+    "cap": [
+      "56030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1281,
+    "superficie": 72.7166,
+    "coordinate": {
+      "lat": 43.475048,
+      "lng": 10.7285299
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montecatini Val di Cecina",
+    "nomeAltraLingua": null,
+    "codice": "050019",
+    "codiceCatastale": "F458",
+    "sigla": "PI",
+    "cap": [
+      "56040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1688,
+    "superficie": 155.0883,
+    "coordinate": {
+      "lat": 43.391869,
+      "lng": 10.7482933
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montescudaio",
+    "nomeAltraLingua": null,
+    "codice": "050020",
+    "codiceCatastale": "F640",
+    "sigla": "PI",
+    "cap": [
+      "56040"
+    ],
+    "capoluogo": false,
+    "popolazione": 2176,
+    "superficie": 19.9883,
+    "coordinate": {
+      "lat": 43.3266349,
+      "lng": 10.6273109
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monteverdi Marittimo",
+    "nomeAltraLingua": null,
+    "codice": "050021",
+    "codiceCatastale": "F661",
+    "sigla": "PI",
+    "cap": [
+      "56040"
+    ],
+    "capoluogo": false,
+    "popolazione": 794,
+    "superficie": 98.0728,
+    "coordinate": {
+      "lat": 43.1769463,
+      "lng": 10.7148944
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montopoli in Val d'Arno",
+    "nomeAltraLingua": null,
+    "codice": "050022",
+    "codiceCatastale": "F686",
+    "sigla": "PI",
+    "cap": [
+      "56020"
+    ],
+    "capoluogo": false,
+    "popolazione": 11235,
+    "superficie": 30.6471,
+    "coordinate": {
+      "lat": 43.6687779,
+      "lng": 10.7605331
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Orciano Pisano",
+    "nomeAltraLingua": null,
+    "codice": "050023",
+    "codiceCatastale": "G090",
+    "sigla": "PI",
+    "cap": [
+      "56040"
+    ],
+    "capoluogo": false,
+    "popolazione": 639,
+    "superficie": 11.9291,
+    "coordinate": {
+      "lat": 43.493304,
+      "lng": 10.5109372
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Palaia",
+    "nomeAltraLingua": null,
+    "codice": "050024",
+    "codiceCatastale": "G254",
+    "sigla": "PI",
+    "cap": [
+      "56036"
+    ],
+    "capoluogo": false,
+    "popolazione": 4548,
+    "superficie": 73.5184,
+    "coordinate": {
+      "lat": 43.6047223,
+      "lng": 10.7731
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Peccioli",
+    "nomeAltraLingua": null,
+    "codice": "050025",
+    "codiceCatastale": "G395",
+    "sigla": "PI",
+    "cap": [
+      "56037"
+    ],
+    "capoluogo": false,
+    "popolazione": 4684,
+    "superficie": 92.3486,
+    "coordinate": {
+      "lat": 43.5479719,
+      "lng": 10.7210041
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pisa",
+    "nomeAltraLingua": null,
+    "codice": "050026",
+    "codiceCatastale": "G702",
+    "sigla": "PI",
+    "cap": [
+      "56121",
+      "56122",
+      "56123",
+      "56124",
+      "56125",
+      "56126",
+      "56127",
+      "56128"
+    ],
+    "capoluogo": true,
+    "popolazione": 89117,
+    "superficie": 184.9305,
+    "coordinate": {
+      "lat": 43.7154608,
+      "lng": 10.4010877
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pomarance",
+    "nomeAltraLingua": null,
+    "codice": "050027",
+    "codiceCatastale": "G804",
+    "sigla": "PI",
+    "cap": [
+      "56045"
+    ],
+    "capoluogo": false,
+    "popolazione": 5280,
+    "superficie": 227.4585,
+    "coordinate": {
+      "lat": 43.3000961,
+      "lng": 10.8738189
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ponsacco",
+    "nomeAltraLingua": null,
+    "codice": "050028",
+    "codiceCatastale": "G822",
+    "sigla": "PI",
+    "cap": [
+      "56038"
+    ],
+    "capoluogo": false,
+    "popolazione": 15570,
+    "superficie": 20.1109,
+    "coordinate": {
+      "lat": 43.6203953,
+      "lng": 10.6333798
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pontedera",
+    "nomeAltraLingua": null,
+    "codice": "050029",
+    "codiceCatastale": "G843",
+    "sigla": "PI",
+    "cap": [
+      "56025"
+    ],
+    "capoluogo": false,
+    "popolazione": 29695,
+    "superficie": 45.8874,
+    "coordinate": {
+      "lat": 43.663921,
+      "lng": 10.6356085
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Riparbella",
+    "nomeAltraLingua": null,
+    "codice": "050030",
+    "codiceCatastale": "H319",
+    "sigla": "PI",
+    "cap": [
+      "56046"
+    ],
+    "capoluogo": false,
+    "popolazione": 1623,
+    "superficie": 58.8681,
+    "coordinate": {
+      "lat": 43.3646656,
+      "lng": 10.5998244
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Giuliano Terme",
+    "nomeAltraLingua": null,
+    "codice": "050031",
+    "codiceCatastale": "A562",
+    "sigla": "PI",
+    "cap": [
+      "56017"
+    ],
+    "capoluogo": false,
+    "popolazione": 30749,
+    "superficie": 92.2244,
+    "coordinate": {
+      "lat": 43.7634459,
+      "lng": 10.4431991
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Miniato",
+    "nomeAltraLingua": null,
+    "codice": "050032",
+    "codiceCatastale": "I046",
+    "sigla": "PI",
+    "cap": [
+      "56028"
+    ],
+    "capoluogo": false,
+    "popolazione": 27786,
+    "superficie": 102.0092,
+    "coordinate": {
+      "lat": 43.6795576,
+      "lng": 10.8526292
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Santa Croce sull'Arno",
+    "nomeAltraLingua": null,
+    "codice": "050033",
+    "codiceCatastale": "I177",
+    "sigla": "PI",
+    "cap": [
+      "56029"
+    ],
+    "capoluogo": false,
+    "popolazione": 14754,
+    "superficie": 16.8493,
+    "coordinate": {
+      "lat": 43.7113971,
+      "lng": 10.7788021
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Santa Luce",
+    "nomeAltraLingua": null,
+    "codice": "050034",
+    "codiceCatastale": "I217",
+    "sigla": "PI",
+    "cap": [
+      "56040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1610,
+    "superficie": 66.326,
+    "coordinate": {
+      "lat": 43.4724808,
+      "lng": 10.5648031
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Santa Maria a Monte",
+    "nomeAltraLingua": null,
+    "codice": "050035",
+    "codiceCatastale": "I232",
+    "sigla": "PI",
+    "cap": [
+      "56020"
+    ],
+    "capoluogo": false,
+    "popolazione": 13358,
+    "superficie": 38.22,
+    "coordinate": {
+      "lat": 43.6987711,
+      "lng": 10.6922992
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Terricciola",
+    "nomeAltraLingua": null,
+    "codice": "050036",
+    "codiceCatastale": "L138",
+    "sigla": "PI",
+    "cap": [
+      "56030"
+    ],
+    "capoluogo": false,
+    "popolazione": 4369,
+    "superficie": 43.0544,
+    "coordinate": {
+      "lat": 43.5247319,
+      "lng": 10.6762613
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vecchiano",
+    "nomeAltraLingua": null,
+    "codice": "050037",
+    "codiceCatastale": "L702",
+    "sigla": "PI",
+    "cap": [
+      "56019"
+    ],
+    "capoluogo": false,
+    "popolazione": 11839,
+    "superficie": 67.7594,
+    "coordinate": {
+      "lat": 43.7815805,
+      "lng": 10.3865547
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vicopisano",
+    "nomeAltraLingua": null,
+    "codice": "050038",
+    "codiceCatastale": "L850",
+    "sigla": "PI",
+    "cap": [
+      "56010"
+    ],
+    "capoluogo": false,
+    "popolazione": 8567,
+    "superficie": 26.7669,
+    "coordinate": {
+      "lat": 43.6999061,
+      "lng": 10.5844365
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Volterra",
+    "nomeAltraLingua": null,
+    "codice": "050039",
+    "codiceCatastale": "M126",
+    "sigla": "PI",
+    "cap": [
+      "56048"
+    ],
+    "capoluogo": false,
+    "popolazione": 9470,
+    "superficie": 252.9447,
+    "coordinate": {
+      "lat": 43.4017661,
+      "lng": 10.8594039
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Casciana Terme Lari",
+    "nomeAltraLingua": null,
+    "codice": "050040",
+    "codiceCatastale": "M327",
+    "sigla": "PI",
+    "cap": [
+      "56035"
+    ],
+    "capoluogo": false,
+    "popolazione": 12202,
+    "superficie": 81.3544,
+    "coordinate": {
+      "lat": 43.5664451,
+      "lng": 10.5923705
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Crespina Lorenzana",
+    "nomeAltraLingua": null,
+    "codice": "050041",
+    "codiceCatastale": "M328",
+    "sigla": "PI",
+    "cap": [
+      "56042"
+    ],
+    "capoluogo": false,
+    "popolazione": 5431,
+    "superficie": 46.1,
+    "coordinate": {
+      "lat": 43.5740065,
+      "lng": 10.5637603
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Pisa",
+      "codice": "050",
+      "sigla": "PI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Anghiari",
+    "nomeAltraLingua": null,
+    "codice": "051001",
+    "codiceCatastale": "A291",
+    "sigla": "AR",
+    "cap": [
+      "52031"
+    ],
+    "capoluogo": false,
+    "popolazione": 5399,
+    "superficie": 130.509,
+    "coordinate": {
+      "lat": 43.5404508,
+      "lng": 12.0571294
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Arezzo",
+    "nomeAltraLingua": null,
+    "codice": "051002",
+    "codiceCatastale": "A390",
+    "sigla": "AR",
+    "cap": [
+      "52100"
+    ],
+    "capoluogo": true,
+    "popolazione": 96330,
+    "superficie": 384.6071,
+    "coordinate": {
+      "lat": 43.4667567,
+      "lng": 11.8820628
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Badia Tedalda",
+    "nomeAltraLingua": null,
+    "codice": "051003",
+    "codiceCatastale": "A541",
+    "sigla": "AR",
+    "cap": [
+      "52032"
+    ],
+    "capoluogo": false,
+    "popolazione": 957,
+    "superficie": 118.8946,
+    "coordinate": {
+      "lat": 43.7088288,
+      "lng": 12.1850853
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bibbiena",
+    "nomeAltraLingua": null,
+    "codice": "051004",
+    "codiceCatastale": "A851",
+    "sigla": "AR",
+    "cap": [
+      "52011"
+    ],
+    "capoluogo": false,
+    "popolazione": 11904,
+    "superficie": 87.0359,
+    "coordinate": {
+      "lat": 43.6943753,
+      "lng": 11.8182009
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bucine",
+    "nomeAltraLingua": null,
+    "codice": "051005",
+    "codiceCatastale": "B243",
+    "sigla": "AR",
+    "cap": [
+      "52021"
+    ],
+    "capoluogo": false,
+    "popolazione": 9931,
+    "superficie": 131.7347,
+    "coordinate": {
+      "lat": 43.4794018,
+      "lng": 11.6170502
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Capolona",
+    "nomeAltraLingua": null,
+    "codice": "051006",
+    "codiceCatastale": "B670",
+    "sigla": "AR",
+    "cap": [
+      "52010"
+    ],
+    "capoluogo": false,
+    "popolazione": 5236,
+    "superficie": 47.966,
+    "coordinate": {
+      "lat": 43.5635664,
+      "lng": 11.8594307
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Caprese Michelangelo",
+    "nomeAltraLingua": null,
+    "codice": "051007",
+    "codiceCatastale": "B693",
+    "sigla": "AR",
+    "cap": [
+      "52033"
+    ],
+    "capoluogo": false,
+    "popolazione": 1340,
+    "superficie": 66.5434,
+    "coordinate": {
+      "lat": 43.6418742,
+      "lng": 11.9865849
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castel Focognano",
+    "nomeAltraLingua": null,
+    "codice": "051008",
+    "codiceCatastale": "C102",
+    "sigla": "AR",
+    "cap": [
+      "52016"
+    ],
+    "capoluogo": false,
+    "popolazione": 2911,
+    "superficie": 56.3064,
+    "coordinate": {
+      "lat": 43.6515534,
+      "lng": 11.83565
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castel San Niccolò",
+    "nomeAltraLingua": null,
+    "codice": "051010",
+    "codiceCatastale": "C263",
+    "sigla": "AR",
+    "cap": [
+      "52018"
+    ],
+    "capoluogo": false,
+    "popolazione": 2454,
+    "superficie": 83.2323,
+    "coordinate": {
+      "lat": 43.7419253,
+      "lng": 11.7053002
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castiglion Fibocchi",
+    "nomeAltraLingua": null,
+    "codice": "051011",
+    "codiceCatastale": "C318",
+    "sigla": "AR",
+    "cap": [
+      "52029"
+    ],
+    "capoluogo": false,
+    "popolazione": 2128,
+    "superficie": 25.2753,
+    "coordinate": {
+      "lat": 43.5277285,
+      "lng": 11.7632439
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castiglion Fiorentino",
+    "nomeAltraLingua": null,
+    "codice": "051012",
+    "codiceCatastale": "C319",
+    "sigla": "AR",
+    "cap": [
+      "52043"
+    ],
+    "capoluogo": false,
+    "popolazione": 12865,
+    "superficie": 111.4933,
+    "coordinate": {
+      "lat": 43.3413756,
+      "lng": 11.9239825
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cavriglia",
+    "nomeAltraLingua": null,
+    "codice": "051013",
+    "codiceCatastale": "C407",
+    "sigla": "AR",
+    "cap": [
+      "52022"
+    ],
+    "capoluogo": false,
+    "popolazione": 9492,
+    "superficie": 60.4552,
+    "coordinate": {
+      "lat": 43.522253,
+      "lng": 11.4885042
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Chitignano",
+    "nomeAltraLingua": null,
+    "codice": "051014",
+    "codiceCatastale": "C648",
+    "sigla": "AR",
+    "cap": [
+      "52010"
+    ],
+    "capoluogo": false,
+    "popolazione": 835,
+    "superficie": 15.1493,
+    "coordinate": {
+      "lat": 43.6613835,
+      "lng": 11.8805814
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Chiusi della Verna",
+    "nomeAltraLingua": null,
+    "codice": "051015",
+    "codiceCatastale": "C663",
+    "sigla": "AR",
+    "cap": [
+      "52010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1856,
+    "superficie": 101.7133,
+    "coordinate": {
+      "lat": 43.699936,
+      "lng": 11.9344473
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Civitella in Val di Chiana",
+    "nomeAltraLingua": null,
+    "codice": "051016",
+    "codiceCatastale": "C774",
+    "sigla": "AR",
+    "cap": [
+      "52041"
+    ],
+    "capoluogo": false,
+    "popolazione": 8715,
+    "superficie": 100.2367,
+    "coordinate": {
+      "lat": 43.4031731,
+      "lng": 11.7709154
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cortona",
+    "nomeAltraLingua": null,
+    "codice": "051017",
+    "codiceCatastale": "D077",
+    "sigla": "AR",
+    "cap": [
+      "52044"
+    ],
+    "capoluogo": false,
+    "popolazione": 20997,
+    "superficie": 343.036,
+    "coordinate": {
+      "lat": 43.2750456,
+      "lng": 11.9851382
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Foiano della Chiana",
+    "nomeAltraLingua": null,
+    "codice": "051018",
+    "codiceCatastale": "D649",
+    "sigla": "AR",
+    "cap": [
+      "52045"
+    ],
+    "capoluogo": false,
+    "popolazione": 9043,
+    "superficie": 40.8497,
+    "coordinate": {
+      "lat": 43.2523558,
+      "lng": 11.8184119
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Loro Ciuffenna",
+    "nomeAltraLingua": null,
+    "codice": "051020",
+    "codiceCatastale": "E693",
+    "sigla": "AR",
+    "cap": [
+      "52024"
+    ],
+    "capoluogo": false,
+    "popolazione": 5867,
+    "superficie": 87.0622,
+    "coordinate": {
+      "lat": 43.5933622,
+      "lng": 11.6315339
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lucignano",
+    "nomeAltraLingua": null,
+    "codice": "051021",
+    "codiceCatastale": "E718",
+    "sigla": "AR",
+    "cap": [
+      "52046"
+    ],
+    "capoluogo": false,
+    "popolazione": 3416,
+    "superficie": 44.8691,
+    "coordinate": {
+      "lat": 43.2747617,
+      "lng": 11.7462118
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Marciano della Chiana",
+    "nomeAltraLingua": null,
+    "codice": "051022",
+    "codiceCatastale": "E933",
+    "sigla": "AR",
+    "cap": [
+      "52047"
+    ],
+    "capoluogo": false,
+    "popolazione": 3452,
+    "superficie": 23.8076,
+    "coordinate": {
+      "lat": 43.3050345,
+      "lng": 11.786016
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montemignaio",
+    "nomeAltraLingua": null,
+    "codice": "051023",
+    "codiceCatastale": "F565",
+    "sigla": "AR",
+    "cap": [
+      "52010"
+    ],
+    "capoluogo": false,
+    "popolazione": 509,
+    "superficie": 26.0077,
+    "coordinate": {
+      "lat": 43.7399445,
+      "lng": 11.6198353
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monterchi",
+    "nomeAltraLingua": null,
+    "codice": "051024",
+    "codiceCatastale": "F594",
+    "sigla": "AR",
+    "cap": [
+      "52035"
+    ],
+    "capoluogo": false,
+    "popolazione": 1710,
+    "superficie": 29.7961,
+    "coordinate": {
+      "lat": 43.4855147,
+      "lng": 12.1118279
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte San Savino",
+    "nomeAltraLingua": null,
+    "codice": "051025",
+    "codiceCatastale": "F628",
+    "sigla": "AR",
+    "cap": [
+      "52048"
+    ],
+    "capoluogo": false,
+    "popolazione": 8527,
+    "superficie": 89.9362,
+    "coordinate": {
+      "lat": 43.3314305,
+      "lng": 11.7245326
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montevarchi",
+    "nomeAltraLingua": null,
+    "codice": "051026",
+    "codiceCatastale": "F656",
+    "sigla": "AR",
+    "cap": [
+      "52025"
+    ],
+    "capoluogo": false,
+    "popolazione": 24250,
+    "superficie": 56.5396,
+    "coordinate": {
+      "lat": 43.5236412,
+      "lng": 11.567399
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ortignano Raggiolo",
+    "nomeAltraLingua": null,
+    "codice": "051027",
+    "codiceCatastale": "G139",
+    "sigla": "AR",
+    "cap": [
+      "52010"
+    ],
+    "capoluogo": false,
+    "popolazione": 837,
+    "superficie": 36.2095,
+    "coordinate": {
+      "lat": 43.6814813,
+      "lng": 11.7525364
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pieve Santo Stefano",
+    "nomeAltraLingua": null,
+    "codice": "051030",
+    "codiceCatastale": "G653",
+    "sigla": "AR",
+    "cap": [
+      "52036"
+    ],
+    "capoluogo": false,
+    "popolazione": 2971,
+    "superficie": 156.0944,
+    "coordinate": {
+      "lat": 43.6688283,
+      "lng": 12.0416966
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Poppi",
+    "nomeAltraLingua": null,
+    "codice": "051031",
+    "codiceCatastale": "G879",
+    "sigla": "AR",
+    "cap": [
+      "52014"
+    ],
+    "capoluogo": false,
+    "popolazione": 5799,
+    "superficie": 97.0674,
+    "coordinate": {
+      "lat": 43.723302,
+      "lng": 11.7656032
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Giovanni Valdarno",
+    "nomeAltraLingua": null,
+    "codice": "051033",
+    "codiceCatastale": "H901",
+    "sigla": "AR",
+    "cap": [
+      "52027"
+    ],
+    "capoluogo": false,
+    "popolazione": 16469,
+    "superficie": 21.5437,
+    "coordinate": {
+      "lat": 43.5665195,
+      "lng": 11.5300459
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sansepolcro",
+    "nomeAltraLingua": null,
+    "codice": "051034",
+    "codiceCatastale": "I155",
+    "sigla": "AR",
+    "cap": [
+      "52037"
+    ],
+    "capoluogo": false,
+    "popolazione": 15120,
+    "superficie": 90.7984,
+    "coordinate": {
+      "lat": 43.5709738,
+      "lng": 12.1416789
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sestino",
+    "nomeAltraLingua": null,
+    "codice": "051035",
+    "codiceCatastale": "I681",
+    "sigla": "AR",
+    "cap": [
+      "52038"
+    ],
+    "capoluogo": false,
+    "popolazione": 1171,
+    "superficie": 80.4496,
+    "coordinate": {
+      "lat": 43.7083514,
+      "lng": 12.2972
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Subbiano",
+    "nomeAltraLingua": null,
+    "codice": "051037",
+    "codiceCatastale": "I991",
+    "sigla": "AR",
+    "cap": [
+      "52010"
+    ],
+    "capoluogo": false,
+    "popolazione": 6340,
+    "superficie": 78.3906,
+    "coordinate": {
+      "lat": 43.5754656,
+      "lng": 11.8703396
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Talla",
+    "nomeAltraLingua": null,
+    "codice": "051038",
+    "codiceCatastale": "L038",
+    "sigla": "AR",
+    "cap": [
+      "52010"
+    ],
+    "capoluogo": false,
+    "popolazione": 988,
+    "superficie": 59.738,
+    "coordinate": {
+      "lat": 43.601973,
+      "lng": 11.7867743
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Terranuova Bracciolini",
+    "nomeAltraLingua": null,
+    "codice": "051039",
+    "codiceCatastale": "L123",
+    "sigla": "AR",
+    "cap": [
+      "52028"
+    ],
+    "capoluogo": false,
+    "popolazione": 12011,
+    "superficie": 85.2187,
+    "coordinate": {
+      "lat": 43.5508914,
+      "lng": 11.585811
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelfranco Piandiscò",
+    "nomeAltraLingua": null,
+    "codice": "051040",
+    "codiceCatastale": "M322",
+    "sigla": "AR",
+    "cap": [
+      "52026"
+    ],
+    "capoluogo": false,
+    "popolazione": 9767,
+    "superficie": 56.1531,
+    "coordinate": {
+      "lat": 43.6209783,
+      "lng": 11.5543573
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pratovecchio Stia",
+    "nomeAltraLingua": null,
+    "codice": "051041",
+    "codiceCatastale": "M329",
+    "sigla": "AR",
+    "cap": [
+      "52015"
+    ],
+    "capoluogo": false,
+    "popolazione": 5409,
+    "superficie": 138.3229,
+    "coordinate": {
+      "lat": 43.7986982,
+      "lng": 11.7086106
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Laterina Pergine Valdarno",
+    "nomeAltraLingua": null,
+    "codice": "051042",
+    "codiceCatastale": "M392",
+    "sigla": "AR",
+    "cap": [
+      "52019"
+    ],
+    "capoluogo": false,
+    "popolazione": 6338,
+    "superficie": 70.6493,
+    "coordinate": {
+      "lat": 43.4704532,
+      "lng": 11.6855258
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Arezzo",
+      "codice": "051",
+      "sigla": "AR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Abbadia San Salvatore",
+    "nomeAltraLingua": null,
+    "codice": "052001",
+    "codiceCatastale": "A006",
+    "sigla": "SI",
+    "cap": [
+      "53021"
+    ],
+    "capoluogo": false,
+    "popolazione": 6128,
+    "superficie": 58.8852,
+    "coordinate": {
+      "lat": 42.8809596,
+      "lng": 11.6772509
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Asciano",
+    "nomeAltraLingua": null,
+    "codice": "052002",
+    "codiceCatastale": "A461",
+    "sigla": "SI",
+    "cap": [
+      "53041"
+    ],
+    "capoluogo": false,
+    "popolazione": 6801,
+    "superficie": 216.148,
+    "coordinate": {
+      "lat": 43.2348457,
+      "lng": 11.559483
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Buonconvento",
+    "nomeAltraLingua": null,
+    "codice": "052003",
+    "codiceCatastale": "B269",
+    "sigla": "SI",
+    "cap": [
+      "53022"
+    ],
+    "capoluogo": false,
+    "popolazione": 2984,
+    "superficie": 64.9065,
+    "coordinate": {
+      "lat": 43.1383416,
+      "lng": 11.4821315
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Casole d'Elsa",
+    "nomeAltraLingua": null,
+    "codice": "052004",
+    "codiceCatastale": "B984",
+    "sigla": "SI",
+    "cap": [
+      "53031"
+    ],
+    "capoluogo": false,
+    "popolazione": 3721,
+    "superficie": 148.7432,
+    "coordinate": {
+      "lat": 43.341424,
+      "lng": 11.0452307
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castellina in Chianti",
+    "nomeAltraLingua": null,
+    "codice": "052005",
+    "codiceCatastale": "C172",
+    "sigla": "SI",
+    "cap": [
+      "53011"
+    ],
+    "capoluogo": false,
+    "popolazione": 2616,
+    "superficie": 99.6619,
+    "coordinate": {
+      "lat": 43.4699861,
+      "lng": 11.2856627
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelnuovo Berardenga",
+    "nomeAltraLingua": null,
+    "codice": "052006",
+    "codiceCatastale": "C227",
+    "sigla": "SI",
+    "cap": [
+      "53019"
+    ],
+    "capoluogo": false,
+    "popolazione": 8940,
+    "superficie": 177.4617,
+    "coordinate": {
+      "lat": 43.3455373,
+      "lng": 11.5020148
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castiglione d'Orcia",
+    "nomeAltraLingua": null,
+    "codice": "052007",
+    "codiceCatastale": "C313",
+    "sigla": "SI",
+    "cap": [
+      "53023"
+    ],
+    "capoluogo": false,
+    "popolazione": 2114,
+    "superficie": 141.2997,
+    "coordinate": {
+      "lat": 43.0045058,
+      "lng": 11.616799
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cetona",
+    "nomeAltraLingua": null,
+    "codice": "052008",
+    "codiceCatastale": "C587",
+    "sigla": "SI",
+    "cap": [
+      "53040"
+    ],
+    "capoluogo": false,
+    "popolazione": 2488,
+    "superficie": 53.502,
+    "coordinate": {
+      "lat": 42.9655893,
+      "lng": 11.9002676
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Chianciano Terme",
+    "nomeAltraLingua": null,
+    "codice": "052009",
+    "codiceCatastale": "C608",
+    "sigla": "SI",
+    "cap": [
+      "53042"
+    ],
+    "capoluogo": false,
+    "popolazione": 6990,
+    "superficie": 36.9234,
+    "coordinate": {
+      "lat": 43.0585889,
+      "lng": 11.8312693
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Chiusdino",
+    "nomeAltraLingua": null,
+    "codice": "052010",
+    "codiceCatastale": "C661",
+    "sigla": "SI",
+    "cap": [
+      "53012"
+    ],
+    "capoluogo": false,
+    "popolazione": 1707,
+    "superficie": 140.862,
+    "coordinate": {
+      "lat": 43.1551546,
+      "lng": 11.0881032
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Chiusi",
+    "nomeAltraLingua": null,
+    "codice": "052011",
+    "codiceCatastale": "C662",
+    "sigla": "SI",
+    "cap": [
+      "53043"
+    ],
+    "capoluogo": false,
+    "popolazione": 8116,
+    "superficie": 57.9527,
+    "coordinate": {
+      "lat": 43.0166678,
+      "lng": 11.9477159
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Colle di Val d'Elsa",
+    "nomeAltraLingua": null,
+    "codice": "052012",
+    "codiceCatastale": "C847",
+    "sigla": "SI",
+    "cap": [
+      "53034"
+    ],
+    "capoluogo": false,
+    "popolazione": 21486,
+    "superficie": 91.8515,
+    "coordinate": {
+      "lat": 43.4213539,
+      "lng": 11.1173087
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gaiole in Chianti",
+    "nomeAltraLingua": null,
+    "codice": "052013",
+    "codiceCatastale": "D858",
+    "sigla": "SI",
+    "cap": [
+      "53013"
+    ],
+    "capoluogo": false,
+    "popolazione": 2504,
+    "superficie": 128.7263,
+    "coordinate": {
+      "lat": 43.4678318,
+      "lng": 11.4340795
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montepulciano",
+    "nomeAltraLingua": null,
+    "codice": "052015",
+    "codiceCatastale": "F592",
+    "sigla": "SI",
+    "cap": [
+      "53045"
+    ],
+    "capoluogo": false,
+    "popolazione": 13173,
+    "superficie": 165.5298,
+    "coordinate": {
+      "lat": 43.0927863,
+      "lng": 11.7804473
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monteriggioni",
+    "nomeAltraLingua": null,
+    "codice": "052016",
+    "codiceCatastale": "F598",
+    "sigla": "SI",
+    "cap": [
+      "53035"
+    ],
+    "capoluogo": false,
+    "popolazione": 9934,
+    "superficie": 99.7098,
+    "coordinate": {
+      "lat": 43.3930034,
+      "lng": 11.2188851
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monteroni d'Arbia",
+    "nomeAltraLingua": null,
+    "codice": "052017",
+    "codiceCatastale": "F605",
+    "sigla": "SI",
+    "cap": [
+      "53014"
+    ],
+    "capoluogo": false,
+    "popolazione": 9039,
+    "superficie": 105.8594,
+    "coordinate": {
+      "lat": 43.231207,
+      "lng": 11.4220303
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monticiano",
+    "nomeAltraLingua": null,
+    "codice": "052018",
+    "codiceCatastale": "F676",
+    "sigla": "SI",
+    "cap": [
+      "53015"
+    ],
+    "capoluogo": false,
+    "popolazione": 1649,
+    "superficie": 109.9684,
+    "coordinate": {
+      "lat": 43.1397089,
+      "lng": 11.1801786
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Murlo",
+    "nomeAltraLingua": null,
+    "codice": "052019",
+    "codiceCatastale": "F815",
+    "sigla": "SI",
+    "cap": [
+      "53016"
+    ],
+    "capoluogo": false,
+    "popolazione": 2474,
+    "superficie": 114.7207,
+    "coordinate": {
+      "lat": 43.168439,
+      "lng": 11.3912567
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Piancastagnaio",
+    "nomeAltraLingua": null,
+    "codice": "052020",
+    "codiceCatastale": "G547",
+    "sigla": "SI",
+    "cap": [
+      "53025"
+    ],
+    "capoluogo": false,
+    "popolazione": 3867,
+    "superficie": 69.5796,
+    "coordinate": {
+      "lat": 42.8493,
+      "lng": 11.6919491
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pienza",
+    "nomeAltraLingua": null,
+    "codice": "052021",
+    "codiceCatastale": "G602",
+    "sigla": "SI",
+    "cap": [
+      "53026"
+    ],
+    "capoluogo": false,
+    "popolazione": 1966,
+    "superficie": 122.7713,
+    "coordinate": {
+      "lat": 43.0766655,
+      "lng": 11.6791336
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Poggibonsi",
+    "nomeAltraLingua": null,
+    "codice": "052022",
+    "codiceCatastale": "G752",
+    "sigla": "SI",
+    "cap": [
+      "53036"
+    ],
+    "capoluogo": false,
+    "popolazione": 28205,
+    "superficie": 70.9717,
+    "coordinate": {
+      "lat": 43.4673649,
+      "lng": 11.1466235
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Radda in Chianti",
+    "nomeAltraLingua": null,
+    "codice": "052023",
+    "codiceCatastale": "H153",
+    "sigla": "SI",
+    "cap": [
+      "53017"
+    ],
+    "capoluogo": false,
+    "popolazione": 1445,
+    "superficie": 80.6659,
+    "coordinate": {
+      "lat": 43.4864974,
+      "lng": 11.3741739
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Radicofani",
+    "nomeAltraLingua": null,
+    "codice": "052024",
+    "codiceCatastale": "H156",
+    "sigla": "SI",
+    "cap": [
+      "53040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1048,
+    "superficie": 117.7363,
+    "coordinate": {
+      "lat": 42.8968038,
+      "lng": 11.766485
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Radicondoli",
+    "nomeAltraLingua": null,
+    "codice": "052025",
+    "codiceCatastale": "H157",
+    "sigla": "SI",
+    "cap": [
+      "53030"
+    ],
+    "capoluogo": false,
+    "popolazione": 965,
+    "superficie": 132.9228,
+    "coordinate": {
+      "lat": 43.2610884,
+      "lng": 11.0418507
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rapolano Terme",
+    "nomeAltraLingua": null,
+    "codice": "052026",
+    "codiceCatastale": "H185",
+    "sigla": "SI",
+    "cap": [
+      "53040"
+    ],
+    "capoluogo": false,
+    "popolazione": 5107,
+    "superficie": 83.1856,
+    "coordinate": {
+      "lat": 43.2864905,
+      "lng": 11.6041546
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Casciano dei Bagni",
+    "nomeAltraLingua": null,
+    "codice": "052027",
+    "codiceCatastale": "H790",
+    "sigla": "SI",
+    "cap": [
+      "53040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1444,
+    "superficie": 92.5284,
+    "coordinate": {
+      "lat": 42.8712425,
+      "lng": 11.8752504
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Gimignano",
+    "nomeAltraLingua": null,
+    "codice": "052028",
+    "codiceCatastale": "H875",
+    "sigla": "SI",
+    "cap": [
+      "53037"
+    ],
+    "capoluogo": false,
+    "popolazione": 7476,
+    "superficie": 138.4427,
+    "coordinate": {
+      "lat": 43.467531,
+      "lng": 11.0430697
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Quirico d'Orcia",
+    "nomeAltraLingua": null,
+    "codice": "052030",
+    "codiceCatastale": "I135",
+    "sigla": "SI",
+    "cap": [
+      "53027"
+    ],
+    "capoluogo": false,
+    "popolazione": 2587,
+    "superficie": 43.107,
+    "coordinate": {
+      "lat": 43.0603933,
+      "lng": 11.6037668
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sarteano",
+    "nomeAltraLingua": null,
+    "codice": "052031",
+    "codiceCatastale": "I445",
+    "sigla": "SI",
+    "cap": [
+      "53047"
+    ],
+    "capoluogo": false,
+    "popolazione": 4542,
+    "superficie": 84.9332,
+    "coordinate": {
+      "lat": 42.9895254,
+      "lng": 11.869161
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Siena",
+    "nomeAltraLingua": null,
+    "codice": "052032",
+    "codiceCatastale": "I726",
+    "sigla": "SI",
+    "cap": [
+      "53100"
+    ],
+    "capoluogo": true,
+    "popolazione": 52833,
+    "superficie": 118.4303,
+    "coordinate": {
+      "lat": 43.3180049,
+      "lng": 11.3320017
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sinalunga",
+    "nomeAltraLingua": null,
+    "codice": "052033",
+    "codiceCatastale": "A468",
+    "sigla": "SI",
+    "cap": [
+      "53048"
+    ],
+    "capoluogo": false,
+    "popolazione": 12029,
+    "superficie": 78.955,
+    "coordinate": {
+      "lat": 43.2121397,
+      "lng": 11.7369724
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sovicille",
+    "nomeAltraLingua": null,
+    "codice": "052034",
+    "codiceCatastale": "I877",
+    "sigla": "SI",
+    "cap": [
+      "53018"
+    ],
+    "capoluogo": false,
+    "popolazione": 9885,
+    "superficie": 143.0608,
+    "coordinate": {
+      "lat": 43.2802561,
+      "lng": 11.2280741
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Torrita di Siena",
+    "nomeAltraLingua": null,
+    "codice": "052035",
+    "codiceCatastale": "L303",
+    "sigla": "SI",
+    "cap": [
+      "53049"
+    ],
+    "capoluogo": false,
+    "popolazione": 6969,
+    "superficie": 58.1014,
+    "coordinate": {
+      "lat": 43.1666517,
+      "lng": 11.771916
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Trequanda",
+    "nomeAltraLingua": null,
+    "codice": "052036",
+    "codiceCatastale": "L384",
+    "sigla": "SI",
+    "cap": [
+      "53020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1155,
+    "superficie": 63.6009,
+    "coordinate": {
+      "lat": 43.1889049,
+      "lng": 11.6676331
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montalcino",
+    "nomeAltraLingua": null,
+    "codice": "052037",
+    "codiceCatastale": "M378",
+    "sigla": "SI",
+    "cap": [
+      "53024"
+    ],
+    "capoluogo": false,
+    "popolazione": 5605,
+    "superficie": 309.2515,
+    "coordinate": {
+      "lat": 43.0612441,
+      "lng": 11.4899181
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Siena",
+      "codice": "052",
+      "sigla": "SI",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Arcidosso",
+    "nomeAltraLingua": null,
+    "codice": "053001",
+    "codiceCatastale": "A369",
+    "sigla": "GR",
+    "cap": [
+      "58031"
+    ],
+    "capoluogo": false,
+    "popolazione": 4227,
+    "superficie": 93.6798,
+    "coordinate": {
+      "lat": 42.8714879,
+      "lng": 11.538705
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Campagnatico",
+    "nomeAltraLingua": null,
+    "codice": "053002",
+    "codiceCatastale": "B497",
+    "sigla": "GR",
+    "cap": [
+      "58042"
+    ],
+    "capoluogo": false,
+    "popolazione": 2325,
+    "superficie": 162.0507,
+    "coordinate": {
+      "lat": 42.8827007,
+      "lng": 11.2749396
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Capalbio",
+    "nomeAltraLingua": null,
+    "codice": "053003",
+    "codiceCatastale": "B646",
+    "sigla": "GR",
+    "cap": [
+      "58011"
+    ],
+    "capoluogo": false,
+    "popolazione": 3753,
+    "superficie": 187.6404,
+    "coordinate": {
+      "lat": 42.4529058,
+      "lng": 11.4221884
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castel del Piano",
+    "nomeAltraLingua": null,
+    "codice": "053004",
+    "codiceCatastale": "C085",
+    "sigla": "GR",
+    "cap": [
+      "58033"
+    ],
+    "capoluogo": false,
+    "popolazione": 4771,
+    "superficie": 68.0654,
+    "coordinate": {
+      "lat": 42.8929281,
+      "lng": 11.5376979
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castell'Azzara",
+    "nomeAltraLingua": null,
+    "codice": "053005",
+    "codiceCatastale": "C147",
+    "sigla": "GR",
+    "cap": [
+      "58034"
+    ],
+    "capoluogo": false,
+    "popolazione": 1292,
+    "superficie": 63.9618,
+    "coordinate": {
+      "lat": 42.7734848,
+      "lng": 11.6977926
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castiglione della Pescaia",
+    "nomeAltraLingua": null,
+    "codice": "053006",
+    "codiceCatastale": "C310",
+    "sigla": "GR",
+    "cap": [
+      "58043"
+    ],
+    "capoluogo": false,
+    "popolazione": 7105,
+    "superficie": 209.3302,
+    "coordinate": {
+      "lat": 42.7725001,
+      "lng": 10.8908703
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cinigiano",
+    "nomeAltraLingua": null,
+    "codice": "053007",
+    "codiceCatastale": "C705",
+    "sigla": "GR",
+    "cap": [
+      "58044"
+    ],
+    "capoluogo": false,
+    "popolazione": 2421,
+    "superficie": 160.746,
+    "coordinate": {
+      "lat": 42.8911665,
+      "lng": 11.39456
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Civitella Paganico",
+    "nomeAltraLingua": null,
+    "codice": "053008",
+    "codiceCatastale": "C782",
+    "sigla": "GR",
+    "cap": [
+      "58045"
+    ],
+    "capoluogo": false,
+    "popolazione": 2915,
+    "superficie": 193.5576,
+    "coordinate": {
+      "lat": 42.9938199,
+      "lng": 11.2815739
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Follonica",
+    "nomeAltraLingua": null,
+    "codice": "053009",
+    "codiceCatastale": "D656",
+    "sigla": "GR",
+    "cap": [
+      "58022"
+    ],
+    "capoluogo": false,
+    "popolazione": 20307,
+    "superficie": 55.9555,
+    "coordinate": {
+      "lat": 42.9225899,
+      "lng": 10.7598518
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gavorrano",
+    "nomeAltraLingua": null,
+    "codice": "053010",
+    "codiceCatastale": "D948",
+    "sigla": "GR",
+    "cap": [
+      "58023"
+    ],
+    "capoluogo": false,
+    "popolazione": 8301,
+    "superficie": 164.8901,
+    "coordinate": {
+      "lat": 42.9255057,
+      "lng": 10.9059419
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Grosseto",
+    "nomeAltraLingua": null,
+    "codice": "053011",
+    "codiceCatastale": "E202",
+    "sigla": "GR",
+    "cap": [
+      "58100"
+    ],
+    "capoluogo": true,
+    "popolazione": 81482,
+    "superficie": 473.1703,
+    "coordinate": {
+      "lat": 42.7602906,
+      "lng": 11.113703
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Isola del Giglio",
+    "nomeAltraLingua": null,
+    "codice": "053012",
+    "codiceCatastale": "E348",
+    "sigla": "GR",
+    "cap": [
+      "58012"
+    ],
+    "capoluogo": false,
+    "popolazione": 1294,
+    "superficie": 23.8365,
+    "coordinate": {
+      "lat": 42.3663128,
+      "lng": 10.9002358
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Magliano in Toscana",
+    "nomeAltraLingua": null,
+    "codice": "053013",
+    "codiceCatastale": "E810",
+    "sigla": "GR",
+    "cap": [
+      "58051"
+    ],
+    "capoluogo": false,
+    "popolazione": 3272,
+    "superficie": 251.0014,
+    "coordinate": {
+      "lat": 42.5981635,
+      "lng": 11.294243
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Manciano",
+    "nomeAltraLingua": null,
+    "codice": "053014",
+    "codiceCatastale": "E875",
+    "sigla": "GR",
+    "cap": [
+      "58014"
+    ],
+    "capoluogo": false,
+    "popolazione": 7023,
+    "superficie": 373.222,
+    "coordinate": {
+      "lat": 42.587373,
+      "lng": 11.5155585
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Massa Marittima",
+    "nomeAltraLingua": null,
+    "codice": "053015",
+    "codiceCatastale": "F032",
+    "sigla": "GR",
+    "cap": [
+      "58024"
+    ],
+    "capoluogo": false,
+    "popolazione": 8174,
+    "superficie": 282.7542,
+    "coordinate": {
+      "lat": 43.0503682,
+      "lng": 10.8879481
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte Argentario",
+    "nomeAltraLingua": null,
+    "codice": "053016",
+    "codiceCatastale": "F437",
+    "sigla": "GR",
+    "cap": [
+      "58019"
+    ],
+    "capoluogo": false,
+    "popolazione": 11783,
+    "superficie": 60.4803,
+    "coordinate": {
+      "lat": 42.4387726,
+      "lng": 11.1157618
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montieri",
+    "nomeAltraLingua": null,
+    "codice": "053017",
+    "codiceCatastale": "F677",
+    "sigla": "GR",
+    "cap": [
+      "58026"
+    ],
+    "capoluogo": false,
+    "popolazione": 1176,
+    "superficie": 108.803,
+    "coordinate": {
+      "lat": 43.1307874,
+      "lng": 11.0161573
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Orbetello",
+    "nomeAltraLingua": null,
+    "codice": "053018",
+    "codiceCatastale": "G088",
+    "sigla": "GR",
+    "cap": [
+      "58015"
+    ],
+    "capoluogo": false,
+    "popolazione": 14149,
+    "superficie": 226.2554,
+    "coordinate": {
+      "lat": 42.4374091,
+      "lng": 11.2098619
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pitigliano",
+    "nomeAltraLingua": null,
+    "codice": "053019",
+    "codiceCatastale": "G716",
+    "sigla": "GR",
+    "cap": [
+      "58017"
+    ],
+    "capoluogo": false,
+    "popolazione": 3545,
+    "superficie": 101.9521,
+    "coordinate": {
+      "lat": 42.6350904,
+      "lng": 11.669205
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Roccalbegna",
+    "nomeAltraLingua": null,
+    "codice": "053020",
+    "codiceCatastale": "H417",
+    "sigla": "GR",
+    "cap": [
+      "58053"
+    ],
+    "capoluogo": false,
+    "popolazione": 919,
+    "superficie": 124.366,
+    "coordinate": {
+      "lat": 42.7858613,
+      "lng": 11.5075475
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Roccastrada",
+    "nomeAltraLingua": null,
+    "codice": "053021",
+    "codiceCatastale": "H449",
+    "sigla": "GR",
+    "cap": [
+      "58036"
+    ],
+    "capoluogo": false,
+    "popolazione": 8736,
+    "superficie": 283.9704,
+    "coordinate": {
+      "lat": 43.0112794,
+      "lng": 11.1674578
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Santa Fiora",
+    "nomeAltraLingua": null,
+    "codice": "053022",
+    "codiceCatastale": "I187",
+    "sigla": "GR",
+    "cap": [
+      "58037"
+    ],
+    "capoluogo": false,
+    "popolazione": 2493,
+    "superficie": 63.3481,
+    "coordinate": {
+      "lat": 42.8315379,
+      "lng": 11.5855735
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Scansano",
+    "nomeAltraLingua": null,
+    "codice": "053023",
+    "codiceCatastale": "I504",
+    "sigla": "GR",
+    "cap": [
+      "58054"
+    ],
+    "capoluogo": false,
+    "popolazione": 4309,
+    "superficie": 273.3372,
+    "coordinate": {
+      "lat": 42.6879257,
+      "lng": 11.3330642
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Scarlino",
+    "nomeAltraLingua": null,
+    "codice": "053024",
+    "codiceCatastale": "I510",
+    "sigla": "GR",
+    "cap": [
+      "58020"
+    ],
+    "capoluogo": false,
+    "popolazione": 3744,
+    "superficie": 87.903,
+    "coordinate": {
+      "lat": 42.9061484,
+      "lng": 10.8522259
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Seggiano",
+    "nomeAltraLingua": null,
+    "codice": "053025",
+    "codiceCatastale": "I571",
+    "sigla": "GR",
+    "cap": [
+      "58038"
+    ],
+    "capoluogo": false,
+    "popolazione": 998,
+    "superficie": 49.518,
+    "coordinate": {
+      "lat": 42.9285467,
+      "lng": 11.5588808
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sorano",
+    "nomeAltraLingua": null,
+    "codice": "053026",
+    "codiceCatastale": "I841",
+    "sigla": "GR",
+    "cap": [
+      "58010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3032,
+    "superficie": 174.7841,
+    "coordinate": {
+      "lat": 42.6815931,
+      "lng": 11.7137553
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monterotondo Marittimo",
+    "nomeAltraLingua": null,
+    "codice": "053027",
+    "codiceCatastale": "F612",
+    "sigla": "GR",
+    "cap": [
+      "58025"
+    ],
+    "capoluogo": false,
+    "popolazione": 1278,
+    "superficie": 102.3975,
+    "coordinate": {
+      "lat": 43.1454888,
+      "lng": 10.8559837
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Semproniano",
+    "nomeAltraLingua": null,
+    "codice": "053028",
+    "codiceCatastale": "I601",
+    "sigla": "GR",
+    "cap": [
+      "58055"
+    ],
+    "capoluogo": false,
+    "popolazione": 978,
+    "superficie": 82.0219,
+    "coordinate": {
+      "lat": 42.7302185,
+      "lng": 11.5416973
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Grosseto",
+      "codice": "053",
+      "sigla": "GR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cantagallo",
+    "nomeAltraLingua": null,
+    "codice": "100001",
+    "codiceCatastale": "B626",
+    "sigla": "PO",
+    "cap": [
+      "59025"
+    ],
+    "capoluogo": false,
+    "popolazione": 3131,
+    "superficie": 95.5545,
+    "coordinate": {
+      "lat": 44.0282521,
+      "lng": 11.1072003
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Prato",
+      "codice": "100",
+      "sigla": "PO",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carmignano",
+    "nomeAltraLingua": null,
+    "codice": "100002",
+    "codiceCatastale": "B794",
+    "sigla": "PO",
+    "cap": [
+      "59015"
+    ],
+    "capoluogo": false,
+    "popolazione": 14618,
+    "superficie": 38.2242,
+    "coordinate": {
+      "lat": 43.8141069,
+      "lng": 11.0182895
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Prato",
+      "codice": "100",
+      "sigla": "PO",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montemurlo",
+    "nomeAltraLingua": null,
+    "codice": "100003",
+    "codiceCatastale": "F572",
+    "sigla": "PO",
+    "cap": [
+      "59013"
+    ],
+    "capoluogo": false,
+    "popolazione": 19134,
+    "superficie": 30.8791,
+    "coordinate": {
+      "lat": 43.9271477,
+      "lng": 11.0368809
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Prato",
+      "codice": "100",
+      "sigla": "PO",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Poggio a Caiano",
+    "nomeAltraLingua": null,
+    "codice": "100004",
+    "codiceCatastale": "G754",
+    "sigla": "PO",
+    "cap": [
+      "59016"
+    ],
+    "capoluogo": false,
+    "popolazione": 9917,
+    "superficie": 6.2451,
+    "coordinate": {
+      "lat": 43.8163447,
+      "lng": 11.0561919
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Prato",
+      "codice": "100",
+      "sigla": "PO",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Prato",
+    "nomeAltraLingua": null,
+    "codice": "100005",
+    "codiceCatastale": "G999",
+    "sigla": "PO",
+    "cap": [
+      "59100"
+    ],
+    "capoluogo": true,
+    "popolazione": 197088,
+    "superficie": 97.3751,
+    "coordinate": {
+      "lat": 43.8808908,
+      "lng": 11.0968044
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Prato",
+      "codice": "100",
+      "sigla": "PO",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vaiano",
+    "nomeAltraLingua": null,
+    "codice": "100006",
+    "codiceCatastale": "L537",
+    "sigla": "PO",
+    "cap": [
+      "59021"
+    ],
+    "capoluogo": false,
+    "popolazione": 9884,
+    "superficie": 33.8267,
+    "coordinate": {
+      "lat": 43.9685863,
+      "lng": 11.1231782
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Prato",
+      "codice": "100",
+      "sigla": "PO",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vernio",
+    "nomeAltraLingua": null,
+    "codice": "100007",
+    "codiceCatastale": "L775",
+    "sigla": "PO",
+    "cap": [
+      "59024"
+    ],
+    "capoluogo": false,
+    "popolazione": 6149,
+    "superficie": 63.2849,
+    "coordinate": {
+      "lat": 44.0535558,
+      "lng": 11.1560114
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Toscana",
+      "codice": "09"
+    },
+    "provincia": {
+      "nome": "Prato",
+      "codice": "100",
+      "sigla": "PO",
+      "tipo": "provincia"
+    }
+  }
+]

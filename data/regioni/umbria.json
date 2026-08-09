@@ -1,0 +1,2867 @@
+[
+  {
+    "nome": "Assisi",
+    "nomeAltraLingua": null,
+    "codice": "054001",
+    "codiceCatastale": "A475",
+    "sigla": "PG",
+    "cap": [
+      "06081"
+    ],
+    "capoluogo": false,
+    "popolazione": 27507,
+    "superficie": 187.1762,
+    "coordinate": {
+      "lat": 43.0708575,
+      "lng": 12.614947
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bastia Umbra",
+    "nomeAltraLingua": null,
+    "codice": "054002",
+    "codiceCatastale": "A710",
+    "sigla": "PG",
+    "cap": [
+      "06083"
+    ],
+    "capoluogo": false,
+    "popolazione": 21292,
+    "superficie": 27.481,
+    "coordinate": {
+      "lat": 43.0666562,
+      "lng": 12.5489597
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bettona",
+    "nomeAltraLingua": null,
+    "codice": "054003",
+    "codiceCatastale": "A832",
+    "sigla": "PG",
+    "cap": [
+      "06084"
+    ],
+    "capoluogo": false,
+    "popolazione": 4256,
+    "superficie": 45.0155,
+    "coordinate": {
+      "lat": 43.0135454,
+      "lng": 12.4845652
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bevagna",
+    "nomeAltraLingua": null,
+    "codice": "054004",
+    "codiceCatastale": "A835",
+    "sigla": "PG",
+    "cap": [
+      "06031"
+    ],
+    "capoluogo": false,
+    "popolazione": 4743,
+    "superficie": 56.0537,
+    "coordinate": {
+      "lat": 42.9338037,
+      "lng": 12.6089885
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Campello sul Clitunno",
+    "nomeAltraLingua": null,
+    "codice": "054005",
+    "codiceCatastale": "B504",
+    "sigla": "PG",
+    "cap": [
+      "06042"
+    ],
+    "capoluogo": false,
+    "popolazione": 2323,
+    "superficie": 50.2524,
+    "coordinate": {
+      "lat": 42.8200339,
+      "lng": 12.776915
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cannara",
+    "nomeAltraLingua": null,
+    "codice": "054006",
+    "codiceCatastale": "B609",
+    "sigla": "PG",
+    "cap": [
+      "06033"
+    ],
+    "capoluogo": false,
+    "popolazione": 4171,
+    "superficie": 33.1585,
+    "coordinate": {
+      "lat": 42.9950651,
+      "lng": 12.5827158
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cascia",
+    "nomeAltraLingua": null,
+    "codice": "054007",
+    "codiceCatastale": "B948",
+    "sigla": "PG",
+    "cap": [
+      "06043"
+    ],
+    "capoluogo": false,
+    "popolazione": 2966,
+    "superficie": 181.0321,
+    "coordinate": {
+      "lat": 42.7181952,
+      "lng": 13.0135601
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castel Ritaldi",
+    "nomeAltraLingua": null,
+    "codice": "054008",
+    "codiceCatastale": "C252",
+    "sigla": "PG",
+    "cap": [
+      "06044"
+    ],
+    "capoluogo": false,
+    "popolazione": 3043,
+    "superficie": 22.8935,
+    "coordinate": {
+      "lat": 42.8231004,
+      "lng": 12.6724483
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castiglione del Lago",
+    "nomeAltraLingua": null,
+    "codice": "054009",
+    "codiceCatastale": "C309",
+    "sigla": "PG",
+    "cap": [
+      "06061"
+    ],
+    "capoluogo": false,
+    "popolazione": 15136,
+    "superficie": 204.8966,
+    "coordinate": {
+      "lat": 43.1276422,
+      "lng": 12.0534988
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cerreto di Spoleto",
+    "nomeAltraLingua": null,
+    "codice": "054010",
+    "codiceCatastale": "C527",
+    "sigla": "PG",
+    "cap": [
+      "06041"
+    ],
+    "capoluogo": false,
+    "popolazione": 970,
+    "superficie": 74.4395,
+    "coordinate": {
+      "lat": 42.8210046,
+      "lng": 12.9172747
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Citerna",
+    "nomeAltraLingua": null,
+    "codice": "054011",
+    "codiceCatastale": "C742",
+    "sigla": "PG",
+    "cap": [
+      "06010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3372,
+    "superficie": 23.375,
+    "coordinate": {
+      "lat": 43.4980955,
+      "lng": 12.1163748
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Città della Pieve",
+    "nomeAltraLingua": null,
+    "codice": "054012",
+    "codiceCatastale": "C744",
+    "sigla": "PG",
+    "cap": [
+      "06062"
+    ],
+    "capoluogo": false,
+    "popolazione": 7399,
+    "superficie": 111.3422,
+    "coordinate": {
+      "lat": 42.9521108,
+      "lng": 12.0025335
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Città di Castello",
+    "nomeAltraLingua": null,
+    "codice": "054013",
+    "codiceCatastale": "C745",
+    "sigla": "PG",
+    "cap": [
+      "06012"
+    ],
+    "capoluogo": false,
+    "popolazione": 38100,
+    "superficie": 386.9325,
+    "coordinate": {
+      "lat": 43.4570323,
+      "lng": 12.2382088
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Collazzone",
+    "nomeAltraLingua": null,
+    "codice": "054014",
+    "codiceCatastale": "C845",
+    "sigla": "PG",
+    "cap": [
+      "06050"
+    ],
+    "capoluogo": false,
+    "popolazione": 3302,
+    "superficie": 56.1568,
+    "coordinate": {
+      "lat": 42.8995503,
+      "lng": 12.4359781
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Corciano",
+    "nomeAltraLingua": null,
+    "codice": "054015",
+    "codiceCatastale": "C990",
+    "sigla": "PG",
+    "cap": [
+      "06073"
+    ],
+    "capoluogo": false,
+    "popolazione": 21619,
+    "superficie": 64.1667,
+    "coordinate": {
+      "lat": 43.1283776,
+      "lng": 12.2861978
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Costacciaro",
+    "nomeAltraLingua": null,
+    "codice": "054016",
+    "codiceCatastale": "D108",
+    "sigla": "PG",
+    "cap": [
+      "06021"
+    ],
+    "capoluogo": false,
+    "popolazione": 1046,
+    "superficie": 41.2758,
+    "coordinate": {
+      "lat": 43.3589311,
+      "lng": 12.7119381
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Deruta",
+    "nomeAltraLingua": null,
+    "codice": "054017",
+    "codiceCatastale": "D279",
+    "sigla": "PG",
+    "cap": [
+      "06053"
+    ],
+    "capoluogo": false,
+    "popolazione": 9486,
+    "superficie": 44.5987,
+    "coordinate": {
+      "lat": 42.9820996,
+      "lng": 12.4197496
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Foligno",
+    "nomeAltraLingua": null,
+    "codice": "054018",
+    "codiceCatastale": "D653",
+    "sigla": "PG",
+    "cap": [
+      "06034"
+    ],
+    "capoluogo": false,
+    "popolazione": 55265,
+    "superficie": 264.6782,
+    "coordinate": {
+      "lat": 42.9558198,
+      "lng": 12.7032519
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fossato di Vico",
+    "nomeAltraLingua": null,
+    "codice": "054019",
+    "codiceCatastale": "D745",
+    "sigla": "PG",
+    "cap": [
+      "06022"
+    ],
+    "capoluogo": false,
+    "popolazione": 2611,
+    "superficie": 35.6835,
+    "coordinate": {
+      "lat": 43.2946753,
+      "lng": 12.761315
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fratta Todina",
+    "nomeAltraLingua": null,
+    "codice": "054020",
+    "codiceCatastale": "D787",
+    "sigla": "PG",
+    "cap": [
+      "06054"
+    ],
+    "capoluogo": false,
+    "popolazione": 1869,
+    "superficie": 17.3208,
+    "coordinate": {
+      "lat": 42.8575266,
+      "lng": 12.3665665
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Giano dell'Umbria",
+    "nomeAltraLingua": null,
+    "codice": "054021",
+    "codiceCatastale": "E012",
+    "sigla": "PG",
+    "cap": [
+      "06030"
+    ],
+    "capoluogo": false,
+    "popolazione": 3663,
+    "superficie": 44.4697,
+    "coordinate": {
+      "lat": 42.8337,
+      "lng": 12.5780666
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gualdo Cattaneo",
+    "nomeAltraLingua": null,
+    "codice": "054022",
+    "codiceCatastale": "E229",
+    "sigla": "PG",
+    "cap": [
+      "06035"
+    ],
+    "capoluogo": false,
+    "popolazione": 5616,
+    "superficie": 95.7968,
+    "coordinate": {
+      "lat": 42.9091904,
+      "lng": 12.5561309
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gualdo Tadino",
+    "nomeAltraLingua": null,
+    "codice": "054023",
+    "codiceCatastale": "E230",
+    "sigla": "PG",
+    "cap": [
+      "06023"
+    ],
+    "capoluogo": false,
+    "popolazione": 14255,
+    "superficie": 124.2958,
+    "coordinate": {
+      "lat": 43.230909,
+      "lng": 12.7848024
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gubbio",
+    "nomeAltraLingua": null,
+    "codice": "054024",
+    "codiceCatastale": "E256",
+    "sigla": "PG",
+    "cap": [
+      "06024"
+    ],
+    "capoluogo": false,
+    "popolazione": 30388,
+    "superficie": 525.4922,
+    "coordinate": {
+      "lat": 43.3529745,
+      "lng": 12.5793028
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lisciano Niccone",
+    "nomeAltraLingua": null,
+    "codice": "054025",
+    "codiceCatastale": "E613",
+    "sigla": "PG",
+    "cap": [
+      "06060"
+    ],
+    "capoluogo": false,
+    "popolazione": 610,
+    "superficie": 35.5928,
+    "coordinate": {
+      "lat": 43.2465266,
+      "lng": 12.1432624
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Magione",
+    "nomeAltraLingua": null,
+    "codice": "054026",
+    "codiceCatastale": "E805",
+    "sigla": "PG",
+    "cap": [
+      "06063"
+    ],
+    "capoluogo": false,
+    "popolazione": 14652,
+    "superficie": 129.4341,
+    "coordinate": {
+      "lat": 43.1427543,
+      "lng": 12.205246
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Marsciano",
+    "nomeAltraLingua": null,
+    "codice": "054027",
+    "codiceCatastale": "E975",
+    "sigla": "PG",
+    "cap": [
+      "06055"
+    ],
+    "capoluogo": false,
+    "popolazione": 17988,
+    "superficie": 161.4197,
+    "coordinate": {
+      "lat": 42.9107767,
+      "lng": 12.3373271
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Massa Martana",
+    "nomeAltraLingua": null,
+    "codice": "054028",
+    "codiceCatastale": "F024",
+    "sigla": "PG",
+    "cap": [
+      "06056"
+    ],
+    "capoluogo": false,
+    "popolazione": 3604,
+    "superficie": 78.6492,
+    "coordinate": {
+      "lat": 42.7755513,
+      "lng": 12.5232506
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte Castello di Vibio",
+    "nomeAltraLingua": null,
+    "codice": "054029",
+    "codiceCatastale": "F456",
+    "sigla": "PG",
+    "cap": [
+      "06057"
+    ],
+    "capoluogo": false,
+    "popolazione": 1412,
+    "superficie": 32.0541,
+    "coordinate": {
+      "lat": 42.840337,
+      "lng": 12.3523157
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montefalco",
+    "nomeAltraLingua": null,
+    "codice": "054030",
+    "codiceCatastale": "F492",
+    "sigla": "PG",
+    "cap": [
+      "06036"
+    ],
+    "capoluogo": false,
+    "popolazione": 5326,
+    "superficie": 69.3904,
+    "coordinate": {
+      "lat": 42.893723,
+      "lng": 12.6523816
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monteleone di Spoleto",
+    "nomeAltraLingua": null,
+    "codice": "054031",
+    "codiceCatastale": "F540",
+    "sigla": "PG",
+    "cap": [
+      "06045"
+    ],
+    "capoluogo": false,
+    "popolazione": 552,
+    "superficie": 62.3907,
+    "coordinate": {
+      "lat": 42.6515576,
+      "lng": 12.9518378
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monte Santa Maria Tiberina",
+    "nomeAltraLingua": null,
+    "codice": "054032",
+    "codiceCatastale": "F629",
+    "sigla": "PG",
+    "cap": [
+      "06010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1084,
+    "superficie": 72.4165,
+    "coordinate": {
+      "lat": 43.4367752,
+      "lng": 12.1626736
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montone",
+    "nomeAltraLingua": null,
+    "codice": "054033",
+    "codiceCatastale": "F685",
+    "sigla": "PG",
+    "cap": [
+      "06014"
+    ],
+    "capoluogo": false,
+    "popolazione": 1541,
+    "superficie": 52.1395,
+    "coordinate": {
+      "lat": 43.3639074,
+      "lng": 12.3269195
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Nocera Umbra",
+    "nomeAltraLingua": null,
+    "codice": "054034",
+    "codiceCatastale": "F911",
+    "sigla": "PG",
+    "cap": [
+      "06025"
+    ],
+    "capoluogo": false,
+    "popolazione": 5530,
+    "superficie": 157.8607,
+    "coordinate": {
+      "lat": 43.1112555,
+      "lng": 12.7901138
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Norcia",
+    "nomeAltraLingua": null,
+    "codice": "054035",
+    "codiceCatastale": "F935",
+    "sigla": "PG",
+    "cap": [
+      "06046"
+    ],
+    "capoluogo": false,
+    "popolazione": 4497,
+    "superficie": 275.7573,
+    "coordinate": {
+      "lat": 42.7925964,
+      "lng": 13.0931821
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Paciano",
+    "nomeAltraLingua": null,
+    "codice": "054036",
+    "codiceCatastale": "G212",
+    "sigla": "PG",
+    "cap": [
+      "06060"
+    ],
+    "capoluogo": false,
+    "popolazione": 940,
+    "superficie": 16.8288,
+    "coordinate": {
+      "lat": 43.0223177,
+      "lng": 12.0707978
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Panicale",
+    "nomeAltraLingua": null,
+    "codice": "054037",
+    "codiceCatastale": "G308",
+    "sigla": "PG",
+    "cap": [
+      "06064"
+    ],
+    "capoluogo": false,
+    "popolazione": 5293,
+    "superficie": 79.2051,
+    "coordinate": {
+      "lat": 43.029377,
+      "lng": 12.1000485
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Passignano sul Trasimeno",
+    "nomeAltraLingua": null,
+    "codice": "054038",
+    "codiceCatastale": "G359",
+    "sigla": "PG",
+    "cap": [
+      "06065"
+    ],
+    "capoluogo": false,
+    "popolazione": 5691,
+    "superficie": 81.3834,
+    "coordinate": {
+      "lat": 43.1848457,
+      "lng": 12.1366286
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Perugia",
+    "nomeAltraLingua": null,
+    "codice": "054039",
+    "codiceCatastale": "G478",
+    "sigla": "PG",
+    "cap": [
+      "06121",
+      "06122",
+      "06123",
+      "06124",
+      "06125",
+      "06126",
+      "06127",
+      "06128",
+      "06129",
+      "06131",
+      "06132",
+      "06133",
+      "06134",
+      "06135"
+    ],
+    "capoluogo": true,
+    "popolazione": 162099,
+    "superficie": 449.411,
+    "coordinate": {
+      "lat": 43.1118312,
+      "lng": 12.3885382
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Piegaro",
+    "nomeAltraLingua": null,
+    "codice": "054040",
+    "codiceCatastale": "G601",
+    "sigla": "PG",
+    "cap": [
+      "06066"
+    ],
+    "capoluogo": false,
+    "popolazione": 3347,
+    "superficie": 99.0092,
+    "coordinate": {
+      "lat": 42.9705289,
+      "lng": 12.0860415
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pietralunga",
+    "nomeAltraLingua": null,
+    "codice": "054041",
+    "codiceCatastale": "G618",
+    "sigla": "PG",
+    "cap": [
+      "06026"
+    ],
+    "capoluogo": false,
+    "popolazione": 1973,
+    "superficie": 140.1156,
+    "coordinate": {
+      "lat": 43.4422826,
+      "lng": 12.4367548
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Poggiodomo",
+    "nomeAltraLingua": null,
+    "codice": "054042",
+    "codiceCatastale": "G758",
+    "sigla": "PG",
+    "cap": [
+      "06040"
+    ],
+    "capoluogo": false,
+    "popolazione": 91,
+    "superficie": 40.0512,
+    "coordinate": {
+      "lat": 42.7116596,
+      "lng": 12.9347681
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Preci",
+    "nomeAltraLingua": null,
+    "codice": "054043",
+    "codiceCatastale": "H015",
+    "sigla": "PG",
+    "cap": [
+      "06047"
+    ],
+    "capoluogo": false,
+    "popolazione": 698,
+    "superficie": 81.7893,
+    "coordinate": {
+      "lat": 42.8789895,
+      "lng": 13.0389934
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Giustino",
+    "nomeAltraLingua": null,
+    "codice": "054044",
+    "codiceCatastale": "H935",
+    "sigla": "PG",
+    "cap": [
+      "06016"
+    ],
+    "capoluogo": false,
+    "popolazione": 11092,
+    "superficie": 80.1108,
+    "coordinate": {
+      "lat": 43.5484308,
+      "lng": 12.1765252
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sant'Anatolia di Narco",
+    "nomeAltraLingua": null,
+    "codice": "054045",
+    "codiceCatastale": "I263",
+    "sigla": "PG",
+    "cap": [
+      "06040"
+    ],
+    "capoluogo": false,
+    "popolazione": 484,
+    "superficie": 46.528,
+    "coordinate": {
+      "lat": 42.7329189,
+      "lng": 12.8356956
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Scheggia e Pascelupo",
+    "nomeAltraLingua": null,
+    "codice": "054046",
+    "codiceCatastale": "I522",
+    "sigla": "PG",
+    "cap": [
+      "06027"
+    ],
+    "capoluogo": false,
+    "popolazione": 1244,
+    "superficie": 63.9146,
+    "coordinate": {
+      "lat": 43.4035431,
+      "lng": 12.668209
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Scheggino",
+    "nomeAltraLingua": null,
+    "codice": "054047",
+    "codiceCatastale": "I523",
+    "sigla": "PG",
+    "cap": [
+      "06040"
+    ],
+    "capoluogo": false,
+    "popolazione": 435,
+    "superficie": 36.1451,
+    "coordinate": {
+      "lat": 42.7125167,
+      "lng": 12.8310709
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sellano",
+    "nomeAltraLingua": null,
+    "codice": "054048",
+    "codiceCatastale": "I585",
+    "sigla": "PG",
+    "cap": [
+      "06030"
+    ],
+    "capoluogo": false,
+    "popolazione": 964,
+    "superficie": 85.6942,
+    "coordinate": {
+      "lat": 42.8889275,
+      "lng": 12.9271799
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sigillo",
+    "nomeAltraLingua": null,
+    "codice": "054049",
+    "codiceCatastale": "I727",
+    "sigla": "PG",
+    "cap": [
+      "06028"
+    ],
+    "capoluogo": false,
+    "popolazione": 2308,
+    "superficie": 26.2027,
+    "coordinate": {
+      "lat": 43.3315502,
+      "lng": 12.7409289
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Spello",
+    "nomeAltraLingua": null,
+    "codice": "054050",
+    "codiceCatastale": "I888",
+    "sigla": "PG",
+    "cap": [
+      "06038"
+    ],
+    "capoluogo": false,
+    "popolazione": 8270,
+    "superficie": 61.7929,
+    "coordinate": {
+      "lat": 42.992107,
+      "lng": 12.6710697
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Spoleto",
+    "nomeAltraLingua": null,
+    "codice": "054051",
+    "codiceCatastale": "I921",
+    "sigla": "PG",
+    "cap": [
+      "06049"
+    ],
+    "capoluogo": false,
+    "popolazione": 36149,
+    "superficie": 347.1161,
+    "coordinate": {
+      "lat": 42.734375,
+      "lng": 12.7383654
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Todi",
+    "nomeAltraLingua": null,
+    "codice": "054052",
+    "codiceCatastale": "L188",
+    "sigla": "PG",
+    "cap": [
+      "06059"
+    ],
+    "capoluogo": false,
+    "popolazione": 15572,
+    "superficie": 223.6367,
+    "coordinate": {
+      "lat": 42.7819704,
+      "lng": 12.4069404
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Torgiano",
+    "nomeAltraLingua": null,
+    "codice": "054053",
+    "codiceCatastale": "L216",
+    "sigla": "PG",
+    "cap": [
+      "06089"
+    ],
+    "capoluogo": false,
+    "popolazione": 6598,
+    "superficie": 37.3873,
+    "coordinate": {
+      "lat": 43.0255896,
+      "lng": 12.4339818
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Trevi",
+    "nomeAltraLingua": null,
+    "codice": "054054",
+    "codiceCatastale": "L397",
+    "sigla": "PG",
+    "cap": [
+      "06039"
+    ],
+    "capoluogo": false,
+    "popolazione": 7959,
+    "superficie": 71.0133,
+    "coordinate": {
+      "lat": 42.8774243,
+      "lng": 12.747749
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tuoro sul Trasimeno",
+    "nomeAltraLingua": null,
+    "codice": "054055",
+    "codiceCatastale": "L466",
+    "sigla": "PG",
+    "cap": [
+      "06069"
+    ],
+    "capoluogo": false,
+    "popolazione": 3732,
+    "superficie": 55.8526,
+    "coordinate": {
+      "lat": 43.208739,
+      "lng": 12.0716341
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Umbertide",
+    "nomeAltraLingua": null,
+    "codice": "054056",
+    "codiceCatastale": "D786",
+    "sigla": "PG",
+    "cap": [
+      "06019"
+    ],
+    "capoluogo": false,
+    "popolazione": 16254,
+    "superficie": 199.7793,
+    "coordinate": {
+      "lat": 43.3065625,
+      "lng": 12.3269485
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Valfabbrica",
+    "nomeAltraLingua": null,
+    "codice": "054057",
+    "codiceCatastale": "L573",
+    "sigla": "PG",
+    "cap": [
+      "06029"
+    ],
+    "capoluogo": false,
+    "popolazione": 3226,
+    "superficie": 92.6168,
+    "coordinate": {
+      "lat": 43.1594405,
+      "lng": 12.6016366
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vallo di Nera",
+    "nomeAltraLingua": null,
+    "codice": "054058",
+    "codiceCatastale": "L627",
+    "sigla": "PG",
+    "cap": [
+      "06040"
+    ],
+    "capoluogo": false,
+    "popolazione": 327,
+    "superficie": 36.3201,
+    "coordinate": {
+      "lat": 42.769682,
+      "lng": 12.8623463
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Valtopina",
+    "nomeAltraLingua": null,
+    "codice": "054059",
+    "codiceCatastale": "L653",
+    "sigla": "PG",
+    "cap": [
+      "06030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1282,
+    "superficie": 40.4228,
+    "coordinate": {
+      "lat": 43.0589297,
+      "lng": 12.7545816
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Perugia",
+      "codice": "054",
+      "sigla": "PG",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Acquasparta",
+    "nomeAltraLingua": null,
+    "codice": "055001",
+    "codiceCatastale": "A045",
+    "sigla": "TR",
+    "cap": [
+      "05021"
+    ],
+    "capoluogo": false,
+    "popolazione": 4391,
+    "superficie": 81.664,
+    "coordinate": {
+      "lat": 42.6903614,
+      "lng": 12.5462203
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Allerona",
+    "nomeAltraLingua": null,
+    "codice": "055002",
+    "codiceCatastale": "A207",
+    "sigla": "TR",
+    "cap": [
+      "05011"
+    ],
+    "capoluogo": false,
+    "popolazione": 1691,
+    "superficie": 83.055,
+    "coordinate": {
+      "lat": 42.8115338,
+      "lng": 11.9737871
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Alviano",
+    "nomeAltraLingua": null,
+    "codice": "055003",
+    "codiceCatastale": "A242",
+    "sigla": "TR",
+    "cap": [
+      "05020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1345,
+    "superficie": 23.9315,
+    "coordinate": {
+      "lat": 42.5878724,
+      "lng": 12.2955536
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Amelia",
+    "nomeAltraLingua": null,
+    "codice": "055004",
+    "codiceCatastale": "A262",
+    "sigla": "TR",
+    "cap": [
+      "05022"
+    ],
+    "capoluogo": false,
+    "popolazione": 11518,
+    "superficie": 132.4167,
+    "coordinate": {
+      "lat": 42.5587692,
+      "lng": 12.4119682
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Arrone",
+    "nomeAltraLingua": null,
+    "codice": "055005",
+    "codiceCatastale": "A439",
+    "sigla": "TR",
+    "cap": [
+      "05031"
+    ],
+    "capoluogo": false,
+    "popolazione": 2526,
+    "superficie": 41.4482,
+    "coordinate": {
+      "lat": 42.5827796,
+      "lng": 12.7691479
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Attigliano",
+    "nomeAltraLingua": null,
+    "codice": "055006",
+    "codiceCatastale": "A490",
+    "sigla": "TR",
+    "cap": [
+      "05012"
+    ],
+    "capoluogo": false,
+    "popolazione": 1974,
+    "superficie": 10.7145,
+    "coordinate": {
+      "lat": 42.5148791,
+      "lng": 12.2893937
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Baschi",
+    "nomeAltraLingua": null,
+    "codice": "055007",
+    "codiceCatastale": "A691",
+    "sigla": "TR",
+    "cap": [
+      "05023"
+    ],
+    "capoluogo": false,
+    "popolazione": 2555,
+    "superficie": 68.5994,
+    "coordinate": {
+      "lat": 42.6701989,
+      "lng": 12.216253
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Calvi dell'Umbria",
+    "nomeAltraLingua": null,
+    "codice": "055008",
+    "codiceCatastale": "B446",
+    "sigla": "TR",
+    "cap": [
+      "05032"
+    ],
+    "capoluogo": false,
+    "popolazione": 1671,
+    "superficie": 45.6985,
+    "coordinate": {
+      "lat": 42.4013924,
+      "lng": 12.5675843
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castel Giorgio",
+    "nomeAltraLingua": null,
+    "codice": "055009",
+    "codiceCatastale": "C117",
+    "sigla": "TR",
+    "cap": [
+      "05013"
+    ],
+    "capoluogo": false,
+    "popolazione": 1989,
+    "superficie": 42.3585,
+    "coordinate": {
+      "lat": 42.7077639,
+      "lng": 11.9795889
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castel Viscardo",
+    "nomeAltraLingua": null,
+    "codice": "055010",
+    "codiceCatastale": "C289",
+    "sigla": "TR",
+    "cap": [
+      "05014"
+    ],
+    "capoluogo": false,
+    "popolazione": 2648,
+    "superficie": 26.3394,
+    "coordinate": {
+      "lat": 42.7554981,
+      "lng": 12.0015732
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fabro",
+    "nomeAltraLingua": null,
+    "codice": "055011",
+    "codiceCatastale": "D454",
+    "sigla": "TR",
+    "cap": [
+      "05015"
+    ],
+    "capoluogo": false,
+    "popolazione": 2580,
+    "superficie": 34.6154,
+    "coordinate": {
+      "lat": 42.8633212,
+      "lng": 12.0129738
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ferentillo",
+    "nomeAltraLingua": null,
+    "codice": "055012",
+    "codiceCatastale": "D538",
+    "sigla": "TR",
+    "cap": [
+      "05034"
+    ],
+    "capoluogo": false,
+    "popolazione": 1777,
+    "superficie": 69.3595,
+    "coordinate": {
+      "lat": 42.6205372,
+      "lng": 12.7900665
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ficulle",
+    "nomeAltraLingua": null,
+    "codice": "055013",
+    "codiceCatastale": "D570",
+    "sigla": "TR",
+    "cap": [
+      "05016"
+    ],
+    "capoluogo": false,
+    "popolazione": 1547,
+    "superficie": 64.127,
+    "coordinate": {
+      "lat": 42.8360468,
+      "lng": 12.0662217
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Giove",
+    "nomeAltraLingua": null,
+    "codice": "055014",
+    "codiceCatastale": "E045",
+    "sigla": "TR",
+    "cap": [
+      "05024"
+    ],
+    "capoluogo": false,
+    "popolazione": 1830,
+    "superficie": 15.0963,
+    "coordinate": {
+      "lat": 42.5092567,
+      "lng": 12.3252549
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Guardea",
+    "nomeAltraLingua": null,
+    "codice": "055015",
+    "codiceCatastale": "E241",
+    "sigla": "TR",
+    "cap": [
+      "05025"
+    ],
+    "capoluogo": false,
+    "popolazione": 1728,
+    "superficie": 39.555,
+    "coordinate": {
+      "lat": 42.6235354,
+      "lng": 12.2971552
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lugnano in Teverina",
+    "nomeAltraLingua": null,
+    "codice": "055016",
+    "codiceCatastale": "E729",
+    "sigla": "TR",
+    "cap": [
+      "05020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1404,
+    "superficie": 29.7063,
+    "coordinate": {
+      "lat": 42.5742838,
+      "lng": 12.3305458
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montecastrilli",
+    "nomeAltraLingua": null,
+    "codice": "055017",
+    "codiceCatastale": "F457",
+    "sigla": "TR",
+    "cap": [
+      "05026"
+    ],
+    "capoluogo": false,
+    "popolazione": 4780,
+    "superficie": 62.3422,
+    "coordinate": {
+      "lat": 42.6497704,
+      "lng": 12.4878122
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montecchio",
+    "nomeAltraLingua": null,
+    "codice": "055018",
+    "codiceCatastale": "F462",
+    "sigla": "TR",
+    "cap": [
+      "05020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1493,
+    "superficie": 49.1428,
+    "coordinate": {
+      "lat": 42.662383,
+      "lng": 12.2870771
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montefranco",
+    "nomeAltraLingua": null,
+    "codice": "055019",
+    "codiceCatastale": "F510",
+    "sigla": "TR",
+    "cap": [
+      "05030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1285,
+    "superficie": 10.1284,
+    "coordinate": {
+      "lat": 42.5970509,
+      "lng": 12.7662969
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montegabbione",
+    "nomeAltraLingua": null,
+    "codice": "055020",
+    "codiceCatastale": "F513",
+    "sigla": "TR",
+    "cap": [
+      "05010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1114,
+    "superficie": 50.9403,
+    "coordinate": {
+      "lat": 42.9215813,
+      "lng": 12.0927014
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monteleone d'Orvieto",
+    "nomeAltraLingua": null,
+    "codice": "055021",
+    "codiceCatastale": "F543",
+    "sigla": "TR",
+    "cap": [
+      "05017"
+    ],
+    "capoluogo": false,
+    "popolazione": 1361,
+    "superficie": 23.8336,
+    "coordinate": {
+      "lat": 42.9164134,
+      "lng": 12.051384
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Narni",
+    "nomeAltraLingua": null,
+    "codice": "055022",
+    "codiceCatastale": "F844",
+    "sigla": "TR",
+    "cap": [
+      "05035"
+    ],
+    "capoluogo": false,
+    "popolazione": 17861,
+    "superficie": 198.0534,
+    "coordinate": {
+      "lat": 42.51926,
+      "lng": 12.5151852
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Orvieto",
+    "nomeAltraLingua": null,
+    "codice": "055023",
+    "codiceCatastale": "G148",
+    "sigla": "TR",
+    "cap": [
+      "05018"
+    ],
+    "capoluogo": false,
+    "popolazione": 19319,
+    "superficie": 281.2834,
+    "coordinate": {
+      "lat": 42.7181522,
+      "lng": 12.1082237
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Otricoli",
+    "nomeAltraLingua": null,
+    "codice": "055024",
+    "codiceCatastale": "G189",
+    "sigla": "TR",
+    "cap": [
+      "05030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1676,
+    "superficie": 27.6674,
+    "coordinate": {
+      "lat": 42.423205,
+      "lng": 12.4782826
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Parrano",
+    "nomeAltraLingua": null,
+    "codice": "055025",
+    "codiceCatastale": "G344",
+    "sigla": "TR",
+    "cap": [
+      "05010"
+    ],
+    "capoluogo": false,
+    "popolazione": 477,
+    "superficie": 40.1395,
+    "coordinate": {
+      "lat": 42.8638941,
+      "lng": 12.1065447
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Penna in Teverina",
+    "nomeAltraLingua": null,
+    "codice": "055026",
+    "codiceCatastale": "G432",
+    "sigla": "TR",
+    "cap": [
+      "05028"
+    ],
+    "capoluogo": false,
+    "popolazione": 1016,
+    "superficie": 10.2837,
+    "coordinate": {
+      "lat": 42.4923695,
+      "lng": 12.3554562
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Polino",
+    "nomeAltraLingua": null,
+    "codice": "055027",
+    "codiceCatastale": "G790",
+    "sigla": "TR",
+    "cap": [
+      "05030"
+    ],
+    "capoluogo": false,
+    "popolazione": 204,
+    "superficie": 19.5493,
+    "coordinate": {
+      "lat": 42.5848221,
+      "lng": 12.8439332
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Porano",
+    "nomeAltraLingua": null,
+    "codice": "055028",
+    "codiceCatastale": "G881",
+    "sigla": "TR",
+    "cap": [
+      "05010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1848,
+    "superficie": 13.4881,
+    "coordinate": {
+      "lat": 42.6872116,
+      "lng": 12.1021326
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Gemini",
+    "nomeAltraLingua": null,
+    "codice": "055029",
+    "codiceCatastale": "H857",
+    "sigla": "TR",
+    "cap": [
+      "05029"
+    ],
+    "capoluogo": false,
+    "popolazione": 4690,
+    "superficie": 28.085,
+    "coordinate": {
+      "lat": 42.613453,
+      "lng": 12.5463707
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Venanzo",
+    "nomeAltraLingua": null,
+    "codice": "055030",
+    "codiceCatastale": "I381",
+    "sigla": "TR",
+    "cap": [
+      "05010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2161,
+    "superficie": 168.9557,
+    "coordinate": {
+      "lat": 42.8691422,
+      "lng": 12.2664886
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Stroncone",
+    "nomeAltraLingua": null,
+    "codice": "055031",
+    "codiceCatastale": "I981",
+    "sigla": "TR",
+    "cap": [
+      "05039"
+    ],
+    "capoluogo": false,
+    "popolazione": 4604,
+    "superficie": 70.9777,
+    "coordinate": {
+      "lat": 42.4982073,
+      "lng": 12.6627364
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Terni",
+    "nomeAltraLingua": null,
+    "codice": "055032",
+    "codiceCatastale": "L117",
+    "sigla": "TR",
+    "cap": [
+      "05100"
+    ],
+    "capoluogo": true,
+    "popolazione": 106436,
+    "superficie": 212.1674,
+    "coordinate": {
+      "lat": 42.5607395,
+      "lng": 12.6467819
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Avigliano Umbro",
+    "nomeAltraLingua": null,
+    "codice": "055033",
+    "codiceCatastale": "M258",
+    "sigla": "TR",
+    "cap": [
+      "05020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2347,
+    "superficie": 51.2197,
+    "coordinate": {
+      "lat": 42.6554332,
+      "lng": 12.4284779
+    },
+    "zona": {
+      "nome": "Centro",
+      "codice": "3"
+    },
+    "regione": {
+      "nome": "Umbria",
+      "codice": "10"
+    },
+    "provincia": {
+      "nome": "Terni",
+      "codice": "055",
+      "sigla": "TR",
+      "tipo": "provincia"
+    }
+  }
+]

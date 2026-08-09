@@ -1,0 +1,6694 @@
+[
+  {
+    "nome": "Aiello del Friuli",
+    "nomeAltraLingua": null,
+    "codice": "030001",
+    "codiceCatastale": "A103",
+    "sigla": "UD",
+    "cap": [
+      "33041"
+    ],
+    "capoluogo": false,
+    "popolazione": 2121,
+    "superficie": 13.4382,
+    "coordinate": {
+      "lat": 45.8706935,
+      "lng": 13.3621945
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Amaro",
+    "nomeAltraLingua": null,
+    "codice": "030002",
+    "codiceCatastale": "A254",
+    "sigla": "UD",
+    "cap": [
+      "33020"
+    ],
+    "capoluogo": false,
+    "popolazione": 844,
+    "superficie": 33.2387,
+    "coordinate": {
+      "lat": 46.3737679,
+      "lng": 13.0957077
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Ampezzo",
+    "nomeAltraLingua": null,
+    "codice": "030003",
+    "codiceCatastale": "A267",
+    "sigla": "UD",
+    "cap": [
+      "33021"
+    ],
+    "capoluogo": false,
+    "popolazione": 891,
+    "superficie": 73.3237,
+    "coordinate": {
+      "lat": 46.416722,
+      "lng": 12.7945769
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Aquileia",
+    "nomeAltraLingua": null,
+    "codice": "030004",
+    "codiceCatastale": "A346",
+    "sigla": "UD",
+    "cap": [
+      "33051"
+    ],
+    "capoluogo": false,
+    "popolazione": 3152,
+    "superficie": 37.5824,
+    "coordinate": {
+      "lat": 45.766499,
+      "lng": 13.3651526
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Arta Terme",
+    "nomeAltraLingua": null,
+    "codice": "030005",
+    "codiceCatastale": "A447",
+    "sigla": "UD",
+    "cap": [
+      "33022"
+    ],
+    "capoluogo": false,
+    "popolazione": 2022,
+    "superficie": 42.7646,
+    "coordinate": {
+      "lat": 46.4729248,
+      "lng": 13.024905
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Artegna",
+    "nomeAltraLingua": null,
+    "codice": "030006",
+    "codiceCatastale": "A448",
+    "sigla": "UD",
+    "cap": [
+      "33011"
+    ],
+    "capoluogo": false,
+    "popolazione": 2878,
+    "superficie": 11.3836,
+    "coordinate": {
+      "lat": 46.2418585,
+      "lng": 13.1559996
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Attimis",
+    "nomeAltraLingua": null,
+    "codice": "030007",
+    "codiceCatastale": "A491",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1641,
+    "superficie": 33.4964,
+    "coordinate": {
+      "lat": 46.1888082,
+      "lng": 13.3051415
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Bagnaria Arsa",
+    "nomeAltraLingua": null,
+    "codice": "030008",
+    "codiceCatastale": "A553",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 3461,
+    "superficie": 18.7975,
+    "coordinate": {
+      "lat": 45.8879568,
+      "lng": 13.3014201
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Basiliano",
+    "nomeAltraLingua": null,
+    "codice": "030009",
+    "codiceCatastale": "A700",
+    "sigla": "UD",
+    "cap": [
+      "33031"
+    ],
+    "capoluogo": false,
+    "popolazione": 5161,
+    "superficie": 42.5993,
+    "coordinate": {
+      "lat": 46.0158327,
+      "lng": 13.1068022
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Bertiolo",
+    "nomeAltraLingua": null,
+    "codice": "030010",
+    "codiceCatastale": "A810",
+    "sigla": "UD",
+    "cap": [
+      "33032"
+    ],
+    "capoluogo": false,
+    "popolazione": 2344,
+    "superficie": 26.5755,
+    "coordinate": {
+      "lat": 45.9435991,
+      "lng": 13.0550942
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Bicinicco",
+    "nomeAltraLingua": null,
+    "codice": "030011",
+    "codiceCatastale": "A855",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1792,
+    "superficie": 15.9995,
+    "coordinate": {
+      "lat": 45.931248,
+      "lng": 13.249633
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Bordano",
+    "nomeAltraLingua": null,
+    "codice": "030012",
+    "codiceCatastale": "A983",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 698,
+    "superficie": 14.8947,
+    "coordinate": {
+      "lat": 46.315381,
+      "lng": 13.1060039
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Buja",
+    "nomeAltraLingua": null,
+    "codice": "030013",
+    "codiceCatastale": "B259",
+    "sigla": "UD",
+    "cap": [
+      "33030"
+    ],
+    "capoluogo": false,
+    "popolazione": 6333,
+    "superficie": 25.6886,
+    "coordinate": {
+      "lat": 46.2091174,
+      "lng": 13.1256971
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Buttrio",
+    "nomeAltraLingua": null,
+    "codice": "030014",
+    "codiceCatastale": "B309",
+    "sigla": "UD",
+    "cap": [
+      "33042"
+    ],
+    "capoluogo": false,
+    "popolazione": 3926,
+    "superficie": 17.6558,
+    "coordinate": {
+      "lat": 46.0131143,
+      "lng": 13.3306289
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Camino al Tagliamento",
+    "nomeAltraLingua": null,
+    "codice": "030015",
+    "codiceCatastale": "B483",
+    "sigla": "UD",
+    "cap": [
+      "33030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1528,
+    "superficie": 22.4242,
+    "coordinate": {
+      "lat": 45.9271655,
+      "lng": 12.9440574
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Campoformido",
+    "nomeAltraLingua": null,
+    "codice": "030016",
+    "codiceCatastale": "B536",
+    "sigla": "UD",
+    "cap": [
+      "33030"
+    ],
+    "capoluogo": false,
+    "popolazione": 7864,
+    "superficie": 21.8555,
+    "coordinate": {
+      "lat": 46.0198972,
+      "lng": 13.1601115
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Carlino",
+    "nomeAltraLingua": null,
+    "codice": "030018",
+    "codiceCatastale": "B788",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 2634,
+    "superficie": 29.9597,
+    "coordinate": {
+      "lat": 45.8018017,
+      "lng": 13.1880662
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Cassacco",
+    "nomeAltraLingua": null,
+    "codice": "030019",
+    "codiceCatastale": "B994",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2793,
+    "superficie": 11.7766,
+    "coordinate": {
+      "lat": 46.1739443,
+      "lng": 13.1862703
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Castions di Strada",
+    "nomeAltraLingua": null,
+    "codice": "030020",
+    "codiceCatastale": "C327",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 3672,
+    "superficie": 32.6102,
+    "coordinate": {
+      "lat": 45.9085447,
+      "lng": 13.1849332
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Cavazzo Carnico",
+    "nomeAltraLingua": null,
+    "codice": "030021",
+    "codiceCatastale": "C389",
+    "sigla": "UD",
+    "cap": [
+      "33020"
+    ],
+    "capoluogo": false,
+    "popolazione": 954,
+    "superficie": 39.5168,
+    "coordinate": {
+      "lat": 46.3672565,
+      "lng": 13.0410374
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Cercivento",
+    "nomeAltraLingua": null,
+    "codice": "030022",
+    "codiceCatastale": "C494",
+    "sigla": "UD",
+    "cap": [
+      "33020"
+    ],
+    "capoluogo": false,
+    "popolazione": 640,
+    "superficie": 15.835,
+    "coordinate": {
+      "lat": 46.5271816,
+      "lng": 12.9877567
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Cervignano del Friuli",
+    "nomeAltraLingua": null,
+    "codice": "030023",
+    "codiceCatastale": "C556",
+    "sigla": "UD",
+    "cap": [
+      "33052"
+    ],
+    "capoluogo": false,
+    "popolazione": 13680,
+    "superficie": 29.5762,
+    "coordinate": {
+      "lat": 45.8234677,
+      "lng": 13.3343357
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Chiopris-Viscone",
+    "nomeAltraLingua": null,
+    "codice": "030024",
+    "codiceCatastale": "C641",
+    "sigla": "UD",
+    "cap": [
+      "33048"
+    ],
+    "capoluogo": false,
+    "popolazione": 703,
+    "superficie": 8.9063,
+    "coordinate": {
+      "lat": 45.9245255,
+      "lng": 13.4027729
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Chiusaforte",
+    "nomeAltraLingua": null,
+    "codice": "030025",
+    "codiceCatastale": "C656",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 594,
+    "superficie": 99.7389,
+    "coordinate": {
+      "lat": 46.4082254,
+      "lng": 13.3107517
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Cividale del Friuli",
+    "nomeAltraLingua": null,
+    "codice": "030026",
+    "codiceCatastale": "C758",
+    "sigla": "UD",
+    "cap": [
+      "33043"
+    ],
+    "capoluogo": false,
+    "popolazione": 10780,
+    "superficie": 50.9091,
+    "coordinate": {
+      "lat": 46.0929379,
+      "lng": 13.430958
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Codroipo",
+    "nomeAltraLingua": null,
+    "codice": "030027",
+    "codiceCatastale": "C817",
+    "sigla": "UD",
+    "cap": [
+      "33033"
+    ],
+    "capoluogo": false,
+    "popolazione": 15920,
+    "superficie": 74.9,
+    "coordinate": {
+      "lat": 45.9616945,
+      "lng": 12.9772079
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Colloredo di Monte Albano",
+    "nomeAltraLingua": null,
+    "codice": "030028",
+    "codiceCatastale": "C885",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2177,
+    "superficie": 21.9005,
+    "coordinate": {
+      "lat": 46.1635,
+      "lng": 13.1365043
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Comeglians",
+    "nomeAltraLingua": null,
+    "codice": "030029",
+    "codiceCatastale": "C918",
+    "sigla": "UD",
+    "cap": [
+      "33023"
+    ],
+    "capoluogo": false,
+    "popolazione": 424,
+    "superficie": 19.1379,
+    "coordinate": {
+      "lat": 46.5137743,
+      "lng": 12.8676016
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Corno di Rosazzo",
+    "nomeAltraLingua": null,
+    "codice": "030030",
+    "codiceCatastale": "D027",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 3143,
+    "superficie": 12.7002,
+    "coordinate": {
+      "lat": 45.9966278,
+      "lng": 13.4415942
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Coseano",
+    "nomeAltraLingua": null,
+    "codice": "030031",
+    "codiceCatastale": "D085",
+    "sigla": "UD",
+    "cap": [
+      "33030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2012,
+    "superficie": 23.8174,
+    "coordinate": {
+      "lat": 46.0969525,
+      "lng": 13.018735
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Dignano",
+    "nomeAltraLingua": null,
+    "codice": "030032",
+    "codiceCatastale": "D300",
+    "sigla": "UD",
+    "cap": [
+      "33030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2237,
+    "superficie": 27.8842,
+    "coordinate": {
+      "lat": 46.0874314,
+      "lng": 12.938067
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Dogna",
+    "nomeAltraLingua": null,
+    "codice": "030033",
+    "codiceCatastale": "D316",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 150,
+    "superficie": 70.4054,
+    "coordinate": {
+      "lat": 46.4476642,
+      "lng": 13.3159533
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Drenchia",
+    "nomeAltraLingua": null,
+    "codice": "030034",
+    "codiceCatastale": "D366",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 101,
+    "superficie": 12.4457,
+    "coordinate": {
+      "lat": 46.1753124,
+      "lng": 13.6221992
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Enemonzo",
+    "nomeAltraLingua": null,
+    "codice": "030035",
+    "codiceCatastale": "D408",
+    "sigla": "UD",
+    "cap": [
+      "33020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1261,
+    "superficie": 23.2248,
+    "coordinate": {
+      "lat": 46.4104445,
+      "lng": 12.8792528
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Faedis",
+    "nomeAltraLingua": null,
+    "codice": "030036",
+    "codiceCatastale": "D455",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 2754,
+    "superficie": 46.6872,
+    "coordinate": {
+      "lat": 46.1527461,
+      "lng": 13.3440843
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Fagagna",
+    "nomeAltraLingua": null,
+    "codice": "030037",
+    "codiceCatastale": "D461",
+    "sigla": "UD",
+    "cap": [
+      "33034"
+    ],
+    "capoluogo": false,
+    "popolazione": 5982,
+    "superficie": 37.0558,
+    "coordinate": {
+      "lat": 46.1131327,
+      "lng": 13.083997
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Flaibano",
+    "nomeAltraLingua": null,
+    "codice": "030039",
+    "codiceCatastale": "D630",
+    "sigla": "UD",
+    "cap": [
+      "33030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1086,
+    "superficie": 17.24,
+    "coordinate": {
+      "lat": 46.0586724,
+      "lng": 12.983684
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Forni Avoltri",
+    "nomeAltraLingua": null,
+    "codice": "030040",
+    "codiceCatastale": "D718",
+    "sigla": "UD",
+    "cap": [
+      "33020"
+    ],
+    "capoluogo": false,
+    "popolazione": 501,
+    "superficie": 80.7073,
+    "coordinate": {
+      "lat": 46.5845083,
+      "lng": 12.77844
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Forni di Sopra",
+    "nomeAltraLingua": null,
+    "codice": "030041",
+    "codiceCatastale": "D719",
+    "sigla": "UD",
+    "cap": [
+      "33024"
+    ],
+    "capoluogo": false,
+    "popolazione": 914,
+    "superficie": 81.8981,
+    "coordinate": {
+      "lat": 46.4238035,
+      "lng": 12.5785614
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Forni di Sotto",
+    "nomeAltraLingua": null,
+    "codice": "030042",
+    "codiceCatastale": "D720",
+    "sigla": "UD",
+    "cap": [
+      "33020"
+    ],
+    "capoluogo": false,
+    "popolazione": 530,
+    "superficie": 93.5235,
+    "coordinate": {
+      "lat": 46.3936248,
+      "lng": 12.6717915
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Gemona del Friuli",
+    "nomeAltraLingua": null,
+    "codice": "030043",
+    "codiceCatastale": "D962",
+    "sigla": "UD",
+    "cap": [
+      "33013"
+    ],
+    "capoluogo": false,
+    "popolazione": 10514,
+    "superficie": 56.3281,
+    "coordinate": {
+      "lat": 46.2768996,
+      "lng": 13.1397315
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Gonars",
+    "nomeAltraLingua": null,
+    "codice": "030044",
+    "codiceCatastale": "E083",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 4530,
+    "superficie": 19.7357,
+    "coordinate": {
+      "lat": 45.8966233,
+      "lng": 13.2362607
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Grimacco",
+    "nomeAltraLingua": null,
+    "codice": "030045",
+    "codiceCatastale": "E179",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 297,
+    "superficie": 15.6668,
+    "coordinate": {
+      "lat": 46.1565447,
+      "lng": 13.5936486
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Latisana",
+    "nomeAltraLingua": null,
+    "codice": "030046",
+    "codiceCatastale": "E473",
+    "sigla": "UD",
+    "cap": [
+      "33053"
+    ],
+    "capoluogo": false,
+    "popolazione": 13226,
+    "superficie": 37.6037,
+    "coordinate": {
+      "lat": 45.7762603,
+      "lng": 12.9953168
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Lauco",
+    "nomeAltraLingua": null,
+    "codice": "030047",
+    "codiceCatastale": "E476",
+    "sigla": "UD",
+    "cap": [
+      "33029"
+    ],
+    "capoluogo": false,
+    "popolazione": 649,
+    "superficie": 34.9157,
+    "coordinate": {
+      "lat": 46.4241786,
+      "lng": 12.9331387
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Lestizza",
+    "nomeAltraLingua": null,
+    "codice": "030048",
+    "codiceCatastale": "E553",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 3605,
+    "superficie": 34.4636,
+    "coordinate": {
+      "lat": 45.9578189,
+      "lng": 13.141103
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Lignano Sabbiadoro",
+    "nomeAltraLingua": null,
+    "codice": "030049",
+    "codiceCatastale": "E584",
+    "sigla": "UD",
+    "cap": [
+      "33054"
+    ],
+    "capoluogo": false,
+    "popolazione": 6901,
+    "superficie": 15.7089,
+    "coordinate": {
+      "lat": 45.6889113,
+      "lng": 13.1292478
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Lusevera",
+    "nomeAltraLingua": null,
+    "codice": "030051",
+    "codiceCatastale": "E760",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 597,
+    "superficie": 52.8851,
+    "coordinate": {
+      "lat": 46.2647409,
+      "lng": 13.2603193
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Magnano in Riviera",
+    "nomeAltraLingua": null,
+    "codice": "030052",
+    "codiceCatastale": "E820",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2245,
+    "superficie": 8.2293,
+    "coordinate": {
+      "lat": 46.2309874,
+      "lng": 13.1775829
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Majano",
+    "nomeAltraLingua": null,
+    "codice": "030053",
+    "codiceCatastale": "E833",
+    "sigla": "UD",
+    "cap": [
+      "33030"
+    ],
+    "capoluogo": false,
+    "popolazione": 5741,
+    "superficie": 28.5961,
+    "coordinate": {
+      "lat": 46.1852379,
+      "lng": 13.0690561
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Malborghetto Valbruna",
+    "nomeAltraLingua": null,
+    "codice": "030054",
+    "codiceCatastale": "E847",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 895,
+    "superficie": 124.455,
+    "coordinate": {
+      "lat": 46.5075371,
+      "lng": 13.4392782
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Manzano",
+    "nomeAltraLingua": null,
+    "codice": "030055",
+    "codiceCatastale": "E899",
+    "sigla": "UD",
+    "cap": [
+      "33044"
+    ],
+    "capoluogo": false,
+    "popolazione": 6333,
+    "superficie": 31.0776,
+    "coordinate": {
+      "lat": 45.9895658,
+      "lng": 13.3851951
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Marano Lagunare",
+    "nomeAltraLingua": null,
+    "codice": "030056",
+    "codiceCatastale": "E910",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1689,
+    "superficie": 86.711,
+    "coordinate": {
+      "lat": 45.765401,
+      "lng": 13.1673802
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Martignacco",
+    "nomeAltraLingua": null,
+    "codice": "030057",
+    "codiceCatastale": "E982",
+    "sigla": "UD",
+    "cap": [
+      "33035"
+    ],
+    "capoluogo": false,
+    "popolazione": 6861,
+    "superficie": 26.959,
+    "coordinate": {
+      "lat": 46.0982242,
+      "lng": 13.1304382
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Mereto di Tomba",
+    "nomeAltraLingua": null,
+    "codice": "030058",
+    "codiceCatastale": "F144",
+    "sigla": "UD",
+    "cap": [
+      "33036"
+    ],
+    "capoluogo": false,
+    "popolazione": 2519,
+    "superficie": 27.4896,
+    "coordinate": {
+      "lat": 46.0511519,
+      "lng": 13.0485614
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Moggio Udinese",
+    "nomeAltraLingua": null,
+    "codice": "030059",
+    "codiceCatastale": "F266",
+    "sigla": "UD",
+    "cap": [
+      "33015"
+    ],
+    "capoluogo": false,
+    "popolazione": 1615,
+    "superficie": 142.2862,
+    "coordinate": {
+      "lat": 46.4104436,
+      "lng": 13.1947629
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Moimacco",
+    "nomeAltraLingua": null,
+    "codice": "030060",
+    "codiceCatastale": "F275",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1602,
+    "superficie": 11.9047,
+    "coordinate": {
+      "lat": 46.0917947,
+      "lng": 13.3809387
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Montenars",
+    "nomeAltraLingua": null,
+    "codice": "030061",
+    "codiceCatastale": "F574",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 483,
+    "superficie": 20.4609,
+    "coordinate": {
+      "lat": 46.256702,
+      "lng": 13.1805473
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Mortegliano",
+    "nomeAltraLingua": null,
+    "codice": "030062",
+    "codiceCatastale": "F756",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 4799,
+    "superficie": 30.3439,
+    "coordinate": {
+      "lat": 45.9450334,
+      "lng": 13.172208
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Moruzzo",
+    "nomeAltraLingua": null,
+    "codice": "030063",
+    "codiceCatastale": "F760",
+    "sigla": "UD",
+    "cap": [
+      "33030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2401,
+    "superficie": 17.7251,
+    "coordinate": {
+      "lat": 46.1196634,
+      "lng": 13.1235749
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Muzzana del Turgnano",
+    "nomeAltraLingua": null,
+    "codice": "030064",
+    "codiceCatastale": "F832",
+    "sigla": "UD",
+    "cap": [
+      "33055"
+    ],
+    "capoluogo": false,
+    "popolazione": 2352,
+    "superficie": 24.2301,
+    "coordinate": {
+      "lat": 45.8175715,
+      "lng": 13.1278044
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Nimis",
+    "nomeAltraLingua": null,
+    "codice": "030065",
+    "codiceCatastale": "F898",
+    "sigla": "UD",
+    "cap": [
+      "33045"
+    ],
+    "capoluogo": false,
+    "popolazione": 2622,
+    "superficie": 33.6952,
+    "coordinate": {
+      "lat": 46.2012857,
+      "lng": 13.2658476
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Osoppo",
+    "nomeAltraLingua": null,
+    "codice": "030066",
+    "codiceCatastale": "G163",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2783,
+    "superficie": 22.3636,
+    "coordinate": {
+      "lat": 46.2566988,
+      "lng": 13.080459
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Ovaro",
+    "nomeAltraLingua": null,
+    "codice": "030067",
+    "codiceCatastale": "G198",
+    "sigla": "UD",
+    "cap": [
+      "33025"
+    ],
+    "capoluogo": false,
+    "popolazione": 1727,
+    "superficie": 58.2266,
+    "coordinate": {
+      "lat": 46.4832996,
+      "lng": 12.8655099
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Pagnacco",
+    "nomeAltraLingua": null,
+    "codice": "030068",
+    "codiceCatastale": "G238",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 5080,
+    "superficie": 14.8914,
+    "coordinate": {
+      "lat": 46.1240621,
+      "lng": 13.1881417
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Palazzolo dello Stella",
+    "nomeAltraLingua": null,
+    "codice": "030069",
+    "codiceCatastale": "G268",
+    "sigla": "UD",
+    "cap": [
+      "33056"
+    ],
+    "capoluogo": false,
+    "popolazione": 2824,
+    "superficie": 34.978,
+    "coordinate": {
+      "lat": 45.8045032,
+      "lng": 13.0794296
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Palmanova",
+    "nomeAltraLingua": null,
+    "codice": "030070",
+    "codiceCatastale": "G284",
+    "sigla": "UD",
+    "cap": [
+      "33057"
+    ],
+    "capoluogo": false,
+    "popolazione": 5352,
+    "superficie": 13.4477,
+    "coordinate": {
+      "lat": 45.9044411,
+      "lng": 13.3094918
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Paluzza",
+    "nomeAltraLingua": null,
+    "codice": "030071",
+    "codiceCatastale": "G300",
+    "sigla": "UD",
+    "cap": [
+      "33026"
+    ],
+    "capoluogo": false,
+    "popolazione": 1952,
+    "superficie": 69.9713,
+    "coordinate": {
+      "lat": 46.5296263,
+      "lng": 13.0163773
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Pasian di Prato",
+    "nomeAltraLingua": null,
+    "codice": "030072",
+    "codiceCatastale": "G352",
+    "sigla": "UD",
+    "cap": [
+      "33037"
+    ],
+    "capoluogo": false,
+    "popolazione": 9241,
+    "superficie": 15.5613,
+    "coordinate": {
+      "lat": 46.0491717,
+      "lng": 13.1908126
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Paularo",
+    "nomeAltraLingua": null,
+    "codice": "030073",
+    "codiceCatastale": "G381",
+    "sigla": "UD",
+    "cap": [
+      "33027"
+    ],
+    "capoluogo": false,
+    "popolazione": 2338,
+    "superficie": 84.1714,
+    "coordinate": {
+      "lat": 46.5303787,
+      "lng": 13.1163523
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Pavia di Udine",
+    "nomeAltraLingua": null,
+    "codice": "030074",
+    "codiceCatastale": "G389",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 5468,
+    "superficie": 34.7927,
+    "coordinate": {
+      "lat": 45.9775563,
+      "lng": 13.281671
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Pocenia",
+    "nomeAltraLingua": null,
+    "codice": "030075",
+    "codiceCatastale": "G743",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 2360,
+    "superficie": 24.477,
+    "coordinate": {
+      "lat": 45.8371461,
+      "lng": 13.0981559
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Pontebba",
+    "nomeAltraLingua": null,
+    "codice": "030076",
+    "codiceCatastale": "G831",
+    "sigla": "UD",
+    "cap": [
+      "33016"
+    ],
+    "capoluogo": false,
+    "popolazione": 1284,
+    "superficie": 99.9731,
+    "coordinate": {
+      "lat": 46.506093,
+      "lng": 13.3039405
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Porpetto",
+    "nomeAltraLingua": null,
+    "codice": "030077",
+    "codiceCatastale": "G891",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 2470,
+    "superficie": 17.6339,
+    "coordinate": {
+      "lat": 45.8585338,
+      "lng": 13.2148221
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Povoletto",
+    "nomeAltraLingua": null,
+    "codice": "030078",
+    "codiceCatastale": "G949",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 5416,
+    "superficie": 38.3022,
+    "coordinate": {
+      "lat": 46.1185191,
+      "lng": 13.2985727
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Pozzuolo del Friuli",
+    "nomeAltraLingua": null,
+    "codice": "030079",
+    "codiceCatastale": "G966",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 6864,
+    "superficie": 34.0238,
+    "coordinate": {
+      "lat": 45.9846802,
+      "lng": 13.1966103
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Pradamano",
+    "nomeAltraLingua": null,
+    "codice": "030080",
+    "codiceCatastale": "G969",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 3533,
+    "superficie": 16.0171,
+    "coordinate": {
+      "lat": 46.0312496,
+      "lng": 13.2992839
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Prato Carnico",
+    "nomeAltraLingua": null,
+    "codice": "030081",
+    "codiceCatastale": "H002",
+    "sigla": "UD",
+    "cap": [
+      "33020"
+    ],
+    "capoluogo": false,
+    "popolazione": 825,
+    "superficie": 81.872,
+    "coordinate": {
+      "lat": 46.5204965,
+      "lng": 12.7982076
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Precenicco",
+    "nomeAltraLingua": null,
+    "codice": "030082",
+    "codiceCatastale": "H014",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1426,
+    "superficie": 27.2281,
+    "coordinate": {
+      "lat": 45.7899524,
+      "lng": 13.0785037
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Premariacco",
+    "nomeAltraLingua": null,
+    "codice": "030083",
+    "codiceCatastale": "H029",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 3921,
+    "superficie": 39.5794,
+    "coordinate": {
+      "lat": 46.0602378,
+      "lng": 13.3940439
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Preone",
+    "nomeAltraLingua": null,
+    "codice": "030084",
+    "codiceCatastale": "H038",
+    "sigla": "UD",
+    "cap": [
+      "33020"
+    ],
+    "capoluogo": false,
+    "popolazione": 249,
+    "superficie": 22.389,
+    "coordinate": {
+      "lat": 46.3954015,
+      "lng": 12.8677043
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Prepotto",
+    "nomeAltraLingua": null,
+    "codice": "030085",
+    "codiceCatastale": "H040",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 702,
+    "superficie": 33.0774,
+    "coordinate": {
+      "lat": 46.0461019,
+      "lng": 13.4794808
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Pulfero",
+    "nomeAltraLingua": null,
+    "codice": "030086",
+    "codiceCatastale": "H089",
+    "sigla": "UD",
+    "cap": [
+      "33046"
+    ],
+    "capoluogo": false,
+    "popolazione": 831,
+    "superficie": 48.3908,
+    "coordinate": {
+      "lat": 46.1734124,
+      "lng": 13.4854184
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Ragogna",
+    "nomeAltraLingua": null,
+    "codice": "030087",
+    "codiceCatastale": "H161",
+    "sigla": "UD",
+    "cap": [
+      "33030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2831,
+    "superficie": 22.2029,
+    "coordinate": {
+      "lat": 46.1775594,
+      "lng": 12.9783372
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Ravascletto",
+    "nomeAltraLingua": null,
+    "codice": "030088",
+    "codiceCatastale": "H196",
+    "sigla": "UD",
+    "cap": [
+      "33020"
+    ],
+    "capoluogo": false,
+    "popolazione": 509,
+    "superficie": 26.5891,
+    "coordinate": {
+      "lat": 46.5256001,
+      "lng": 12.9221136
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Raveo",
+    "nomeAltraLingua": null,
+    "codice": "030089",
+    "codiceCatastale": "H200",
+    "sigla": "UD",
+    "cap": [
+      "33029"
+    ],
+    "capoluogo": false,
+    "popolazione": 437,
+    "superficie": 12.9961,
+    "coordinate": {
+      "lat": 46.434605,
+      "lng": 12.8701577
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Reana del Rojale",
+    "nomeAltraLingua": null,
+    "codice": "030090",
+    "codiceCatastale": "H206",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 4631,
+    "superficie": 20.1152,
+    "coordinate": {
+      "lat": 46.149673,
+      "lng": 13.2427805
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Remanzacco",
+    "nomeAltraLingua": null,
+    "codice": "030091",
+    "codiceCatastale": "H229",
+    "sigla": "UD",
+    "cap": [
+      "33047"
+    ],
+    "capoluogo": false,
+    "popolazione": 6013,
+    "superficie": 30.683,
+    "coordinate": {
+      "lat": 46.0853376,
+      "lng": 13.3244494
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Resia",
+    "nomeAltraLingua": null,
+    "codice": "030092",
+    "codiceCatastale": "H242",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 917,
+    "superficie": 119.3705,
+    "coordinate": {
+      "lat": 46.3732604,
+      "lng": 13.3051004
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Resiutta",
+    "nomeAltraLingua": null,
+    "codice": "030093",
+    "codiceCatastale": "H244",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 266,
+    "superficie": 20.3924,
+    "coordinate": {
+      "lat": 46.3930891,
+      "lng": 13.2202549
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Rigolato",
+    "nomeAltraLingua": null,
+    "codice": "030094",
+    "codiceCatastale": "H289",
+    "sigla": "UD",
+    "cap": [
+      "33020"
+    ],
+    "capoluogo": false,
+    "popolazione": 374,
+    "superficie": 30.7485,
+    "coordinate": {
+      "lat": 46.5498463,
+      "lng": 12.8535885
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Rive d'Arcano",
+    "nomeAltraLingua": null,
+    "codice": "030095",
+    "codiceCatastale": "H347",
+    "sigla": "UD",
+    "cap": [
+      "33030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2366,
+    "superficie": 22.4955,
+    "coordinate": {
+      "lat": 46.1262629,
+      "lng": 13.0309297
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Ronchis",
+    "nomeAltraLingua": null,
+    "codice": "030097",
+    "codiceCatastale": "H533",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1923,
+    "superficie": 18.5325,
+    "coordinate": {
+      "lat": 45.805807,
+      "lng": 12.9959635
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Ruda",
+    "nomeAltraLingua": null,
+    "codice": "030098",
+    "codiceCatastale": "H629",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 2787,
+    "superficie": 19.4956,
+    "coordinate": {
+      "lat": 45.8376648,
+      "lng": 13.4013396
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Daniele del Friuli",
+    "nomeAltraLingua": null,
+    "codice": "030099",
+    "codiceCatastale": "H816",
+    "sigla": "UD",
+    "cap": [
+      "33038"
+    ],
+    "capoluogo": false,
+    "popolazione": 7922,
+    "superficie": 34.1537,
+    "coordinate": {
+      "lat": 46.1611417,
+      "lng": 13.011189
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Giorgio di Nogaro",
+    "nomeAltraLingua": null,
+    "codice": "030100",
+    "codiceCatastale": "H895",
+    "sigla": "UD",
+    "cap": [
+      "33058"
+    ],
+    "capoluogo": false,
+    "popolazione": 7280,
+    "superficie": 26.5828,
+    "coordinate": {
+      "lat": 45.8328428,
+      "lng": 13.207008
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Giovanni al Natisone",
+    "nomeAltraLingua": null,
+    "codice": "030101",
+    "codiceCatastale": "H906",
+    "sigla": "UD",
+    "cap": [
+      "33048"
+    ],
+    "capoluogo": false,
+    "popolazione": 6024,
+    "superficie": 24.4689,
+    "coordinate": {
+      "lat": 45.9809499,
+      "lng": 13.4043114
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Leonardo",
+    "nomeAltraLingua": null,
+    "codice": "030102",
+    "codiceCatastale": "H951",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1019,
+    "superficie": 26.7263,
+    "coordinate": {
+      "lat": 46.121296,
+      "lng": 13.5236287
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Pietro al Natisone",
+    "nomeAltraLingua": null,
+    "codice": "030103",
+    "codiceCatastale": "I092",
+    "sigla": "UD",
+    "cap": [
+      "33049"
+    ],
+    "capoluogo": false,
+    "popolazione": 2084,
+    "superficie": 23.8739,
+    "coordinate": {
+      "lat": 46.1264746,
+      "lng": 13.4853218
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Santa Maria la Longa",
+    "nomeAltraLingua": null,
+    "codice": "030104",
+    "codiceCatastale": "I248",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 2298,
+    "superficie": 19.5886,
+    "coordinate": {
+      "lat": 45.9333093,
+      "lng": 13.2883054
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Vito al Torre",
+    "nomeAltraLingua": null,
+    "codice": "030105",
+    "codiceCatastale": "I404",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1220,
+    "superficie": 11.9731,
+    "coordinate": {
+      "lat": 45.8958279,
+      "lng": 13.3699835
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Vito di Fagagna",
+    "nomeAltraLingua": null,
+    "codice": "030106",
+    "codiceCatastale": "I405",
+    "sigla": "UD",
+    "cap": [
+      "33030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1664,
+    "superficie": 8.5054,
+    "coordinate": {
+      "lat": 46.088968,
+      "lng": 13.0572722
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Sauris",
+    "nomeAltraLingua": null,
+    "codice": "030107",
+    "codiceCatastale": "I464",
+    "sigla": "UD",
+    "cap": [
+      "33020"
+    ],
+    "capoluogo": false,
+    "popolazione": 390,
+    "superficie": 41.3417,
+    "coordinate": {
+      "lat": 46.4667,
+      "lng": 12.7082908
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Savogna",
+    "nomeAltraLingua": null,
+    "codice": "030108",
+    "codiceCatastale": "I478",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 354,
+    "superficie": 22.4716,
+    "coordinate": {
+      "lat": 46.1594308,
+      "lng": 13.533231
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Sedegliano",
+    "nomeAltraLingua": null,
+    "codice": "030109",
+    "codiceCatastale": "I562",
+    "sigla": "UD",
+    "cap": [
+      "33039"
+    ],
+    "capoluogo": false,
+    "popolazione": 3684,
+    "superficie": 50.585,
+    "coordinate": {
+      "lat": 46.0134771,
+      "lng": 12.9758326
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Socchieve",
+    "nomeAltraLingua": null,
+    "codice": "030110",
+    "codiceCatastale": "I777",
+    "sigla": "UD",
+    "cap": [
+      "33020"
+    ],
+    "capoluogo": false,
+    "popolazione": 861,
+    "superficie": 66.7014,
+    "coordinate": {
+      "lat": 46.4035648,
+      "lng": 12.8234709
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Stregna",
+    "nomeAltraLingua": null,
+    "codice": "030111",
+    "codiceCatastale": "I974",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 284,
+    "superficie": 19.8487,
+    "coordinate": {
+      "lat": 46.1271409,
+      "lng": 13.5776572
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Sutrio",
+    "nomeAltraLingua": null,
+    "codice": "030112",
+    "codiceCatastale": "L018",
+    "sigla": "UD",
+    "cap": [
+      "33020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1225,
+    "superficie": 20.551,
+    "coordinate": {
+      "lat": 46.5123645,
+      "lng": 12.9899938
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Taipana",
+    "nomeAltraLingua": null,
+    "codice": "030113",
+    "codiceCatastale": "G736",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 567,
+    "superficie": 65.5772,
+    "coordinate": {
+      "lat": 46.249793,
+      "lng": 13.3423616
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Talmassons",
+    "nomeAltraLingua": null,
+    "codice": "030114",
+    "codiceCatastale": "L039",
+    "sigla": "UD",
+    "cap": [
+      "33030"
+    ],
+    "capoluogo": false,
+    "popolazione": 3825,
+    "superficie": 42.9828,
+    "coordinate": {
+      "lat": 45.9302973,
+      "lng": 13.1152868
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Tarcento",
+    "nomeAltraLingua": null,
+    "codice": "030116",
+    "codiceCatastale": "L050",
+    "sigla": "UD",
+    "cap": [
+      "33017"
+    ],
+    "capoluogo": false,
+    "popolazione": 8845,
+    "superficie": 35.4012,
+    "coordinate": {
+      "lat": 46.2159104,
+      "lng": 13.2216426
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Tarvisio",
+    "nomeAltraLingua": null,
+    "codice": "030117",
+    "codiceCatastale": "L057",
+    "sigla": "UD",
+    "cap": [
+      "33018"
+    ],
+    "capoluogo": false,
+    "popolazione": 3942,
+    "superficie": 208.1652,
+    "coordinate": {
+      "lat": 46.5052702,
+      "lng": 13.5776745
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Tavagnacco",
+    "nomeAltraLingua": null,
+    "codice": "030118",
+    "codiceCatastale": "L065",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 14625,
+    "superficie": 15.2751,
+    "coordinate": {
+      "lat": 46.1013122,
+      "lng": 13.2153235
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Terzo d'Aquileia",
+    "nomeAltraLingua": null,
+    "codice": "030120",
+    "codiceCatastale": "L144",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 2708,
+    "superficie": 28.214,
+    "coordinate": {
+      "lat": 45.8002827,
+      "lng": 13.3463633
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Tolmezzo",
+    "nomeAltraLingua": null,
+    "codice": "030121",
+    "codiceCatastale": "L195",
+    "sigla": "UD",
+    "cap": [
+      "33028"
+    ],
+    "capoluogo": false,
+    "popolazione": 9776,
+    "superficie": 64.3531,
+    "coordinate": {
+      "lat": 46.4059327,
+      "lng": 13.0153268
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Torreano",
+    "nomeAltraLingua": null,
+    "codice": "030122",
+    "codiceCatastale": "L246",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 2037,
+    "superficie": 34.8775,
+    "coordinate": {
+      "lat": 46.1300297,
+      "lng": 13.4323095
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Torviscosa",
+    "nomeAltraLingua": null,
+    "codice": "030123",
+    "codiceCatastale": "L309",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 2590,
+    "superficie": 48.7436,
+    "coordinate": {
+      "lat": 45.8233064,
+      "lng": 13.2740988
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Trasaghis",
+    "nomeAltraLingua": null,
+    "codice": "030124",
+    "codiceCatastale": "L335",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2088,
+    "superficie": 78.2067,
+    "coordinate": {
+      "lat": 46.2826517,
+      "lng": 13.0753834
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Treppo Grande",
+    "nomeAltraLingua": null,
+    "codice": "030126",
+    "codiceCatastale": "L382",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1715,
+    "superficie": 11.2233,
+    "coordinate": {
+      "lat": 46.1906899,
+      "lng": 13.1570283
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Tricesimo",
+    "nomeAltraLingua": null,
+    "codice": "030127",
+    "codiceCatastale": "L421",
+    "sigla": "UD",
+    "cap": [
+      "33019"
+    ],
+    "capoluogo": false,
+    "popolazione": 7554,
+    "superficie": 17.7271,
+    "coordinate": {
+      "lat": 46.1619806,
+      "lng": 13.2118085
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Trivignano Udinese",
+    "nomeAltraLingua": null,
+    "codice": "030128",
+    "codiceCatastale": "L438",
+    "sigla": "UD",
+    "cap": [
+      "33050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1539,
+    "superficie": 18.678,
+    "coordinate": {
+      "lat": 45.946082,
+      "lng": 13.3403472
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Udine",
+    "nomeAltraLingua": null,
+    "codice": "030129",
+    "codiceCatastale": "L483",
+    "sigla": "UD",
+    "cap": [
+      "33100"
+    ],
+    "capoluogo": true,
+    "popolazione": 98304,
+    "superficie": 56.94,
+    "coordinate": {
+      "lat": 46.0633481,
+      "lng": 13.2354304
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Varmo",
+    "nomeAltraLingua": null,
+    "codice": "030130",
+    "codiceCatastale": "L686",
+    "sigla": "UD",
+    "cap": [
+      "33030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2647,
+    "superficie": 34.5541,
+    "coordinate": {
+      "lat": 45.8869831,
+      "lng": 12.9880412
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Venzone",
+    "nomeAltraLingua": null,
+    "codice": "030131",
+    "codiceCatastale": "L743",
+    "sigla": "UD",
+    "cap": [
+      "33010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1933,
+    "superficie": 54.3719,
+    "coordinate": {
+      "lat": 46.333684,
+      "lng": 13.1390782
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Verzegnis",
+    "nomeAltraLingua": null,
+    "codice": "030132",
+    "codiceCatastale": "L801",
+    "sigla": "UD",
+    "cap": [
+      "33020"
+    ],
+    "capoluogo": false,
+    "popolazione": 847,
+    "superficie": 39.2652,
+    "coordinate": {
+      "lat": 46.389922,
+      "lng": 12.9935887
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Villa Santina",
+    "nomeAltraLingua": null,
+    "codice": "030133",
+    "codiceCatastale": "L909",
+    "sigla": "UD",
+    "cap": [
+      "33029"
+    ],
+    "capoluogo": false,
+    "popolazione": 2125,
+    "superficie": 12.7685,
+    "coordinate": {
+      "lat": 46.4156296,
+      "lng": 12.9237029
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Visco",
+    "nomeAltraLingua": null,
+    "codice": "030135",
+    "codiceCatastale": "M073",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 830,
+    "superficie": 3.5174,
+    "coordinate": {
+      "lat": 45.892072,
+      "lng": 13.3475202
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Zuglio",
+    "nomeAltraLingua": null,
+    "codice": "030136",
+    "codiceCatastale": "M200",
+    "sigla": "UD",
+    "cap": [
+      "33020"
+    ],
+    "capoluogo": false,
+    "popolazione": 535,
+    "superficie": 18.3158,
+    "coordinate": {
+      "lat": 46.4609175,
+      "lng": 13.0261403
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Forgaria nel Friuli",
+    "nomeAltraLingua": null,
+    "codice": "030137",
+    "codiceCatastale": "D700",
+    "sigla": "UD",
+    "cap": [
+      "33030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1689,
+    "superficie": 28.6253,
+    "coordinate": {
+      "lat": 46.2241985,
+      "lng": 12.9685097
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Campolongo Tapogliano",
+    "nomeAltraLingua": null,
+    "codice": "030138",
+    "codiceCatastale": "M311",
+    "sigla": "UD",
+    "cap": [
+      "33040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1106,
+    "superficie": 10.858,
+    "coordinate": {
+      "lat": 45.8641576,
+      "lng": 13.3939957
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Rivignano Teor",
+    "nomeAltraLingua": null,
+    "codice": "030188",
+    "codiceCatastale": "M317",
+    "sigla": "UD",
+    "cap": [
+      "33061"
+    ],
+    "capoluogo": false,
+    "popolazione": 6250,
+    "superficie": 47.2095,
+    "coordinate": {
+      "lat": 45.8743254,
+      "lng": 13.0411857
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Sappada",
+    "nomeAltraLingua": null,
+    "codice": "030189",
+    "codiceCatastale": "I421",
+    "sigla": "UD",
+    "cap": [
+      "33012"
+    ],
+    "capoluogo": false,
+    "popolazione": 1313,
+    "superficie": 62.4008,
+    "coordinate": {
+      "lat": 46.5660798,
+      "lng": 12.6838628
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Fiumicello Villa Vicentina",
+    "nomeAltraLingua": null,
+    "codice": "030190",
+    "codiceCatastale": "M400",
+    "sigla": "UD",
+    "cap": [
+      "33059"
+    ],
+    "capoluogo": false,
+    "popolazione": 6293,
+    "superficie": 28.6997,
+    "coordinate": {
+      "lat": 45.7907661,
+      "lng": 13.4094111
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Treppo Ligosullo",
+    "nomeAltraLingua": null,
+    "codice": "030191",
+    "codiceCatastale": "M399",
+    "sigla": "UD",
+    "cap": [
+      "33014"
+    ],
+    "capoluogo": false,
+    "popolazione": 677,
+    "superficie": 35.6406,
+    "coordinate": {
+      "lat": 46.539778,
+      "lng": 13.0731977
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Udine",
+      "codice": "030",
+      "sigla": "UD",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Capriva del Friuli",
+    "nomeAltraLingua": null,
+    "codice": "031001",
+    "codiceCatastale": "B712",
+    "sigla": "GO",
+    "cap": [
+      "34070"
+    ],
+    "capoluogo": false,
+    "popolazione": 1618,
+    "superficie": 6.3812,
+    "coordinate": {
+      "lat": 45.9418047,
+      "lng": 13.5141197
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Cormons",
+    "nomeAltraLingua": null,
+    "codice": "031002",
+    "codiceCatastale": "D014",
+    "sigla": "GO",
+    "cap": [
+      "34071"
+    ],
+    "capoluogo": false,
+    "popolazione": 7148,
+    "superficie": 35.0277,
+    "coordinate": {
+      "lat": 45.960746,
+      "lng": 13.4739527
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Doberdò del Lago",
+    "nomeAltraLingua": "Doberdob",
+    "codice": "031003",
+    "codiceCatastale": "D312",
+    "sigla": "GO",
+    "cap": [
+      "34070"
+    ],
+    "capoluogo": false,
+    "popolazione": 1330,
+    "superficie": 27.1582,
+    "coordinate": {
+      "lat": 45.8444853,
+      "lng": 13.5398546
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Dolegna del Collio",
+    "nomeAltraLingua": null,
+    "codice": "031004",
+    "codiceCatastale": "D321",
+    "sigla": "GO",
+    "cap": [
+      "34070"
+    ],
+    "capoluogo": false,
+    "popolazione": 295,
+    "superficie": 12.8243,
+    "coordinate": {
+      "lat": 46.0317197,
+      "lng": 13.479271
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Farra d'Isonzo",
+    "nomeAltraLingua": null,
+    "codice": "031005",
+    "codiceCatastale": "D504",
+    "sigla": "GO",
+    "cap": [
+      "34072"
+    ],
+    "capoluogo": false,
+    "popolazione": 1675,
+    "superficie": 10.241,
+    "coordinate": {
+      "lat": 45.907382,
+      "lng": 13.5179419
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Fogliano Redipuglia",
+    "nomeAltraLingua": null,
+    "codice": "031006",
+    "codiceCatastale": "D645",
+    "sigla": "GO",
+    "cap": [
+      "34070"
+    ],
+    "capoluogo": false,
+    "popolazione": 2979,
+    "superficie": 8.0928,
+    "coordinate": {
+      "lat": 45.8648604,
+      "lng": 13.4816031
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Gorizia",
+    "nomeAltraLingua": null,
+    "codice": "031007",
+    "codiceCatastale": "E098",
+    "sigla": "GO",
+    "cap": [
+      "34170"
+    ],
+    "capoluogo": true,
+    "popolazione": 33608,
+    "superficie": 41.3656,
+    "coordinate": {
+      "lat": 45.9414897,
+      "lng": 13.6221337
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Gradisca d'Isonzo",
+    "nomeAltraLingua": null,
+    "codice": "031008",
+    "codiceCatastale": "E124",
+    "sigla": "GO",
+    "cap": [
+      "34072"
+    ],
+    "capoluogo": false,
+    "popolazione": 6428,
+    "superficie": 11.0977,
+    "coordinate": {
+      "lat": 45.8891187,
+      "lng": 13.50377
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Grado",
+    "nomeAltraLingua": null,
+    "codice": "031009",
+    "codiceCatastale": "E125",
+    "sigla": "GO",
+    "cap": [
+      "34073"
+    ],
+    "capoluogo": false,
+    "popolazione": 7596,
+    "superficie": 119.3847,
+    "coordinate": {
+      "lat": 45.6752797,
+      "lng": 13.3864704
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Mariano del Friuli",
+    "nomeAltraLingua": null,
+    "codice": "031010",
+    "codiceCatastale": "E952",
+    "sigla": "GO",
+    "cap": [
+      "34070"
+    ],
+    "capoluogo": false,
+    "popolazione": 1447,
+    "superficie": 8.6235,
+    "coordinate": {
+      "lat": 45.9179493,
+      "lng": 13.4584963
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Medea",
+    "nomeAltraLingua": null,
+    "codice": "031011",
+    "codiceCatastale": "F081",
+    "sigla": "GO",
+    "cap": [
+      "34076"
+    ],
+    "capoluogo": false,
+    "popolazione": 947,
+    "superficie": 7.3939,
+    "coordinate": {
+      "lat": 45.917123,
+      "lng": 13.4234866
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Monfalcone",
+    "nomeAltraLingua": null,
+    "codice": "031012",
+    "codiceCatastale": "F356",
+    "sigla": "GO",
+    "cap": [
+      "34074"
+    ],
+    "capoluogo": false,
+    "popolazione": 30059,
+    "superficie": 20.6559,
+    "coordinate": {
+      "lat": 45.8102,
+      "lng": 13.5332304
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Moraro",
+    "nomeAltraLingua": null,
+    "codice": "031013",
+    "codiceCatastale": "F710",
+    "sigla": "GO",
+    "cap": [
+      "34070"
+    ],
+    "capoluogo": false,
+    "popolazione": 718,
+    "superficie": 3.7535,
+    "coordinate": {
+      "lat": 45.9304547,
+      "lng": 13.4950284
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Mossa",
+    "nomeAltraLingua": null,
+    "codice": "031014",
+    "codiceCatastale": "F767",
+    "sigla": "GO",
+    "cap": [
+      "34070"
+    ],
+    "capoluogo": false,
+    "popolazione": 1516,
+    "superficie": 6.4063,
+    "coordinate": {
+      "lat": 45.9383172,
+      "lng": 13.5477893
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Romans d'Isonzo",
+    "nomeAltraLingua": null,
+    "codice": "031015",
+    "codiceCatastale": "H514",
+    "sigla": "GO",
+    "cap": [
+      "34076"
+    ],
+    "capoluogo": false,
+    "popolazione": 3568,
+    "superficie": 15.764,
+    "coordinate": {
+      "lat": 45.8908119,
+      "lng": 13.4392279
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Ronchi dei Legionari",
+    "nomeAltraLingua": null,
+    "codice": "031016",
+    "codiceCatastale": "H531",
+    "sigla": "GO",
+    "cap": [
+      "34077"
+    ],
+    "capoluogo": false,
+    "popolazione": 11833,
+    "superficie": 17.3042,
+    "coordinate": {
+      "lat": 45.8242068,
+      "lng": 13.5004108
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Sagrado",
+    "nomeAltraLingua": null,
+    "codice": "031017",
+    "codiceCatastale": "H665",
+    "sigla": "GO",
+    "cap": [
+      "34078"
+    ],
+    "capoluogo": false,
+    "popolazione": 2124,
+    "superficie": 13.9261,
+    "coordinate": {
+      "lat": 45.876386,
+      "lng": 13.485365
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Canzian d'Isonzo",
+    "nomeAltraLingua": null,
+    "codice": "031018",
+    "codiceCatastale": "H787",
+    "sigla": "GO",
+    "cap": [
+      "34075"
+    ],
+    "capoluogo": false,
+    "popolazione": 6023,
+    "superficie": 33.6393,
+    "coordinate": {
+      "lat": 45.8095685,
+      "lng": 13.4434107
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Floriano del Collio",
+    "nomeAltraLingua": "Števerjan",
+    "codice": "031019",
+    "codiceCatastale": "H845",
+    "sigla": "GO",
+    "cap": [
+      "34070"
+    ],
+    "capoluogo": false,
+    "popolazione": 735,
+    "superficie": 10.3593,
+    "coordinate": {
+      "lat": 45.9819104,
+      "lng": 13.5849937
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Lorenzo Isontino",
+    "nomeAltraLingua": null,
+    "codice": "031020",
+    "codiceCatastale": "H964",
+    "sigla": "GO",
+    "cap": [
+      "34070"
+    ],
+    "capoluogo": false,
+    "popolazione": 1485,
+    "superficie": 4.3401,
+    "coordinate": {
+      "lat": 45.932969,
+      "lng": 13.5264525
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Pier d'Isonzo",
+    "nomeAltraLingua": null,
+    "codice": "031021",
+    "codiceCatastale": "I082",
+    "sigla": "GO",
+    "cap": [
+      "34070"
+    ],
+    "capoluogo": false,
+    "popolazione": 1940,
+    "superficie": 8.8485,
+    "coordinate": {
+      "lat": 45.8463883,
+      "lng": 13.4605533
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Savogna d'Isonzo",
+    "nomeAltraLingua": "Sovodnje ob So?i",
+    "codice": "031022",
+    "codiceCatastale": "I479",
+    "sigla": "GO",
+    "cap": [
+      "34070"
+    ],
+    "capoluogo": false,
+    "popolazione": 1707,
+    "superficie": 16.6983,
+    "coordinate": {
+      "lat": 45.9018435,
+      "lng": 13.5709971
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Staranzano",
+    "nomeAltraLingua": null,
+    "codice": "031023",
+    "codiceCatastale": "I939",
+    "sigla": "GO",
+    "cap": [
+      "34079"
+    ],
+    "capoluogo": false,
+    "popolazione": 7148,
+    "superficie": 18.8213,
+    "coordinate": {
+      "lat": 45.8060346,
+      "lng": 13.4998243
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Turriaco",
+    "nomeAltraLingua": null,
+    "codice": "031024",
+    "codiceCatastale": "L474",
+    "sigla": "GO",
+    "cap": [
+      "34070"
+    ],
+    "capoluogo": false,
+    "popolazione": 2780,
+    "superficie": 5.3108,
+    "coordinate": {
+      "lat": 45.8209988,
+      "lng": 13.4447772
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Villesse",
+    "nomeAltraLingua": null,
+    "codice": "031025",
+    "codiceCatastale": "M043",
+    "sigla": "GO",
+    "cap": [
+      "34070"
+    ],
+    "capoluogo": false,
+    "popolazione": 1607,
+    "superficie": 11.8506,
+    "coordinate": {
+      "lat": 45.8597866,
+      "lng": 13.4383506
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Gorizia",
+      "codice": "031",
+      "sigla": "GO",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Duino Aurisina",
+    "nomeAltraLingua": "Devin Nabrežina",
+    "codice": "032001",
+    "codiceCatastale": "D383",
+    "sigla": "TS",
+    "cap": [
+      "34011"
+    ],
+    "capoluogo": false,
+    "popolazione": 8224,
+    "superficie": 45.3194,
+    "coordinate": {
+      "lat": 45.7538928,
+      "lng": 13.659663
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Trieste",
+      "codice": "032",
+      "sigla": "TS",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Monrupino",
+    "nomeAltraLingua": "Repentabor",
+    "codice": "032002",
+    "codiceCatastale": "F378",
+    "sigla": "TS",
+    "cap": [
+      "34016"
+    ],
+    "capoluogo": false,
+    "popolazione": 841,
+    "superficie": 12.7821,
+    "coordinate": {
+      "lat": 45.718934,
+      "lng": 13.8004595
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Trieste",
+      "codice": "032",
+      "sigla": "TS",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Muggia",
+    "nomeAltraLingua": null,
+    "codice": "032003",
+    "codiceCatastale": "F795",
+    "sigla": "TS",
+    "cap": [
+      "34015"
+    ],
+    "capoluogo": false,
+    "popolazione": 12834,
+    "superficie": 13.8375,
+    "coordinate": {
+      "lat": 45.6044648,
+      "lng": 13.7675074
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Trieste",
+      "codice": "032",
+      "sigla": "TS",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Dorligo della Valle",
+    "nomeAltraLingua": "Dolina",
+    "codice": "032004",
+    "codiceCatastale": "D324",
+    "sigla": "TS",
+    "cap": [
+      "34018"
+    ],
+    "capoluogo": false,
+    "popolazione": 5678,
+    "superficie": 24.2861,
+    "coordinate": {
+      "lat": 45.6078922,
+      "lng": 13.8567138
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Trieste",
+      "codice": "032",
+      "sigla": "TS",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Sgonico",
+    "nomeAltraLingua": "Zgonik",
+    "codice": "032005",
+    "codiceCatastale": "I715",
+    "sigla": "TS",
+    "cap": [
+      "34010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1976,
+    "superficie": 31.237,
+    "coordinate": {
+      "lat": 45.7357214,
+      "lng": 13.7469174
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Trieste",
+      "codice": "032",
+      "sigla": "TS",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Trieste",
+    "nomeAltraLingua": null,
+    "codice": "032006",
+    "codiceCatastale": "L424",
+    "sigla": "TS",
+    "cap": [
+      "34121",
+      "34122",
+      "34123",
+      "34124",
+      "34125",
+      "34126",
+      "34127",
+      "34128",
+      "34129",
+      "34131",
+      "34132",
+      "34133",
+      "34134",
+      "34135",
+      "34136",
+      "34137",
+      "34138",
+      "34139",
+      "34141",
+      "34142",
+      "34143",
+      "34144",
+      "34145",
+      "34146",
+      "34147",
+      "34148",
+      "34149",
+      "34151"
+    ],
+    "capoluogo": true,
+    "popolazione": 198843,
+    "superficie": 85.0492,
+    "coordinate": {
+      "lat": 45.6494502,
+      "lng": 13.7684078
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Trieste",
+      "codice": "032",
+      "sigla": "TS",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Andreis",
+    "nomeAltraLingua": null,
+    "codice": "093001",
+    "codiceCatastale": "A283",
+    "sigla": "PN",
+    "cap": [
+      "33080"
+    ],
+    "capoluogo": false,
+    "popolazione": 245,
+    "superficie": 27.1496,
+    "coordinate": {
+      "lat": 46.2018822,
+      "lng": 12.6145355
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Arba",
+    "nomeAltraLingua": null,
+    "codice": "093002",
+    "codiceCatastale": "A354",
+    "sigla": "PN",
+    "cap": [
+      "33090"
+    ],
+    "capoluogo": false,
+    "popolazione": 1295,
+    "superficie": 15.4566,
+    "coordinate": {
+      "lat": 46.1462206,
+      "lng": 12.7905022
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Aviano",
+    "nomeAltraLingua": null,
+    "codice": "093004",
+    "codiceCatastale": "A516",
+    "sigla": "PN",
+    "cap": [
+      "33081"
+    ],
+    "capoluogo": false,
+    "popolazione": 9008,
+    "superficie": 113.3703,
+    "coordinate": {
+      "lat": 46.0670312,
+      "lng": 12.5883503
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Azzano Decimo",
+    "nomeAltraLingua": null,
+    "codice": "093005",
+    "codiceCatastale": "A530",
+    "sigla": "PN",
+    "cap": [
+      "33082"
+    ],
+    "capoluogo": false,
+    "popolazione": 15767,
+    "superficie": 51.564,
+    "coordinate": {
+      "lat": 45.881071,
+      "lng": 12.714859
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Barcis",
+    "nomeAltraLingua": null,
+    "codice": "093006",
+    "codiceCatastale": "A640",
+    "sigla": "PN",
+    "cap": [
+      "33080"
+    ],
+    "capoluogo": false,
+    "popolazione": 227,
+    "superficie": 103.5713,
+    "coordinate": {
+      "lat": 46.1910542,
+      "lng": 12.5600577
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Brugnera",
+    "nomeAltraLingua": null,
+    "codice": "093007",
+    "codiceCatastale": "B215",
+    "sigla": "PN",
+    "cap": [
+      "33070"
+    ],
+    "capoluogo": false,
+    "popolazione": 9277,
+    "superficie": 29.3553,
+    "coordinate": {
+      "lat": 45.8991158,
+      "lng": 12.5367092
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Budoia",
+    "nomeAltraLingua": null,
+    "codice": "093008",
+    "codiceCatastale": "B247",
+    "sigla": "PN",
+    "cap": [
+      "33070"
+    ],
+    "capoluogo": false,
+    "popolazione": 2521,
+    "superficie": 37.253,
+    "coordinate": {
+      "lat": 46.0427509,
+      "lng": 12.5322553
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Caneva",
+    "nomeAltraLingua": null,
+    "codice": "093009",
+    "codiceCatastale": "B598",
+    "sigla": "PN",
+    "cap": [
+      "33070"
+    ],
+    "capoluogo": false,
+    "popolazione": 6226,
+    "superficie": 41.8896,
+    "coordinate": {
+      "lat": 45.9688455,
+      "lng": 12.4489172
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Casarsa della Delizia",
+    "nomeAltraLingua": null,
+    "codice": "093010",
+    "codiceCatastale": "B940",
+    "sigla": "PN",
+    "cap": [
+      "33072"
+    ],
+    "capoluogo": false,
+    "popolazione": 8258,
+    "superficie": 20.5343,
+    "coordinate": {
+      "lat": 45.9570701,
+      "lng": 12.8421526
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Castelnovo del Friuli",
+    "nomeAltraLingua": null,
+    "codice": "093011",
+    "codiceCatastale": "C217",
+    "sigla": "PN",
+    "cap": [
+      "33090"
+    ],
+    "capoluogo": false,
+    "popolazione": 827,
+    "superficie": 22.6638,
+    "coordinate": {
+      "lat": 46.1998527,
+      "lng": 12.9032116
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Cavasso Nuovo",
+    "nomeAltraLingua": null,
+    "codice": "093012",
+    "codiceCatastale": "C385",
+    "sigla": "PN",
+    "cap": [
+      "33092"
+    ],
+    "capoluogo": false,
+    "popolazione": 1496,
+    "superficie": 10.6174,
+    "coordinate": {
+      "lat": 46.1948477,
+      "lng": 12.7713806
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Chions",
+    "nomeAltraLingua": null,
+    "codice": "093013",
+    "codiceCatastale": "C640",
+    "sigla": "PN",
+    "cap": [
+      "33083"
+    ],
+    "capoluogo": false,
+    "popolazione": 5054,
+    "superficie": 33.1289,
+    "coordinate": {
+      "lat": 45.8623672,
+      "lng": 12.7524155
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Cimolais",
+    "nomeAltraLingua": null,
+    "codice": "093014",
+    "codiceCatastale": "C699",
+    "sigla": "PN",
+    "cap": [
+      "33080"
+    ],
+    "capoluogo": false,
+    "popolazione": 349,
+    "superficie": 100.9842,
+    "coordinate": {
+      "lat": 46.2880889,
+      "lng": 12.4378051
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Claut",
+    "nomeAltraLingua": null,
+    "codice": "093015",
+    "codiceCatastale": "C790",
+    "sigla": "PN",
+    "cap": [
+      "33080"
+    ],
+    "capoluogo": false,
+    "popolazione": 874,
+    "superficie": 165.927,
+    "coordinate": {
+      "lat": 46.2675228,
+      "lng": 12.513656
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Clauzetto",
+    "nomeAltraLingua": null,
+    "codice": "093016",
+    "codiceCatastale": "C791",
+    "sigla": "PN",
+    "cap": [
+      "33090"
+    ],
+    "capoluogo": false,
+    "popolazione": 373,
+    "superficie": 28.7216,
+    "coordinate": {
+      "lat": 46.230081,
+      "lng": 12.9170536
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Cordenons",
+    "nomeAltraLingua": null,
+    "codice": "093017",
+    "codiceCatastale": "C991",
+    "sigla": "PN",
+    "cap": [
+      "33084"
+    ],
+    "capoluogo": false,
+    "popolazione": 17818,
+    "superficie": 56.4599,
+    "coordinate": {
+      "lat": 45.9885428,
+      "lng": 12.7075933
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Cordovado",
+    "nomeAltraLingua": null,
+    "codice": "093018",
+    "codiceCatastale": "C993",
+    "sigla": "PN",
+    "cap": [
+      "33075"
+    ],
+    "capoluogo": false,
+    "popolazione": 2746,
+    "superficie": 12.1281,
+    "coordinate": {
+      "lat": 45.8499475,
+      "lng": 12.8824814
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Erto e Casso",
+    "nomeAltraLingua": null,
+    "codice": "093019",
+    "codiceCatastale": "D426",
+    "sigla": "PN",
+    "cap": [
+      "33080"
+    ],
+    "capoluogo": false,
+    "popolazione": 362,
+    "superficie": 52.2407,
+    "coordinate": {
+      "lat": 46.2784511,
+      "lng": 12.3727673
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Fanna",
+    "nomeAltraLingua": null,
+    "codice": "093020",
+    "codiceCatastale": "D487",
+    "sigla": "PN",
+    "cap": [
+      "33092"
+    ],
+    "capoluogo": false,
+    "popolazione": 1467,
+    "superficie": 10.261,
+    "coordinate": {
+      "lat": 46.1878686,
+      "lng": 12.7545229
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Fiume Veneto",
+    "nomeAltraLingua": null,
+    "codice": "093021",
+    "codiceCatastale": "D621",
+    "sigla": "PN",
+    "cap": [
+      "33080"
+    ],
+    "capoluogo": false,
+    "popolazione": 11821,
+    "superficie": 35.3646,
+    "coordinate": {
+      "lat": 45.9281652,
+      "lng": 12.734536
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Fontanafredda",
+    "nomeAltraLingua": null,
+    "codice": "093022",
+    "codiceCatastale": "D670",
+    "sigla": "PN",
+    "cap": [
+      "33074"
+    ],
+    "capoluogo": false,
+    "popolazione": 12900,
+    "superficie": 46.3488,
+    "coordinate": {
+      "lat": 45.9886791,
+      "lng": 12.5477521
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Frisanco",
+    "nomeAltraLingua": null,
+    "codice": "093024",
+    "codiceCatastale": "D804",
+    "sigla": "PN",
+    "cap": [
+      "33080"
+    ],
+    "capoluogo": false,
+    "popolazione": 593,
+    "superficie": 60.8178,
+    "coordinate": {
+      "lat": 46.2127524,
+      "lng": 12.7235961
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Maniago",
+    "nomeAltraLingua": null,
+    "codice": "093025",
+    "codiceCatastale": "E889",
+    "sigla": "PN",
+    "cap": [
+      "33085"
+    ],
+    "capoluogo": false,
+    "popolazione": 11490,
+    "superficie": 69.2116,
+    "coordinate": {
+      "lat": 46.170752,
+      "lng": 12.7079941
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Meduno",
+    "nomeAltraLingua": null,
+    "codice": "093026",
+    "codiceCatastale": "F089",
+    "sigla": "PN",
+    "cap": [
+      "33092"
+    ],
+    "capoluogo": false,
+    "popolazione": 1496,
+    "superficie": 31.8794,
+    "coordinate": {
+      "lat": 46.2176164,
+      "lng": 12.7884747
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Montereale Valcellina",
+    "nomeAltraLingua": null,
+    "codice": "093027",
+    "codiceCatastale": "F596",
+    "sigla": "PN",
+    "cap": [
+      "33086"
+    ],
+    "capoluogo": false,
+    "popolazione": 4221,
+    "superficie": 67.6997,
+    "coordinate": {
+      "lat": 46.1551869,
+      "lng": 12.6562713
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Morsano al Tagliamento",
+    "nomeAltraLingua": null,
+    "codice": "093028",
+    "codiceCatastale": "F750",
+    "sigla": "PN",
+    "cap": [
+      "33075"
+    ],
+    "capoluogo": false,
+    "popolazione": 2681,
+    "superficie": 32.308,
+    "coordinate": {
+      "lat": 45.858312,
+      "lng": 12.9290204
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Pasiano di Pordenone",
+    "nomeAltraLingua": null,
+    "codice": "093029",
+    "codiceCatastale": "G353",
+    "sigla": "PN",
+    "cap": [
+      "33087"
+    ],
+    "capoluogo": false,
+    "popolazione": 7859,
+    "superficie": 45.4905,
+    "coordinate": {
+      "lat": 45.8515717,
+      "lng": 12.627857
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Pinzano al Tagliamento",
+    "nomeAltraLingua": null,
+    "codice": "093030",
+    "codiceCatastale": "G680",
+    "sigla": "PN",
+    "cap": [
+      "33094"
+    ],
+    "capoluogo": false,
+    "popolazione": 1519,
+    "superficie": 21.6266,
+    "coordinate": {
+      "lat": 46.1829797,
+      "lng": 12.9462277
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Polcenigo",
+    "nomeAltraLingua": null,
+    "codice": "093031",
+    "codiceCatastale": "G780",
+    "sigla": "PN",
+    "cap": [
+      "33070"
+    ],
+    "capoluogo": false,
+    "popolazione": 3109,
+    "superficie": 49.898,
+    "coordinate": {
+      "lat": 46.0303242,
+      "lng": 12.5018028
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Porcia",
+    "nomeAltraLingua": null,
+    "codice": "093032",
+    "codiceCatastale": "G886",
+    "sigla": "PN",
+    "cap": [
+      "33080"
+    ],
+    "capoluogo": false,
+    "popolazione": 14925,
+    "superficie": 29.3547,
+    "coordinate": {
+      "lat": 45.9580573,
+      "lng": 12.6115006
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Pordenone",
+    "nomeAltraLingua": null,
+    "codice": "093033",
+    "codiceCatastale": "G888",
+    "sigla": "PN",
+    "cap": [
+      "33170"
+    ],
+    "capoluogo": true,
+    "popolazione": 52147,
+    "superficie": 38.3996,
+    "coordinate": {
+      "lat": 45.9541959,
+      "lng": 12.6600751
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Prata di Pordenone",
+    "nomeAltraLingua": null,
+    "codice": "093034",
+    "codiceCatastale": "G994",
+    "sigla": "PN",
+    "cap": [
+      "33080"
+    ],
+    "capoluogo": false,
+    "popolazione": 8309,
+    "superficie": 22.8561,
+    "coordinate": {
+      "lat": 45.8943238,
+      "lng": 12.5968116
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Pravisdomini",
+    "nomeAltraLingua": null,
+    "codice": "093035",
+    "codiceCatastale": "H010",
+    "sigla": "PN",
+    "cap": [
+      "33076"
+    ],
+    "capoluogo": false,
+    "popolazione": 3467,
+    "superficie": 16.5656,
+    "coordinate": {
+      "lat": 45.8178502,
+      "lng": 12.6931706
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Roveredo in Piano",
+    "nomeAltraLingua": null,
+    "codice": "093036",
+    "codiceCatastale": "H609",
+    "sigla": "PN",
+    "cap": [
+      "33080"
+    ],
+    "capoluogo": false,
+    "popolazione": 5801,
+    "superficie": 15.8861,
+    "coordinate": {
+      "lat": 46.0092917,
+      "lng": 12.6181222
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Sacile",
+    "nomeAltraLingua": null,
+    "codice": "093037",
+    "codiceCatastale": "H657",
+    "sigla": "PN",
+    "cap": [
+      "33077"
+    ],
+    "capoluogo": false,
+    "popolazione": 20030,
+    "superficie": 32.9166,
+    "coordinate": {
+      "lat": 45.9544236,
+      "lng": 12.5028836
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Giorgio della Richinvelda",
+    "nomeAltraLingua": null,
+    "codice": "093038",
+    "codiceCatastale": "H891",
+    "sigla": "PN",
+    "cap": [
+      "33095"
+    ],
+    "capoluogo": false,
+    "popolazione": 4538,
+    "superficie": 47.9249,
+    "coordinate": {
+      "lat": 46.0455288,
+      "lng": 12.8666077
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Martino al Tagliamento",
+    "nomeAltraLingua": null,
+    "codice": "093039",
+    "codiceCatastale": "H999",
+    "sigla": "PN",
+    "cap": [
+      "33098"
+    ],
+    "capoluogo": false,
+    "popolazione": 1475,
+    "superficie": 17.943,
+    "coordinate": {
+      "lat": 46.0209766,
+      "lng": 12.8639794
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Quirino",
+    "nomeAltraLingua": null,
+    "codice": "093040",
+    "codiceCatastale": "I136",
+    "sigla": "PN",
+    "cap": [
+      "33080"
+    ],
+    "capoluogo": false,
+    "popolazione": 4272,
+    "superficie": 51.5827,
+    "coordinate": {
+      "lat": 46.0365688,
+      "lng": 12.680652
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "San Vito al Tagliamento",
+    "nomeAltraLingua": null,
+    "codice": "093041",
+    "codiceCatastale": "I403",
+    "sigla": "PN",
+    "cap": [
+      "33078"
+    ],
+    "capoluogo": false,
+    "popolazione": 15215,
+    "superficie": 60.9353,
+    "coordinate": {
+      "lat": 45.9156105,
+      "lng": 12.8554146
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Sequals",
+    "nomeAltraLingua": null,
+    "codice": "093042",
+    "codiceCatastale": "I621",
+    "sigla": "PN",
+    "cap": [
+      "33090"
+    ],
+    "capoluogo": false,
+    "popolazione": 2185,
+    "superficie": 27.5259,
+    "coordinate": {
+      "lat": 46.1654092,
+      "lng": 12.8277766
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Sesto al Reghena",
+    "nomeAltraLingua": null,
+    "codice": "093043",
+    "codiceCatastale": "I686",
+    "sigla": "PN",
+    "cap": [
+      "33079"
+    ],
+    "capoluogo": false,
+    "popolazione": 6311,
+    "superficie": 40.2229,
+    "coordinate": {
+      "lat": 45.8482366,
+      "lng": 12.8159022
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Spilimbergo",
+    "nomeAltraLingua": null,
+    "codice": "093044",
+    "codiceCatastale": "I904",
+    "sigla": "PN",
+    "cap": [
+      "33097"
+    ],
+    "capoluogo": false,
+    "popolazione": 11778,
+    "superficie": 72.0445,
+    "coordinate": {
+      "lat": 46.1122448,
+      "lng": 12.9057541
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Tramonti di Sopra",
+    "nomeAltraLingua": null,
+    "codice": "093045",
+    "codiceCatastale": "L324",
+    "sigla": "PN",
+    "cap": [
+      "33090"
+    ],
+    "capoluogo": false,
+    "popolazione": 267,
+    "superficie": 124.8185,
+    "coordinate": {
+      "lat": 46.3098226,
+      "lng": 12.7896173
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Tramonti di Sotto",
+    "nomeAltraLingua": null,
+    "codice": "093046",
+    "codiceCatastale": "L325",
+    "sigla": "PN",
+    "cap": [
+      "33090"
+    ],
+    "capoluogo": false,
+    "popolazione": 335,
+    "superficie": 85.7923,
+    "coordinate": {
+      "lat": 46.2851408,
+      "lng": 12.7956145
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Travesio",
+    "nomeAltraLingua": null,
+    "codice": "093047",
+    "codiceCatastale": "L347",
+    "sigla": "PN",
+    "cap": [
+      "33090"
+    ],
+    "capoluogo": false,
+    "popolazione": 1827,
+    "superficie": 28.2695,
+    "coordinate": {
+      "lat": 46.1959902,
+      "lng": 12.8709116
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Vito d'Asio",
+    "nomeAltraLingua": null,
+    "codice": "093049",
+    "codiceCatastale": "M085",
+    "sigla": "PN",
+    "cap": [
+      "33090"
+    ],
+    "capoluogo": false,
+    "popolazione": 721,
+    "superficie": 53.5289,
+    "coordinate": {
+      "lat": 46.2333381,
+      "lng": 12.9586269
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Vivaro",
+    "nomeAltraLingua": null,
+    "codice": "093050",
+    "codiceCatastale": "M096",
+    "sigla": "PN",
+    "cap": [
+      "33099"
+    ],
+    "capoluogo": false,
+    "popolazione": 1329,
+    "superficie": 37.6422,
+    "coordinate": {
+      "lat": 46.0781082,
+      "lng": 12.775592
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Zoppola",
+    "nomeAltraLingua": null,
+    "codice": "093051",
+    "codiceCatastale": "M190",
+    "sigla": "PN",
+    "cap": [
+      "33080"
+    ],
+    "capoluogo": false,
+    "popolazione": 8352,
+    "superficie": 45.4898,
+    "coordinate": {
+      "lat": 45.9659814,
+      "lng": 12.7722381
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Vajont",
+    "nomeAltraLingua": null,
+    "codice": "093052",
+    "codiceCatastale": "M265",
+    "sigla": "PN",
+    "cap": [
+      "33080"
+    ],
+    "capoluogo": false,
+    "popolazione": 1640,
+    "superficie": 1.6865,
+    "coordinate": {
+      "lat": 46.1462734,
+      "lng": 12.6978451
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  },
+  {
+    "nome": "Valvasone Arzene",
+    "nomeAltraLingua": null,
+    "codice": "093053",
+    "codiceCatastale": "M346",
+    "sigla": "PN",
+    "cap": [
+      "33098"
+    ],
+    "capoluogo": false,
+    "popolazione": 3960,
+    "superficie": 29.5801,
+    "coordinate": {
+      "lat": 45.9962529,
+      "lng": 12.8619335
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Friuli-Venezia Giulia",
+      "codice": "06"
+    },
+    "provincia": {
+      "nome": "Pordenone",
+      "codice": "093",
+      "sigla": "PN",
+      "tipo": "decentramento-regionale"
+    }
+  }
+]

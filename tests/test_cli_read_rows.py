@@ -76,3 +76,19 @@ def test_remap_missing_source_column_raises_value_error():
     }
     with pytest.raises(ValueError, match="NONEXISTENT_COL"):
         _read_rows(spec, cache_dir=Path("/tmp"), offline=False)
+
+
+def test_read_rows_skip_lines_and_filter(tmp_path):
+    from comuni_italiani.cli import _read_rows
+    p = tmp_path / "posas.csv"
+    p.write_text(
+        "TITLE TO SKIP\nCodice comune;Età;Totale\n001;5;10\n001;999;100\n002;999;50\n",
+        encoding="utf-8",
+    )
+    spec = {
+        "path": str(p), "delimiter": ";", "skip_lines": 1,
+        "filter": {"column": "Età", "equals": "999"},
+        "columns": {"codice": "Codice comune", "popolazione": "Totale"},
+    }
+    rows = _read_rows(spec, tmp_path / "c", offline=True)
+    assert {r["codice"]: r["popolazione"] for r in rows} == {"001": "100", "002": "50"}

@@ -38,7 +38,7 @@
           "nome": {"type": "string"},
           "codice": {"type": "string"},
           "sigla": {"type": ["string","null"]},
-          "tipo": {"enum": ["provincia","citta-metropolitana","libero-consorzio","provincia-autonoma"]}
+          "tipo": {"enum": ["provincia","citta-metropolitana","libero-consorzio","provincia-autonoma","decentramento-regionale"]}
         }
       }
     }

@@ -1,0 +1,9465 @@
+[
+  {
+    "nome": "Acciano",
+    "nomeAltraLingua": null,
+    "codice": "066001",
+    "codiceCatastale": "A018",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 256,
+    "superficie": 32.1628,
+    "coordinate": {
+      "lat": 42.176681,
+      "lng": 13.7183677
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Aielli",
+    "nomeAltraLingua": null,
+    "codice": "066002",
+    "codiceCatastale": "A100",
+    "sigla": "AQ",
+    "cap": [
+      "67041"
+    ],
+    "capoluogo": false,
+    "popolazione": 1374,
+    "superficie": 37.6519,
+    "coordinate": {
+      "lat": 42.0802897,
+      "lng": 13.5902195
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Alfedena",
+    "nomeAltraLingua": null,
+    "codice": "066003",
+    "codiceCatastale": "A187",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 913,
+    "superficie": 40.6151,
+    "coordinate": {
+      "lat": 41.7338692,
+      "lng": 14.034379
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Anversa degli Abruzzi",
+    "nomeAltraLingua": null,
+    "codice": "066004",
+    "codiceCatastale": "A318",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 308,
+    "superficie": 32.2518,
+    "coordinate": {
+      "lat": 41.9944719,
+      "lng": 13.802841
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ateleta",
+    "nomeAltraLingua": null,
+    "codice": "066005",
+    "codiceCatastale": "A481",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1099,
+    "superficie": 41.971,
+    "coordinate": {
+      "lat": 41.8548454,
+      "lng": 14.1976433
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Avezzano",
+    "nomeAltraLingua": null,
+    "codice": "066006",
+    "codiceCatastale": "A515",
+    "sigla": "AQ",
+    "cap": [
+      "67051"
+    ],
+    "capoluogo": false,
+    "popolazione": 40842,
+    "superficie": 104.2448,
+    "coordinate": {
+      "lat": 42.0306962,
+      "lng": 13.4265955
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Balsorano",
+    "nomeAltraLingua": null,
+    "codice": "066007",
+    "codiceCatastale": "A603",
+    "sigla": "AQ",
+    "cap": [
+      "67052"
+    ],
+    "capoluogo": false,
+    "popolazione": 3253,
+    "superficie": 58.7601,
+    "coordinate": {
+      "lat": 41.8088377,
+      "lng": 13.5595617
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Barete",
+    "nomeAltraLingua": null,
+    "codice": "066008",
+    "codiceCatastale": "A656",
+    "sigla": "AQ",
+    "cap": [
+      "67010"
+    ],
+    "capoluogo": false,
+    "popolazione": 631,
+    "superficie": 24.4708,
+    "coordinate": {
+      "lat": 42.4509141,
+      "lng": 13.2808168
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Barisciano",
+    "nomeAltraLingua": null,
+    "codice": "066009",
+    "codiceCatastale": "A667",
+    "sigla": "AQ",
+    "cap": [
+      "67021"
+    ],
+    "capoluogo": false,
+    "popolazione": 1655,
+    "superficie": 78.1545,
+    "coordinate": {
+      "lat": 42.3251026,
+      "lng": 13.5917721
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Barrea",
+    "nomeAltraLingua": null,
+    "codice": "066010",
+    "codiceCatastale": "A678",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 704,
+    "superficie": 86.3618,
+    "coordinate": {
+      "lat": 41.757452,
+      "lng": 13.9912024
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bisegna",
+    "nomeAltraLingua": null,
+    "codice": "066011",
+    "codiceCatastale": "A884",
+    "sigla": "AQ",
+    "cap": [
+      "67050"
+    ],
+    "capoluogo": false,
+    "popolazione": 214,
+    "superficie": 46.8634,
+    "coordinate": {
+      "lat": 41.921066,
+      "lng": 13.7569907
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bugnara",
+    "nomeAltraLingua": null,
+    "codice": "066012",
+    "codiceCatastale": "B256",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1008,
+    "superficie": 25.1417,
+    "coordinate": {
+      "lat": 42.0226172,
+      "lng": 13.8639595
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cagnano Amiterno",
+    "nomeAltraLingua": null,
+    "codice": "066013",
+    "codiceCatastale": "B358",
+    "sigla": "AQ",
+    "cap": [
+      "67012"
+    ],
+    "capoluogo": false,
+    "popolazione": 1107,
+    "superficie": 61.303,
+    "coordinate": {
+      "lat": 42.4589562,
+      "lng": 13.2316659
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Calascio",
+    "nomeAltraLingua": null,
+    "codice": "066014",
+    "codiceCatastale": "B382",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 125,
+    "superficie": 39.3802,
+    "coordinate": {
+      "lat": 42.3253995,
+      "lng": 13.694746
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Campo di Giove",
+    "nomeAltraLingua": null,
+    "codice": "066015",
+    "codiceCatastale": "B526",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 747,
+    "superficie": 28.9477,
+    "coordinate": {
+      "lat": 42.0121701,
+      "lng": 14.0443676
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Campotosto",
+    "nomeAltraLingua": null,
+    "codice": "066016",
+    "codiceCatastale": "B569",
+    "sigla": "AQ",
+    "cap": [
+      "67013"
+    ],
+    "capoluogo": false,
+    "popolazione": 457,
+    "superficie": 51.5693,
+    "coordinate": {
+      "lat": 42.5576216,
+      "lng": 13.3672737
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Canistro",
+    "nomeAltraLingua": null,
+    "codice": "066017",
+    "codiceCatastale": "B606",
+    "sigla": "AQ",
+    "cap": [
+      "67050"
+    ],
+    "capoluogo": false,
+    "popolazione": 882,
+    "superficie": 15.8598,
+    "coordinate": {
+      "lat": 41.9403937,
+      "lng": 13.4095173
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cansano",
+    "nomeAltraLingua": null,
+    "codice": "066018",
+    "codiceCatastale": "B624",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 215,
+    "superficie": 37.7396,
+    "coordinate": {
+      "lat": 42.0045889,
+      "lng": 14.010955
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Capestrano",
+    "nomeAltraLingua": null,
+    "codice": "066019",
+    "codiceCatastale": "B651",
+    "sigla": "AQ",
+    "cap": [
+      "67022"
+    ],
+    "capoluogo": false,
+    "popolazione": 824,
+    "superficie": 43.4775,
+    "coordinate": {
+      "lat": 42.2678516,
+      "lng": 13.7692208
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Capistrello",
+    "nomeAltraLingua": null,
+    "codice": "066020",
+    "codiceCatastale": "B656",
+    "sigla": "AQ",
+    "cap": [
+      "67053"
+    ],
+    "capoluogo": false,
+    "popolazione": 4730,
+    "superficie": 61.0913,
+    "coordinate": {
+      "lat": 41.9654381,
+      "lng": 13.3899572
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Capitignano",
+    "nomeAltraLingua": null,
+    "codice": "066021",
+    "codiceCatastale": "B658",
+    "sigla": "AQ",
+    "cap": [
+      "67014"
+    ],
+    "capoluogo": false,
+    "popolazione": 623,
+    "superficie": 30.6823,
+    "coordinate": {
+      "lat": 42.5200846,
+      "lng": 13.3007376
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Caporciano",
+    "nomeAltraLingua": null,
+    "codice": "066022",
+    "codiceCatastale": "B672",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 201,
+    "superficie": 18.4685,
+    "coordinate": {
+      "lat": 42.2520591,
+      "lng": 13.6709136
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cappadocia",
+    "nomeAltraLingua": null,
+    "codice": "066023",
+    "codiceCatastale": "B677",
+    "sigla": "AQ",
+    "cap": [
+      "67060"
+    ],
+    "capoluogo": false,
+    "popolazione": 576,
+    "superficie": 68.847,
+    "coordinate": {
+      "lat": 42.0068439,
+      "lng": 13.2801834
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carapelle Calvisio",
+    "nomeAltraLingua": null,
+    "codice": "066024",
+    "codiceCatastale": "B725",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 78,
+    "superficie": 14.8813,
+    "coordinate": {
+      "lat": 42.299068,
+      "lng": 13.6827383
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carsoli",
+    "nomeAltraLingua": null,
+    "codice": "066025",
+    "codiceCatastale": "B842",
+    "sigla": "AQ",
+    "cap": [
+      "67061"
+    ],
+    "capoluogo": false,
+    "popolazione": 4974,
+    "superficie": 95.7443,
+    "coordinate": {
+      "lat": 42.0962947,
+      "lng": 13.0831779
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castel del Monte",
+    "nomeAltraLingua": null,
+    "codice": "066026",
+    "codiceCatastale": "C083",
+    "sigla": "AQ",
+    "cap": [
+      "67023"
+    ],
+    "capoluogo": false,
+    "popolazione": 400,
+    "superficie": 57.7881,
+    "coordinate": {
+      "lat": 42.3646652,
+      "lng": 13.7265779
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castel di Ieri",
+    "nomeAltraLingua": null,
+    "codice": "066027",
+    "codiceCatastale": "C090",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 292,
+    "superficie": 18.9283,
+    "coordinate": {
+      "lat": 42.1150577,
+      "lng": 13.7398377
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castel di Sangro",
+    "nomeAltraLingua": null,
+    "codice": "066028",
+    "codiceCatastale": "C096",
+    "sigla": "AQ",
+    "cap": [
+      "67031"
+    ],
+    "capoluogo": false,
+    "popolazione": 6598,
+    "superficie": 84.402,
+    "coordinate": {
+      "lat": 41.78428,
+      "lng": 14.1086042
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castellafiume",
+    "nomeAltraLingua": null,
+    "codice": "066029",
+    "codiceCatastale": "C126",
+    "sigla": "AQ",
+    "cap": [
+      "67050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1042,
+    "superficie": 24.1035,
+    "coordinate": {
+      "lat": 41.988379,
+      "lng": 13.3333405
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelvecchio Calvisio",
+    "nomeAltraLingua": null,
+    "codice": "066030",
+    "codiceCatastale": "C278",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 120,
+    "superficie": 15.4849,
+    "coordinate": {
+      "lat": 42.310058,
+      "lng": 13.6887323
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelvecchio Subequo",
+    "nomeAltraLingua": null,
+    "codice": "066031",
+    "codiceCatastale": "C279",
+    "sigla": "AQ",
+    "cap": [
+      "67024"
+    ],
+    "capoluogo": false,
+    "popolazione": 820,
+    "superficie": 19.2382,
+    "coordinate": {
+      "lat": 42.1313143,
+      "lng": 13.7292447
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Celano",
+    "nomeAltraLingua": null,
+    "codice": "066032",
+    "codiceCatastale": "C426",
+    "sigla": "AQ",
+    "cap": [
+      "67043"
+    ],
+    "capoluogo": false,
+    "popolazione": 10195,
+    "superficie": 82.5383,
+    "coordinate": {
+      "lat": 42.0842605,
+      "lng": 13.54758
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cerchio",
+    "nomeAltraLingua": null,
+    "codice": "066033",
+    "codiceCatastale": "C492",
+    "sigla": "AQ",
+    "cap": [
+      "67044"
+    ],
+    "capoluogo": false,
+    "popolazione": 1538,
+    "superficie": 20.3239,
+    "coordinate": {
+      "lat": 42.0637837,
+      "lng": 13.6002534
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Civita d'Antino",
+    "nomeAltraLingua": null,
+    "codice": "066034",
+    "codiceCatastale": "C766",
+    "sigla": "AQ",
+    "cap": [
+      "67050"
+    ],
+    "capoluogo": false,
+    "popolazione": 947,
+    "superficie": 28.5626,
+    "coordinate": {
+      "lat": 41.8856355,
+      "lng": 13.4706467
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Civitella Alfedena",
+    "nomeAltraLingua": null,
+    "codice": "066035",
+    "codiceCatastale": "C778",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 294,
+    "superficie": 29.3568,
+    "coordinate": {
+      "lat": 41.7652073,
+      "lng": 13.9407457
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Civitella Roveto",
+    "nomeAltraLingua": null,
+    "codice": "066036",
+    "codiceCatastale": "C783",
+    "sigla": "AQ",
+    "cap": [
+      "67054"
+    ],
+    "capoluogo": false,
+    "popolazione": 3010,
+    "superficie": 45.3535,
+    "coordinate": {
+      "lat": 41.9147689,
+      "lng": 13.4274575
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cocullo",
+    "nomeAltraLingua": null,
+    "codice": "066037",
+    "codiceCatastale": "C811",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 211,
+    "superficie": 31.6502,
+    "coordinate": {
+      "lat": 42.0329135,
+      "lng": 13.7741985
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Collarmele",
+    "nomeAltraLingua": null,
+    "codice": "066038",
+    "codiceCatastale": "C844",
+    "sigla": "AQ",
+    "cap": [
+      "67040"
+    ],
+    "capoluogo": false,
+    "popolazione": 782,
+    "superficie": 23.7311,
+    "coordinate": {
+      "lat": 42.0612274,
+      "lng": 13.6267074
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Collelongo",
+    "nomeAltraLingua": null,
+    "codice": "066039",
+    "codiceCatastale": "C862",
+    "sigla": "AQ",
+    "cap": [
+      "67050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1070,
+    "superficie": 53.5951,
+    "coordinate": {
+      "lat": 41.8866205,
+      "lng": 13.5834221
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Collepietro",
+    "nomeAltraLingua": null,
+    "codice": "066040",
+    "codiceCatastale": "C866",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 198,
+    "superficie": 15.3128,
+    "coordinate": {
+      "lat": 42.2209075,
+      "lng": 13.7806412
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Corfinio",
+    "nomeAltraLingua": null,
+    "codice": "066041",
+    "codiceCatastale": "C999",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 957,
+    "superficie": 17.9099,
+    "coordinate": {
+      "lat": 42.1245875,
+      "lng": 13.8440255
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fagnano Alto",
+    "nomeAltraLingua": null,
+    "codice": "066042",
+    "codiceCatastale": "D465",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 351,
+    "superficie": 24.61,
+    "coordinate": {
+      "lat": 42.253466,
+      "lng": 13.5748464
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fontecchio",
+    "nomeAltraLingua": null,
+    "codice": "066043",
+    "codiceCatastale": "D681",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 286,
+    "superficie": 17.1765,
+    "coordinate": {
+      "lat": 42.2315256,
+      "lng": 13.6069719
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fossa",
+    "nomeAltraLingua": null,
+    "codice": "066044",
+    "codiceCatastale": "D736",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 658,
+    "superficie": 8.697,
+    "coordinate": {
+      "lat": 42.2960845,
+      "lng": 13.4867975
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gagliano Aterno",
+    "nomeAltraLingua": null,
+    "codice": "066045",
+    "codiceCatastale": "D850",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 225,
+    "superficie": 32.2815,
+    "coordinate": {
+      "lat": 42.1259336,
+      "lng": 13.7004897
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gioia dei Marsi",
+    "nomeAltraLingua": null,
+    "codice": "066046",
+    "codiceCatastale": "E040",
+    "sigla": "AQ",
+    "cap": [
+      "67055"
+    ],
+    "capoluogo": false,
+    "popolazione": 1710,
+    "superficie": 57.9764,
+    "coordinate": {
+      "lat": 41.9540573,
+      "lng": 13.6932361
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Goriano Sicoli",
+    "nomeAltraLingua": null,
+    "codice": "066047",
+    "codiceCatastale": "E096",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 516,
+    "superficie": 20.3303,
+    "coordinate": {
+      "lat": 42.0799179,
+      "lng": 13.7733079
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Introdacqua",
+    "nomeAltraLingua": null,
+    "codice": "066048",
+    "codiceCatastale": "E307",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1942,
+    "superficie": 37.207,
+    "coordinate": {
+      "lat": 42.0077075,
+      "lng": 13.898704
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "L'Aquila",
+    "nomeAltraLingua": null,
+    "codice": "066049",
+    "codiceCatastale": "A345",
+    "sigla": "AQ",
+    "cap": [
+      "67100"
+    ],
+    "capoluogo": true,
+    "popolazione": 69717,
+    "superficie": 473.5912,
+    "coordinate": {
+      "lat": 42.3501416,
+      "lng": 13.401164
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lecce nei Marsi",
+    "nomeAltraLingua": null,
+    "codice": "066050",
+    "codiceCatastale": "E505",
+    "sigla": "AQ",
+    "cap": [
+      "67050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1531,
+    "superficie": 66.6432,
+    "coordinate": {
+      "lat": 41.9348204,
+      "lng": 13.6860229
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Luco dei Marsi",
+    "nomeAltraLingua": null,
+    "codice": "066051",
+    "codiceCatastale": "E723",
+    "sigla": "AQ",
+    "cap": [
+      "67056"
+    ],
+    "capoluogo": false,
+    "popolazione": 5923,
+    "superficie": 45.1262,
+    "coordinate": {
+      "lat": 41.9618283,
+      "lng": 13.4690199
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lucoli",
+    "nomeAltraLingua": null,
+    "codice": "066052",
+    "codiceCatastale": "E724",
+    "sigla": "AQ",
+    "cap": [
+      "67045"
+    ],
+    "capoluogo": false,
+    "popolazione": 824,
+    "superficie": 103.6774,
+    "coordinate": {
+      "lat": 42.2909395,
+      "lng": 13.33902
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Magliano de' Marsi",
+    "nomeAltraLingua": null,
+    "codice": "066053",
+    "codiceCatastale": "E811",
+    "sigla": "AQ",
+    "cap": [
+      "67062"
+    ],
+    "capoluogo": false,
+    "popolazione": 3466,
+    "superficie": 71.3548,
+    "coordinate": {
+      "lat": 42.0925554,
+      "lng": 13.364718
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Massa d'Albe",
+    "nomeAltraLingua": null,
+    "codice": "066054",
+    "codiceCatastale": "F022",
+    "sigla": "AQ",
+    "cap": [
+      "67050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1337,
+    "superficie": 68.6616,
+    "coordinate": {
+      "lat": 42.109154,
+      "lng": 13.3923481
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Molina Aterno",
+    "nomeAltraLingua": null,
+    "codice": "066055",
+    "codiceCatastale": "M255",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 344,
+    "superficie": 12.364,
+    "coordinate": {
+      "lat": 42.1478618,
+      "lng": 13.7352566
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montereale",
+    "nomeAltraLingua": null,
+    "codice": "066056",
+    "codiceCatastale": "F595",
+    "sigla": "AQ",
+    "cap": [
+      "67015"
+    ],
+    "capoluogo": false,
+    "popolazione": 2195,
+    "superficie": 104.1115,
+    "coordinate": {
+      "lat": 42.5285014,
+      "lng": 13.2392601
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Morino",
+    "nomeAltraLingua": null,
+    "codice": "066057",
+    "codiceCatastale": "F732",
+    "sigla": "AQ",
+    "cap": [
+      "67050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1302,
+    "superficie": 51.0335,
+    "coordinate": {
+      "lat": 41.864643,
+      "lng": 13.4579297
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Navelli",
+    "nomeAltraLingua": null,
+    "codice": "066058",
+    "codiceCatastale": "F852",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 569,
+    "superficie": 42.1895,
+    "coordinate": {
+      "lat": 42.2364651,
+      "lng": 13.7265104
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ocre",
+    "nomeAltraLingua": null,
+    "codice": "066059",
+    "codiceCatastale": "F996",
+    "sigla": "AQ",
+    "cap": [
+      "67040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1098,
+    "superficie": 23.8024,
+    "coordinate": {
+      "lat": 42.2837057,
+      "lng": 13.4738146
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ofena",
+    "nomeAltraLingua": null,
+    "codice": "066060",
+    "codiceCatastale": "G002",
+    "sigla": "AQ",
+    "cap": [
+      "67025"
+    ],
+    "capoluogo": false,
+    "popolazione": 434,
+    "superficie": 37.2063,
+    "coordinate": {
+      "lat": 42.3281532,
+      "lng": 13.7584688
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Opi",
+    "nomeAltraLingua": null,
+    "codice": "066061",
+    "codiceCatastale": "G079",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 377,
+    "superficie": 49.8443,
+    "coordinate": {
+      "lat": 41.7804375,
+      "lng": 13.8299903
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Oricola",
+    "nomeAltraLingua": null,
+    "codice": "066062",
+    "codiceCatastale": "G102",
+    "sigla": "AQ",
+    "cap": [
+      "67063"
+    ],
+    "capoluogo": false,
+    "popolazione": 1271,
+    "superficie": 18.3466,
+    "coordinate": {
+      "lat": 42.0496835,
+      "lng": 13.0388336
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ortona dei Marsi",
+    "nomeAltraLingua": null,
+    "codice": "066063",
+    "codiceCatastale": "G142",
+    "sigla": "AQ",
+    "cap": [
+      "67050"
+    ],
+    "capoluogo": false,
+    "popolazione": 386,
+    "superficie": 56.8321,
+    "coordinate": {
+      "lat": 41.9974493,
+      "lng": 13.729031
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ortucchio",
+    "nomeAltraLingua": null,
+    "codice": "066064",
+    "codiceCatastale": "G145",
+    "sigla": "AQ",
+    "cap": [
+      "67050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1733,
+    "superficie": 39.3343,
+    "coordinate": {
+      "lat": 41.9547991,
+      "lng": 13.6459071
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ovindoli",
+    "nomeAltraLingua": null,
+    "codice": "066065",
+    "codiceCatastale": "G200",
+    "sigla": "AQ",
+    "cap": [
+      "67046"
+    ],
+    "capoluogo": false,
+    "popolazione": 1170,
+    "superficie": 61.4089,
+    "coordinate": {
+      "lat": 42.1331483,
+      "lng": 13.5173837
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pacentro",
+    "nomeAltraLingua": null,
+    "codice": "066066",
+    "codiceCatastale": "G210",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1085,
+    "superficie": 72.6361,
+    "coordinate": {
+      "lat": 42.0510414,
+      "lng": 13.9928316
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pereto",
+    "nomeAltraLingua": null,
+    "codice": "066067",
+    "codiceCatastale": "G449",
+    "sigla": "AQ",
+    "cap": [
+      "67064"
+    ],
+    "capoluogo": false,
+    "popolazione": 639,
+    "superficie": 41.1099,
+    "coordinate": {
+      "lat": 42.0579947,
+      "lng": 13.1017447
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pescasseroli",
+    "nomeAltraLingua": null,
+    "codice": "066068",
+    "codiceCatastale": "G484",
+    "sigla": "AQ",
+    "cap": [
+      "67032"
+    ],
+    "capoluogo": false,
+    "popolazione": 2056,
+    "superficie": 91.4752,
+    "coordinate": {
+      "lat": 41.8084673,
+      "lng": 13.7889904
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pescina",
+    "nomeAltraLingua": null,
+    "codice": "066069",
+    "codiceCatastale": "G492",
+    "sigla": "AQ",
+    "cap": [
+      "67057"
+    ],
+    "capoluogo": false,
+    "popolazione": 3670,
+    "superficie": 48.8373,
+    "coordinate": {
+      "lat": 42.0256026,
+      "lng": 13.6596201
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pescocostanzo",
+    "nomeAltraLingua": null,
+    "codice": "066070",
+    "codiceCatastale": "G493",
+    "sigla": "AQ",
+    "cap": [
+      "67033"
+    ],
+    "capoluogo": false,
+    "popolazione": 1086,
+    "superficie": 55.2922,
+    "coordinate": {
+      "lat": 41.890255,
+      "lng": 14.0655493
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pettorano sul Gizio",
+    "nomeAltraLingua": null,
+    "codice": "066071",
+    "codiceCatastale": "G524",
+    "sigla": "AQ",
+    "cap": [
+      "67034"
+    ],
+    "capoluogo": false,
+    "popolazione": 1280,
+    "superficie": 62.9741,
+    "coordinate": {
+      "lat": 41.9729419,
+      "lng": 13.9599705
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pizzoli",
+    "nomeAltraLingua": null,
+    "codice": "066072",
+    "codiceCatastale": "G726",
+    "sigla": "AQ",
+    "cap": [
+      "67017"
+    ],
+    "capoluogo": false,
+    "popolazione": 4299,
+    "superficie": 56.6435,
+    "coordinate": {
+      "lat": 42.4360631,
+      "lng": 13.3014379
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Poggio Picenze",
+    "nomeAltraLingua": null,
+    "codice": "066073",
+    "codiceCatastale": "G766",
+    "sigla": "AQ",
+    "cap": [
+      "67026"
+    ],
+    "capoluogo": false,
+    "popolazione": 1010,
+    "superficie": 11.6543,
+    "coordinate": {
+      "lat": 42.3211152,
+      "lng": 13.5419906
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Prata d'Ansidonia",
+    "nomeAltraLingua": null,
+    "codice": "066074",
+    "codiceCatastale": "G992",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 447,
+    "superficie": 19.5892,
+    "coordinate": {
+      "lat": 42.2793804,
+      "lng": 13.6033092
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pratola Peligna",
+    "nomeAltraLingua": null,
+    "codice": "066075",
+    "codiceCatastale": "H007",
+    "sigla": "AQ",
+    "cap": [
+      "67035"
+    ],
+    "capoluogo": false,
+    "popolazione": 7019,
+    "superficie": 28.5213,
+    "coordinate": {
+      "lat": 42.0968914,
+      "lng": 13.8721218
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Prezza",
+    "nomeAltraLingua": null,
+    "codice": "066076",
+    "codiceCatastale": "H056",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 847,
+    "superficie": 21.5901,
+    "coordinate": {
+      "lat": 42.0570668,
+      "lng": 13.8336716
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Raiano",
+    "nomeAltraLingua": null,
+    "codice": "066077",
+    "codiceCatastale": "H166",
+    "sigla": "AQ",
+    "cap": [
+      "67027"
+    ],
+    "capoluogo": false,
+    "popolazione": 2618,
+    "superficie": 28.7147,
+    "coordinate": {
+      "lat": 42.1026797,
+      "lng": 13.8160972
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rivisondoli",
+    "nomeAltraLingua": null,
+    "codice": "066078",
+    "codiceCatastale": "H353",
+    "sigla": "AQ",
+    "cap": [
+      "67036"
+    ],
+    "capoluogo": false,
+    "popolazione": 645,
+    "superficie": 32.1365,
+    "coordinate": {
+      "lat": 41.8723982,
+      "lng": 14.0687863
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Roccacasale",
+    "nomeAltraLingua": null,
+    "codice": "066079",
+    "codiceCatastale": "H389",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 588,
+    "superficie": 17.5651,
+    "coordinate": {
+      "lat": 42.1221272,
+      "lng": 13.8895601
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rocca di Botte",
+    "nomeAltraLingua": null,
+    "codice": "066080",
+    "codiceCatastale": "H399",
+    "sigla": "AQ",
+    "cap": [
+      "67066"
+    ],
+    "capoluogo": false,
+    "popolazione": 855,
+    "superficie": 31.2195,
+    "coordinate": {
+      "lat": 42.026321,
+      "lng": 13.0677001
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rocca di Cambio",
+    "nomeAltraLingua": null,
+    "codice": "066081",
+    "codiceCatastale": "H400",
+    "sigla": "AQ",
+    "cap": [
+      "67047"
+    ],
+    "capoluogo": false,
+    "popolazione": 506,
+    "superficie": 27.758,
+    "coordinate": {
+      "lat": 42.2367719,
+      "lng": 13.4896498
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rocca di Mezzo",
+    "nomeAltraLingua": null,
+    "codice": "066082",
+    "codiceCatastale": "H402",
+    "sigla": "AQ",
+    "cap": [
+      "67048"
+    ],
+    "capoluogo": false,
+    "popolazione": 1353,
+    "superficie": 90.3276,
+    "coordinate": {
+      "lat": 42.2050604,
+      "lng": 13.5190076
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rocca Pia",
+    "nomeAltraLingua": null,
+    "codice": "066083",
+    "codiceCatastale": "H429",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 178,
+    "superficie": 44.8642,
+    "coordinate": {
+      "lat": 41.9345462,
+      "lng": 13.9770917
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Roccaraso",
+    "nomeAltraLingua": null,
+    "codice": "066084",
+    "codiceCatastale": "H434",
+    "sigla": "AQ",
+    "cap": [
+      "67037"
+    ],
+    "capoluogo": false,
+    "popolazione": 1485,
+    "superficie": 49.7363,
+    "coordinate": {
+      "lat": 41.8466247,
+      "lng": 14.0786829
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Benedetto dei Marsi",
+    "nomeAltraLingua": null,
+    "codice": "066085",
+    "codiceCatastale": "H772",
+    "sigla": "AQ",
+    "cap": [
+      "67058"
+    ],
+    "capoluogo": false,
+    "popolazione": 3703,
+    "superficie": 16.8689,
+    "coordinate": {
+      "lat": 42.0064054,
+      "lng": 13.6233461
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Benedetto in Perillis",
+    "nomeAltraLingua": null,
+    "codice": "066086",
+    "codiceCatastale": "H773",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 98,
+    "superficie": 19.1643,
+    "coordinate": {
+      "lat": 42.1828806,
+      "lng": 13.7694979
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Demetrio ne' Vestini",
+    "nomeAltraLingua": null,
+    "codice": "066087",
+    "codiceCatastale": "H819",
+    "sigla": "AQ",
+    "cap": [
+      "67028"
+    ],
+    "capoluogo": false,
+    "popolazione": 1948,
+    "superficie": 16.3343,
+    "coordinate": {
+      "lat": 42.2879854,
+      "lng": 13.5587995
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Pio delle Camere",
+    "nomeAltraLingua": null,
+    "codice": "066088",
+    "codiceCatastale": "I121",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 650,
+    "superficie": 17.1658,
+    "coordinate": {
+      "lat": 42.2857368,
+      "lng": 13.6552449
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sante Marie",
+    "nomeAltraLingua": null,
+    "codice": "066089",
+    "codiceCatastale": "I326",
+    "sigla": "AQ",
+    "cap": [
+      "67067"
+    ],
+    "capoluogo": false,
+    "popolazione": 1068,
+    "superficie": 40.8488,
+    "coordinate": {
+      "lat": 42.103035,
+      "lng": 13.2028275
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sant'Eusanio Forconese",
+    "nomeAltraLingua": null,
+    "codice": "066090",
+    "codiceCatastale": "I336",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 365,
+    "superficie": 7.8453,
+    "coordinate": {
+      "lat": 42.2892552,
+      "lng": 13.5249287
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Santo Stefano di Sessanio",
+    "nomeAltraLingua": null,
+    "codice": "066091",
+    "codiceCatastale": "I360",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 110,
+    "superficie": 33.7224,
+    "coordinate": {
+      "lat": 42.34267,
+      "lng": 13.6459274
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Vincenzo Valle Roveto",
+    "nomeAltraLingua": null,
+    "codice": "066092",
+    "codiceCatastale": "I389",
+    "sigla": "AQ",
+    "cap": [
+      "67050"
+    ],
+    "capoluogo": false,
+    "popolazione": 2072,
+    "superficie": 46.1723,
+    "coordinate": {
+      "lat": 41.8340074,
+      "lng": 13.5244675
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Scanno",
+    "nomeAltraLingua": null,
+    "codice": "066093",
+    "codiceCatastale": "I501",
+    "sigla": "AQ",
+    "cap": [
+      "67038"
+    ],
+    "capoluogo": false,
+    "popolazione": 1697,
+    "superficie": 134.8607,
+    "coordinate": {
+      "lat": 41.9042012,
+      "lng": 13.8781988
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Scontrone",
+    "nomeAltraLingua": null,
+    "codice": "066094",
+    "codiceCatastale": "I543",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 540,
+    "superficie": 21.2008,
+    "coordinate": {
+      "lat": 41.7457556,
+      "lng": 14.038776
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Scoppito",
+    "nomeAltraLingua": null,
+    "codice": "066095",
+    "codiceCatastale": "I546",
+    "sigla": "AQ",
+    "cap": [
+      "67019"
+    ],
+    "capoluogo": false,
+    "popolazione": 3789,
+    "superficie": 53.0194,
+    "coordinate": {
+      "lat": 42.3710952,
+      "lng": 13.256239
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Scurcola Marsicana",
+    "nomeAltraLingua": null,
+    "codice": "066096",
+    "codiceCatastale": "I553",
+    "sigla": "AQ",
+    "cap": [
+      "67068"
+    ],
+    "capoluogo": false,
+    "popolazione": 2674,
+    "superficie": 30.2406,
+    "coordinate": {
+      "lat": 42.0630895,
+      "lng": 13.3427775
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Secinaro",
+    "nomeAltraLingua": null,
+    "codice": "066097",
+    "codiceCatastale": "I558",
+    "sigla": "AQ",
+    "cap": [
+      "67029"
+    ],
+    "capoluogo": false,
+    "popolazione": 300,
+    "superficie": 33.4103,
+    "coordinate": {
+      "lat": 42.1526995,
+      "lng": 13.6798281
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sulmona",
+    "nomeAltraLingua": null,
+    "codice": "066098",
+    "codiceCatastale": "I804",
+    "sigla": "AQ",
+    "cap": [
+      "67039"
+    ],
+    "capoluogo": false,
+    "popolazione": 21960,
+    "superficie": 57.7005,
+    "coordinate": {
+      "lat": 42.0474832,
+      "lng": 13.9241962
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tagliacozzo",
+    "nomeAltraLingua": null,
+    "codice": "066099",
+    "codiceCatastale": "L025",
+    "sigla": "AQ",
+    "cap": [
+      "67069"
+    ],
+    "capoluogo": false,
+    "popolazione": 6427,
+    "superficie": 86.9727,
+    "coordinate": {
+      "lat": 42.0679487,
+      "lng": 13.2546151
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tione degli Abruzzi",
+    "nomeAltraLingua": null,
+    "codice": "066100",
+    "codiceCatastale": "L173",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 258,
+    "superficie": 39.2177,
+    "coordinate": {
+      "lat": 42.203723,
+      "lng": 13.6373673
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tornimparte",
+    "nomeAltraLingua": null,
+    "codice": "066101",
+    "codiceCatastale": "L227",
+    "sigla": "AQ",
+    "cap": [
+      "67049"
+    ],
+    "capoluogo": false,
+    "popolazione": 2749,
+    "superficie": 65.7949,
+    "coordinate": {
+      "lat": 42.2884776,
+      "lng": 13.3008875
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Trasacco",
+    "nomeAltraLingua": null,
+    "codice": "066102",
+    "codiceCatastale": "L334",
+    "sigla": "AQ",
+    "cap": [
+      "67059"
+    ],
+    "capoluogo": false,
+    "popolazione": 5790,
+    "superficie": 51.2585,
+    "coordinate": {
+      "lat": 41.9578522,
+      "lng": 13.5383057
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Villalago",
+    "nomeAltraLingua": null,
+    "codice": "066103",
+    "codiceCatastale": "L958",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 503,
+    "superficie": 33.4679,
+    "coordinate": {
+      "lat": 41.9358707,
+      "lng": 13.8349583
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Villa Santa Lucia degli Abruzzi",
+    "nomeAltraLingua": null,
+    "codice": "066104",
+    "codiceCatastale": "M021",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 88,
+    "superficie": 27.2305,
+    "coordinate": {
+      "lat": 42.3328592,
+      "lng": 13.7787003
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Villa Sant'Angelo",
+    "nomeAltraLingua": null,
+    "codice": "066105",
+    "codiceCatastale": "M023",
+    "sigla": "AQ",
+    "cap": [
+      "67020"
+    ],
+    "capoluogo": false,
+    "popolazione": 489,
+    "superficie": 5.42,
+    "coordinate": {
+      "lat": 42.2704461,
+      "lng": 13.5372918
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Villavallelonga",
+    "nomeAltraLingua": null,
+    "codice": "066106",
+    "codiceCatastale": "M031",
+    "sigla": "AQ",
+    "cap": [
+      "67050"
+    ],
+    "capoluogo": false,
+    "popolazione": 826,
+    "superficie": 73.8984,
+    "coordinate": {
+      "lat": 41.86744,
+      "lng": 13.6245146
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Villetta Barrea",
+    "nomeAltraLingua": null,
+    "codice": "066107",
+    "codiceCatastale": "M041",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 608,
+    "superficie": 20.6993,
+    "coordinate": {
+      "lat": 41.7759682,
+      "lng": 13.935639
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vittorito",
+    "nomeAltraLingua": null,
+    "codice": "066108",
+    "codiceCatastale": "M090",
+    "sigla": "AQ",
+    "cap": [
+      "67030"
+    ],
+    "capoluogo": false,
+    "popolazione": 819,
+    "superficie": 14.1833,
+    "coordinate": {
+      "lat": 42.1252755,
+      "lng": 13.8165873
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "L'Aquila",
+      "codice": "066",
+      "sigla": "AQ",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Alba Adriatica",
+    "nomeAltraLingua": null,
+    "codice": "067001",
+    "codiceCatastale": "A125",
+    "sigla": "TE",
+    "cap": [
+      "64011"
+    ],
+    "capoluogo": false,
+    "popolazione": 13097,
+    "superficie": 9.5402,
+    "coordinate": {
+      "lat": 42.8344339,
+      "lng": 13.920758
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ancarano",
+    "nomeAltraLingua": null,
+    "codice": "067002",
+    "codiceCatastale": "A270",
+    "sigla": "TE",
+    "cap": [
+      "64010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1871,
+    "superficie": 14.0855,
+    "coordinate": {
+      "lat": 42.836803,
+      "lng": 13.7410609
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Arsita",
+    "nomeAltraLingua": null,
+    "codice": "067003",
+    "codiceCatastale": "A445",
+    "sigla": "TE",
+    "cap": [
+      "64031"
+    ],
+    "capoluogo": false,
+    "popolazione": 732,
+    "superficie": 34.0487,
+    "coordinate": {
+      "lat": 42.5032138,
+      "lng": 13.785883
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Atri",
+    "nomeAltraLingua": null,
+    "codice": "067004",
+    "codiceCatastale": "A488",
+    "sigla": "TE",
+    "cap": [
+      "64032"
+    ],
+    "capoluogo": false,
+    "popolazione": 9935,
+    "superficie": 92.1648,
+    "coordinate": {
+      "lat": 42.5796768,
+      "lng": 13.9751825
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Basciano",
+    "nomeAltraLingua": null,
+    "codice": "067005",
+    "codiceCatastale": "A692",
+    "sigla": "TE",
+    "cap": [
+      "64030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2314,
+    "superficie": 18.9791,
+    "coordinate": {
+      "lat": 42.5959032,
+      "lng": 13.738718
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bellante",
+    "nomeAltraLingua": null,
+    "codice": "067006",
+    "codiceCatastale": "A746",
+    "sigla": "TE",
+    "cap": [
+      "64020"
+    ],
+    "capoluogo": false,
+    "popolazione": 6835,
+    "superficie": 49.8538,
+    "coordinate": {
+      "lat": 42.7446726,
+      "lng": 13.8055734
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bisenti",
+    "nomeAltraLingua": null,
+    "codice": "067007",
+    "codiceCatastale": "A885",
+    "sigla": "TE",
+    "cap": [
+      "64033"
+    ],
+    "capoluogo": false,
+    "popolazione": 1678,
+    "superficie": 30.74,
+    "coordinate": {
+      "lat": 42.5286436,
+      "lng": 13.8041395
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Campli",
+    "nomeAltraLingua": null,
+    "codice": "067008",
+    "codiceCatastale": "B515",
+    "sigla": "TE",
+    "cap": [
+      "64012"
+    ],
+    "capoluogo": false,
+    "popolazione": 6536,
+    "superficie": 73.4675,
+    "coordinate": {
+      "lat": 42.7260652,
+      "lng": 13.6864943
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Canzano",
+    "nomeAltraLingua": null,
+    "codice": "067009",
+    "codiceCatastale": "B640",
+    "sigla": "TE",
+    "cap": [
+      "64020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1769,
+    "superficie": 16.9208,
+    "coordinate": {
+      "lat": 42.6473456,
+      "lng": 13.802989
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castel Castagna",
+    "nomeAltraLingua": null,
+    "codice": "067010",
+    "codiceCatastale": "C040",
+    "sigla": "TE",
+    "cap": [
+      "64030"
+    ],
+    "capoluogo": false,
+    "popolazione": 424,
+    "superficie": 18.3646,
+    "coordinate": {
+      "lat": 42.5425536,
+      "lng": 13.716815
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castellalto",
+    "nomeAltraLingua": null,
+    "codice": "067011",
+    "codiceCatastale": "C128",
+    "sigla": "TE",
+    "cap": [
+      "64020"
+    ],
+    "capoluogo": false,
+    "popolazione": 7248,
+    "superficie": 33.9618,
+    "coordinate": {
+      "lat": 42.6756666,
+      "lng": 13.8176452
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelli",
+    "nomeAltraLingua": null,
+    "codice": "067012",
+    "codiceCatastale": "C169",
+    "sigla": "TE",
+    "cap": [
+      "64041"
+    ],
+    "capoluogo": false,
+    "popolazione": 944,
+    "superficie": 49.8767,
+    "coordinate": {
+      "lat": 42.4890546,
+      "lng": 13.7117698
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castiglione Messer Raimondo",
+    "nomeAltraLingua": null,
+    "codice": "067013",
+    "codiceCatastale": "C316",
+    "sigla": "TE",
+    "cap": [
+      "64034"
+    ],
+    "capoluogo": false,
+    "popolazione": 1992,
+    "superficie": 30.8505,
+    "coordinate": {
+      "lat": 42.5308843,
+      "lng": 13.8828221
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castilenti",
+    "nomeAltraLingua": null,
+    "codice": "067014",
+    "codiceCatastale": "C322",
+    "sigla": "TE",
+    "cap": [
+      "64035"
+    ],
+    "capoluogo": false,
+    "popolazione": 1314,
+    "superficie": 24.1116,
+    "coordinate": {
+      "lat": 42.5334797,
+      "lng": 13.9175834
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cellino Attanasio",
+    "nomeAltraLingua": null,
+    "codice": "067015",
+    "codiceCatastale": "C449",
+    "sigla": "TE",
+    "cap": [
+      "64036"
+    ],
+    "capoluogo": false,
+    "popolazione": 2208,
+    "superficie": 44.0671,
+    "coordinate": {
+      "lat": 42.5859088,
+      "lng": 13.8592625
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cermignano",
+    "nomeAltraLingua": null,
+    "codice": "067016",
+    "codiceCatastale": "C517",
+    "sigla": "TE",
+    "cap": [
+      "64037"
+    ],
+    "capoluogo": false,
+    "popolazione": 1438,
+    "superficie": 26.2472,
+    "coordinate": {
+      "lat": 42.589302,
+      "lng": 13.7936488
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Civitella del Tronto",
+    "nomeAltraLingua": null,
+    "codice": "067017",
+    "codiceCatastale": "C781",
+    "sigla": "TE",
+    "cap": [
+      "64010"
+    ],
+    "capoluogo": false,
+    "popolazione": 4575,
+    "superficie": 77.4845,
+    "coordinate": {
+      "lat": 42.7721988,
+      "lng": 13.6682873
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Colledara",
+    "nomeAltraLingua": null,
+    "codice": "067018",
+    "codiceCatastale": "C311",
+    "sigla": "TE",
+    "cap": [
+      "64042"
+    ],
+    "capoluogo": false,
+    "popolazione": 2077,
+    "superficie": 17.9155,
+    "coordinate": {
+      "lat": 42.5398672,
+      "lng": 13.6749807
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Colonnella",
+    "nomeAltraLingua": null,
+    "codice": "067019",
+    "codiceCatastale": "C901",
+    "sigla": "TE",
+    "cap": [
+      "64010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3669,
+    "superficie": 21.5582,
+    "coordinate": {
+      "lat": 42.8716781,
+      "lng": 13.8672877
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Controguerra",
+    "nomeAltraLingua": null,
+    "codice": "067020",
+    "codiceCatastale": "C972",
+    "sigla": "TE",
+    "cap": [
+      "64010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2213,
+    "superficie": 22.5701,
+    "coordinate": {
+      "lat": 42.8554551,
+      "lng": 13.8198243
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Corropoli",
+    "nomeAltraLingua": null,
+    "codice": "067021",
+    "codiceCatastale": "D043",
+    "sigla": "TE",
+    "cap": [
+      "64013"
+    ],
+    "capoluogo": false,
+    "popolazione": 5077,
+    "superficie": 22.2576,
+    "coordinate": {
+      "lat": 42.8276396,
+      "lng": 13.8347595
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cortino",
+    "nomeAltraLingua": null,
+    "codice": "067022",
+    "codiceCatastale": "D076",
+    "sigla": "TE",
+    "cap": [
+      "64040"
+    ],
+    "capoluogo": false,
+    "popolazione": 572,
+    "superficie": 63.1186,
+    "coordinate": {
+      "lat": 42.6252874,
+      "lng": 13.5830721
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Crognaleto",
+    "nomeAltraLingua": null,
+    "codice": "067023",
+    "codiceCatastale": "D179",
+    "sigla": "TE",
+    "cap": [
+      "64043"
+    ],
+    "capoluogo": false,
+    "popolazione": 1059,
+    "superficie": 124.3875,
+    "coordinate": {
+      "lat": 42.5477588,
+      "lng": 13.4783809
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fano Adriano",
+    "nomeAltraLingua": null,
+    "codice": "067024",
+    "codiceCatastale": "D489",
+    "sigla": "TE",
+    "cap": [
+      "64044"
+    ],
+    "capoluogo": false,
+    "popolazione": 262,
+    "superficie": 35.5101,
+    "coordinate": {
+      "lat": 42.5528966,
+      "lng": 13.5375947
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Giulianova",
+    "nomeAltraLingua": null,
+    "codice": "067025",
+    "codiceCatastale": "E058",
+    "sigla": "TE",
+    "cap": [
+      "64021"
+    ],
+    "capoluogo": false,
+    "popolazione": 23510,
+    "superficie": 27.9549,
+    "coordinate": {
+      "lat": 42.7524502,
+      "lng": 13.9566587
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Isola del Gran Sasso d'Italia",
+    "nomeAltraLingua": null,
+    "codice": "067026",
+    "codiceCatastale": "E343",
+    "sigla": "TE",
+    "cap": [
+      "64045"
+    ],
+    "capoluogo": false,
+    "popolazione": 4436,
+    "superficie": 83.9165,
+    "coordinate": {
+      "lat": 42.5026625,
+      "lng": 13.6623241
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montefino",
+    "nomeAltraLingua": null,
+    "codice": "067027",
+    "codiceCatastale": "F500",
+    "sigla": "TE",
+    "cap": [
+      "64030"
+    ],
+    "capoluogo": false,
+    "popolazione": 929,
+    "superficie": 18.4596,
+    "coordinate": {
+      "lat": 42.5445735,
+      "lng": 13.8844508
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montorio al Vomano",
+    "nomeAltraLingua": null,
+    "codice": "067028",
+    "codiceCatastale": "F690",
+    "sigla": "TE",
+    "cap": [
+      "64046"
+    ],
+    "capoluogo": false,
+    "popolazione": 7418,
+    "superficie": 53.7572,
+    "coordinate": {
+      "lat": 42.5829343,
+      "lng": 13.6324751
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Morro d'Oro",
+    "nomeAltraLingua": null,
+    "codice": "067029",
+    "codiceCatastale": "F747",
+    "sigla": "TE",
+    "cap": [
+      "64020"
+    ],
+    "capoluogo": false,
+    "popolazione": 3547,
+    "superficie": 28.7762,
+    "coordinate": {
+      "lat": 42.6637407,
+      "lng": 13.9195156
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mosciano Sant'Angelo",
+    "nomeAltraLingua": null,
+    "codice": "067030",
+    "codiceCatastale": "F764",
+    "sigla": "TE",
+    "cap": [
+      "64023"
+    ],
+    "capoluogo": false,
+    "popolazione": 9135,
+    "superficie": 48.716,
+    "coordinate": {
+      "lat": 42.7494052,
+      "lng": 13.8877757
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Nereto",
+    "nomeAltraLingua": null,
+    "codice": "067031",
+    "codiceCatastale": "F870",
+    "sigla": "TE",
+    "cap": [
+      "64015"
+    ],
+    "capoluogo": false,
+    "popolazione": 5362,
+    "superficie": 7.0121,
+    "coordinate": {
+      "lat": 42.8203894,
+      "lng": 13.8178305
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Notaresco",
+    "nomeAltraLingua": null,
+    "codice": "067032",
+    "codiceCatastale": "F942",
+    "sigla": "TE",
+    "cap": [
+      "64024"
+    ],
+    "capoluogo": false,
+    "popolazione": 6304,
+    "superficie": 38.1015,
+    "coordinate": {
+      "lat": 42.6587702,
+      "lng": 13.8941722
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Penna Sant'Andrea",
+    "nomeAltraLingua": null,
+    "codice": "067033",
+    "codiceCatastale": "G437",
+    "sigla": "TE",
+    "cap": [
+      "64039"
+    ],
+    "capoluogo": false,
+    "popolazione": 1658,
+    "superficie": 10.984,
+    "coordinate": {
+      "lat": 42.5936274,
+      "lng": 13.7716417
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pietracamela",
+    "nomeAltraLingua": null,
+    "codice": "067034",
+    "codiceCatastale": "G608",
+    "sigla": "TE",
+    "cap": [
+      "64047"
+    ],
+    "capoluogo": false,
+    "popolazione": 207,
+    "superficie": 44.8038,
+    "coordinate": {
+      "lat": 42.5236392,
+      "lng": 13.5539029
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pineto",
+    "nomeAltraLingua": null,
+    "codice": "067035",
+    "codiceCatastale": "F831",
+    "sigla": "TE",
+    "cap": [
+      "64025"
+    ],
+    "capoluogo": false,
+    "popolazione": 14687,
+    "superficie": 38.149,
+    "coordinate": {
+      "lat": 42.6078889,
+      "lng": 14.0669983
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rocca Santa Maria",
+    "nomeAltraLingua": null,
+    "codice": "067036",
+    "codiceCatastale": "H440",
+    "sigla": "TE",
+    "cap": [
+      "64010"
+    ],
+    "capoluogo": false,
+    "popolazione": 454,
+    "superficie": 61.4152,
+    "coordinate": {
+      "lat": 42.6859365,
+      "lng": 13.5281766
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Roseto degli Abruzzi",
+    "nomeAltraLingua": null,
+    "codice": "067037",
+    "codiceCatastale": "F585",
+    "sigla": "TE",
+    "cap": [
+      "64026"
+    ],
+    "capoluogo": false,
+    "popolazione": 25617,
+    "superficie": 53.0147,
+    "coordinate": {
+      "lat": 42.6796047,
+      "lng": 14.0108565
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sant'Egidio alla Vibrata",
+    "nomeAltraLingua": null,
+    "codice": "067038",
+    "codiceCatastale": "I318",
+    "sigla": "TE",
+    "cap": [
+      "64016"
+    ],
+    "capoluogo": false,
+    "popolazione": 9790,
+    "superficie": 18.5227,
+    "coordinate": {
+      "lat": 42.8252509,
+      "lng": 13.7163583
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sant'Omero",
+    "nomeAltraLingua": null,
+    "codice": "067039",
+    "codiceCatastale": "I348",
+    "sigla": "TE",
+    "cap": [
+      "64027"
+    ],
+    "capoluogo": false,
+    "popolazione": 5132,
+    "superficie": 34.2225,
+    "coordinate": {
+      "lat": 42.7865955,
+      "lng": 13.8018177
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Silvi",
+    "nomeAltraLingua": null,
+    "codice": "067040",
+    "codiceCatastale": "I741",
+    "sigla": "TE",
+    "cap": [
+      "64028"
+    ],
+    "capoluogo": false,
+    "popolazione": 15455,
+    "superficie": 20.7195,
+    "coordinate": {
+      "lat": 42.5566685,
+      "lng": 14.1144014
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Teramo",
+    "nomeAltraLingua": null,
+    "codice": "067041",
+    "codiceCatastale": "L103",
+    "sigla": "TE",
+    "cap": [
+      "64100"
+    ],
+    "capoluogo": true,
+    "popolazione": 51630,
+    "superficie": 152.6963,
+    "coordinate": {
+      "lat": 42.6590815,
+      "lng": 13.7000048
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Torano Nuovo",
+    "nomeAltraLingua": null,
+    "codice": "067042",
+    "codiceCatastale": "L207",
+    "sigla": "TE",
+    "cap": [
+      "64010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1460,
+    "superficie": 10.1361,
+    "coordinate": {
+      "lat": 42.8233161,
+      "lng": 13.7768667
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Torricella Sicura",
+    "nomeAltraLingua": null,
+    "codice": "067043",
+    "codiceCatastale": "L295",
+    "sigla": "TE",
+    "cap": [
+      "64010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2413,
+    "superficie": 54.6895,
+    "coordinate": {
+      "lat": 42.6571794,
+      "lng": 13.6547938
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tortoreto",
+    "nomeAltraLingua": null,
+    "codice": "067044",
+    "codiceCatastale": "L307",
+    "sigla": "TE",
+    "cap": [
+      "64018"
+    ],
+    "capoluogo": false,
+    "popolazione": 11870,
+    "superficie": 22.6696,
+    "coordinate": {
+      "lat": 42.8038957,
+      "lng": 13.9128173
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tossicia",
+    "nomeAltraLingua": null,
+    "codice": "067045",
+    "codiceCatastale": "L314",
+    "sigla": "TE",
+    "cap": [
+      "64049"
+    ],
+    "capoluogo": false,
+    "popolazione": 1217,
+    "superficie": 27.3596,
+    "coordinate": {
+      "lat": 42.5470341,
+      "lng": 13.6460041
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Valle Castellana",
+    "nomeAltraLingua": null,
+    "codice": "067046",
+    "codiceCatastale": "L597",
+    "sigla": "TE",
+    "cap": [
+      "64010"
+    ],
+    "capoluogo": false,
+    "popolazione": 845,
+    "superficie": 131.2134,
+    "coordinate": {
+      "lat": 42.7353826,
+      "lng": 13.4975833
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Martinsicuro",
+    "nomeAltraLingua": null,
+    "codice": "067047",
+    "codiceCatastale": "E989",
+    "sigla": "TE",
+    "cap": [
+      "64014"
+    ],
+    "capoluogo": false,
+    "popolazione": 16359,
+    "superficie": 14.6162,
+    "coordinate": {
+      "lat": 42.8852148,
+      "lng": 13.9160057
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Teramo",
+      "codice": "067",
+      "sigla": "TE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Abbateggio",
+    "nomeAltraLingua": null,
+    "codice": "068001",
+    "codiceCatastale": "A008",
+    "sigla": "PE",
+    "cap": [
+      "65020"
+    ],
+    "capoluogo": false,
+    "popolazione": 357,
+    "superficie": 15.1969,
+    "coordinate": {
+      "lat": 42.2243803,
+      "lng": 14.0135289
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Alanno",
+    "nomeAltraLingua": null,
+    "codice": "068002",
+    "codiceCatastale": "A120",
+    "sigla": "PE",
+    "cap": [
+      "65020"
+    ],
+    "capoluogo": false,
+    "popolazione": 3325,
+    "superficie": 32.5755,
+    "coordinate": {
+      "lat": 42.2942947,
+      "lng": 13.9697977
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bolognano",
+    "nomeAltraLingua": null,
+    "codice": "068003",
+    "codiceCatastale": "A945",
+    "sigla": "PE",
+    "cap": [
+      "65020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1004,
+    "superficie": 17.0708,
+    "coordinate": {
+      "lat": 42.2169765,
+      "lng": 13.9598537
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Brittoli",
+    "nomeAltraLingua": null,
+    "codice": "068004",
+    "codiceCatastale": "B193",
+    "sigla": "PE",
+    "cap": [
+      "65010"
+    ],
+    "capoluogo": false,
+    "popolazione": 249,
+    "superficie": 15.94,
+    "coordinate": {
+      "lat": 42.3161019,
+      "lng": 13.8609009
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bussi sul Tirino",
+    "nomeAltraLingua": null,
+    "codice": "068005",
+    "codiceCatastale": "B294",
+    "sigla": "PE",
+    "cap": [
+      "65022"
+    ],
+    "capoluogo": false,
+    "popolazione": 2265,
+    "superficie": 26.1117,
+    "coordinate": {
+      "lat": 42.2091149,
+      "lng": 13.8256334
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cappelle sul Tavo",
+    "nomeAltraLingua": null,
+    "codice": "068006",
+    "codiceCatastale": "B681",
+    "sigla": "PE",
+    "cap": [
+      "65010"
+    ],
+    "capoluogo": false,
+    "popolazione": 4053,
+    "superficie": 5.5181,
+    "coordinate": {
+      "lat": 42.4654416,
+      "lng": 14.1033236
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Caramanico Terme",
+    "nomeAltraLingua": null,
+    "codice": "068007",
+    "codiceCatastale": "B722",
+    "sigla": "PE",
+    "cap": [
+      "65023"
+    ],
+    "capoluogo": false,
+    "popolazione": 1766,
+    "superficie": 85.1327,
+    "coordinate": {
+      "lat": 42.1564611,
+      "lng": 14.003181
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carpineto della Nora",
+    "nomeAltraLingua": null,
+    "codice": "068008",
+    "codiceCatastale": "B827",
+    "sigla": "PE",
+    "cap": [
+      "65010"
+    ],
+    "capoluogo": false,
+    "popolazione": 521,
+    "superficie": 23.9408,
+    "coordinate": {
+      "lat": 42.3329625,
+      "lng": 13.8600482
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castiglione a Casauria",
+    "nomeAltraLingua": null,
+    "codice": "068009",
+    "codiceCatastale": "C308",
+    "sigla": "PE",
+    "cap": [
+      "65020"
+    ],
+    "capoluogo": false,
+    "popolazione": 712,
+    "superficie": 16.2548,
+    "coordinate": {
+      "lat": 42.236071,
+      "lng": 13.89353
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Catignano",
+    "nomeAltraLingua": null,
+    "codice": "068010",
+    "codiceCatastale": "C354",
+    "sigla": "PE",
+    "cap": [
+      "65011"
+    ],
+    "capoluogo": false,
+    "popolazione": 1240,
+    "superficie": 17.0479,
+    "coordinate": {
+      "lat": 42.3459651,
+      "lng": 13.9500842
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cepagatti",
+    "nomeAltraLingua": null,
+    "codice": "068011",
+    "codiceCatastale": "C474",
+    "sigla": "PE",
+    "cap": [
+      "65012"
+    ],
+    "capoluogo": false,
+    "popolazione": 10980,
+    "superficie": 30.8974,
+    "coordinate": {
+      "lat": 42.364417,
+      "lng": 14.073446
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Città Sant'Angelo",
+    "nomeAltraLingua": null,
+    "codice": "068012",
+    "codiceCatastale": "C750",
+    "sigla": "PE",
+    "cap": [
+      "65013"
+    ],
+    "capoluogo": false,
+    "popolazione": 14886,
+    "superficie": 61.9864,
+    "coordinate": {
+      "lat": 42.5185898,
+      "lng": 14.0592184
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Civitaquana",
+    "nomeAltraLingua": null,
+    "codice": "068013",
+    "codiceCatastale": "C771",
+    "sigla": "PE",
+    "cap": [
+      "65010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1124,
+    "superficie": 22.1397,
+    "coordinate": {
+      "lat": 42.3258867,
+      "lng": 13.8969166
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Civitella Casanova",
+    "nomeAltraLingua": null,
+    "codice": "068014",
+    "codiceCatastale": "C779",
+    "sigla": "PE",
+    "cap": [
+      "65010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1572,
+    "superficie": 31.1024,
+    "coordinate": {
+      "lat": 42.3646121,
+      "lng": 13.8891099
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Collecorvino",
+    "nomeAltraLingua": null,
+    "codice": "068015",
+    "codiceCatastale": "C853",
+    "sigla": "PE",
+    "cap": [
+      "65010"
+    ],
+    "capoluogo": false,
+    "popolazione": 6013,
+    "superficie": 31.8915,
+    "coordinate": {
+      "lat": 42.4584456,
+      "lng": 14.0144681
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Corvara",
+    "nomeAltraLingua": null,
+    "codice": "068016",
+    "codiceCatastale": "D078",
+    "sigla": "PE",
+    "cap": [
+      "65020"
+    ],
+    "capoluogo": false,
+    "popolazione": 213,
+    "superficie": 13.6751,
+    "coordinate": {
+      "lat": 42.2772961,
+      "lng": 13.8874547
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cugnoli",
+    "nomeAltraLingua": null,
+    "codice": "068017",
+    "codiceCatastale": "D201",
+    "sigla": "PE",
+    "cap": [
+      "65020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1336,
+    "superficie": 16.0319,
+    "coordinate": {
+      "lat": 42.3081731,
+      "lng": 13.9332664
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Elice",
+    "nomeAltraLingua": null,
+    "codice": "068018",
+    "codiceCatastale": "D394",
+    "sigla": "PE",
+    "cap": [
+      "65010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1630,
+    "superficie": 14.0095,
+    "coordinate": {
+      "lat": 42.5188169,
+      "lng": 13.9682753
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Farindola",
+    "nomeAltraLingua": null,
+    "codice": "068019",
+    "codiceCatastale": "D501",
+    "sigla": "PE",
+    "cap": [
+      "65010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1328,
+    "superficie": 45.5116,
+    "coordinate": {
+      "lat": 42.4416285,
+      "lng": 13.822102
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lettomanoppello",
+    "nomeAltraLingua": null,
+    "codice": "068020",
+    "codiceCatastale": "E558",
+    "sigla": "PE",
+    "cap": [
+      "65020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2666,
+    "superficie": 15.0909,
+    "coordinate": {
+      "lat": 42.2366163,
+      "lng": 14.0371505
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Loreto Aprutino",
+    "nomeAltraLingua": null,
+    "codice": "068021",
+    "codiceCatastale": "E691",
+    "sigla": "PE",
+    "cap": [
+      "65014"
+    ],
+    "capoluogo": false,
+    "popolazione": 7050,
+    "superficie": 59.5185,
+    "coordinate": {
+      "lat": 42.4337543,
+      "lng": 13.9826062
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Manoppello",
+    "nomeAltraLingua": null,
+    "codice": "068022",
+    "codiceCatastale": "E892",
+    "sigla": "PE",
+    "cap": [
+      "65024"
+    ],
+    "capoluogo": false,
+    "popolazione": 6744,
+    "superficie": 39.3022,
+    "coordinate": {
+      "lat": 42.2596889,
+      "lng": 14.0602503
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montebello di Bertona",
+    "nomeAltraLingua": null,
+    "codice": "068023",
+    "codiceCatastale": "F441",
+    "sigla": "PE",
+    "cap": [
+      "65010"
+    ],
+    "capoluogo": false,
+    "popolazione": 843,
+    "superficie": 21.6723,
+    "coordinate": {
+      "lat": 42.4163758,
+      "lng": 13.8691537
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montesilvano",
+    "nomeAltraLingua": null,
+    "codice": "068024",
+    "codiceCatastale": "F646",
+    "sigla": "PE",
+    "cap": [
+      "65015"
+    ],
+    "capoluogo": false,
+    "popolazione": 53493,
+    "superficie": 23.7444,
+    "coordinate": {
+      "lat": 42.5141348,
+      "lng": 14.149283
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Moscufo",
+    "nomeAltraLingua": null,
+    "codice": "068025",
+    "codiceCatastale": "F765",
+    "sigla": "PE",
+    "cap": [
+      "65010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3072,
+    "superficie": 19.9701,
+    "coordinate": {
+      "lat": 42.4284332,
+      "lng": 14.0547155
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Nocciano",
+    "nomeAltraLingua": null,
+    "codice": "068026",
+    "codiceCatastale": "F908",
+    "sigla": "PE",
+    "cap": [
+      "65010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1692,
+    "superficie": 13.7552,
+    "coordinate": {
+      "lat": 42.3332354,
+      "lng": 13.9844745
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Penne",
+    "nomeAltraLingua": null,
+    "codice": "068027",
+    "codiceCatastale": "G438",
+    "sigla": "PE",
+    "cap": [
+      "65017"
+    ],
+    "capoluogo": false,
+    "popolazione": 11094,
+    "superficie": 91.0338,
+    "coordinate": {
+      "lat": 42.4586929,
+      "lng": 13.9271371
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pescara",
+    "nomeAltraLingua": null,
+    "codice": "068028",
+    "codiceCatastale": "G482",
+    "sigla": "PE",
+    "cap": [
+      "65121",
+      "65122",
+      "65123",
+      "65124",
+      "65125",
+      "65126",
+      "65127",
+      "65128",
+      "65129"
+    ],
+    "capoluogo": true,
+    "popolazione": 118461,
+    "superficie": 34.5785,
+    "coordinate": {
+      "lat": 42.4641173,
+      "lng": 14.2143544
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pescosansonesco",
+    "nomeAltraLingua": null,
+    "codice": "068029",
+    "codiceCatastale": "G499",
+    "sigla": "PE",
+    "cap": [
+      "65020"
+    ],
+    "capoluogo": false,
+    "popolazione": 447,
+    "superficie": 18.3823,
+    "coordinate": {
+      "lat": 42.2531955,
+      "lng": 13.8840771
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pianella",
+    "nomeAltraLingua": null,
+    "codice": "068030",
+    "codiceCatastale": "G555",
+    "sigla": "PE",
+    "cap": [
+      "65019"
+    ],
+    "capoluogo": false,
+    "popolazione": 8527,
+    "superficie": 47.0216,
+    "coordinate": {
+      "lat": 42.3960603,
+      "lng": 14.0463604
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Picciano",
+    "nomeAltraLingua": null,
+    "codice": "068031",
+    "codiceCatastale": "G589",
+    "sigla": "PE",
+    "cap": [
+      "65010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1264,
+    "superficie": 7.721,
+    "coordinate": {
+      "lat": 42.4748466,
+      "lng": 13.9913866
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pietranico",
+    "nomeAltraLingua": null,
+    "codice": "068032",
+    "codiceCatastale": "G621",
+    "sigla": "PE",
+    "cap": [
+      "65020"
+    ],
+    "capoluogo": false,
+    "popolazione": 435,
+    "superficie": 14.9457,
+    "coordinate": {
+      "lat": 42.276009,
+      "lng": 13.9105099
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Popoli Terme",
+    "nomeAltraLingua": null,
+    "codice": "068033",
+    "codiceCatastale": "G878",
+    "sigla": "PE",
+    "cap": [
+      "65026"
+    ],
+    "capoluogo": false,
+    "popolazione": 4674,
+    "superficie": 34.8626,
+    "coordinate": {
+      "lat": 42.1757658,
+      "lng": 13.8309036
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Roccamorice",
+    "nomeAltraLingua": null,
+    "codice": "068034",
+    "codiceCatastale": "H425",
+    "sigla": "PE",
+    "cap": [
+      "65020"
+    ],
+    "capoluogo": false,
+    "popolazione": 867,
+    "superficie": 25.036,
+    "coordinate": {
+      "lat": 42.2138718,
+      "lng": 14.0239845
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rosciano",
+    "nomeAltraLingua": null,
+    "codice": "068035",
+    "codiceCatastale": "H562",
+    "sigla": "PE",
+    "cap": [
+      "65020"
+    ],
+    "capoluogo": false,
+    "popolazione": 4047,
+    "superficie": 27.3111,
+    "coordinate": {
+      "lat": 42.321752,
+      "lng": 14.0477953
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Salle",
+    "nomeAltraLingua": null,
+    "codice": "068036",
+    "codiceCatastale": "H715",
+    "sigla": "PE",
+    "cap": [
+      "65020"
+    ],
+    "capoluogo": false,
+    "popolazione": 259,
+    "superficie": 21.8411,
+    "coordinate": {
+      "lat": 42.1769279,
+      "lng": 13.9595185
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sant'Eufemia a Maiella",
+    "nomeAltraLingua": null,
+    "codice": "068037",
+    "codiceCatastale": "I332",
+    "sigla": "PE",
+    "cap": [
+      "65020"
+    ],
+    "capoluogo": false,
+    "popolazione": 252,
+    "superficie": 40.6249,
+    "coordinate": {
+      "lat": 42.1253586,
+      "lng": 14.0278433
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Valentino in Abruzzo Citeriore",
+    "nomeAltraLingua": null,
+    "codice": "068038",
+    "codiceCatastale": "I376",
+    "sigla": "PE",
+    "cap": [
+      "65020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1813,
+    "superficie": 16.1195,
+    "coordinate": {
+      "lat": 42.2326167,
+      "lng": 13.9869333
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Scafa",
+    "nomeAltraLingua": null,
+    "codice": "068039",
+    "codiceCatastale": "I482",
+    "sigla": "PE",
+    "cap": [
+      "65027"
+    ],
+    "capoluogo": false,
+    "popolazione": 3468,
+    "superficie": 10.4187,
+    "coordinate": {
+      "lat": 42.2679597,
+      "lng": 14.0020214
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Serramonacesca",
+    "nomeAltraLingua": null,
+    "codice": "068040",
+    "codiceCatastale": "I649",
+    "sigla": "PE",
+    "cap": [
+      "65025"
+    ],
+    "capoluogo": false,
+    "popolazione": 496,
+    "superficie": 23.6214,
+    "coordinate": {
+      "lat": 42.2477773,
+      "lng": 14.0936043
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Spoltore",
+    "nomeAltraLingua": null,
+    "codice": "068041",
+    "codiceCatastale": "I922",
+    "sigla": "PE",
+    "cap": [
+      "65010"
+    ],
+    "capoluogo": false,
+    "popolazione": 19066,
+    "superficie": 36.9763,
+    "coordinate": {
+      "lat": 42.455207,
+      "lng": 14.1408617
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tocco da Casauria",
+    "nomeAltraLingua": null,
+    "codice": "068042",
+    "codiceCatastale": "L186",
+    "sigla": "PE",
+    "cap": [
+      "65028"
+    ],
+    "capoluogo": false,
+    "popolazione": 2375,
+    "superficie": 29.5037,
+    "coordinate": {
+      "lat": 42.2178098,
+      "lng": 13.9142915
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Torre de' Passeri",
+    "nomeAltraLingua": null,
+    "codice": "068043",
+    "codiceCatastale": "L263",
+    "sigla": "PE",
+    "cap": [
+      "65029"
+    ],
+    "capoluogo": false,
+    "popolazione": 2846,
+    "superficie": 5.9144,
+    "coordinate": {
+      "lat": 42.2447716,
+      "lng": 13.9274988
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Turrivalignani",
+    "nomeAltraLingua": null,
+    "codice": "068044",
+    "codiceCatastale": "L475",
+    "sigla": "PE",
+    "cap": [
+      "65020"
+    ],
+    "capoluogo": false,
+    "popolazione": 800,
+    "superficie": 6.2104,
+    "coordinate": {
+      "lat": 42.2631562,
+      "lng": 14.0285208
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vicoli",
+    "nomeAltraLingua": null,
+    "codice": "068045",
+    "codiceCatastale": "L846",
+    "sigla": "PE",
+    "cap": [
+      "65010"
+    ],
+    "capoluogo": false,
+    "popolazione": 378,
+    "superficie": 9.16,
+    "coordinate": {
+      "lat": 42.3420621,
+      "lng": 13.8976725
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Villa Celiera",
+    "nomeAltraLingua": null,
+    "codice": "068046",
+    "codiceCatastale": "L922",
+    "sigla": "PE",
+    "cap": [
+      "65010"
+    ],
+    "capoluogo": false,
+    "popolazione": 543,
+    "superficie": 13.2028,
+    "coordinate": {
+      "lat": 42.3800373,
+      "lng": 13.8589578
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Pescara",
+      "codice": "068",
+      "sigla": "PE",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Altino",
+    "nomeAltraLingua": null,
+    "codice": "069001",
+    "codiceCatastale": "A235",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 3031,
+    "superficie": 15.2844,
+    "coordinate": {
+      "lat": 42.1009949,
+      "lng": 14.3310258
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Archi",
+    "nomeAltraLingua": null,
+    "codice": "069002",
+    "codiceCatastale": "A367",
+    "sigla": "CH",
+    "cap": [
+      "66044"
+    ],
+    "capoluogo": false,
+    "popolazione": 1941,
+    "superficie": 28.5122,
+    "coordinate": {
+      "lat": 42.0887974,
+      "lng": 14.381255
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ari",
+    "nomeAltraLingua": null,
+    "codice": "069003",
+    "codiceCatastale": "A398",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1065,
+    "superficie": 11.6976,
+    "coordinate": {
+      "lat": 42.2907829,
+      "lng": 14.2601863
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Arielli",
+    "nomeAltraLingua": null,
+    "codice": "069004",
+    "codiceCatastale": "A402",
+    "sigla": "CH",
+    "cap": [
+      "66030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1048,
+    "superficie": 11.7195,
+    "coordinate": {
+      "lat": 42.265259,
+      "lng": 14.3052731
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Atessa",
+    "nomeAltraLingua": null,
+    "codice": "069005",
+    "codiceCatastale": "A485",
+    "sigla": "CH",
+    "cap": [
+      "66041"
+    ],
+    "capoluogo": false,
+    "popolazione": 10319,
+    "superficie": 110.1319,
+    "coordinate": {
+      "lat": 42.067795,
+      "lng": 14.4430274
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bomba",
+    "nomeAltraLingua": null,
+    "codice": "069006",
+    "codiceCatastale": "A956",
+    "sigla": "CH",
+    "cap": [
+      "66042"
+    ],
+    "capoluogo": false,
+    "popolazione": 708,
+    "superficie": 17.3619,
+    "coordinate": {
+      "lat": 42.0351147,
+      "lng": 14.3664144
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Borrello",
+    "nomeAltraLingua": null,
+    "codice": "069007",
+    "codiceCatastale": "B057",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 356,
+    "superficie": 14.5127,
+    "coordinate": {
+      "lat": 41.9200623,
+      "lng": 14.3034111
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Bucchianico",
+    "nomeAltraLingua": null,
+    "codice": "069008",
+    "codiceCatastale": "B238",
+    "sigla": "CH",
+    "cap": [
+      "66011"
+    ],
+    "capoluogo": false,
+    "popolazione": 4923,
+    "superficie": 38.1292,
+    "coordinate": {
+      "lat": 42.3046169,
+      "lng": 14.1809347
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montebello sul Sangro",
+    "nomeAltraLingua": null,
+    "codice": "069009",
+    "codiceCatastale": "B268",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 87,
+    "superficie": 5.4523,
+    "coordinate": {
+      "lat": 41.9869388,
+      "lng": 14.3247355
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Canosa Sannita",
+    "nomeAltraLingua": null,
+    "codice": "069010",
+    "codiceCatastale": "B620",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1237,
+    "superficie": 14.039,
+    "coordinate": {
+      "lat": 42.2953113,
+      "lng": 14.3017597
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carpineto Sinello",
+    "nomeAltraLingua": null,
+    "codice": "069011",
+    "codiceCatastale": "B826",
+    "sigla": "CH",
+    "cap": [
+      "66030"
+    ],
+    "capoluogo": false,
+    "popolazione": 498,
+    "superficie": 29.5984,
+    "coordinate": {
+      "lat": 42.0105479,
+      "lng": 14.5049209
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Carunchio",
+    "nomeAltraLingua": null,
+    "codice": "069012",
+    "codiceCatastale": "B853",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 541,
+    "superficie": 32.381,
+    "coordinate": {
+      "lat": 41.9167303,
+      "lng": 14.5275183
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Casacanditella",
+    "nomeAltraLingua": null,
+    "codice": "069013",
+    "codiceCatastale": "B859",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1177,
+    "superficie": 12.6002,
+    "coordinate": {
+      "lat": 42.2485365,
+      "lng": 14.1998823
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Casalanguida",
+    "nomeAltraLingua": null,
+    "codice": "069014",
+    "codiceCatastale": "B861",
+    "sigla": "CH",
+    "cap": [
+      "66031"
+    ],
+    "capoluogo": false,
+    "popolazione": 812,
+    "superficie": 13.5156,
+    "coordinate": {
+      "lat": 42.0369313,
+      "lng": 14.4978686
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Casalbordino",
+    "nomeAltraLingua": null,
+    "codice": "069015",
+    "codiceCatastale": "B865",
+    "sigla": "CH",
+    "cap": [
+      "66021"
+    ],
+    "capoluogo": false,
+    "popolazione": 5715,
+    "superficie": 46.3703,
+    "coordinate": {
+      "lat": 42.1505877,
+      "lng": 14.5851134
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Casalincontrada",
+    "nomeAltraLingua": null,
+    "codice": "069016",
+    "codiceCatastale": "B896",
+    "sigla": "CH",
+    "cap": [
+      "66012"
+    ],
+    "capoluogo": false,
+    "popolazione": 2973,
+    "superficie": 16.208,
+    "coordinate": {
+      "lat": 42.2900628,
+      "lng": 14.1343548
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Casoli",
+    "nomeAltraLingua": null,
+    "codice": "069017",
+    "codiceCatastale": "B985",
+    "sigla": "CH",
+    "cap": [
+      "66043"
+    ],
+    "capoluogo": false,
+    "popolazione": 5119,
+    "superficie": 66.9157,
+    "coordinate": {
+      "lat": 42.1146738,
+      "lng": 14.2909104
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castel Frentano",
+    "nomeAltraLingua": null,
+    "codice": "069018",
+    "codiceCatastale": "C114",
+    "sigla": "CH",
+    "cap": [
+      "66032"
+    ],
+    "capoluogo": false,
+    "popolazione": 4256,
+    "superficie": 21.8878,
+    "coordinate": {
+      "lat": 42.1960409,
+      "lng": 14.3565821
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castelguidone",
+    "nomeAltraLingua": null,
+    "codice": "069019",
+    "codiceCatastale": "C123",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 285,
+    "superficie": 15.1748,
+    "coordinate": {
+      "lat": 41.8233724,
+      "lng": 14.5226422
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Castiglione Messer Marino",
+    "nomeAltraLingua": null,
+    "codice": "069020",
+    "codiceCatastale": "C298",
+    "sigla": "CH",
+    "cap": [
+      "66033"
+    ],
+    "capoluogo": false,
+    "popolazione": 1465,
+    "superficie": 47.2049,
+    "coordinate": {
+      "lat": 41.8667215,
+      "lng": 14.4515222
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Celenza sul Trigno",
+    "nomeAltraLingua": null,
+    "codice": "069021",
+    "codiceCatastale": "C428",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 784,
+    "superficie": 22.6428,
+    "coordinate": {
+      "lat": 41.8715956,
+      "lng": 14.5808981
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Chieti",
+    "nomeAltraLingua": null,
+    "codice": "069022",
+    "codiceCatastale": "C632",
+    "sigla": "CH",
+    "cap": [
+      "66100"
+    ],
+    "capoluogo": true,
+    "popolazione": 48532,
+    "superficie": 59.6596,
+    "coordinate": {
+      "lat": 42.3497201,
+      "lng": 14.1673107
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Civitaluparella",
+    "nomeAltraLingua": null,
+    "codice": "069023",
+    "codiceCatastale": "C768",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 284,
+    "superficie": 22.4479,
+    "coordinate": {
+      "lat": 41.9446862,
+      "lng": 14.3030105
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Civitella Messer Raimondo",
+    "nomeAltraLingua": null,
+    "codice": "069024",
+    "codiceCatastale": "C776",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 763,
+    "superficie": 12.6823,
+    "coordinate": {
+      "lat": 42.0884075,
+      "lng": 14.2161803
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Colledimacine",
+    "nomeAltraLingua": null,
+    "codice": "069025",
+    "codiceCatastale": "C855",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 153,
+    "superficie": 11.2463,
+    "coordinate": {
+      "lat": 42.0040479,
+      "lng": 14.2016631
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Colledimezzo",
+    "nomeAltraLingua": null,
+    "codice": "069026",
+    "codiceCatastale": "C856",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 440,
+    "superficie": 11.149,
+    "coordinate": {
+      "lat": 41.9855136,
+      "lng": 14.3810291
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Crecchio",
+    "nomeAltraLingua": null,
+    "codice": "069027",
+    "codiceCatastale": "D137",
+    "sigla": "CH",
+    "cap": [
+      "66014"
+    ],
+    "capoluogo": false,
+    "popolazione": 2618,
+    "superficie": 18.9876,
+    "coordinate": {
+      "lat": 42.2969807,
+      "lng": 14.32625
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Cupello",
+    "nomeAltraLingua": null,
+    "codice": "069028",
+    "codiceCatastale": "D209",
+    "sigla": "CH",
+    "cap": [
+      "66051"
+    ],
+    "capoluogo": false,
+    "popolazione": 4790,
+    "superficie": 48.4294,
+    "coordinate": {
+      "lat": 42.0722999,
+      "lng": 14.6715162
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Dogliola",
+    "nomeAltraLingua": null,
+    "codice": "069029",
+    "codiceCatastale": "D315",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 314,
+    "superficie": 11.812,
+    "coordinate": {
+      "lat": 41.9416848,
+      "lng": 14.6357569
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fara Filiorum Petri",
+    "nomeAltraLingua": null,
+    "codice": "069030",
+    "codiceCatastale": "D494",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1982,
+    "superficie": 14.8567,
+    "coordinate": {
+      "lat": 42.2485513,
+      "lng": 14.1859438
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fara San Martino",
+    "nomeAltraLingua": null,
+    "codice": "069031",
+    "codiceCatastale": "D495",
+    "sigla": "CH",
+    "cap": [
+      "66015"
+    ],
+    "capoluogo": false,
+    "popolazione": 1272,
+    "superficie": 44.8888,
+    "coordinate": {
+      "lat": 42.0902471,
+      "lng": 14.2058701
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Filetto",
+    "nomeAltraLingua": null,
+    "codice": "069032",
+    "codiceCatastale": "D592",
+    "sigla": "CH",
+    "cap": [
+      "66030"
+    ],
+    "capoluogo": false,
+    "popolazione": 832,
+    "superficie": 13.5089,
+    "coordinate": {
+      "lat": 42.2258737,
+      "lng": 14.2442072
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fossacesia",
+    "nomeAltraLingua": null,
+    "codice": "069033",
+    "codiceCatastale": "D738",
+    "sigla": "CH",
+    "cap": [
+      "66022"
+    ],
+    "capoluogo": false,
+    "popolazione": 6227,
+    "superficie": 30.2499,
+    "coordinate": {
+      "lat": 42.2451832,
+      "lng": 14.4802977
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fraine",
+    "nomeAltraLingua": null,
+    "codice": "069034",
+    "codiceCatastale": "D757",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 257,
+    "superficie": 16.5425,
+    "coordinate": {
+      "lat": 41.9045445,
+      "lng": 14.4871877
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Francavilla al Mare",
+    "nomeAltraLingua": null,
+    "codice": "069035",
+    "codiceCatastale": "D763",
+    "sigla": "CH",
+    "cap": [
+      "66023"
+    ],
+    "capoluogo": false,
+    "popolazione": 25543,
+    "superficie": 22.8752,
+    "coordinate": {
+      "lat": 42.4177823,
+      "lng": 14.2924499
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fresagrandinaria",
+    "nomeAltraLingua": null,
+    "codice": "069036",
+    "codiceCatastale": "D796",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 905,
+    "superficie": 25.0349,
+    "coordinate": {
+      "lat": 41.9753758,
+      "lng": 14.6624512
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Frisa",
+    "nomeAltraLingua": null,
+    "codice": "069037",
+    "codiceCatastale": "D803",
+    "sigla": "CH",
+    "cap": [
+      "66030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1621,
+    "superficie": 11.5633,
+    "coordinate": {
+      "lat": 42.2609317,
+      "lng": 14.3708669
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Furci",
+    "nomeAltraLingua": null,
+    "codice": "069038",
+    "codiceCatastale": "D823",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 800,
+    "superficie": 25.8961,
+    "coordinate": {
+      "lat": 42.0083385,
+      "lng": 14.5863184
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gamberale",
+    "nomeAltraLingua": null,
+    "codice": "069039",
+    "codiceCatastale": "D898",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 273,
+    "superficie": 15.5054,
+    "coordinate": {
+      "lat": 41.9056534,
+      "lng": 14.2078197
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gessopalena",
+    "nomeAltraLingua": null,
+    "codice": "069040",
+    "codiceCatastale": "D996",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1172,
+    "superficie": 31.7331,
+    "coordinate": {
+      "lat": 42.0563074,
+      "lng": 14.2741459
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Gissi",
+    "nomeAltraLingua": null,
+    "codice": "069041",
+    "codiceCatastale": "E052",
+    "sigla": "CH",
+    "cap": [
+      "66052"
+    ],
+    "capoluogo": false,
+    "popolazione": 2445,
+    "superficie": 36.6338,
+    "coordinate": {
+      "lat": 42.0209627,
+      "lng": 14.5460849
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Giuliano Teatino",
+    "nomeAltraLingua": null,
+    "codice": "069042",
+    "codiceCatastale": "E056",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1126,
+    "superficie": 10.0362,
+    "coordinate": {
+      "lat": 42.2929613,
+      "lng": 14.2758
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Guardiagrele",
+    "nomeAltraLingua": null,
+    "codice": "069043",
+    "codiceCatastale": "E243",
+    "sigla": "CH",
+    "cap": [
+      "66016"
+    ],
+    "capoluogo": false,
+    "popolazione": 8273,
+    "superficie": 56.1373,
+    "coordinate": {
+      "lat": 42.1911316,
+      "lng": 14.2202753
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Guilmi",
+    "nomeAltraLingua": null,
+    "codice": "069044",
+    "codiceCatastale": "E266",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 417,
+    "superficie": 12.6948,
+    "coordinate": {
+      "lat": 41.9968897,
+      "lng": 14.4758286
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lama dei Peligni",
+    "nomeAltraLingua": null,
+    "codice": "069045",
+    "codiceCatastale": "E424",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1048,
+    "superficie": 31.3487,
+    "coordinate": {
+      "lat": 42.0422908,
+      "lng": 14.1885991
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lanciano",
+    "nomeAltraLingua": null,
+    "codice": "069046",
+    "codiceCatastale": "E435",
+    "sigla": "CH",
+    "cap": [
+      "66034"
+    ],
+    "capoluogo": false,
+    "popolazione": 33915,
+    "superficie": 66.7241,
+    "coordinate": {
+      "lat": 42.2311629,
+      "lng": 14.3905243
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lentella",
+    "nomeAltraLingua": null,
+    "codice": "069047",
+    "codiceCatastale": "E531",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 650,
+    "superficie": 12.6745,
+    "coordinate": {
+      "lat": 41.9972482,
+      "lng": 14.6765848
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Lettopalena",
+    "nomeAltraLingua": null,
+    "codice": "069048",
+    "codiceCatastale": "E559",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 314,
+    "superficie": 21.216,
+    "coordinate": {
+      "lat": 42.0032894,
+      "lng": 14.158443
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Liscia",
+    "nomeAltraLingua": null,
+    "codice": "069049",
+    "codiceCatastale": "E611",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 643,
+    "superficie": 8.2396,
+    "coordinate": {
+      "lat": 41.9549836,
+      "lng": 14.5556118
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Miglianico",
+    "nomeAltraLingua": null,
+    "codice": "069050",
+    "codiceCatastale": "F196",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 4622,
+    "superficie": 22.6013,
+    "coordinate": {
+      "lat": 42.3597154,
+      "lng": 14.2913816
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montazzoli",
+    "nomeAltraLingua": null,
+    "codice": "069051",
+    "codiceCatastale": "F433",
+    "sigla": "CH",
+    "cap": [
+      "66030"
+    ],
+    "capoluogo": false,
+    "popolazione": 808,
+    "superficie": 39.1263,
+    "coordinate": {
+      "lat": 41.9482594,
+      "lng": 14.4293088
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monteferrante",
+    "nomeAltraLingua": null,
+    "codice": "069052",
+    "codiceCatastale": "F498",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 107,
+    "superficie": 15.2053,
+    "coordinate": {
+      "lat": 41.9540834,
+      "lng": 14.389025
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montelapiano",
+    "nomeAltraLingua": null,
+    "codice": "069053",
+    "codiceCatastale": "F535",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 69,
+    "superficie": 8.2915,
+    "coordinate": {
+      "lat": 41.9618254,
+      "lng": 14.3423411
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Montenerodomo",
+    "nomeAltraLingua": null,
+    "codice": "069054",
+    "codiceCatastale": "F578",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 596,
+    "superficie": 29.7201,
+    "coordinate": {
+      "lat": 41.9765361,
+      "lng": 14.2518453
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Monteodorisio",
+    "nomeAltraLingua": null,
+    "codice": "069055",
+    "codiceCatastale": "F582",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 2338,
+    "superficie": 25.3331,
+    "coordinate": {
+      "lat": 42.0879248,
+      "lng": 14.652797
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Mozzagrogna",
+    "nomeAltraLingua": null,
+    "codice": "069056",
+    "codiceCatastale": "F785",
+    "sigla": "CH",
+    "cap": [
+      "66030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2429,
+    "superficie": 14.3318,
+    "coordinate": {
+      "lat": 42.2125518,
+      "lng": 14.4448448
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Orsogna",
+    "nomeAltraLingua": null,
+    "codice": "069057",
+    "codiceCatastale": "G128",
+    "sigla": "CH",
+    "cap": [
+      "66036"
+    ],
+    "capoluogo": false,
+    "popolazione": 3639,
+    "superficie": 25.2364,
+    "coordinate": {
+      "lat": 42.21846,
+      "lng": 14.2829107
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ortona",
+    "nomeAltraLingua": null,
+    "codice": "069058",
+    "codiceCatastale": "G141",
+    "sigla": "CH",
+    "cap": [
+      "66026"
+    ],
+    "capoluogo": false,
+    "popolazione": 22099,
+    "superficie": 70.8597,
+    "coordinate": {
+      "lat": 42.3555927,
+      "lng": 14.4035297
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Paglieta",
+    "nomeAltraLingua": null,
+    "codice": "069059",
+    "codiceCatastale": "G237",
+    "sigla": "CH",
+    "cap": [
+      "66020"
+    ],
+    "capoluogo": false,
+    "popolazione": 4155,
+    "superficie": 33.5009,
+    "coordinate": {
+      "lat": 42.1621046,
+      "lng": 14.497604
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Palena",
+    "nomeAltraLingua": null,
+    "codice": "069060",
+    "codiceCatastale": "G271",
+    "sigla": "CH",
+    "cap": [
+      "66017"
+    ],
+    "capoluogo": false,
+    "popolazione": 1220,
+    "superficie": 93.8307,
+    "coordinate": {
+      "lat": 41.9832225,
+      "lng": 14.1378275
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Palmoli",
+    "nomeAltraLingua": null,
+    "codice": "069061",
+    "codiceCatastale": "G290",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 815,
+    "superficie": 32.6036,
+    "coordinate": {
+      "lat": 41.9387838,
+      "lng": 14.5809977
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Palombaro",
+    "nomeAltraLingua": null,
+    "codice": "069062",
+    "codiceCatastale": "G294",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 944,
+    "superficie": 17.306,
+    "coordinate": {
+      "lat": 42.1242476,
+      "lng": 14.2304825
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pennadomo",
+    "nomeAltraLingua": null,
+    "codice": "069063",
+    "codiceCatastale": "G434",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 207,
+    "superficie": 10.7977,
+    "coordinate": {
+      "lat": 42.0040899,
+      "lng": 14.3232368
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pennapiedimonte",
+    "nomeAltraLingua": null,
+    "codice": "069064",
+    "codiceCatastale": "G435",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 399,
+    "superficie": 47.0651,
+    "coordinate": {
+      "lat": 42.1518253,
+      "lng": 14.1947794
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Perano",
+    "nomeAltraLingua": null,
+    "codice": "069065",
+    "codiceCatastale": "G441",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1481,
+    "superficie": 6.5694,
+    "coordinate": {
+      "lat": 42.1079546,
+      "lng": 14.3964056
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pizzoferrato",
+    "nomeAltraLingua": null,
+    "codice": "069066",
+    "codiceCatastale": "G724",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 967,
+    "superficie": 31.0044,
+    "coordinate": {
+      "lat": 41.9222243,
+      "lng": 14.2370323
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Poggiofiorito",
+    "nomeAltraLingua": null,
+    "codice": "069067",
+    "codiceCatastale": "G760",
+    "sigla": "CH",
+    "cap": [
+      "66030"
+    ],
+    "capoluogo": false,
+    "popolazione": 777,
+    "superficie": 10.0494,
+    "coordinate": {
+      "lat": 42.2561579,
+      "lng": 14.3238196
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pollutri",
+    "nomeAltraLingua": null,
+    "codice": "069068",
+    "codiceCatastale": "G799",
+    "sigla": "CH",
+    "cap": [
+      "66020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2068,
+    "superficie": 26.1065,
+    "coordinate": {
+      "lat": 42.1373848,
+      "lng": 14.5920163
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pretoro",
+    "nomeAltraLingua": null,
+    "codice": "069069",
+    "codiceCatastale": "H052",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 868,
+    "superficie": 25.9181,
+    "coordinate": {
+      "lat": 42.2163666,
+      "lng": 14.143076
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Quadri",
+    "nomeAltraLingua": null,
+    "codice": "069070",
+    "codiceCatastale": "H098",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 691,
+    "superficie": 7.3884,
+    "coordinate": {
+      "lat": 41.925641,
+      "lng": 14.2882905
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rapino",
+    "nomeAltraLingua": null,
+    "codice": "069071",
+    "codiceCatastale": "H184",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1158,
+    "superficie": 20.6097,
+    "coordinate": {
+      "lat": 42.2106574,
+      "lng": 14.1871731
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Ripa Teatina",
+    "nomeAltraLingua": null,
+    "codice": "069072",
+    "codiceCatastale": "H320",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3879,
+    "superficie": 20.3961,
+    "coordinate": {
+      "lat": 42.3578421,
+      "lng": 14.2340363
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Roccamontepiano",
+    "nomeAltraLingua": null,
+    "codice": "069073",
+    "codiceCatastale": "H424",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1574,
+    "superficie": 18.1288,
+    "coordinate": {
+      "lat": 42.2448287,
+      "lng": 14.1271812
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rocca San Giovanni",
+    "nomeAltraLingua": null,
+    "codice": "069074",
+    "codiceCatastale": "H439",
+    "sigla": "CH",
+    "cap": [
+      "66020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2307,
+    "superficie": 21.6632,
+    "coordinate": {
+      "lat": 42.2509579,
+      "lng": 14.4650728
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Roccascalegna",
+    "nomeAltraLingua": null,
+    "codice": "069075",
+    "codiceCatastale": "H442",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1032,
+    "superficie": 22.9402,
+    "coordinate": {
+      "lat": 42.062016,
+      "lng": 14.3066332
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Roccaspinalveti",
+    "nomeAltraLingua": null,
+    "codice": "069076",
+    "codiceCatastale": "H448",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1161,
+    "superficie": 33.0336,
+    "coordinate": {
+      "lat": 41.938088,
+      "lng": 14.4711303
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Roio del Sangro",
+    "nomeAltraLingua": null,
+    "codice": "069077",
+    "codiceCatastale": "H495",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 97,
+    "superficie": 11.9468,
+    "coordinate": {
+      "lat": 41.9117527,
+      "lng": 14.3730141
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Rosello",
+    "nomeAltraLingua": null,
+    "codice": "069078",
+    "codiceCatastale": "H566",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 166,
+    "superficie": 19.0635,
+    "coordinate": {
+      "lat": 41.9015733,
+      "lng": 14.3487644
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Buono",
+    "nomeAltraLingua": null,
+    "codice": "069079",
+    "codiceCatastale": "H784",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 854,
+    "superficie": 25.4746,
+    "coordinate": {
+      "lat": 41.9804645,
+      "lng": 14.5696826
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Giovanni Lipioni",
+    "nomeAltraLingua": null,
+    "codice": "069080",
+    "codiceCatastale": "H923",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 137,
+    "superficie": 8.7951,
+    "coordinate": {
+      "lat": 41.8425355,
+      "lng": 14.5621284
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Giovanni Teatino",
+    "nomeAltraLingua": null,
+    "codice": "069081",
+    "codiceCatastale": "D690",
+    "sigla": "CH",
+    "cap": [
+      "66020"
+    ],
+    "capoluogo": false,
+    "popolazione": 14451,
+    "superficie": 17.8563,
+    "coordinate": {
+      "lat": 42.4221424,
+      "lng": 14.1867294
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Martino sulla Marrucina",
+    "nomeAltraLingua": null,
+    "codice": "069082",
+    "codiceCatastale": "H991",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 842,
+    "superficie": 7.3627,
+    "coordinate": {
+      "lat": 42.2249702,
+      "lng": 14.2143132
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Salvo",
+    "nomeAltraLingua": null,
+    "codice": "069083",
+    "codiceCatastale": "I148",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 19776,
+    "superficie": 19.8955,
+    "coordinate": {
+      "lat": 42.045395,
+      "lng": 14.7315971
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Santa Maria Imbaro",
+    "nomeAltraLingua": null,
+    "codice": "069084",
+    "codiceCatastale": "I244",
+    "sigla": "CH",
+    "cap": [
+      "66030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1996,
+    "superficie": 5.6303,
+    "coordinate": {
+      "lat": 42.2195739,
+      "lng": 14.4476339
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Sant'Eusanio del Sangro",
+    "nomeAltraLingua": null,
+    "codice": "069085",
+    "codiceCatastale": "I335",
+    "sigla": "CH",
+    "cap": [
+      "66037"
+    ],
+    "capoluogo": false,
+    "popolazione": 2253,
+    "superficie": 24.1622,
+    "coordinate": {
+      "lat": 42.1677746,
+      "lng": 14.3321823
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "San Vito Chietino",
+    "nomeAltraLingua": null,
+    "codice": "069086",
+    "codiceCatastale": "I394",
+    "sigla": "CH",
+    "cap": [
+      "66038"
+    ],
+    "capoluogo": false,
+    "popolazione": 5185,
+    "superficie": 17.2553,
+    "coordinate": {
+      "lat": 42.3025501,
+      "lng": 14.4460875
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Scerni",
+    "nomeAltraLingua": null,
+    "codice": "069087",
+    "codiceCatastale": "I520",
+    "sigla": "CH",
+    "cap": [
+      "66020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2941,
+    "superficie": 41.3202,
+    "coordinate": {
+      "lat": 42.1116779,
+      "lng": 14.5687307
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Schiavi di Abruzzo",
+    "nomeAltraLingua": null,
+    "codice": "069088",
+    "codiceCatastale": "I526",
+    "sigla": "CH",
+    "cap": [
+      "66045"
+    ],
+    "capoluogo": false,
+    "popolazione": 651,
+    "superficie": 45.7176,
+    "coordinate": {
+      "lat": 41.8159087,
+      "lng": 14.4849478
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Taranta Peligna",
+    "nomeAltraLingua": null,
+    "codice": "069089",
+    "codiceCatastale": "L047",
+    "sigla": "CH",
+    "cap": [
+      "66018"
+    ],
+    "capoluogo": false,
+    "popolazione": 290,
+    "superficie": 21.6967,
+    "coordinate": {
+      "lat": 42.0199369,
+      "lng": 14.1692149
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tollo",
+    "nomeAltraLingua": null,
+    "codice": "069090",
+    "codiceCatastale": "L194",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3884,
+    "superficie": 14.9585,
+    "coordinate": {
+      "lat": 42.3392944,
+      "lng": 14.3179759
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Torino di Sangro",
+    "nomeAltraLingua": null,
+    "codice": "069091",
+    "codiceCatastale": "L218",
+    "sigla": "CH",
+    "cap": [
+      "66020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2899,
+    "superficie": 32.0485,
+    "coordinate": {
+      "lat": 42.1880447,
+      "lng": 14.5408522
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tornareccio",
+    "nomeAltraLingua": null,
+    "codice": "069092",
+    "codiceCatastale": "L224",
+    "sigla": "CH",
+    "cap": [
+      "66046"
+    ],
+    "capoluogo": false,
+    "popolazione": 1644,
+    "superficie": 28.0241,
+    "coordinate": {
+      "lat": 42.0381939,
+      "lng": 14.4125207
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Torrebruna",
+    "nomeAltraLingua": null,
+    "codice": "069093",
+    "codiceCatastale": "L253",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 668,
+    "superficie": 23.5371,
+    "coordinate": {
+      "lat": 41.8665346,
+      "lng": 14.5423918
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Torrevecchia Teatina",
+    "nomeAltraLingua": null,
+    "codice": "069094",
+    "codiceCatastale": "L284",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 4211,
+    "superficie": 14.7707,
+    "coordinate": {
+      "lat": 42.3808809,
+      "lng": 14.2086892
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Torricella Peligna",
+    "nomeAltraLingua": null,
+    "codice": "069095",
+    "codiceCatastale": "L291",
+    "sigla": "CH",
+    "cap": [
+      "66019"
+    ],
+    "capoluogo": false,
+    "popolazione": 1121,
+    "superficie": 36.1322,
+    "coordinate": {
+      "lat": 42.0220305,
+      "lng": 14.2611566
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Treglio",
+    "nomeAltraLingua": null,
+    "codice": "069096",
+    "codiceCatastale": "L363",
+    "sigla": "CH",
+    "cap": [
+      "66030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1711,
+    "superficie": 4.7525,
+    "coordinate": {
+      "lat": 42.267107,
+      "lng": 14.4249137
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Tufillo",
+    "nomeAltraLingua": null,
+    "codice": "069097",
+    "codiceCatastale": "L459",
+    "sigla": "CH",
+    "cap": [
+      "66050"
+    ],
+    "capoluogo": false,
+    "popolazione": 334,
+    "superficie": 21.5114,
+    "coordinate": {
+      "lat": 41.9159495,
+      "lng": 14.6262889
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vacri",
+    "nomeAltraLingua": null,
+    "codice": "069098",
+    "codiceCatastale": "L526",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1494,
+    "superficie": 12.0938,
+    "coordinate": {
+      "lat": 42.2977509,
+      "lng": 14.2327533
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Vasto",
+    "nomeAltraLingua": null,
+    "codice": "069099",
+    "codiceCatastale": "E372",
+    "sigla": "CH",
+    "cap": [
+      "66054"
+    ],
+    "capoluogo": false,
+    "popolazione": 40874,
+    "superficie": 71.2963,
+    "coordinate": {
+      "lat": 42.1125156,
+      "lng": 14.7082457
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Villalfonsina",
+    "nomeAltraLingua": null,
+    "codice": "069100",
+    "codiceCatastale": "L961",
+    "sigla": "CH",
+    "cap": [
+      "66020"
+    ],
+    "capoluogo": false,
+    "popolazione": 878,
+    "superficie": 9.117,
+    "coordinate": {
+      "lat": 42.1618394,
+      "lng": 14.5715742
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Villamagna",
+    "nomeAltraLingua": null,
+    "codice": "069101",
+    "codiceCatastale": "L964",
+    "sigla": "CH",
+    "cap": [
+      "66010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2148,
+    "superficie": 12.6433,
+    "coordinate": {
+      "lat": 42.3331194,
+      "lng": 14.2368668
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Villa Santa Maria",
+    "nomeAltraLingua": null,
+    "codice": "069102",
+    "codiceCatastale": "M022",
+    "sigla": "CH",
+    "cap": [
+      "66047"
+    ],
+    "capoluogo": false,
+    "popolazione": 1111,
+    "superficie": 16.4037,
+    "coordinate": {
+      "lat": 41.9504269,
+      "lng": 14.3504806
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Pietraferrazzana",
+    "nomeAltraLingua": null,
+    "codice": "069103",
+    "codiceCatastale": "G613",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 128,
+    "superficie": 4.408,
+    "coordinate": {
+      "lat": 41.9698977,
+      "lng": 14.3740349
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  },
+  {
+    "nome": "Fallo",
+    "nomeAltraLingua": null,
+    "codice": "069104",
+    "codiceCatastale": "D480",
+    "sigla": "CH",
+    "cap": [
+      "66040"
+    ],
+    "capoluogo": false,
+    "popolazione": 116,
+    "superficie": 6.1025,
+    "coordinate": {
+      "lat": 41.9389024,
+      "lng": 14.3224075
+    },
+    "zona": {
+      "nome": "Sud",
+      "codice": "4"
+    },
+    "regione": {
+      "nome": "Abruzzo",
+      "codice": "13"
+    },
+    "provincia": {
+      "nome": "Chieti",
+      "codice": "069",
+      "sigla": "CH",
+      "tipo": "provincia"
+    }
+  }
+]

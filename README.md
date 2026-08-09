@@ -54,7 +54,7 @@ Each comune object has exactly the following 13 fields:
 | `coordinate` | `object \| null` | `{"lat": <number>, "lng": <number>}` centroid coordinates, or `null` if unavailable |
 | `zona` | `object` | Geographic zone: `{"nome": <string>, "codice": <string>}` (e.g. Nord-ovest / 1) |
 | `regione` | `object` | Region: `{"nome": <string>, "codice": <string>}` |
-| `provincia` | `object` | Province: `{"nome": <string>, "codice": <string>, "sigla": <string \| null>, "tipo": <enum>}` where `tipo` is one of `"provincia"`, `"citta-metropolitana"`, `"libero-consorzio"`, `"provincia-autonoma"` |
+| `provincia` | `object` | Province: `{"nome": <string>, "codice": <string>, "sigla": <string \| null>, "tipo": <enum>}` where `tipo` is one of `"provincia"`, `"citta-metropolitana"`, `"libero-consorzio"`, `"provincia-autonoma"`, `"decentramento-regionale"` |
 
 ---
 
@@ -80,7 +80,7 @@ Full source evaluation and decision rationale:
 Requirements: Python 3.11+.
 
 ```bash
-pip install -r requirements.txt
+pip install .
 python -m comuni_italiani.cli sources.toml
 ```
 

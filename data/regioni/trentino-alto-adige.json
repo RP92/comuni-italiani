@@ -1,0 +1,8746 @@
+[
+  {
+    "nome": "Aldino",
+    "nomeAltraLingua": "Aldein",
+    "codice": "021001",
+    "codiceCatastale": "A179",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1620,
+    "superficie": 62.8401,
+    "coordinate": {
+      "lat": 46.3678092,
+      "lng": 11.354128
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Andriano",
+    "nomeAltraLingua": "Andrian",
+    "codice": "021002",
+    "codiceCatastale": "A286",
+    "sigla": "BZ",
+    "cap": [
+      "39010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1053,
+    "superficie": 5.2537,
+    "coordinate": {
+      "lat": 46.5203668,
+      "lng": 11.2331345
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Anterivo",
+    "nomeAltraLingua": "Altrei",
+    "codice": "021003",
+    "codiceCatastale": "A306",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 391,
+    "superficie": 10.9603,
+    "coordinate": {
+      "lat": 46.277635,
+      "lng": 11.3660356
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Appiano sulla strada del vino",
+    "nomeAltraLingua": "Eppan an der Weinstraße",
+    "codice": "021004",
+    "codiceCatastale": "A332",
+    "sigla": "BZ",
+    "cap": [
+      "39057"
+    ],
+    "capoluogo": false,
+    "popolazione": 15002,
+    "superficie": 58.9357,
+    "coordinate": {
+      "lat": 46.4554699,
+      "lng": 11.2589922
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Avelengo",
+    "nomeAltraLingua": "Hafling",
+    "codice": "021005",
+    "codiceCatastale": "A507",
+    "sigla": "BZ",
+    "cap": [
+      "39010"
+    ],
+    "capoluogo": false,
+    "popolazione": 798,
+    "superficie": 27.2631,
+    "coordinate": {
+      "lat": 46.6461328,
+      "lng": 11.2245184
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Badia",
+    "nomeAltraLingua": "Abtei",
+    "codice": "021006",
+    "codiceCatastale": "A537",
+    "sigla": "BZ",
+    "cap": [
+      "39036"
+    ],
+    "capoluogo": false,
+    "popolazione": 3568,
+    "superficie": 82.6176,
+    "coordinate": {
+      "lat": 46.610561,
+      "lng": 11.8934113
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Barbiano",
+    "nomeAltraLingua": "Barbian",
+    "codice": "021007",
+    "codiceCatastale": "A635",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1745,
+    "superficie": 24.534,
+    "coordinate": {
+      "lat": 46.6036182,
+      "lng": 11.5198339
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Bolzano",
+    "nomeAltraLingua": "Bozen",
+    "codice": "021008",
+    "codiceCatastale": "A952",
+    "sigla": "BZ",
+    "cap": [
+      "39100"
+    ],
+    "capoluogo": true,
+    "popolazione": 106357,
+    "superficie": 51.8242,
+    "coordinate": {
+      "lat": 46.4990522,
+      "lng": 11.3563105
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Braies",
+    "nomeAltraLingua": "Prags",
+    "codice": "021009",
+    "codiceCatastale": "B116",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 696,
+    "superficie": 90.5676,
+    "coordinate": {
+      "lat": 46.7189948,
+      "lng": 12.1296118
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Brennero",
+    "nomeAltraLingua": "Brenner",
+    "codice": "021010",
+    "codiceCatastale": "B145",
+    "sigla": "BZ",
+    "cap": [
+      "39041"
+    ],
+    "capoluogo": false,
+    "popolazione": 2368,
+    "superficie": 114.8103,
+    "coordinate": {
+      "lat": 46.9377877,
+      "lng": 11.443256
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Bressanone",
+    "nomeAltraLingua": "Brixen",
+    "codice": "021011",
+    "codiceCatastale": "B160",
+    "sigla": "BZ",
+    "cap": [
+      "39042"
+    ],
+    "capoluogo": false,
+    "popolazione": 23002,
+    "superficie": 85.006,
+    "coordinate": {
+      "lat": 46.7165044,
+      "lng": 11.6567468
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Bronzolo",
+    "nomeAltraLingua": "Branzoll",
+    "codice": "021012",
+    "codiceCatastale": "B203",
+    "sigla": "BZ",
+    "cap": [
+      "39051"
+    ],
+    "capoluogo": false,
+    "popolazione": 2757,
+    "superficie": 7.5032,
+    "coordinate": {
+      "lat": 46.4046421,
+      "lng": 11.3198839
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Brunico",
+    "nomeAltraLingua": "Bruneck",
+    "codice": "021013",
+    "codiceCatastale": "B220",
+    "sigla": "BZ",
+    "cap": [
+      "39031"
+    ],
+    "capoluogo": false,
+    "popolazione": 17124,
+    "superficie": 44.9474,
+    "coordinate": {
+      "lat": 46.7966638,
+      "lng": 11.9354838
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Caines",
+    "nomeAltraLingua": "Kuens",
+    "codice": "021014",
+    "codiceCatastale": "B364",
+    "sigla": "BZ",
+    "cap": [
+      "39010"
+    ],
+    "capoluogo": false,
+    "popolazione": 389,
+    "superficie": 1.6197,
+    "coordinate": {
+      "lat": 46.7018443,
+      "lng": 11.1806584
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Caldaro sulla strada del vino",
+    "nomeAltraLingua": "Kaltern an der Weinstraße",
+    "codice": "021015",
+    "codiceCatastale": "B397",
+    "sigla": "BZ",
+    "cap": [
+      "39052"
+    ],
+    "capoluogo": false,
+    "popolazione": 8181,
+    "superficie": 48.5651,
+    "coordinate": {
+      "lat": 46.4132741,
+      "lng": 11.2466902
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Campo di Trens",
+    "nomeAltraLingua": "Freienfeld",
+    "codice": "021016",
+    "codiceCatastale": "B529",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 2726,
+    "superficie": 95.867,
+    "coordinate": {
+      "lat": 46.8713172,
+      "lng": 11.4838016
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Campo Tures",
+    "nomeAltraLingua": "Sand in Taufers",
+    "codice": "021017",
+    "codiceCatastale": "B570",
+    "sigla": "BZ",
+    "cap": [
+      "39032"
+    ],
+    "capoluogo": false,
+    "popolazione": 5740,
+    "superficie": 163.6857,
+    "coordinate": {
+      "lat": 46.9198078,
+      "lng": 11.9523794
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Castelbello-Ciardes",
+    "nomeAltraLingua": "Kastelbell-Tschars",
+    "codice": "021018",
+    "codiceCatastale": "C062",
+    "sigla": "BZ",
+    "cap": [
+      "39020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2382,
+    "superficie": 53.8011,
+    "coordinate": {
+      "lat": 46.6283324,
+      "lng": 10.9011791
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Castelrotto",
+    "nomeAltraLingua": "Kastelruth",
+    "codice": "021019",
+    "codiceCatastale": "C254",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 7019,
+    "superficie": 117.7194,
+    "coordinate": {
+      "lat": 46.5681173,
+      "lng": 11.5592863
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Cermes",
+    "nomeAltraLingua": "Tscherms",
+    "codice": "021020",
+    "codiceCatastale": "A022",
+    "sigla": "BZ",
+    "cap": [
+      "39010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1547,
+    "superficie": 6.639,
+    "coordinate": {
+      "lat": 46.6327495,
+      "lng": 11.1449304
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Chienes",
+    "nomeAltraLingua": "Kiens",
+    "codice": "021021",
+    "codiceCatastale": "C625",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 3037,
+    "superficie": 33.7426,
+    "coordinate": {
+      "lat": 46.8064316,
+      "lng": 11.8363064
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Chiusa",
+    "nomeAltraLingua": "Klausen",
+    "codice": "021022",
+    "codiceCatastale": "C652",
+    "sigla": "BZ",
+    "cap": [
+      "39043"
+    ],
+    "capoluogo": false,
+    "popolazione": 5200,
+    "superficie": 51.0704,
+    "coordinate": {
+      "lat": 46.6414552,
+      "lng": 11.5680025
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Cornedo all'Isarco",
+    "nomeAltraLingua": "Karneid",
+    "codice": "021023",
+    "codiceCatastale": "B799",
+    "sigla": "BZ",
+    "cap": [
+      "39053"
+    ],
+    "capoluogo": false,
+    "popolazione": 3444,
+    "superficie": 40.8714,
+    "coordinate": {
+      "lat": 46.4940995,
+      "lng": 11.391868
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Cortaccia sulla strada del vino",
+    "nomeAltraLingua": "Kurtatsch an der Weinstraße",
+    "codice": "021024",
+    "codiceCatastale": "D048",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 2229,
+    "superficie": 29.2795,
+    "coordinate": {
+      "lat": 46.3135356,
+      "lng": 11.2226025
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Cortina sulla strada del vino",
+    "nomeAltraLingua": "Kurtinig an der Weinstraße",
+    "codice": "021025",
+    "codiceCatastale": "D075",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 681,
+    "superficie": 2.0454,
+    "coordinate": {
+      "lat": 46.2689448,
+      "lng": 11.2227283
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Corvara in Badia",
+    "nomeAltraLingua": "Corvara",
+    "codice": "021026",
+    "codiceCatastale": "D079",
+    "sigla": "BZ",
+    "cap": [
+      "39033"
+    ],
+    "capoluogo": false,
+    "popolazione": 1441,
+    "superficie": 38.779,
+    "coordinate": {
+      "lat": 46.54986,
+      "lng": 11.874057
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Curon Venosta",
+    "nomeAltraLingua": "Graun im Vinschgau",
+    "codice": "021027",
+    "codiceCatastale": "D222",
+    "sigla": "BZ",
+    "cap": [
+      "39027"
+    ],
+    "capoluogo": false,
+    "popolazione": 2379,
+    "superficie": 210.0216,
+    "coordinate": {
+      "lat": 46.8066234,
+      "lng": 10.5421523
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Dobbiaco",
+    "nomeAltraLingua": "Toblach",
+    "codice": "021028",
+    "codiceCatastale": "D311",
+    "sigla": "BZ",
+    "cap": [
+      "39034"
+    ],
+    "capoluogo": false,
+    "popolazione": 3428,
+    "superficie": 124.9635,
+    "coordinate": {
+      "lat": 46.7353586,
+      "lng": 12.2225801
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Egna",
+    "nomeAltraLingua": "Neumarkt",
+    "codice": "021029",
+    "codiceCatastale": "D392",
+    "sigla": "BZ",
+    "cap": [
+      "39044"
+    ],
+    "capoluogo": false,
+    "popolazione": 5527,
+    "superficie": 23.5464,
+    "coordinate": {
+      "lat": 46.313895,
+      "lng": 11.272951
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Falzes",
+    "nomeAltraLingua": "Pfalzen",
+    "codice": "021030",
+    "codiceCatastale": "D484",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 3144,
+    "superficie": 33.2066,
+    "coordinate": {
+      "lat": 46.8119432,
+      "lng": 11.8827973
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Fiè allo Sciliar",
+    "nomeAltraLingua": "Völs am Schlern",
+    "codice": "021031",
+    "codiceCatastale": "D571",
+    "sigla": "BZ",
+    "cap": [
+      "39050"
+    ],
+    "capoluogo": false,
+    "popolazione": 3676,
+    "superficie": 43.7495,
+    "coordinate": {
+      "lat": 46.5176239,
+      "lng": 11.5016733
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Fortezza",
+    "nomeAltraLingua": "Franzensfeste",
+    "codice": "021032",
+    "codiceCatastale": "D731",
+    "sigla": "BZ",
+    "cap": [
+      "39045"
+    ],
+    "capoluogo": false,
+    "popolazione": 1101,
+    "superficie": 62.0239,
+    "coordinate": {
+      "lat": 46.7867403,
+      "lng": 11.6131943
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Funes",
+    "nomeAltraLingua": "Villnöß",
+    "codice": "021033",
+    "codiceCatastale": "D821",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 2555,
+    "superficie": 81.4666,
+    "coordinate": {
+      "lat": 46.6422431,
+      "lng": 11.6804782
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Gais",
+    "nomeAltraLingua": "Gais",
+    "codice": "021034",
+    "codiceCatastale": "D860",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 3225,
+    "superficie": 60.5285,
+    "coordinate": {
+      "lat": 46.8356705,
+      "lng": 11.9476819
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Gargazzone",
+    "nomeAltraLingua": "Gargazon",
+    "codice": "021035",
+    "codiceCatastale": "D923",
+    "sigla": "BZ",
+    "cap": [
+      "39010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1778,
+    "superficie": 4.96,
+    "coordinate": {
+      "lat": 46.5847946,
+      "lng": 11.2013115
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Glorenza",
+    "nomeAltraLingua": "Glurns",
+    "codice": "021036",
+    "codiceCatastale": "E069",
+    "sigla": "BZ",
+    "cap": [
+      "39020"
+    ],
+    "capoluogo": false,
+    "popolazione": 932,
+    "superficie": 13.1654,
+    "coordinate": {
+      "lat": 46.6711327,
+      "lng": 10.5549783
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Laces",
+    "nomeAltraLingua": "Latsch",
+    "codice": "021037",
+    "codiceCatastale": "E398",
+    "sigla": "BZ",
+    "cap": [
+      "39021"
+    ],
+    "capoluogo": false,
+    "popolazione": 5263,
+    "superficie": 78.7618,
+    "coordinate": {
+      "lat": 46.6171586,
+      "lng": 10.8592154
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Lagundo",
+    "nomeAltraLingua": "Algund",
+    "codice": "021038",
+    "codiceCatastale": "E412",
+    "sigla": "BZ",
+    "cap": [
+      "39022"
+    ],
+    "capoluogo": false,
+    "popolazione": 4984,
+    "superficie": 23.3291,
+    "coordinate": {
+      "lat": 46.6835885,
+      "lng": 11.1213208
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Laion",
+    "nomeAltraLingua": "Lajen",
+    "codice": "021039",
+    "codiceCatastale": "E420",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 2808,
+    "superficie": 37.6163,
+    "coordinate": {
+      "lat": 46.6087013,
+      "lng": 11.565023
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Laives",
+    "nomeAltraLingua": "Leifers",
+    "codice": "021040",
+    "codiceCatastale": "E421",
+    "sigla": "BZ",
+    "cap": [
+      "39055"
+    ],
+    "capoluogo": false,
+    "popolazione": 18468,
+    "superficie": 24.5515,
+    "coordinate": {
+      "lat": 46.4263553,
+      "lng": 11.338133
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Lana",
+    "nomeAltraLingua": "Lana",
+    "codice": "021041",
+    "codiceCatastale": "E434",
+    "sigla": "BZ",
+    "cap": [
+      "39011"
+    ],
+    "capoluogo": false,
+    "popolazione": 12595,
+    "superficie": 35.8625,
+    "coordinate": {
+      "lat": 46.6161882,
+      "lng": 11.1453105
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Lasa",
+    "nomeAltraLingua": "Laas",
+    "codice": "021042",
+    "codiceCatastale": "E457",
+    "sigla": "BZ",
+    "cap": [
+      "39023"
+    ],
+    "capoluogo": false,
+    "popolazione": 4118,
+    "superficie": 110.1842,
+    "coordinate": {
+      "lat": 46.6181641,
+      "lng": 10.6974972
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Lauregno",
+    "nomeAltraLingua": "Laurein",
+    "codice": "021043",
+    "codiceCatastale": "E481",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 318,
+    "superficie": 13.8364,
+    "coordinate": {
+      "lat": 46.4542294,
+      "lng": 11.0622429
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Luson",
+    "nomeAltraLingua": "Lüsen",
+    "codice": "021044",
+    "codiceCatastale": "E764",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1592,
+    "superficie": 74.321,
+    "coordinate": {
+      "lat": 46.7459388,
+      "lng": 11.760741
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Magrè sulla strada del vino",
+    "nomeAltraLingua": "Margreid an der Weinstraße",
+    "codice": "021045",
+    "codiceCatastale": "E829",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1336,
+    "superficie": 13.7157,
+    "coordinate": {
+      "lat": 46.2867552,
+      "lng": 11.2089608
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Malles Venosta",
+    "nomeAltraLingua": "Mals",
+    "codice": "021046",
+    "codiceCatastale": "E862",
+    "sigla": "BZ",
+    "cap": [
+      "39024"
+    ],
+    "capoluogo": false,
+    "popolazione": 5301,
+    "superficie": 247.7786,
+    "coordinate": {
+      "lat": 46.6894687,
+      "lng": 10.5451958
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Marebbe",
+    "nomeAltraLingua": "Enneberg",
+    "codice": "021047",
+    "codiceCatastale": "E938",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 3182,
+    "superficie": 159.6993,
+    "coordinate": {
+      "lat": 46.6975717,
+      "lng": 11.9327168
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Marlengo",
+    "nomeAltraLingua": "Marling",
+    "codice": "021048",
+    "codiceCatastale": "E959",
+    "sigla": "BZ",
+    "cap": [
+      "39020"
+    ],
+    "capoluogo": false,
+    "popolazione": 2868,
+    "superficie": 13.0187,
+    "coordinate": {
+      "lat": 46.6548175,
+      "lng": 11.1404466
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Martello",
+    "nomeAltraLingua": "Martell",
+    "codice": "021049",
+    "codiceCatastale": "E981",
+    "sigla": "BZ",
+    "cap": [
+      "39020"
+    ],
+    "capoluogo": false,
+    "popolazione": 840,
+    "superficie": 142.2836,
+    "coordinate": {
+      "lat": 46.5660568,
+      "lng": 10.7824528
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Meltina",
+    "nomeAltraLingua": "Mölten",
+    "codice": "021050",
+    "codiceCatastale": "F118",
+    "sigla": "BZ",
+    "cap": [
+      "39010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1734,
+    "superficie": 37.1783,
+    "coordinate": {
+      "lat": 46.5868603,
+      "lng": 11.2538278
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Merano",
+    "nomeAltraLingua": "Meran",
+    "codice": "021051",
+    "codiceCatastale": "F132",
+    "sigla": "BZ",
+    "cap": [
+      "39012"
+    ],
+    "capoluogo": false,
+    "popolazione": 41404,
+    "superficie": 25.9844,
+    "coordinate": {
+      "lat": 46.6720943,
+      "lng": 11.1616662
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Monguelfo-Tesido",
+    "nomeAltraLingua": "Welsberg-Taisten",
+    "codice": "021052",
+    "codiceCatastale": "F371",
+    "sigla": "BZ",
+    "cap": [
+      "39035"
+    ],
+    "capoluogo": false,
+    "popolazione": 2906,
+    "superficie": 46.252,
+    "coordinate": {
+      "lat": 46.7569944,
+      "lng": 12.104787
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Montagna sulla strada del vino",
+    "nomeAltraLingua": "Montan an der Weinstraße",
+    "codice": "021053",
+    "codiceCatastale": "F392",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1728,
+    "superficie": 19.1674,
+    "coordinate": {
+      "lat": 46.3313243,
+      "lng": 11.3027193
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Moso in Passiria",
+    "nomeAltraLingua": "Moos in Passeier",
+    "codice": "021054",
+    "codiceCatastale": "F766",
+    "sigla": "BZ",
+    "cap": [
+      "39013"
+    ],
+    "capoluogo": false,
+    "popolazione": 2026,
+    "superficie": 193.8041,
+    "coordinate": {
+      "lat": 46.8300157,
+      "lng": 11.1686181
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Nalles",
+    "nomeAltraLingua": "Nals",
+    "codice": "021055",
+    "codiceCatastale": "F836",
+    "sigla": "BZ",
+    "cap": [
+      "39010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2097,
+    "superficie": 12.2144,
+    "coordinate": {
+      "lat": 46.5431168,
+      "lng": 11.2034026
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Naturno",
+    "nomeAltraLingua": "Naturns",
+    "codice": "021056",
+    "codiceCatastale": "F849",
+    "sigla": "BZ",
+    "cap": [
+      "39025"
+    ],
+    "capoluogo": false,
+    "popolazione": 6102,
+    "superficie": 66.7528,
+    "coordinate": {
+      "lat": 46.6510249,
+      "lng": 11.0049681
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Naz-Sciaves",
+    "nomeAltraLingua": "Natz-Schabs",
+    "codice": "021057",
+    "codiceCatastale": "F856",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 3413,
+    "superficie": 15.7148,
+    "coordinate": {
+      "lat": 46.7705837,
+      "lng": 11.6658163
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Nova Levante",
+    "nomeAltraLingua": "Welschnofen",
+    "codice": "021058",
+    "codiceCatastale": "F949",
+    "sigla": "BZ",
+    "cap": [
+      "39056"
+    ],
+    "capoluogo": false,
+    "popolazione": 2085,
+    "superficie": 51.0811,
+    "coordinate": {
+      "lat": 46.4303192,
+      "lng": 11.5369847
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Nova Ponente",
+    "nomeAltraLingua": "Deutschnofen",
+    "codice": "021059",
+    "codiceCatastale": "F950",
+    "sigla": "BZ",
+    "cap": [
+      "39050"
+    ],
+    "capoluogo": false,
+    "popolazione": 4087,
+    "superficie": 111.7664,
+    "coordinate": {
+      "lat": 46.4144449,
+      "lng": 11.4255689
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ora",
+    "nomeAltraLingua": "Auer",
+    "codice": "021060",
+    "codiceCatastale": "G083",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 3863,
+    "superficie": 11.6129,
+    "coordinate": {
+      "lat": 46.3481366,
+      "lng": 11.2982227
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ortisei",
+    "nomeAltraLingua": "St. Ulrich",
+    "codice": "021061",
+    "codiceCatastale": "G140",
+    "sigla": "BZ",
+    "cap": [
+      "39046"
+    ],
+    "capoluogo": false,
+    "popolazione": 4777,
+    "superficie": 24.1339,
+    "coordinate": {
+      "lat": 46.5760962,
+      "lng": 11.6717619
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Parcines",
+    "nomeAltraLingua": "Partschins",
+    "codice": "021062",
+    "codiceCatastale": "G328",
+    "sigla": "BZ",
+    "cap": [
+      "39020"
+    ],
+    "capoluogo": false,
+    "popolazione": 3954,
+    "superficie": 55.8283,
+    "coordinate": {
+      "lat": 46.6846276,
+      "lng": 11.0731517
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Perca",
+    "nomeAltraLingua": "Percha",
+    "codice": "021063",
+    "codiceCatastale": "G443",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1709,
+    "superficie": 30.761,
+    "coordinate": {
+      "lat": 46.7915103,
+      "lng": 11.9832241
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Plaus",
+    "nomeAltraLingua": "Plaus",
+    "codice": "021064",
+    "codiceCatastale": "G299",
+    "sigla": "BZ",
+    "cap": [
+      "39025"
+    ],
+    "capoluogo": false,
+    "popolazione": 756,
+    "superficie": 5.0925,
+    "coordinate": {
+      "lat": 46.6557283,
+      "lng": 11.0422942
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ponte Gardena",
+    "nomeAltraLingua": "Waidbruck",
+    "codice": "021065",
+    "codiceCatastale": "G830",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 219,
+    "superficie": 2.4388,
+    "coordinate": {
+      "lat": 46.5969676,
+      "lng": 11.5302458
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Postal",
+    "nomeAltraLingua": "Burgstall",
+    "codice": "021066",
+    "codiceCatastale": "G936",
+    "sigla": "BZ",
+    "cap": [
+      "39014"
+    ],
+    "capoluogo": false,
+    "popolazione": 2021,
+    "superficie": 6.6721,
+    "coordinate": {
+      "lat": 46.6091131,
+      "lng": 11.1918722
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Prato allo Stelvio",
+    "nomeAltraLingua": "Prad am Stilfserjoch",
+    "codice": "021067",
+    "codiceCatastale": "H004",
+    "sigla": "BZ",
+    "cap": [
+      "39026"
+    ],
+    "capoluogo": false,
+    "popolazione": 3869,
+    "superficie": 50.7297,
+    "coordinate": {
+      "lat": 46.6172434,
+      "lng": 10.5888752
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Predoi",
+    "nomeAltraLingua": "Prettau",
+    "codice": "021068",
+    "codiceCatastale": "H019",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 509,
+    "superficie": 86.606,
+    "coordinate": {
+      "lat": 47.0379923,
+      "lng": 12.1028171
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Proves",
+    "nomeAltraLingua": "Proveis",
+    "codice": "021069",
+    "codiceCatastale": "H081",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 249,
+    "superficie": 18.5177,
+    "coordinate": {
+      "lat": 46.4762164,
+      "lng": 11.022242
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Racines",
+    "nomeAltraLingua": "Ratschings",
+    "codice": "021070",
+    "codiceCatastale": "H152",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 4646,
+    "superficie": 203.1654,
+    "coordinate": {
+      "lat": 46.883059,
+      "lng": 11.378552
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Rasun-Anterselva",
+    "nomeAltraLingua": "Rasen-Antholz",
+    "codice": "021071",
+    "codiceCatastale": "H189",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2949,
+    "superficie": 121.5559,
+    "coordinate": {
+      "lat": 46.780763,
+      "lng": 12.0493564
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Renon",
+    "nomeAltraLingua": "Ritten",
+    "codice": "021072",
+    "codiceCatastale": "H236",
+    "sigla": "BZ",
+    "cap": [
+      "39054"
+    ],
+    "capoluogo": false,
+    "popolazione": 8147,
+    "superficie": 111.5476,
+    "coordinate": {
+      "lat": 46.5367991,
+      "lng": 11.4631081
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Rifiano",
+    "nomeAltraLingua": "Riffian",
+    "codice": "021073",
+    "codiceCatastale": "H284",
+    "sigla": "BZ",
+    "cap": [
+      "39010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1364,
+    "superficie": 35.5423,
+    "coordinate": {
+      "lat": 46.7018443,
+      "lng": 11.1806584
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Rio di Pusteria",
+    "nomeAltraLingua": "Mühlbach",
+    "codice": "021074",
+    "codiceCatastale": "H299",
+    "sigla": "BZ",
+    "cap": [
+      "39037"
+    ],
+    "capoluogo": false,
+    "popolazione": 3207,
+    "superficie": 83.7237,
+    "coordinate": {
+      "lat": 46.796282,
+      "lng": 11.6671114
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Rodengo",
+    "nomeAltraLingua": "Rodeneck",
+    "codice": "021075",
+    "codiceCatastale": "H475",
+    "sigla": "BZ",
+    "cap": [
+      "39037"
+    ],
+    "capoluogo": false,
+    "popolazione": 1291,
+    "superficie": 29.7318,
+    "coordinate": {
+      "lat": 46.7767039,
+      "lng": 11.6904151
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Salorno sulla strada del vino",
+    "nomeAltraLingua": "Salurn an der Weinstraße",
+    "codice": "021076",
+    "codiceCatastale": "H719",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 3802,
+    "superficie": 33.5079,
+    "coordinate": {
+      "lat": 46.2389494,
+      "lng": 11.2124245
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "San Candido",
+    "nomeAltraLingua": "Innichen",
+    "codice": "021077",
+    "codiceCatastale": "H786",
+    "sigla": "BZ",
+    "cap": [
+      "39038"
+    ],
+    "capoluogo": false,
+    "popolazione": 3337,
+    "superficie": 80.3251,
+    "coordinate": {
+      "lat": 46.7325754,
+      "lng": 12.2829134
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "San Genesio Atesino",
+    "nomeAltraLingua": "Jenesien",
+    "codice": "021079",
+    "codiceCatastale": "H858",
+    "sigla": "BZ",
+    "cap": [
+      "39050"
+    ],
+    "capoluogo": false,
+    "popolazione": 3011,
+    "superficie": 68.593,
+    "coordinate": {
+      "lat": 46.5347406,
+      "lng": 11.3312871
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "San Leonardo in Passiria",
+    "nomeAltraLingua": "St. Leonhard in Passeier",
+    "codice": "021080",
+    "codiceCatastale": "H952",
+    "sigla": "BZ",
+    "cap": [
+      "39015"
+    ],
+    "capoluogo": false,
+    "popolazione": 3647,
+    "superficie": 88.8045,
+    "coordinate": {
+      "lat": 46.8116193,
+      "lng": 11.2438462
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "San Lorenzo di Sebato",
+    "nomeAltraLingua": "St. Lorenzen",
+    "codice": "021081",
+    "codiceCatastale": "H956",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 3902,
+    "superficie": 51.1939,
+    "coordinate": {
+      "lat": 46.7835453,
+      "lng": 11.901813
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "San Martino in Badia",
+    "nomeAltraLingua": "St. Martin in Thurn",
+    "codice": "021082",
+    "codiceCatastale": "H988",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1748,
+    "superficie": 76.279,
+    "coordinate": {
+      "lat": 46.6820025,
+      "lng": 11.8982796
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "San Martino in Passiria",
+    "nomeAltraLingua": "St. Martin in Passeier",
+    "codice": "021083",
+    "codiceCatastale": "H989",
+    "sigla": "BZ",
+    "cap": [
+      "39010"
+    ],
+    "capoluogo": false,
+    "popolazione": 3307,
+    "superficie": 30.3009,
+    "coordinate": {
+      "lat": 46.7822205,
+      "lng": 11.227057
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "San Pancrazio",
+    "nomeAltraLingua": "St. Pankraz",
+    "codice": "021084",
+    "codiceCatastale": "I065",
+    "sigla": "BZ",
+    "cap": [
+      "39010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1538,
+    "superficie": 63.1865,
+    "coordinate": {
+      "lat": 46.5856332,
+      "lng": 11.0865324
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Santa Cristina Valgardena",
+    "nomeAltraLingua": "St. Christina in Gröden",
+    "codice": "021085",
+    "codiceCatastale": "I173",
+    "sigla": "BZ",
+    "cap": [
+      "39047"
+    ],
+    "capoluogo": false,
+    "popolazione": 2022,
+    "superficie": 31.8329,
+    "coordinate": {
+      "lat": 46.5582877,
+      "lng": 11.7199851
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Sarentino",
+    "nomeAltraLingua": "Sarntal",
+    "codice": "021086",
+    "codiceCatastale": "I431",
+    "sigla": "BZ",
+    "cap": [
+      "39058"
+    ],
+    "capoluogo": false,
+    "popolazione": 7215,
+    "superficie": 301.9615,
+    "coordinate": {
+      "lat": 46.6427283,
+      "lng": 11.3566581
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Scena",
+    "nomeAltraLingua": "Schenna",
+    "codice": "021087",
+    "codiceCatastale": "I519",
+    "sigla": "BZ",
+    "cap": [
+      "39017"
+    ],
+    "capoluogo": false,
+    "popolazione": 3049,
+    "superficie": 47.9986,
+    "coordinate": {
+      "lat": 46.6901016,
+      "lng": 11.1869585
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Selva dei Molini",
+    "nomeAltraLingua": "Mühlwald",
+    "codice": "021088",
+    "codiceCatastale": "I593",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1386,
+    "superficie": 105.1547,
+    "coordinate": {
+      "lat": 46.8903117,
+      "lng": 11.8621111
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Selva di Val Gardena",
+    "nomeAltraLingua": "Wolkenstein in Gröden",
+    "codice": "021089",
+    "codiceCatastale": "I591",
+    "sigla": "BZ",
+    "cap": [
+      "39048"
+    ],
+    "capoluogo": false,
+    "popolazione": 2630,
+    "superficie": 56.3886,
+    "coordinate": {
+      "lat": 46.5561577,
+      "lng": 11.7582758
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Senales",
+    "nomeAltraLingua": "Schnals",
+    "codice": "021091",
+    "codiceCatastale": "I604",
+    "sigla": "BZ",
+    "cap": [
+      "39020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1243,
+    "superficie": 209.741,
+    "coordinate": {
+      "lat": 46.7052512,
+      "lng": 10.9097097
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Sesto",
+    "nomeAltraLingua": "Sexten",
+    "codice": "021092",
+    "codiceCatastale": "I687",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1859,
+    "superficie": 80.1204,
+    "coordinate": {
+      "lat": 46.7020896,
+      "lng": 12.3503066
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Silandro",
+    "nomeAltraLingua": "Schlanders",
+    "codice": "021093",
+    "codiceCatastale": "I729",
+    "sigla": "BZ",
+    "cap": [
+      "39028"
+    ],
+    "capoluogo": false,
+    "popolazione": 6358,
+    "superficie": 115.0829,
+    "coordinate": {
+      "lat": 46.6279753,
+      "lng": 10.7731664
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Sluderno",
+    "nomeAltraLingua": "Schluderns",
+    "codice": "021094",
+    "codiceCatastale": "I771",
+    "sigla": "BZ",
+    "cap": [
+      "39020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1873,
+    "superficie": 20.9599,
+    "coordinate": {
+      "lat": 46.6641667,
+      "lng": 10.5848011
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Stelvio",
+    "nomeAltraLingua": "Stilfs",
+    "codice": "021095",
+    "codiceCatastale": "I948",
+    "sigla": "BZ",
+    "cap": [
+      "39029"
+    ],
+    "capoluogo": false,
+    "popolazione": 1146,
+    "superficie": 141.8691,
+    "coordinate": {
+      "lat": 46.5956785,
+      "lng": 10.5446388
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Terento",
+    "nomeAltraLingua": "Terenten",
+    "codice": "021096",
+    "codiceCatastale": "L106",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1800,
+    "superficie": 42.5186,
+    "coordinate": {
+      "lat": 46.8290123,
+      "lng": 11.7766225
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Terlano",
+    "nomeAltraLingua": "Terlan",
+    "codice": "021097",
+    "codiceCatastale": "L108",
+    "sigla": "BZ",
+    "cap": [
+      "39018"
+    ],
+    "capoluogo": false,
+    "popolazione": 4904,
+    "superficie": 18.3956,
+    "coordinate": {
+      "lat": 46.5290778,
+      "lng": 11.2486383
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Termeno sulla strada del vino",
+    "nomeAltraLingua": "Tramin an der Weinstraße",
+    "codice": "021098",
+    "codiceCatastale": "L111",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 3380,
+    "superficie": 19.878,
+    "coordinate": {
+      "lat": 46.341087,
+      "lng": 11.2397625
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Tesimo",
+    "nomeAltraLingua": "Tisens",
+    "codice": "021099",
+    "codiceCatastale": "L149",
+    "sigla": "BZ",
+    "cap": [
+      "39010"
+    ],
+    "capoluogo": false,
+    "popolazione": 2015,
+    "superficie": 37.9307,
+    "coordinate": {
+      "lat": 46.5637876,
+      "lng": 11.1693184
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Tires",
+    "nomeAltraLingua": "Tiers",
+    "codice": "021100",
+    "codiceCatastale": "L176",
+    "sigla": "BZ",
+    "cap": [
+      "39050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1025,
+    "superficie": 42.1837,
+    "coordinate": {
+      "lat": 46.4671749,
+      "lng": 11.5276908
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Tirolo",
+    "nomeAltraLingua": "Tirol",
+    "codice": "021101",
+    "codiceCatastale": "L178",
+    "sigla": "BZ",
+    "cap": [
+      "39019"
+    ],
+    "capoluogo": false,
+    "popolazione": 2497,
+    "superficie": 26.2335,
+    "coordinate": {
+      "lat": 46.6906322,
+      "lng": 11.1538499
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Trodena nel parco naturale",
+    "nomeAltraLingua": "Truden im Naturpark",
+    "codice": "021102",
+    "codiceCatastale": "L444",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1050,
+    "superficie": 20.9319,
+    "coordinate": {
+      "lat": 46.3225638,
+      "lng": 11.3490311
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Tubre",
+    "nomeAltraLingua": "Taufers im Münstertal",
+    "codice": "021103",
+    "codiceCatastale": "L455",
+    "sigla": "BZ",
+    "cap": [
+      "39020"
+    ],
+    "capoluogo": false,
+    "popolazione": 954,
+    "superficie": 46.0975,
+    "coordinate": {
+      "lat": 46.6465044,
+      "lng": 10.4644154
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ultimo",
+    "nomeAltraLingua": "Ulten",
+    "codice": "021104",
+    "codiceCatastale": "L490",
+    "sigla": "BZ",
+    "cap": [
+      "39016"
+    ],
+    "capoluogo": false,
+    "popolazione": 2913,
+    "superficie": 208.5179,
+    "coordinate": {
+      "lat": 46.5502782,
+      "lng": 11.0059276
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Vadena",
+    "nomeAltraLingua": "Pfatten",
+    "codice": "021105",
+    "codiceCatastale": "L527",
+    "sigla": "BZ",
+    "cap": [
+      "39051"
+    ],
+    "capoluogo": false,
+    "popolazione": 1111,
+    "superficie": 13.4026,
+    "coordinate": {
+      "lat": 46.4145805,
+      "lng": 11.3052221
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Valdaora",
+    "nomeAltraLingua": "Olang",
+    "codice": "021106",
+    "codiceCatastale": "L552",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 3238,
+    "superficie": 49.2572,
+    "coordinate": {
+      "lat": 46.7612104,
+      "lng": 12.0303526
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Val di Vizze",
+    "nomeAltraLingua": "Pfitsch",
+    "codice": "021107",
+    "codiceCatastale": "L564",
+    "sigla": "BZ",
+    "cap": [
+      "39049"
+    ],
+    "capoluogo": false,
+    "popolazione": 3091,
+    "superficie": 142.179,
+    "coordinate": {
+      "lat": 46.8997441,
+      "lng": 11.4624438
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Valle Aurina",
+    "nomeAltraLingua": "Ahrntal",
+    "codice": "021108",
+    "codiceCatastale": "L595",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 5977,
+    "superficie": 188.4633,
+    "coordinate": {
+      "lat": 46.9948795,
+      "lng": 11.9801403
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Valle di Casies",
+    "nomeAltraLingua": "Gsies",
+    "codice": "021109",
+    "codiceCatastale": "L601",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2322,
+    "superficie": 110.3344,
+    "coordinate": {
+      "lat": 46.8111033,
+      "lng": 12.2273473
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Vandoies",
+    "nomeAltraLingua": "Vintl",
+    "codice": "021110",
+    "codiceCatastale": "L660",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 3349,
+    "superficie": 110.5247,
+    "coordinate": {
+      "lat": 46.8163767,
+      "lng": 11.7222705
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Varna",
+    "nomeAltraLingua": "Vahrn",
+    "codice": "021111",
+    "codiceCatastale": "L687",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 5047,
+    "superficie": 70.0487,
+    "coordinate": {
+      "lat": 46.7401193,
+      "lng": 11.63569
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Verano",
+    "nomeAltraLingua": "Vöran",
+    "codice": "021112",
+    "codiceCatastale": "L745",
+    "sigla": "BZ",
+    "cap": [
+      "39010"
+    ],
+    "capoluogo": false,
+    "popolazione": 996,
+    "superficie": 22.7613,
+    "coordinate": {
+      "lat": 46.6050315,
+      "lng": 11.2265497
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Villabassa",
+    "nomeAltraLingua": "Niederdorf",
+    "codice": "021113",
+    "codiceCatastale": "L915",
+    "sigla": "BZ",
+    "cap": [
+      "39039"
+    ],
+    "capoluogo": false,
+    "popolazione": 1622,
+    "superficie": 17.9763,
+    "coordinate": {
+      "lat": 46.7377426,
+      "lng": 12.1690848
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Villandro",
+    "nomeAltraLingua": "Villanders",
+    "codice": "021114",
+    "codiceCatastale": "L971",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1892,
+    "superficie": 43.9715,
+    "coordinate": {
+      "lat": 46.63116,
+      "lng": 11.5394862
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Vipiteno",
+    "nomeAltraLingua": "Sterzing",
+    "codice": "021115",
+    "codiceCatastale": "M067",
+    "sigla": "BZ",
+    "cap": [
+      "39049"
+    ],
+    "capoluogo": false,
+    "popolazione": 6960,
+    "superficie": 32.6929,
+    "coordinate": {
+      "lat": 46.8979094,
+      "lng": 11.4318371
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Velturno",
+    "nomeAltraLingua": "Feldthurns",
+    "codice": "021116",
+    "codiceCatastale": "L724",
+    "sigla": "BZ",
+    "cap": [
+      "39040"
+    ],
+    "capoluogo": false,
+    "popolazione": 3083,
+    "superficie": 24.4057,
+    "coordinate": {
+      "lat": 46.6687892,
+      "lng": 11.5988803
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "La Valle",
+    "nomeAltraLingua": "Wengen",
+    "codice": "021117",
+    "codiceCatastale": "E491",
+    "sigla": "BZ",
+    "cap": [
+      "39030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1420,
+    "superficie": 39.1748,
+    "coordinate": {
+      "lat": 46.6576513,
+      "lng": 11.925017
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Senale-San Felice",
+    "nomeAltraLingua": "Unsere Liebe Frau im Walde-St. Felix",
+    "codice": "021118",
+    "codiceCatastale": "I603",
+    "sigla": "BZ",
+    "cap": [
+      "39010"
+    ],
+    "capoluogo": false,
+    "popolazione": 787,
+    "superficie": 27.7717,
+    "coordinate": {
+      "lat": 46.4924668,
+      "lng": 11.1319034
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Bolzano/Bozen",
+      "codice": "021",
+      "sigla": "BZ",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ala",
+    "nomeAltraLingua": null,
+    "codice": "022001",
+    "codiceCatastale": "A116",
+    "sigla": "TN",
+    "cap": [
+      "38061"
+    ],
+    "capoluogo": false,
+    "popolazione": 8819,
+    "superficie": 119.9659,
+    "coordinate": {
+      "lat": 45.7566523,
+      "lng": 11.0051179
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Albiano",
+    "nomeAltraLingua": null,
+    "codice": "022002",
+    "codiceCatastale": "A158",
+    "sigla": "TN",
+    "cap": [
+      "38041"
+    ],
+    "capoluogo": false,
+    "popolazione": 1512,
+    "superficie": 9.6929,
+    "coordinate": {
+      "lat": 46.145024,
+      "lng": 11.1933316
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Aldeno",
+    "nomeAltraLingua": null,
+    "codice": "022003",
+    "codiceCatastale": "A178",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 3278,
+    "superficie": 9.0002,
+    "coordinate": {
+      "lat": 45.9772494,
+      "lng": 11.0913705
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Andalo",
+    "nomeAltraLingua": null,
+    "codice": "022005",
+    "codiceCatastale": "A274",
+    "sigla": "TN",
+    "cap": [
+      "38010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1189,
+    "superficie": 11.5634,
+    "coordinate": {
+      "lat": 46.1656493,
+      "lng": 11.0042028
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Arco",
+    "nomeAltraLingua": null,
+    "codice": "022006",
+    "codiceCatastale": "A372",
+    "sigla": "TN",
+    "cap": [
+      "38062"
+    ],
+    "capoluogo": false,
+    "popolazione": 17754,
+    "superficie": 63.2326,
+    "coordinate": {
+      "lat": 45.9192493,
+      "lng": 10.8862296
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Avio",
+    "nomeAltraLingua": null,
+    "codice": "022007",
+    "codiceCatastale": "A520",
+    "sigla": "TN",
+    "cap": [
+      "38063"
+    ],
+    "capoluogo": false,
+    "popolazione": 4132,
+    "superficie": 68.7373,
+    "coordinate": {
+      "lat": 45.7355557,
+      "lng": 10.9418813
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Baselga di Pinè",
+    "nomeAltraLingua": null,
+    "codice": "022009",
+    "codiceCatastale": "A694",
+    "sigla": "TN",
+    "cap": [
+      "38042"
+    ],
+    "capoluogo": false,
+    "popolazione": 5215,
+    "superficie": 41.4787,
+    "coordinate": {
+      "lat": 46.1297658,
+      "lng": 11.2445334
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Bedollo",
+    "nomeAltraLingua": null,
+    "codice": "022011",
+    "codiceCatastale": "A730",
+    "sigla": "TN",
+    "cap": [
+      "38043"
+    ],
+    "capoluogo": false,
+    "popolazione": 1491,
+    "superficie": 27.1676,
+    "coordinate": {
+      "lat": 46.1615948,
+      "lng": 11.303444
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Besenello",
+    "nomeAltraLingua": null,
+    "codice": "022013",
+    "codiceCatastale": "A821",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 2799,
+    "superficie": 25.9531,
+    "coordinate": {
+      "lat": 45.941721,
+      "lng": 11.1096
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Bieno",
+    "nomeAltraLingua": null,
+    "codice": "022015",
+    "codiceCatastale": "A863",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 462,
+    "superficie": 11.8967,
+    "coordinate": {
+      "lat": 46.0803707,
+      "lng": 11.5535606
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Bleggio Superiore",
+    "nomeAltraLingua": null,
+    "codice": "022017",
+    "codiceCatastale": "A902",
+    "sigla": "TN",
+    "cap": [
+      "38071"
+    ],
+    "capoluogo": false,
+    "popolazione": 1505,
+    "superficie": 32.7235,
+    "coordinate": {
+      "lat": 46.0253419,
+      "lng": 10.8370713
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Bocenago",
+    "nomeAltraLingua": null,
+    "codice": "022018",
+    "codiceCatastale": "A916",
+    "sigla": "TN",
+    "cap": [
+      "38080"
+    ],
+    "capoluogo": false,
+    "popolazione": 397,
+    "superficie": 8.5472,
+    "coordinate": {
+      "lat": 46.1184703,
+      "lng": 10.7590113
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Bondone",
+    "nomeAltraLingua": null,
+    "codice": "022021",
+    "codiceCatastale": "A968",
+    "sigla": "TN",
+    "cap": [
+      "38080"
+    ],
+    "capoluogo": false,
+    "popolazione": 645,
+    "superficie": 19.3242,
+    "coordinate": {
+      "lat": 45.8083779,
+      "lng": 10.5405053
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Borgo Valsugana",
+    "nomeAltraLingua": null,
+    "codice": "022022",
+    "codiceCatastale": "B006",
+    "sigla": "TN",
+    "cap": [
+      "38051"
+    ],
+    "capoluogo": false,
+    "popolazione": 7067,
+    "superficie": 52.5623,
+    "coordinate": {
+      "lat": 46.0530714,
+      "lng": 11.4564861
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Brentonico",
+    "nomeAltraLingua": null,
+    "codice": "022025",
+    "codiceCatastale": "B153",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 4121,
+    "superficie": 62.8559,
+    "coordinate": {
+      "lat": 45.8188776,
+      "lng": 10.9547762
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Bresimo",
+    "nomeAltraLingua": null,
+    "codice": "022026",
+    "codiceCatastale": "B158",
+    "sigla": "TN",
+    "cap": [
+      "38020"
+    ],
+    "capoluogo": false,
+    "popolazione": 244,
+    "superficie": 40.64,
+    "coordinate": {
+      "lat": 46.4104711,
+      "lng": 10.9686369
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Caderzone Terme",
+    "nomeAltraLingua": null,
+    "codice": "022029",
+    "codiceCatastale": "B335",
+    "sigla": "TN",
+    "cap": [
+      "38080"
+    ],
+    "capoluogo": false,
+    "popolazione": 695,
+    "superficie": 18.7985,
+    "coordinate": {
+      "lat": 46.1293255,
+      "lng": 10.7565434
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Calceranica al Lago",
+    "nomeAltraLingua": null,
+    "codice": "022032",
+    "codiceCatastale": "B389",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1395,
+    "superficie": 3.3742,
+    "coordinate": {
+      "lat": 46.004043,
+      "lng": 11.2427334
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Caldes",
+    "nomeAltraLingua": null,
+    "codice": "022033",
+    "codiceCatastale": "B400",
+    "sigla": "TN",
+    "cap": [
+      "38022"
+    ],
+    "capoluogo": false,
+    "popolazione": 1112,
+    "superficie": 20.5357,
+    "coordinate": {
+      "lat": 46.3654325,
+      "lng": 10.9445587
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Caldonazzo",
+    "nomeAltraLingua": null,
+    "codice": "022034",
+    "codiceCatastale": "B404",
+    "sigla": "TN",
+    "cap": [
+      "38052"
+    ],
+    "capoluogo": false,
+    "popolazione": 3964,
+    "superficie": 21.1192,
+    "coordinate": {
+      "lat": 45.9914381,
+      "lng": 11.2618635
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Calliano",
+    "nomeAltraLingua": null,
+    "codice": "022035",
+    "codiceCatastale": "B419",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 2041,
+    "superficie": 10.1859,
+    "coordinate": {
+      "lat": 45.9359751,
+      "lng": 11.094623
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Campitello di Fassa",
+    "nomeAltraLingua": null,
+    "codice": "022036",
+    "codiceCatastale": "B514",
+    "sigla": "TN",
+    "cap": [
+      "38031"
+    ],
+    "capoluogo": false,
+    "popolazione": 700,
+    "superficie": 25.1231,
+    "coordinate": {
+      "lat": 46.4757067,
+      "lng": 11.740093
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Campodenno",
+    "nomeAltraLingua": null,
+    "codice": "022037",
+    "codiceCatastale": "B525",
+    "sigla": "TN",
+    "cap": [
+      "38010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1512,
+    "superficie": 24.7265,
+    "coordinate": {
+      "lat": 46.2571415,
+      "lng": 11.0345359
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Canal San Bovo",
+    "nomeAltraLingua": null,
+    "codice": "022038",
+    "codiceCatastale": "B577",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1458,
+    "superficie": 125.0303,
+    "coordinate": {
+      "lat": 46.1562918,
+      "lng": 11.7317844
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Canazei",
+    "nomeAltraLingua": null,
+    "codice": "022039",
+    "codiceCatastale": "B579",
+    "sigla": "TN",
+    "cap": [
+      "38032"
+    ],
+    "capoluogo": false,
+    "popolazione": 1878,
+    "superficie": 67.3454,
+    "coordinate": {
+      "lat": 46.4769211,
+      "lng": 11.7713091
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Capriana",
+    "nomeAltraLingua": null,
+    "codice": "022040",
+    "codiceCatastale": "B697",
+    "sigla": "TN",
+    "cap": [
+      "38030"
+    ],
+    "capoluogo": false,
+    "popolazione": 594,
+    "superficie": 12.8099,
+    "coordinate": {
+      "lat": 46.2626004,
+      "lng": 11.3390028
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Carisolo",
+    "nomeAltraLingua": null,
+    "codice": "022042",
+    "codiceCatastale": "B783",
+    "sigla": "TN",
+    "cap": [
+      "38080"
+    ],
+    "capoluogo": false,
+    "popolazione": 923,
+    "superficie": 25.1697,
+    "coordinate": {
+      "lat": 46.1691397,
+      "lng": 10.7637674
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Carzano",
+    "nomeAltraLingua": null,
+    "codice": "022043",
+    "codiceCatastale": "B856",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 511,
+    "superficie": 1.7395,
+    "coordinate": {
+      "lat": 46.0707356,
+      "lng": 11.4936728
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Castel Condino",
+    "nomeAltraLingua": null,
+    "codice": "022045",
+    "codiceCatastale": "C183",
+    "sigla": "TN",
+    "cap": [
+      "38082"
+    ],
+    "capoluogo": false,
+    "popolazione": 225,
+    "superficie": 11.2633,
+    "coordinate": {
+      "lat": 45.9153428,
+      "lng": 10.602993
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Castello-Molina di Fiemme",
+    "nomeAltraLingua": null,
+    "codice": "022047",
+    "codiceCatastale": "C189",
+    "sigla": "TN",
+    "cap": [
+      "38030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2320,
+    "superficie": 54.5407,
+    "coordinate": {
+      "lat": 46.2818019,
+      "lng": 11.4350288
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Castello Tesino",
+    "nomeAltraLingua": null,
+    "codice": "022048",
+    "codiceCatastale": "C194",
+    "sigla": "TN",
+    "cap": [
+      "38053"
+    ],
+    "capoluogo": false,
+    "popolazione": 1156,
+    "superficie": 112.6273,
+    "coordinate": {
+      "lat": 46.0624929,
+      "lng": 11.6337419
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Castelnuovo",
+    "nomeAltraLingua": null,
+    "codice": "022049",
+    "codiceCatastale": "C216",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1081,
+    "superficie": 13.3714,
+    "coordinate": {
+      "lat": 46.0523832,
+      "lng": 11.4939646
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Cavalese",
+    "nomeAltraLingua": null,
+    "codice": "022050",
+    "codiceCatastale": "C372",
+    "sigla": "TN",
+    "cap": [
+      "38033"
+    ],
+    "capoluogo": false,
+    "popolazione": 3987,
+    "superficie": 45.3725,
+    "coordinate": {
+      "lat": 46.2907346,
+      "lng": 11.4593419
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Cavareno",
+    "nomeAltraLingua": null,
+    "codice": "022051",
+    "codiceCatastale": "C380",
+    "sigla": "TN",
+    "cap": [
+      "38011"
+    ],
+    "capoluogo": false,
+    "popolazione": 1121,
+    "superficie": 9.4947,
+    "coordinate": {
+      "lat": 46.4076348,
+      "lng": 11.1366799
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Cavedago",
+    "nomeAltraLingua": null,
+    "codice": "022052",
+    "codiceCatastale": "C392",
+    "sigla": "TN",
+    "cap": [
+      "38010"
+    ],
+    "capoluogo": false,
+    "popolazione": 578,
+    "superficie": 10.0846,
+    "coordinate": {
+      "lat": 46.1834299,
+      "lng": 11.0279455
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Cavedine",
+    "nomeAltraLingua": null,
+    "codice": "022053",
+    "codiceCatastale": "C393",
+    "sigla": "TN",
+    "cap": [
+      "38073"
+    ],
+    "capoluogo": false,
+    "popolazione": 3070,
+    "superficie": 38.0157,
+    "coordinate": {
+      "lat": 45.9939771,
+      "lng": 10.9708284
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Cavizzana",
+    "nomeAltraLingua": null,
+    "codice": "022054",
+    "codiceCatastale": "C400",
+    "sigla": "TN",
+    "cap": [
+      "38022"
+    ],
+    "capoluogo": false,
+    "popolazione": 234,
+    "superficie": 3.4266,
+    "coordinate": {
+      "lat": 46.3682116,
+      "lng": 10.958367
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Cimone",
+    "nomeAltraLingua": null,
+    "codice": "022058",
+    "codiceCatastale": "C700",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 728,
+    "superficie": 9.9498,
+    "coordinate": {
+      "lat": 45.9782148,
+      "lng": 11.068419
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Cinte Tesino",
+    "nomeAltraLingua": null,
+    "codice": "022059",
+    "codiceCatastale": "C712",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 350,
+    "superficie": 30.4653,
+    "coordinate": {
+      "lat": 46.0543771,
+      "lng": 11.6162037
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Cis",
+    "nomeAltraLingua": null,
+    "codice": "022060",
+    "codiceCatastale": "C727",
+    "sigla": "TN",
+    "cap": [
+      "38020"
+    ],
+    "capoluogo": false,
+    "popolazione": 292,
+    "superficie": 5.7333,
+    "coordinate": {
+      "lat": 46.3992973,
+      "lng": 11.0029596
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Civezzano",
+    "nomeAltraLingua": null,
+    "codice": "022061",
+    "codiceCatastale": "C756",
+    "sigla": "TN",
+    "cap": [
+      "38045"
+    ],
+    "capoluogo": false,
+    "popolazione": 4209,
+    "superficie": 15.7703,
+    "coordinate": {
+      "lat": 46.089895,
+      "lng": 11.1792917
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Cles",
+    "nomeAltraLingua": null,
+    "codice": "022062",
+    "codiceCatastale": "C794",
+    "sigla": "TN",
+    "cap": [
+      "38023"
+    ],
+    "capoluogo": false,
+    "popolazione": 7309,
+    "superficie": 39.0082,
+    "coordinate": {
+      "lat": 46.3650659,
+      "lng": 11.034621
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Commezzadura",
+    "nomeAltraLingua": null,
+    "codice": "022064",
+    "codiceCatastale": "C931",
+    "sigla": "TN",
+    "cap": [
+      "38020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1010,
+    "superficie": 22.1223,
+    "coordinate": {
+      "lat": 46.3212727,
+      "lng": 10.8392701
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Croviana",
+    "nomeAltraLingua": null,
+    "codice": "022068",
+    "codiceCatastale": "D188",
+    "sigla": "TN",
+    "cap": [
+      "38027"
+    ],
+    "capoluogo": false,
+    "popolazione": 689,
+    "superficie": 5.0727,
+    "coordinate": {
+      "lat": 46.3446399,
+      "lng": 10.9045153
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Dambel",
+    "nomeAltraLingua": null,
+    "codice": "022071",
+    "codiceCatastale": "D246",
+    "sigla": "TN",
+    "cap": [
+      "38010"
+    ],
+    "capoluogo": false,
+    "popolazione": 406,
+    "superficie": 5.1243,
+    "coordinate": {
+      "lat": 46.4056319,
+      "lng": 11.0953732
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Denno",
+    "nomeAltraLingua": null,
+    "codice": "022074",
+    "codiceCatastale": "D273",
+    "sigla": "TN",
+    "cap": [
+      "38010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1249,
+    "superficie": 10.9376,
+    "coordinate": {
+      "lat": 46.2746961,
+      "lng": 11.0511921
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Drena",
+    "nomeAltraLingua": null,
+    "codice": "022078",
+    "codiceCatastale": "D365",
+    "sigla": "TN",
+    "cap": [
+      "38074"
+    ],
+    "capoluogo": false,
+    "popolazione": 597,
+    "superficie": 8.2706,
+    "coordinate": {
+      "lat": 45.9706385,
+      "lng": 10.9445697
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Dro",
+    "nomeAltraLingua": null,
+    "codice": "022079",
+    "codiceCatastale": "D371",
+    "sigla": "TN",
+    "cap": [
+      "38074"
+    ],
+    "capoluogo": false,
+    "popolazione": 5064,
+    "superficie": 27.7651,
+    "coordinate": {
+      "lat": 45.9620479,
+      "lng": 10.9112231
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Fai della Paganella",
+    "nomeAltraLingua": null,
+    "codice": "022081",
+    "codiceCatastale": "D468",
+    "sigla": "TN",
+    "cap": [
+      "38010"
+    ],
+    "capoluogo": false,
+    "popolazione": 933,
+    "superficie": 12.0982,
+    "coordinate": {
+      "lat": 46.1780089,
+      "lng": 11.0694655
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Fiavè",
+    "nomeAltraLingua": null,
+    "codice": "022083",
+    "codiceCatastale": "D565",
+    "sigla": "TN",
+    "cap": [
+      "38075"
+    ],
+    "capoluogo": false,
+    "popolazione": 1055,
+    "superficie": 24.1732,
+    "coordinate": {
+      "lat": 46.00553,
+      "lng": 10.842982
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Fierozzo",
+    "nomeAltraLingua": null,
+    "codice": "022085",
+    "codiceCatastale": "D573",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 464,
+    "superficie": 18.0108,
+    "coordinate": {
+      "lat": 46.1111279,
+      "lng": 11.3182516
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Folgaria",
+    "nomeAltraLingua": null,
+    "codice": "022087",
+    "codiceCatastale": "D651",
+    "sigla": "TN",
+    "cap": [
+      "38064"
+    ],
+    "capoluogo": false,
+    "popolazione": 3165,
+    "superficie": 71.7261,
+    "coordinate": {
+      "lat": 45.9164175,
+      "lng": 11.1702978
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Fornace",
+    "nomeAltraLingua": null,
+    "codice": "022089",
+    "codiceCatastale": "D714",
+    "sigla": "TN",
+    "cap": [
+      "38040"
+    ],
+    "capoluogo": false,
+    "popolazione": 1341,
+    "superficie": 7.1663,
+    "coordinate": {
+      "lat": 46.1175082,
+      "lng": 11.2063863
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Frassilongo",
+    "nomeAltraLingua": null,
+    "codice": "022090",
+    "codiceCatastale": "D775",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 352,
+    "superficie": 16.8786,
+    "coordinate": {
+      "lat": 46.0858459,
+      "lng": 11.2927252
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Garniga Terme",
+    "nomeAltraLingua": null,
+    "codice": "022091",
+    "codiceCatastale": "D928",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 408,
+    "superficie": 12.9533,
+    "coordinate": {
+      "lat": 46.0014872,
+      "lng": 11.0855735
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Giovo",
+    "nomeAltraLingua": null,
+    "codice": "022092",
+    "codiceCatastale": "E048",
+    "sigla": "TN",
+    "cap": [
+      "38030"
+    ],
+    "capoluogo": false,
+    "popolazione": 2512,
+    "superficie": 20.6325,
+    "coordinate": {
+      "lat": 46.1570987,
+      "lng": 11.1513648
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Giustino",
+    "nomeAltraLingua": null,
+    "codice": "022093",
+    "codiceCatastale": "E065",
+    "sigla": "TN",
+    "cap": [
+      "38086"
+    ],
+    "capoluogo": false,
+    "popolazione": 740,
+    "superficie": 38.7709,
+    "coordinate": {
+      "lat": 46.1487034,
+      "lng": 10.7687596
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Grigno",
+    "nomeAltraLingua": null,
+    "codice": "022095",
+    "codiceCatastale": "E178",
+    "sigla": "TN",
+    "cap": [
+      "38055"
+    ],
+    "capoluogo": false,
+    "popolazione": 2023,
+    "superficie": 46.2851,
+    "coordinate": {
+      "lat": 46.0177116,
+      "lng": 11.6359244
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Imer",
+    "nomeAltraLingua": null,
+    "codice": "022097",
+    "codiceCatastale": "E288",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1178,
+    "superficie": 28.0483,
+    "coordinate": {
+      "lat": 46.1511349,
+      "lng": 11.799398
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Isera",
+    "nomeAltraLingua": null,
+    "codice": "022098",
+    "codiceCatastale": "E334",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 2804,
+    "superficie": 14.131,
+    "coordinate": {
+      "lat": 45.8869739,
+      "lng": 11.0083396
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Lavarone",
+    "nomeAltraLingua": null,
+    "codice": "022102",
+    "codiceCatastale": "E492",
+    "sigla": "TN",
+    "cap": [
+      "38046"
+    ],
+    "capoluogo": false,
+    "popolazione": 1200,
+    "superficie": 26.4056,
+    "coordinate": {
+      "lat": 45.9397752,
+      "lng": 11.2692721
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Lavis",
+    "nomeAltraLingua": null,
+    "codice": "022103",
+    "codiceCatastale": "E500",
+    "sigla": "TN",
+    "cap": [
+      "38015"
+    ],
+    "capoluogo": false,
+    "popolazione": 9152,
+    "superficie": 12.3425,
+    "coordinate": {
+      "lat": 46.13908,
+      "lng": 11.1123062
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Levico Terme",
+    "nomeAltraLingua": null,
+    "codice": "022104",
+    "codiceCatastale": "E565",
+    "sigla": "TN",
+    "cap": [
+      "38056"
+    ],
+    "capoluogo": false,
+    "popolazione": 8253,
+    "superficie": 62.8388,
+    "coordinate": {
+      "lat": 46.0110801,
+      "lng": 11.302384
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Livo",
+    "nomeAltraLingua": null,
+    "codice": "022106",
+    "codiceCatastale": "E624",
+    "sigla": "TN",
+    "cap": [
+      "38020"
+    ],
+    "capoluogo": false,
+    "popolazione": 769,
+    "superficie": 15.3685,
+    "coordinate": {
+      "lat": 46.4047194,
+      "lng": 11.0189574
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Lona-Lases",
+    "nomeAltraLingua": null,
+    "codice": "022108",
+    "codiceCatastale": "E664",
+    "sigla": "TN",
+    "cap": [
+      "38040"
+    ],
+    "capoluogo": false,
+    "popolazione": 865,
+    "superficie": 11.5087,
+    "coordinate": {
+      "lat": 46.1464572,
+      "lng": 11.2186455
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Luserna",
+    "nomeAltraLingua": null,
+    "codice": "022109",
+    "codiceCatastale": "E757",
+    "sigla": "TN",
+    "cap": [
+      "38040"
+    ],
+    "capoluogo": false,
+    "popolazione": 267,
+    "superficie": 8.1817,
+    "coordinate": {
+      "lat": 45.9217548,
+      "lng": 11.3242149
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Malé",
+    "nomeAltraLingua": null,
+    "codice": "022110",
+    "codiceCatastale": "E850",
+    "sigla": "TN",
+    "cap": [
+      "38027"
+    ],
+    "capoluogo": false,
+    "popolazione": 2260,
+    "superficie": 26.3878,
+    "coordinate": {
+      "lat": 46.3522423,
+      "lng": 10.9128064
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Massimeno",
+    "nomeAltraLingua": null,
+    "codice": "022112",
+    "codiceCatastale": "F045",
+    "sigla": "TN",
+    "cap": [
+      "38086"
+    ],
+    "capoluogo": false,
+    "popolazione": 138,
+    "superficie": 21.0444,
+    "coordinate": {
+      "lat": 46.1420393,
+      "lng": 10.7731251
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Mazzin",
+    "nomeAltraLingua": null,
+    "codice": "022113",
+    "codiceCatastale": "F068",
+    "sigla": "TN",
+    "cap": [
+      "38030"
+    ],
+    "capoluogo": false,
+    "popolazione": 601,
+    "superficie": 23.951,
+    "coordinate": {
+      "lat": 46.470384,
+      "lng": 11.728423
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Mezzana",
+    "nomeAltraLingua": null,
+    "codice": "022114",
+    "codiceCatastale": "F168",
+    "sigla": "TN",
+    "cap": [
+      "38020"
+    ],
+    "capoluogo": false,
+    "popolazione": 875,
+    "superficie": 27.3992,
+    "coordinate": {
+      "lat": 46.3156512,
+      "lng": 10.8028906
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Mezzano",
+    "nomeAltraLingua": null,
+    "codice": "022115",
+    "codiceCatastale": "F176",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1585,
+    "superficie": 49.2883,
+    "coordinate": {
+      "lat": 46.1546952,
+      "lng": 11.8067119
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Mezzocorona",
+    "nomeAltraLingua": null,
+    "codice": "022116",
+    "codiceCatastale": "F183",
+    "sigla": "TN",
+    "cap": [
+      "38016"
+    ],
+    "capoluogo": false,
+    "popolazione": 5505,
+    "superficie": 25.1871,
+    "coordinate": {
+      "lat": 46.2167651,
+      "lng": 11.1180439
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Mezzolombardo",
+    "nomeAltraLingua": null,
+    "codice": "022117",
+    "codiceCatastale": "F187",
+    "sigla": "TN",
+    "cap": [
+      "38017"
+    ],
+    "capoluogo": false,
+    "popolazione": 7647,
+    "superficie": 13.881,
+    "coordinate": {
+      "lat": 46.2131763,
+      "lng": 11.0901872
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Moena",
+    "nomeAltraLingua": null,
+    "codice": "022118",
+    "codiceCatastale": "F263",
+    "sigla": "TN",
+    "cap": [
+      "38035"
+    ],
+    "capoluogo": false,
+    "popolazione": 2580,
+    "superficie": 82.7821,
+    "coordinate": {
+      "lat": 46.3766192,
+      "lng": 11.6597354
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Molveno",
+    "nomeAltraLingua": null,
+    "codice": "022120",
+    "codiceCatastale": "F307",
+    "sigla": "TN",
+    "cap": [
+      "38018"
+    ],
+    "capoluogo": false,
+    "popolazione": 1132,
+    "superficie": 33.6927,
+    "coordinate": {
+      "lat": 46.1429197,
+      "lng": 10.9661947
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Mori",
+    "nomeAltraLingua": null,
+    "codice": "022123",
+    "codiceCatastale": "F728",
+    "sigla": "TN",
+    "cap": [
+      "38065"
+    ],
+    "capoluogo": false,
+    "popolazione": 10208,
+    "superficie": 34.1319,
+    "coordinate": {
+      "lat": 45.8519974,
+      "lng": 10.9762025
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Nago-Torbole",
+    "nomeAltraLingua": null,
+    "codice": "022124",
+    "codiceCatastale": "F835",
+    "sigla": "TN",
+    "cap": [
+      "38069"
+    ],
+    "capoluogo": false,
+    "popolazione": 2768,
+    "superficie": 28.5149,
+    "coordinate": {
+      "lat": 45.8704998,
+      "lng": 10.8749213
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Nogaredo",
+    "nomeAltraLingua": null,
+    "codice": "022127",
+    "codiceCatastale": "F920",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 2072,
+    "superficie": 3.5403,
+    "coordinate": {
+      "lat": 45.9121884,
+      "lng": 11.0227883
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Nomi",
+    "nomeAltraLingua": null,
+    "codice": "022128",
+    "codiceCatastale": "F929",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 1352,
+    "superficie": 6.4315,
+    "coordinate": {
+      "lat": 45.9288577,
+      "lng": 11.0715049
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Novaledo",
+    "nomeAltraLingua": null,
+    "codice": "022129",
+    "codiceCatastale": "F947",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1162,
+    "superficie": 7.9018,
+    "coordinate": {
+      "lat": 46.0225912,
+      "lng": 11.3659306
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ospedaletto",
+    "nomeAltraLingua": null,
+    "codice": "022130",
+    "codiceCatastale": "G168",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 810,
+    "superficie": 16.8368,
+    "coordinate": {
+      "lat": 46.0436666,
+      "lng": 11.552931
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ossana",
+    "nomeAltraLingua": null,
+    "codice": "022131",
+    "codiceCatastale": "G173",
+    "sigla": "TN",
+    "cap": [
+      "38026"
+    ],
+    "capoluogo": false,
+    "popolazione": 832,
+    "superficie": 24.8939,
+    "coordinate": {
+      "lat": 46.3074067,
+      "lng": 10.7360111
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Palù del Fersina",
+    "nomeAltraLingua": null,
+    "codice": "022133",
+    "codiceCatastale": "G296",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 158,
+    "superficie": 16.5468,
+    "coordinate": {
+      "lat": 46.1299088,
+      "lng": 11.3520442
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Panchià",
+    "nomeAltraLingua": null,
+    "codice": "022134",
+    "codiceCatastale": "G305",
+    "sigla": "TN",
+    "cap": [
+      "38030"
+    ],
+    "capoluogo": false,
+    "popolazione": 815,
+    "superficie": 20.3305,
+    "coordinate": {
+      "lat": 46.2860654,
+      "lng": 11.5411219
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ronzo-Chienis",
+    "nomeAltraLingua": null,
+    "codice": "022135",
+    "codiceCatastale": "M303",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 1003,
+    "superficie": 13.1895,
+    "coordinate": {
+      "lat": 45.8912356,
+      "lng": 10.9504231
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Peio",
+    "nomeAltraLingua": null,
+    "codice": "022136",
+    "codiceCatastale": "G419",
+    "sigla": "TN",
+    "cap": [
+      "38024"
+    ],
+    "capoluogo": false,
+    "popolazione": 1800,
+    "superficie": 162.2239,
+    "coordinate": {
+      "lat": 46.355328,
+      "lng": 10.6890729
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Pellizzano",
+    "nomeAltraLingua": null,
+    "codice": "022137",
+    "codiceCatastale": "G428",
+    "sigla": "TN",
+    "cap": [
+      "38020"
+    ],
+    "capoluogo": false,
+    "popolazione": 798,
+    "superficie": 48.8308,
+    "coordinate": {
+      "lat": 46.3095544,
+      "lng": 10.7605775
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Pelugo",
+    "nomeAltraLingua": null,
+    "codice": "022138",
+    "codiceCatastale": "G429",
+    "sigla": "TN",
+    "cap": [
+      "38079"
+    ],
+    "capoluogo": false,
+    "popolazione": 397,
+    "superficie": 22.9628,
+    "coordinate": {
+      "lat": 46.0882225,
+      "lng": 10.7233684
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Pergine Valsugana",
+    "nomeAltraLingua": null,
+    "codice": "022139",
+    "codiceCatastale": "G452",
+    "sigla": "TN",
+    "cap": [
+      "38057"
+    ],
+    "capoluogo": false,
+    "popolazione": 21672,
+    "superficie": 53.9821,
+    "coordinate": {
+      "lat": 46.060538,
+      "lng": 11.240598
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Pieve Tesino",
+    "nomeAltraLingua": null,
+    "codice": "022142",
+    "codiceCatastale": "G656",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 653,
+    "superficie": 69.5319,
+    "coordinate": {
+      "lat": 46.0688809,
+      "lng": 11.6106962
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Pinzolo",
+    "nomeAltraLingua": null,
+    "codice": "022143",
+    "codiceCatastale": "G681",
+    "sigla": "TN",
+    "cap": [
+      "38086"
+    ],
+    "capoluogo": false,
+    "popolazione": 3078,
+    "superficie": 69.0538,
+    "coordinate": {
+      "lat": 46.1599084,
+      "lng": 10.765899
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Pomarolo",
+    "nomeAltraLingua": null,
+    "codice": "022144",
+    "codiceCatastale": "G808",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 2451,
+    "superficie": 9.2586,
+    "coordinate": {
+      "lat": 45.927972,
+      "lng": 11.0422916
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Predazzo",
+    "nomeAltraLingua": null,
+    "codice": "022147",
+    "codiceCatastale": "H018",
+    "sigla": "TN",
+    "cap": [
+      "38037"
+    ],
+    "capoluogo": false,
+    "popolazione": 4543,
+    "superficie": 109.8387,
+    "coordinate": {
+      "lat": 46.3125765,
+      "lng": 11.6027974
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Rabbi",
+    "nomeAltraLingua": null,
+    "codice": "022150",
+    "codiceCatastale": "H146",
+    "sigla": "TN",
+    "cap": [
+      "38020"
+    ],
+    "capoluogo": false,
+    "popolazione": 1373,
+    "superficie": 133.0161,
+    "coordinate": {
+      "lat": 46.3991182,
+      "lng": 10.8499854
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Riva del Garda",
+    "nomeAltraLingua": null,
+    "codice": "022153",
+    "codiceCatastale": "H330",
+    "sigla": "TN",
+    "cap": [
+      "38066"
+    ],
+    "capoluogo": false,
+    "popolazione": 17857,
+    "superficie": 40.7098,
+    "coordinate": {
+      "lat": 45.8848422,
+      "lng": 10.8389963
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Romeno",
+    "nomeAltraLingua": null,
+    "codice": "022155",
+    "codiceCatastale": "H517",
+    "sigla": "TN",
+    "cap": [
+      "38010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1496,
+    "superficie": 9.182,
+    "coordinate": {
+      "lat": 46.3952823,
+      "lng": 11.1208464
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Roncegno Terme",
+    "nomeAltraLingua": null,
+    "codice": "022156",
+    "codiceCatastale": "H528",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 2944,
+    "superficie": 38.0335,
+    "coordinate": {
+      "lat": 46.0509151,
+      "lng": 11.4098997
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ronchi Valsugana",
+    "nomeAltraLingua": null,
+    "codice": "022157",
+    "codiceCatastale": "H532",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 451,
+    "superficie": 9.9871,
+    "coordinate": {
+      "lat": 46.0671337,
+      "lng": 11.4343134
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ronzone",
+    "nomeAltraLingua": null,
+    "codice": "022159",
+    "codiceCatastale": "H552",
+    "sigla": "TN",
+    "cap": [
+      "38010"
+    ],
+    "capoluogo": false,
+    "popolazione": 485,
+    "superficie": 5.3265,
+    "coordinate": {
+      "lat": 46.4232465,
+      "lng": 11.1501712
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Roverè della Luna",
+    "nomeAltraLingua": null,
+    "codice": "022160",
+    "codiceCatastale": "H607",
+    "sigla": "TN",
+    "cap": [
+      "38030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1637,
+    "superficie": 10.3444,
+    "coordinate": {
+      "lat": 46.2495258,
+      "lng": 11.1698113
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Rovereto",
+    "nomeAltraLingua": null,
+    "codice": "022161",
+    "codiceCatastale": "H612",
+    "sigla": "TN",
+    "cap": [
+      "38068"
+    ],
+    "capoluogo": false,
+    "popolazione": 40077,
+    "superficie": 51.2261,
+    "coordinate": {
+      "lat": 45.8865198,
+      "lng": 11.0451557
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ruffrè-Mendola",
+    "nomeAltraLingua": null,
+    "codice": "022162",
+    "codiceCatastale": "H634",
+    "sigla": "TN",
+    "cap": [
+      "38010"
+    ],
+    "capoluogo": false,
+    "popolazione": 416,
+    "superficie": 6.8213,
+    "coordinate": {
+      "lat": 46.4144882,
+      "lng": 11.1775423
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Rumo",
+    "nomeAltraLingua": null,
+    "codice": "022163",
+    "codiceCatastale": "H639",
+    "sigla": "TN",
+    "cap": [
+      "38020"
+    ],
+    "capoluogo": false,
+    "popolazione": 786,
+    "superficie": 30.7448,
+    "coordinate": {
+      "lat": 46.4411085,
+      "lng": 11.0172387
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Sagron Mis",
+    "nomeAltraLingua": null,
+    "codice": "022164",
+    "codiceCatastale": "H666",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 177,
+    "superficie": 11.3889,
+    "coordinate": {
+      "lat": 46.1948831,
+      "lng": 11.9434252
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Samone",
+    "nomeAltraLingua": null,
+    "codice": "022165",
+    "codiceCatastale": "H754",
+    "sigla": "TN",
+    "cap": [
+      "38059"
+    ],
+    "capoluogo": false,
+    "popolazione": 543,
+    "superficie": 5.0297,
+    "coordinate": {
+      "lat": 46.0818789,
+      "lng": 11.5203137
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "San Michele all'Adige",
+    "nomeAltraLingua": null,
+    "codice": "022167",
+    "codiceCatastale": "I042",
+    "sigla": "TN",
+    "cap": [
+      "38098"
+    ],
+    "capoluogo": false,
+    "popolazione": 4103,
+    "superficie": 16.2689,
+    "coordinate": {
+      "lat": 46.1926951,
+      "lng": 11.1340123
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Sant'Orsola Terme",
+    "nomeAltraLingua": null,
+    "codice": "022168",
+    "codiceCatastale": "I354",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1117,
+    "superficie": 15.4628,
+    "coordinate": {
+      "lat": 46.1081776,
+      "lng": 11.3022271
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Sanzeno",
+    "nomeAltraLingua": null,
+    "codice": "022169",
+    "codiceCatastale": "I411",
+    "sigla": "TN",
+    "cap": [
+      "38010"
+    ],
+    "capoluogo": false,
+    "popolazione": 920,
+    "superficie": 7.8014,
+    "coordinate": {
+      "lat": 46.3746743,
+      "lng": 11.0684355
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Sarnonico",
+    "nomeAltraLingua": null,
+    "codice": "022170",
+    "codiceCatastale": "I439",
+    "sigla": "TN",
+    "cap": [
+      "38011"
+    ],
+    "capoluogo": false,
+    "popolazione": 790,
+    "superficie": 11.7926,
+    "coordinate": {
+      "lat": 46.4202981,
+      "lng": 11.1416018
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Scurelle",
+    "nomeAltraLingua": null,
+    "codice": "022171",
+    "codiceCatastale": "I554",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1361,
+    "superficie": 29.6362,
+    "coordinate": {
+      "lat": 46.0639484,
+      "lng": 11.5067027
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Segonzano",
+    "nomeAltraLingua": null,
+    "codice": "022172",
+    "codiceCatastale": "I576",
+    "sigla": "TN",
+    "cap": [
+      "38047"
+    ],
+    "capoluogo": false,
+    "popolazione": 1356,
+    "superficie": 20.6325,
+    "coordinate": {
+      "lat": 46.19055,
+      "lng": 11.2587104
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Sfruz",
+    "nomeAltraLingua": null,
+    "codice": "022173",
+    "codiceCatastale": "I714",
+    "sigla": "TN",
+    "cap": [
+      "38010"
+    ],
+    "capoluogo": false,
+    "popolazione": 363,
+    "superficie": 12.5089,
+    "coordinate": {
+      "lat": 46.3369501,
+      "lng": 11.1151876
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Soraga di Fassa",
+    "nomeAltraLingua": null,
+    "codice": "022176",
+    "codiceCatastale": "I839",
+    "sigla": "TN",
+    "cap": [
+      "38030"
+    ],
+    "capoluogo": false,
+    "popolazione": 717,
+    "superficie": 19.7314,
+    "coordinate": {
+      "lat": 46.3958361,
+      "lng": 11.6686517
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Sover",
+    "nomeAltraLingua": null,
+    "codice": "022177",
+    "codiceCatastale": "I871",
+    "sigla": "TN",
+    "cap": [
+      "38048"
+    ],
+    "capoluogo": false,
+    "popolazione": 782,
+    "superficie": 14.8514,
+    "coordinate": {
+      "lat": 46.2212273,
+      "lng": 11.3153512
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Spiazzo",
+    "nomeAltraLingua": null,
+    "codice": "022179",
+    "codiceCatastale": "I899",
+    "sigla": "TN",
+    "cap": [
+      "38088"
+    ],
+    "capoluogo": false,
+    "popolazione": 1259,
+    "superficie": 70.7379,
+    "coordinate": {
+      "lat": 46.1028401,
+      "lng": 10.7367589
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Spormaggiore",
+    "nomeAltraLingua": null,
+    "codice": "022180",
+    "codiceCatastale": "I924",
+    "sigla": "TN",
+    "cap": [
+      "38010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1258,
+    "superficie": 29.8027,
+    "coordinate": {
+      "lat": 46.2186058,
+      "lng": 11.0482461
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Sporminore",
+    "nomeAltraLingua": null,
+    "codice": "022181",
+    "codiceCatastale": "I925",
+    "sigla": "TN",
+    "cap": [
+      "38010"
+    ],
+    "capoluogo": false,
+    "popolazione": 718,
+    "superficie": 17.7864,
+    "coordinate": {
+      "lat": 46.2371235,
+      "lng": 11.0307515
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Stenico",
+    "nomeAltraLingua": null,
+    "codice": "022182",
+    "codiceCatastale": "I949",
+    "sigla": "TN",
+    "cap": [
+      "38070"
+    ],
+    "capoluogo": false,
+    "popolazione": 1176,
+    "superficie": 49.1043,
+    "coordinate": {
+      "lat": 46.0511752,
+      "lng": 10.8535502
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Storo",
+    "nomeAltraLingua": null,
+    "codice": "022183",
+    "codiceCatastale": "I964",
+    "sigla": "TN",
+    "cap": [
+      "38089"
+    ],
+    "capoluogo": false,
+    "popolazione": 4482,
+    "superficie": 63.5321,
+    "coordinate": {
+      "lat": 45.8491874,
+      "lng": 10.5805521
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Strembo",
+    "nomeAltraLingua": null,
+    "codice": "022184",
+    "codiceCatastale": "I975",
+    "sigla": "TN",
+    "cap": [
+      "38080"
+    ],
+    "capoluogo": false,
+    "popolazione": 583,
+    "superficie": 38.6515,
+    "coordinate": {
+      "lat": 46.1194818,
+      "lng": 10.7515786
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Telve",
+    "nomeAltraLingua": null,
+    "codice": "022188",
+    "codiceCatastale": "L089",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1912,
+    "superficie": 64.2033,
+    "coordinate": {
+      "lat": 46.0711843,
+      "lng": 11.4792743
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Telve di Sopra",
+    "nomeAltraLingua": null,
+    "codice": "022189",
+    "codiceCatastale": "L090",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 620,
+    "superficie": 17.923,
+    "coordinate": {
+      "lat": 46.0704801,
+      "lng": 11.4713306
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Tenna",
+    "nomeAltraLingua": null,
+    "codice": "022190",
+    "codiceCatastale": "L096",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 1063,
+    "superficie": 3.1686,
+    "coordinate": {
+      "lat": 46.0144838,
+      "lng": 11.266221
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Tenno",
+    "nomeAltraLingua": null,
+    "codice": "022191",
+    "codiceCatastale": "L097",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 2031,
+    "superficie": 28.3319,
+    "coordinate": {
+      "lat": 45.9205798,
+      "lng": 10.8325338
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Terragnolo",
+    "nomeAltraLingua": null,
+    "codice": "022193",
+    "codiceCatastale": "L121",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 705,
+    "superficie": 39.5237,
+    "coordinate": {
+      "lat": 45.8791179,
+      "lng": 11.1514
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Terzolas",
+    "nomeAltraLingua": null,
+    "codice": "022195",
+    "codiceCatastale": "L145",
+    "sigla": "TN",
+    "cap": [
+      "38027"
+    ],
+    "capoluogo": false,
+    "popolazione": 643,
+    "superficie": 5.8813,
+    "coordinate": {
+      "lat": 46.3614084,
+      "lng": 10.9260531
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Tesero",
+    "nomeAltraLingua": null,
+    "codice": "022196",
+    "codiceCatastale": "L147",
+    "sigla": "TN",
+    "cap": [
+      "38038"
+    ],
+    "capoluogo": false,
+    "popolazione": 2996,
+    "superficie": 50.8561,
+    "coordinate": {
+      "lat": 46.2893382,
+      "lng": 11.511248
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Tione di Trento",
+    "nomeAltraLingua": null,
+    "codice": "022199",
+    "codiceCatastale": "L174",
+    "sigla": "TN",
+    "cap": [
+      "38079"
+    ],
+    "capoluogo": false,
+    "popolazione": 3654,
+    "superficie": 33.3386,
+    "coordinate": {
+      "lat": 46.0348213,
+      "lng": 10.7255267
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ton",
+    "nomeAltraLingua": null,
+    "codice": "022200",
+    "codiceCatastale": "L200",
+    "sigla": "TN",
+    "cap": [
+      "38010"
+    ],
+    "capoluogo": false,
+    "popolazione": 1281,
+    "superficie": 26.1848,
+    "coordinate": {
+      "lat": 46.2661759,
+      "lng": 11.0854301
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Torcegno",
+    "nomeAltraLingua": null,
+    "codice": "022202",
+    "codiceCatastale": "L211",
+    "sigla": "TN",
+    "cap": [
+      "38050"
+    ],
+    "capoluogo": false,
+    "popolazione": 692,
+    "superficie": 15.2897,
+    "coordinate": {
+      "lat": 46.0732486,
+      "lng": 11.4498655
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Trambileno",
+    "nomeAltraLingua": null,
+    "codice": "022203",
+    "codiceCatastale": "L322",
+    "sigla": "TN",
+    "cap": [
+      "38068"
+    ],
+    "capoluogo": false,
+    "popolazione": 1474,
+    "superficie": 50.5881,
+    "coordinate": {
+      "lat": 45.8697697,
+      "lng": 11.0733848
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Trento",
+    "nomeAltraLingua": null,
+    "codice": "022205",
+    "codiceCatastale": "L378",
+    "sigla": "TN",
+    "cap": [
+      "38121",
+      "38122",
+      "38123"
+    ],
+    "capoluogo": true,
+    "popolazione": 118504,
+    "superficie": 157.759,
+    "coordinate": {
+      "lat": 46.0691811,
+      "lng": 11.1218349
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Valfloriana",
+    "nomeAltraLingua": null,
+    "codice": "022209",
+    "codiceCatastale": "L575",
+    "sigla": "TN",
+    "cap": [
+      "38040"
+    ],
+    "capoluogo": false,
+    "popolazione": 470,
+    "superficie": 39.3877,
+    "coordinate": {
+      "lat": 46.2501183,
+      "lng": 11.3426393
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Vallarsa",
+    "nomeAltraLingua": null,
+    "codice": "022210",
+    "codiceCatastale": "L588",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 1393,
+    "superficie": 78.1877,
+    "coordinate": {
+      "lat": 45.7825907,
+      "lng": 11.1181042
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Vermiglio",
+    "nomeAltraLingua": null,
+    "codice": "022213",
+    "codiceCatastale": "L769",
+    "sigla": "TN",
+    "cap": [
+      "38029"
+    ],
+    "capoluogo": false,
+    "popolazione": 1789,
+    "superficie": 95.6416,
+    "coordinate": {
+      "lat": 46.2988765,
+      "lng": 10.6929059
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Vignola-Falesina",
+    "nomeAltraLingua": null,
+    "codice": "022216",
+    "codiceCatastale": "L886",
+    "sigla": "TN",
+    "cap": [
+      "38057"
+    ],
+    "capoluogo": false,
+    "popolazione": 198,
+    "superficie": 12.1661,
+    "coordinate": {
+      "lat": 46.0444726,
+      "lng": 11.2772566
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Villa Lagarina",
+    "nomeAltraLingua": null,
+    "codice": "022222",
+    "codiceCatastale": "L957",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 3881,
+    "superficie": 24.1858,
+    "coordinate": {
+      "lat": 45.9171244,
+      "lng": 11.0310939
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Volano",
+    "nomeAltraLingua": null,
+    "codice": "022224",
+    "codiceCatastale": "M113",
+    "sigla": "TN",
+    "cap": [
+      "38060"
+    ],
+    "capoluogo": false,
+    "popolazione": 3118,
+    "superficie": 10.7991,
+    "coordinate": {
+      "lat": 45.9171712,
+      "lng": 11.0606486
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ziano di Fiemme",
+    "nomeAltraLingua": null,
+    "codice": "022226",
+    "codiceCatastale": "M173",
+    "sigla": "TN",
+    "cap": [
+      "38030"
+    ],
+    "capoluogo": false,
+    "popolazione": 1784,
+    "superficie": 35.9239,
+    "coordinate": {
+      "lat": 46.2864371,
+      "lng": 11.5613434
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Comano Terme",
+    "nomeAltraLingua": null,
+    "codice": "022228",
+    "codiceCatastale": "M314",
+    "sigla": "TN",
+    "cap": [
+      "38077"
+    ],
+    "capoluogo": false,
+    "popolazione": 2958,
+    "superficie": 68.2592,
+    "coordinate": {
+      "lat": 46.034432,
+      "lng": 10.8706126
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ledro",
+    "nomeAltraLingua": null,
+    "codice": "022229",
+    "codiceCatastale": "M313",
+    "sigla": "TN",
+    "cap": [
+      "38067"
+    ],
+    "capoluogo": false,
+    "popolazione": 5387,
+    "superficie": 156.3585,
+    "coordinate": {
+      "lat": 45.8887164,
+      "lng": 10.7327869
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Predaia",
+    "nomeAltraLingua": null,
+    "codice": "022230",
+    "codiceCatastale": "M344",
+    "sigla": "TN",
+    "cap": [
+      "38012"
+    ],
+    "capoluogo": false,
+    "popolazione": 6927,
+    "superficie": 79.1331,
+    "coordinate": {
+      "lat": 46.3212155,
+      "lng": 11.0653467
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "San Lorenzo Dorsino",
+    "nomeAltraLingua": null,
+    "codice": "022231",
+    "codiceCatastale": "M345",
+    "sigla": "TN",
+    "cap": [
+      "38078"
+    ],
+    "capoluogo": false,
+    "popolazione": 1570,
+    "superficie": 74.2174,
+    "coordinate": {
+      "lat": 46.0772615,
+      "lng": 10.9083337
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Valdaone",
+    "nomeAltraLingua": null,
+    "codice": "022232",
+    "codiceCatastale": "M343",
+    "sigla": "TN",
+    "cap": [
+      "38091"
+    ],
+    "capoluogo": false,
+    "popolazione": 1148,
+    "superficie": 177.1923,
+    "coordinate": {
+      "lat": 45.9467208,
+      "lng": 10.6211184
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Dimaro Folgarida",
+    "nomeAltraLingua": null,
+    "codice": "022233",
+    "codiceCatastale": "M366",
+    "sigla": "TN",
+    "cap": [
+      "38025"
+    ],
+    "capoluogo": false,
+    "popolazione": 2116,
+    "superficie": 36.4844,
+    "coordinate": {
+      "lat": 46.3260718,
+      "lng": 10.8742224
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Pieve di Bono-Prezzo",
+    "nomeAltraLingua": null,
+    "codice": "022234",
+    "codiceCatastale": "M365",
+    "sigla": "TN",
+    "cap": [
+      "38085"
+    ],
+    "capoluogo": false,
+    "popolazione": 1450,
+    "superficie": 24.5592,
+    "coordinate": {
+      "lat": 45.9389069,
+      "lng": 10.6383584
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Altavalle",
+    "nomeAltraLingua": null,
+    "codice": "022235",
+    "codiceCatastale": "M349",
+    "sigla": "TN",
+    "cap": [
+      "38092"
+    ],
+    "capoluogo": false,
+    "popolazione": 1631,
+    "superficie": 33.7391,
+    "coordinate": {
+      "lat": 46.1808998,
+      "lng": 11.2376453
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Altopiano della Vigolana",
+    "nomeAltraLingua": null,
+    "codice": "022236",
+    "codiceCatastale": "M350",
+    "sigla": "TN",
+    "cap": [
+      "38049"
+    ],
+    "capoluogo": false,
+    "popolazione": 5110,
+    "superficie": 44.9491,
+    "coordinate": {
+      "lat": 46.0049123,
+      "lng": 11.1989079
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Amblar-Don",
+    "nomeAltraLingua": null,
+    "codice": "022237",
+    "codiceCatastale": "M351",
+    "sigla": "TN",
+    "cap": [
+      "38011"
+    ],
+    "capoluogo": false,
+    "popolazione": 549,
+    "superficie": 19.946,
+    "coordinate": {
+      "lat": 46.3897949,
+      "lng": 11.1356724
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Borgo Chiese",
+    "nomeAltraLingua": null,
+    "codice": "022238",
+    "codiceCatastale": "M352",
+    "sigla": "TN",
+    "cap": [
+      "38083"
+    ],
+    "capoluogo": false,
+    "popolazione": 1934,
+    "superficie": 53.7792,
+    "coordinate": {
+      "lat": 45.8895128,
+      "lng": 10.5980688
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Borgo Lares",
+    "nomeAltraLingua": null,
+    "codice": "022239",
+    "codiceCatastale": "M353",
+    "sigla": "TN",
+    "cap": [
+      "38079"
+    ],
+    "capoluogo": false,
+    "popolazione": 726,
+    "superficie": 22.2576,
+    "coordinate": {
+      "lat": 46.0343227,
+      "lng": 10.7497694
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Castel Ivano",
+    "nomeAltraLingua": null,
+    "codice": "022240",
+    "codiceCatastale": "M354",
+    "sigla": "TN",
+    "cap": [
+      "38059"
+    ],
+    "capoluogo": false,
+    "popolazione": 3277,
+    "superficie": 34.6367,
+    "coordinate": {
+      "lat": 46.0663994,
+      "lng": 11.5235447
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Cembra Lisignago",
+    "nomeAltraLingua": null,
+    "codice": "022241",
+    "codiceCatastale": "M355",
+    "sigla": "TN",
+    "cap": [
+      "38034"
+    ],
+    "capoluogo": false,
+    "popolazione": 2352,
+    "superficie": 24.1037,
+    "coordinate": {
+      "lat": 46.1751919,
+      "lng": 11.2205405
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Contà",
+    "nomeAltraLingua": null,
+    "codice": "022242",
+    "codiceCatastale": "M356",
+    "sigla": "TN",
+    "cap": [
+      "38093"
+    ],
+    "capoluogo": false,
+    "popolazione": 1403,
+    "superficie": 19.0578,
+    "coordinate": {
+      "lat": 46.287086,
+      "lng": 11.0349934
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Madruzzo",
+    "nomeAltraLingua": null,
+    "codice": "022243",
+    "codiceCatastale": "M357",
+    "sigla": "TN",
+    "cap": [
+      "38076"
+    ],
+    "capoluogo": false,
+    "popolazione": 2991,
+    "superficie": 29.3921,
+    "coordinate": {
+      "lat": 46.0242737,
+      "lng": 10.9835214
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Porte di Rendena",
+    "nomeAltraLingua": null,
+    "codice": "022244",
+    "codiceCatastale": "M358",
+    "sigla": "TN",
+    "cap": [
+      "38094"
+    ],
+    "capoluogo": false,
+    "popolazione": 1823,
+    "superficie": 40.8955,
+    "coordinate": {
+      "lat": 46.0614514,
+      "lng": 10.712021
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Primiero San Martino di Castrozza",
+    "nomeAltraLingua": null,
+    "codice": "022245",
+    "codiceCatastale": "M359",
+    "sigla": "TN",
+    "cap": [
+      "38054"
+    ],
+    "capoluogo": false,
+    "popolazione": 5113,
+    "superficie": 199.0346,
+    "coordinate": {
+      "lat": 46.176397,
+      "lng": 11.8301173
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Sella Giudicarie",
+    "nomeAltraLingua": null,
+    "codice": "022246",
+    "codiceCatastale": "M360",
+    "sigla": "TN",
+    "cap": [
+      "38087"
+    ],
+    "capoluogo": false,
+    "popolazione": 2943,
+    "superficie": 85.7179,
+    "coordinate": {
+      "lat": 45.9840593,
+      "lng": 10.6697643
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Tre Ville",
+    "nomeAltraLingua": null,
+    "codice": "022247",
+    "codiceCatastale": "M361",
+    "sigla": "TN",
+    "cap": [
+      "38095"
+    ],
+    "capoluogo": false,
+    "popolazione": 1386,
+    "superficie": 81.864,
+    "coordinate": {
+      "lat": 46.0549954,
+      "lng": 10.780349
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Vallelaghi",
+    "nomeAltraLingua": null,
+    "codice": "022248",
+    "codiceCatastale": "M362",
+    "sigla": "TN",
+    "cap": [
+      "38096"
+    ],
+    "capoluogo": false,
+    "popolazione": 5256,
+    "superficie": 72.4904,
+    "coordinate": {
+      "lat": 46.0779642,
+      "lng": 10.9993846
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ville d'Anaunia",
+    "nomeAltraLingua": null,
+    "codice": "022249",
+    "codiceCatastale": "M363",
+    "sigla": "TN",
+    "cap": [
+      "38019"
+    ],
+    "capoluogo": false,
+    "popolazione": 4682,
+    "superficie": 89.7702,
+    "coordinate": {
+      "lat": 46.3270744,
+      "lng": 11.0236661
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "San Giovanni di Fassa",
+    "nomeAltraLingua": "Sèn Jan",
+    "codice": "022250",
+    "codiceCatastale": "M390",
+    "sigla": "TN",
+    "cap": [
+      "38036"
+    ],
+    "capoluogo": false,
+    "popolazione": 3632,
+    "superficie": 99.3203,
+    "coordinate": {
+      "lat": 46.4302212,
+      "lng": 11.68661
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Terre d'Adige",
+    "nomeAltraLingua": null,
+    "codice": "022251",
+    "codiceCatastale": "M407",
+    "sigla": "TN",
+    "cap": [
+      "38097"
+    ],
+    "capoluogo": false,
+    "popolazione": 3099,
+    "superficie": 16.3859,
+    "coordinate": {
+      "lat": 46.1517652,
+      "lng": 11.0973158
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Borgo d'Anaunia",
+    "nomeAltraLingua": null,
+    "codice": "022252",
+    "codiceCatastale": "M429",
+    "sigla": "TN",
+    "cap": [
+      "38013"
+    ],
+    "capoluogo": false,
+    "popolazione": 2557,
+    "superficie": 63.344,
+    "coordinate": {
+      "lat": 46.4397606,
+      "lng": 11.135769
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Novella",
+    "nomeAltraLingua": null,
+    "codice": "022253",
+    "codiceCatastale": "M430",
+    "sigla": "TN",
+    "cap": [
+      "38028"
+    ],
+    "capoluogo": false,
+    "popolazione": 3599,
+    "superficie": 46.4816,
+    "coordinate": {
+      "lat": 46.3912405,
+      "lng": 11.0584148
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  },
+  {
+    "nome": "Ville di Fiemme",
+    "nomeAltraLingua": null,
+    "codice": "022254",
+    "codiceCatastale": "M431",
+    "sigla": "TN",
+    "cap": [
+      "38099"
+    ],
+    "capoluogo": false,
+    "popolazione": 2651,
+    "superficie": 46.0351,
+    "coordinate": {
+      "lat": 46.3006611,
+      "lng": 11.4478923
+    },
+    "zona": {
+      "nome": "Nord-est",
+      "codice": "2"
+    },
+    "regione": {
+      "nome": "Trentino-Alto Adige/Südtirol",
+      "codice": "04"
+    },
+    "provincia": {
+      "nome": "Trento",
+      "codice": "022",
+      "sigla": "TN",
+      "tipo": "provincia-autonoma"
+    }
+  }
+]

@@ -1,5 +1,6 @@
 # src/comuni_italiani/cli.py
 import csv
+import io
 import json
 import sys
 import tomllib
@@ -51,8 +52,19 @@ def _read_rows(spec: dict, cache_dir: Path, offline: bool) -> list[dict]:
             text = zf.read(member_name).decode(encoding)
     else:
         text = path.read_text(encoding=encoding)
-    reader = csv.DictReader(text.splitlines(), delimiter=spec.get("delimiter", ";"))
+    # Some sources (e.g. ISTAT POSAS) prepend a title line before the header.
+    skip = spec.get("skip_lines", 0)
+    if skip:
+        text = "\n".join(text.splitlines()[skip:])
+    # Use a stream (not splitlines) so csv correctly handles quoted fields that
+    # contain embedded newlines — the ISTAT anagrafica header does exactly this.
+    reader = csv.DictReader(io.StringIO(text), delimiter=spec.get("delimiter", ";"))
     rows = list(reader)
+    # Optional row filter, e.g. keep only the per-comune total row {column="Età", equals="999"}.
+    flt = spec.get("filter")
+    if flt:
+        col, val = flt["column"], flt["equals"]
+        rows = [r for r in rows if (r.get(col) or "").strip() == val]
     remap = spec.get("columns")
     if remap:
         fieldnames = reader.fieldnames or []
@@ -68,10 +80,24 @@ def build(config: dict, cache_dir: Path, out_dir: Path, *, offline: bool = False
           changelog_path=None) -> dict:
     cache_dir, out_dir = Path(cache_dir), Path(out_dir)
     anagrafica = parse_anagrafica(_read_rows(config["anagrafica"], cache_dir, offline))
-    popolazione = parse_popolazione(_read_rows(config["popolazione"], cache_dir, offline))
-    superficie = parse_superficie(_read_rows(config["superficie"], cache_dir, offline))
-    coordinate = parse_coordinate(_read_rows(config["coordinate"], cache_dir, offline))
-    cap = parse_cap(_read_rows(config["cap"], cache_dir, offline))
+
+    # Bridge for sources whose join key is the cadastral (Belfiore) code rather
+    # than the ISTAT comune code — e.g. Garda Informatica, whose ISTAT codes lag
+    # ISTAT's for reprovincialized areas (all of Sardegna). Such a source sets
+    # key_by = "codiceCatastale" and its parsed dict is re-keyed to ISTAT codice.
+    cat2cod = {a["codiceCatastale"]: a["codice"] for a in anagrafica if a["codiceCatastale"]}
+
+    def _enrich(name, parser):
+        spec = config[name]
+        dct = parser(_read_rows(spec, cache_dir, offline))
+        if spec.get("key_by") == "codiceCatastale":
+            dct = {cat2cod[k]: v for k, v in dct.items() if k in cat2cod}
+        return dct
+
+    popolazione = _enrich("popolazione", parse_popolazione)
+    superficie = _enrich("superficie", parse_superficie)
+    coordinate = _enrich("coordinate", parse_coordinate)
+    cap = _enrich("cap", parse_cap)
 
     comuni = merge(anagrafica, popolazione, superficie, coordinate, cap)
 

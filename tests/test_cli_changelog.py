@@ -51,7 +51,7 @@ def _write_anagrafica(path: Path, rows: list[str]) -> None:
     """Write an ISTAT-format anagrafica CSV with a header + given data rows."""
     header = (
         "Codice Regione;Codice dell'Unità territoriale sovracomunale "
-        "(valida ai fini statistici);Denominazione dell'Unità territoriale "
+        "(valida a fini statistici);Denominazione dell'Unità territoriale "
         "sovracomunale (valida a fini statistici);Tipologia di Unità territoriale "
         "sovracomunale;Denominazione Regione;Codice Ripartizione Geografica;"
         "Ripartizione geografica;Flag Comune capoluogo di provincia/città "
