@@ -27,3 +27,21 @@ def test_read_rows_plain_csv_still_works(tmp_path):
     spec = {"path": str(p), "delimiter": ";"}
     rows = _read_rows(spec, tmp_path / "cache", offline=True)
     assert rows[0]["cap"] == "10121"
+
+def test_zip_no_csv_member_raises_valueerror(tmp_path):
+    """ZIP with no .csv/.txt member and no 'member' key → ValueError mentioning 'no CSV'."""
+    zpath = tmp_path / "empty.zip"
+    with zipfile.ZipFile(zpath, "w") as z:
+        z.writestr("readme.txt.bak", "irrelevant")  # not .csv or .txt
+    spec = {"path": str(zpath), "delimiter": ";"}
+    import pytest
+    with pytest.raises(ValueError, match="no CSV"):
+        _read_rows(spec, tmp_path / "cache", offline=True)
+
+def test_zip_missing_member_raises_valueerror(tmp_path):
+    """'member' key names a file not present in the archive → ValueError naming the missing member."""
+    zpath = _make_zip(tmp_path, "real.csv", "codice;nome\n001272;Torino\n")
+    spec = {"path": str(zpath), "member": "ghost.csv", "delimiter": ";"}
+    import pytest
+    with pytest.raises(ValueError, match="ghost.csv"):
+        _read_rows(spec, tmp_path / "cache", offline=True)
