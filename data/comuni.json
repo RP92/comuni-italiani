@@ -73555,7 +73555,8 @@
     "codiceCatastale": "F417",
     "sigla": "PV",
     "cap": [
-      "27040"
+      "27040",
+      "27063"
     ],
     "capoluogo": false,
     "popolazione": 804,
@@ -169719,7 +169720,7 @@
     "codiceCatastale": "C844",
     "sigla": "AQ",
     "cap": [
-      "67040"
+      "67071"
     ],
     "capoluogo": false,
     "popolazione": 752,
@@ -215118,7 +215119,7 @@
     "codiceCatastale": "B063",
     "sigla": "SS",
     "cap": [
-      "07030"
+      "07054"
     ],
     "capoluogo": false,
     "popolazione": 692,
@@ -217195,7 +217196,7 @@
     "codiceCatastale": "M214",
     "sigla": "SS",
     "cap": [
-      "07030"
+      "07053"
     ],
     "capoluogo": false,
     "popolazione": 1812,
@@ -217319,7 +217320,7 @@
     "codiceCatastale": "M276",
     "sigla": "SS",
     "cap": [
-      "07030"
+      "07055"
     ],
     "capoluogo": false,
     "popolazione": 1432,
@@ -242384,7 +242385,7 @@
     "codiceCatastale": "D260",
     "sigla": "SU",
     "cap": [
-      "09010"
+      "09001"
     ],
     "capoluogo": false,
     "popolazione": 4165,
@@ -242446,7 +242447,7 @@
     "codiceCatastale": "D333",
     "sigla": "SU",
     "cap": [
-      "09010"
+      "09002"
     ],
     "capoluogo": false,
     "popolazione": 1630,
@@ -242663,7 +242664,7 @@
     "codiceCatastale": "D827",
     "sigla": "SU",
     "cap": [
-      "09040"
+      "09020"
     ],
     "capoluogo": false,
     "popolazione": 1474,
@@ -243686,7 +243687,7 @@
     "codiceCatastale": "G669",
     "sigla": "SU",
     "cap": [
-      "09020"
+      "09006"
     ],
     "capoluogo": false,
     "popolazione": 1078,
@@ -243841,7 +243842,7 @@
     "codiceCatastale": "H739",
     "sigla": "SU",
     "cap": [
-      "09020"
+      "09007"
     ],
     "capoluogo": false,
     "popolazione": 1502,
@@ -244244,7 +244245,7 @@
     "codiceCatastale": "I570",
     "sigla": "SU",
     "cap": [
-      "09040"
+      "09020"
     ],
     "capoluogo": false,
     "popolazione": 1074,
@@ -244492,7 +244493,7 @@
     "codiceCatastale": "I706",
     "sigla": "SU",
     "cap": [
-      "09064"
+      "08051"
     ],
     "capoluogo": false,
     "popolazione": 1137,
@@ -244523,7 +244524,7 @@
     "codiceCatastale": "I707",
     "sigla": "SU",
     "cap": [
-      "09065"
+      "08014"
     ],
     "capoluogo": false,
     "popolazione": 745,
@@ -244585,7 +244586,7 @@
     "codiceCatastale": "I734",
     "sigla": "SU",
     "cap": [
-      "09010"
+      "09003"
     ],
     "capoluogo": false,
     "popolazione": 3468,
@@ -244864,7 +244865,7 @@
     "codiceCatastale": "L512",
     "sigla": "SU",
     "cap": [
-      "09020"
+      "09008"
     ],
     "capoluogo": false,
     "popolazione": 3997,
@@ -244926,7 +244927,7 @@
     "codiceCatastale": "L613",
     "sigla": "SU",
     "cap": [
-      "09010"
+      "09004"
     ],
     "capoluogo": false,
     "popolazione": 1782,
@@ -245298,7 +245299,7 @@
     "codiceCatastale": "M026",
     "sigla": "SU",
     "cap": [
-      "09010"
+      "09005"
     ],
     "capoluogo": false,
     "popolazione": 2700,

@@ -2367,7 +2367,7 @@ codice,nome,nomeAltraLingua,codiceCatastale,sigla,cap,capoluogo,popolazione,supe
 018091,Mezzana Rabattone,,F171,PV,27030,0,457,6.8967,45.0951327,9.0295249,Nord-ovest,1,Lombardia,03,Pavia,018,PV,provincia
 018092,Mezzanino,,F175,PV,27040,0,1405,12.549,45.1255726,9.2053541,Nord-ovest,1,Lombardia,03,Pavia,018,PV,provincia
 018093,Miradolo Terme,,F238,PV,27010,0,3909,9.8505,45.1716138,9.4429862,Nord-ovest,1,Lombardia,03,Pavia,018,PV,provincia
-018094,Montalto Pavese,,F417,PV,27040,0,804,18.9613,44.9785925,9.2116608,Nord-ovest,1,Lombardia,03,Pavia,018,PV,provincia
+018094,Montalto Pavese,,F417,PV,"27040,27063",0,804,18.9613,44.9785925,9.2116608,Nord-ovest,1,Lombardia,03,Pavia,018,PV,provincia
 018095,Montebello della Battaglia,,F440,PV,27054,0,1437,15.8823,45.0005894,9.1035118,Nord-ovest,1,Lombardia,03,Pavia,018,PV,provincia
 018096,Montecalvo Versiggia,,F449,PV,27047,0,478,11.4986,44.9717415,9.2854935,Nord-ovest,1,Lombardia,03,Pavia,018,PV,provincia
 018097,Montescano,,F638,PV,27040,0,439,2.2871,45.0319399,9.2953051,Nord-ovest,1,Lombardia,03,Pavia,018,PV,provincia
@@ -5460,7 +5460,7 @@ codice,nome,nomeAltraLingua,codiceCatastale,sigla,cap,capoluogo,popolazione,supe
 066035,Civitella Alfedena,,C778,AQ,67030,0,287,29.3568,41.7652073,13.9407457,Sud,4,Abruzzo,13,L'Aquila,066,AQ,provincia
 066036,Civitella Roveto,,C783,AQ,67054,0,3018,45.3535,41.9147689,13.4274575,Sud,4,Abruzzo,13,L'Aquila,066,AQ,provincia
 066037,Cocullo,,C811,AQ,67030,0,203,31.6502,42.0329135,13.7741985,Sud,4,Abruzzo,13,L'Aquila,066,AQ,provincia
-066038,Collarmele,,C844,AQ,67040,0,752,23.7311,42.0612274,13.6267074,Sud,4,Abruzzo,13,L'Aquila,066,AQ,provincia
+066038,Collarmele,,C844,AQ,67071,0,752,23.7311,42.0612274,13.6267074,Sud,4,Abruzzo,13,L'Aquila,066,AQ,provincia
 066039,Collelongo,,C862,AQ,67050,0,1055,53.5951,41.8866205,13.5834221,Sud,4,Abruzzo,13,L'Aquila,066,AQ,provincia
 066040,Collepietro,,C866,AQ,67020,0,200,15.3128,42.2209075,13.7806412,Sud,4,Abruzzo,13,L'Aquila,066,AQ,provincia
 066041,Corfinio,,C999,AQ,67030,0,947,17.9099,42.1245875,13.8440255,Sud,4,Abruzzo,13,L'Aquila,066,AQ,provincia
@@ -6921,7 +6921,7 @@ codice,nome,nomeAltraLingua,codiceCatastale,sigla,cap,capoluogo,popolazione,supe
 090011,Bonnanaro,,A976,SS,07043,0,894,21.9897,40.5322208,8.7657771,Isole,5,Sardegna,20,Sassari,090,SS,provincia
 090012,Bono,,A977,SS,07011,0,3232,74.5704,40.4169676,9.0296345,Isole,5,Sardegna,20,Sassari,090,SS,provincia
 090013,Bonorva,,A978,SS,07012,0,3030,149.2255,40.4168477,8.7685525,Isole,5,Sardegna,20,Sassari,090,SS,provincia
-090014,Bortigiadas,,B063,SS,07030,0,692,75.6675,40.8910123,9.042247,Isole,5,Sardegna,20,Sassari,090,SS,provincia
+090014,Bortigiadas,,B063,SS,07054,0,692,75.6675,40.8910123,9.042247,Isole,5,Sardegna,20,Sassari,090,SS,provincia
 090015,Borutta,,B064,SS,07040,0,244,4.7251,40.5217288,8.7434181,Isole,5,Sardegna,20,Sassari,090,SS,provincia
 090016,Bottidda,,B094,SS,07010,0,627,33.9806,40.3937953,9.0105107,Isole,5,Sardegna,20,Sassari,090,SS,provincia
 090017,Buddusò,,B246,SS,07020,0,3487,176.6947,40.5785004,9.2610968,Isole,5,Sardegna,20,Sassari,090,SS,provincia
@@ -6988,11 +6988,11 @@ codice,nome,nomeAltraLingua,codiceCatastale,sigla,cap,capoluogo,popolazione,supe
 090078,Villanova Monteleone,,L989,SS,07019,0,2039,202.5996,40.5035184,8.4704378,Isole,5,Sardegna,20,Sassari,090,SS,provincia
 090079,Valledoria,,L604,SS,07039,0,4321,25.3739,40.9273145,8.8230888,Isole,5,Sardegna,20,Sassari,090,SS,provincia
 090080,Telti,,L088,SS,07020,0,2281,83.3583,40.8762056,9.3529714,Isole,5,Sardegna,20,Sassari,090,SS,provincia
-090081,Badesi,,M214,SS,07030,0,1812,31.4709,40.9682101,8.878976,Isole,5,Sardegna,20,Sassari,090,SS,provincia
+090081,Badesi,,M214,SS,07053,0,1812,31.4709,40.9682101,8.878976,Isole,5,Sardegna,20,Sassari,090,SS,provincia
 090082,Viddalba,,M259,SS,07030,0,1570,50.3657,40.9168458,8.8945467,Isole,5,Sardegna,20,Sassari,090,SS,provincia
 090083,Golfo Aranci,,M274,SS,07020,0,2373,37.2473,41.0014374,9.6223253,Isole,5,Sardegna,20,Sassari,090,SS,provincia
 090084,Loiri Porto San Paolo,,M275,SS,07020,0,3929,118.4382,40.8419559,9.4978587,Isole,5,Sardegna,20,Sassari,090,SS,provincia
-090085,Sant'Antonio di Gallura,,M276,SS,07030,0,1432,81.3029,40.9909629,9.3013017,Isole,5,Sardegna,20,Sassari,090,SS,provincia
+090085,Sant'Antonio di Gallura,,M276,SS,07055,0,1432,81.3029,40.9909629,9.3013017,Isole,5,Sardegna,20,Sassari,090,SS,provincia
 090086,Tergu,,M282,SS,07030,0,612,36.725,40.8628464,8.7123773,Isole,5,Sardegna,20,Sassari,090,SS,provincia
 090087,Santa Maria Coghinas,,M284,SS,07030,0,1346,23.4126,40.9042188,8.8631162,Isole,5,Sardegna,20,Sassari,090,SS,provincia
 090088,Erula,,M292,SS,07030,0,702,39.3701,40.791498,8.9441479,Isole,5,Sardegna,20,Sassari,090,SS,provincia
@@ -7800,16 +7800,16 @@ codice,nome,nomeAltraLingua,codiceCatastale,sigla,cap,capoluogo,popolazione,supe
 111010,Carloforte,,B789,SU,09014,0,5851,51.0444,39.1456551,8.3056543,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111011,Castiadas,,M288,SU,09040,0,1740,104.0299,39.2786232,9.5283347,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111012,Collinas,,C882,SU,09020,0,741,20.6678,39.6413067,8.8401199,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
-111013,Decimoputzu,,D260,SU,09010,0,4165,44.6633,39.3351132,8.9191669,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
+111013,Decimoputzu,,D260,SU,09001,0,4165,44.6633,39.3351132,8.9191669,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111014,Dolianova,,D323,SU,09041,0,9357,84.4132,39.3767266,9.1762159,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
-111015,Domus de Maria,,D333,SU,09010,0,1630,97.7315,38.9426021,8.8620426,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
+111015,Domus de Maria,,D333,SU,09002,0,1630,97.7315,38.9426021,8.8620426,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111016,Domusnovas,,D334,SU,09015,0,5694,79.9292,39.3212409,8.6533858,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111017,Donori,,D344,SU,09040,0,1912,35.4006,39.4324473,9.1261106,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111018,Escalaplano,,D430,SU,09051,0,2017,93.7593,39.6261128,9.3535738,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111019,Escolca,,D431,SU,09052,0,531,14.7782,39.698644,9.1236102,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111020,Esterzili,,D443,SU,09053,0,536,101.0559,39.7805368,9.2852184,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111021,Fluminimaggiore,,D639,SU,09010,0,2575,108.3357,39.4362875,8.4978631,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
-111022,Furtei,,D827,SU,09040,0,1474,25.8082,39.5637125,8.9437947,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
+111022,Furtei,,D827,SU,09020,0,1474,25.8082,39.5637125,8.9437947,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111023,Genoni,,D968,SU,09054,0,716,43.4704,39.7940183,9.0083622,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111024,Genuri,,D970,SU,09020,0,295,7.7136,39.7425293,8.9229089,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111025,Gergei,,D982,SU,09055,0,1095,36.2188,39.6988875,9.1018039,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
@@ -7842,12 +7842,12 @@ codice,nome,nomeAltraLingua,codiceCatastale,sigla,cap,capoluogo,popolazione,supe
 111052,Pabillonis,,G207,SU,09030,0,2404,37.6078,39.5949743,8.7200649,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111053,Pauli Arbarei,,G382,SU,09020,0,524,15.2907,39.6603088,8.9226437,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111054,Perdaxius,,G446,SU,09010,0,1276,29.6919,39.1611369,8.6100356,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
-111055,Pimentel,,G669,SU,09020,0,1078,15.147,39.4840841,9.0661209,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
+111055,Pimentel,,G669,SU,09006,0,1078,15.147,39.4840841,9.0661209,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111056,Piscinas,,M291,SU,09010,0,758,16.8152,39.0744809,8.6666348,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111057,Portoscuso,,G922,SU,09010,0,4689,38.4745,39.2034939,8.3788981,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111058,Sadali,,H659,SU,09062,0,772,49.3404,39.8142145,9.2725819,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111059,Samassi,,H738,SU,09030,0,4674,42.1206,39.481928,8.9073752,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
-111060,Samatzai,,H739,SU,09020,0,1502,31.2932,39.4797781,9.0337127,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
+111060,Samatzai,,H739,SU,09007,0,1502,31.2932,39.4797781,9.0337127,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111061,San Basilio,,H766,SU,09040,0,1067,44.5606,39.5350674,9.1997783,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111062,San Gavino Monreale,,H856,SU,09037,0,7823,87.522,39.5489242,8.7912698,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111063,San Giovanni Suergiu,,G287,SU,09010,0,5523,72.1446,39.1102234,8.522018,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
@@ -7860,7 +7860,7 @@ codice,nome,nomeAltraLingua,codiceCatastale,sigla,cap,capoluogo,popolazione,supe
 111070,Sant'Anna Arresi,,M209,SU,09010,0,2626,36.7255,39.0047766,8.643291,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111071,Sant'Antioco,,I294,SU,09017,0,10404,88.6756,39.0664348,8.4554211,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111072,Sardara,,I428,SU,09030,0,3711,56.3162,39.6138246,8.8207526,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
-111073,Segariu,,I570,SU,09040,0,1074,17.0684,39.5636427,8.982963,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
+111073,Segariu,,I570,SU,09020,0,1074,17.0684,39.5636427,8.982963,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111074,Selegas,,I582,SU,09040,0,1253,20.2878,39.5693701,9.104511,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111075,Senorbì,,I615,SU,09040,0,4810,34.7288,39.5330082,9.1321627,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111076,Serdiana,,I624,SU,09040,0,2643,55.4488,39.3737103,9.1576888,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
@@ -7868,10 +7868,10 @@ codice,nome,nomeAltraLingua,codiceCatastale,sigla,cap,capoluogo,popolazione,supe
 111078,Serrenti,,I667,SU,09027,0,4425,42.8058,39.4927034,8.9752406,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111079,Serri,,I668,SU,09063,0,588,19.1011,39.7012129,9.1479869,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111080,Setzu,,I705,SU,09029,0,127,7.7473,39.723875,8.9395527,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
-111081,Seui,,I706,SU,09064,0,1137,147.7812,39.8395381,9.3241874,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
-111082,Seulo,,I707,SU,09065,0,745,59.0678,39.8677396,9.238567,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
+111081,Seui,,I706,SU,08051,0,1137,147.7812,39.8395381,9.3241874,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
+111082,Seulo,,I707,SU,08014,0,745,59.0678,39.8677396,9.238567,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111083,Siddi,,I724,SU,09020,0,541,11.1868,39.6697898,8.889749,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
-111084,Siliqua,,I734,SU,09010,0,3468,189.7834,39.3007258,8.809042,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
+111084,Siliqua,,I734,SU,09003,0,3468,189.7834,39.3007258,8.809042,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111085,Silius,,I735,SU,09040,0,987,38.3472,39.5178582,9.2960749,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111086,Siurgus Donigala,,I765,SU,09040,0,1820,76.1195,39.5991182,9.1851433,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111087,Soleminis,,I797,SU,09040,0,1902,12.8746,39.3480311,9.1816516,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
@@ -7880,9 +7880,9 @@ codice,nome,nomeAltraLingua,codiceCatastale,sigla,cap,capoluogo,popolazione,supe
 111090,Tratalias,,L337,SU,09010,0,988,30.975,39.1030286,8.5775839,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111091,Tuili,,L463,SU,09029,0,882,24.4486,39.7151286,8.9598788,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111092,Turri,,L473,SU,09020,0,375,9.4225,39.7038077,8.9178247,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
-111093,Ussana,,L512,SU,09020,0,3997,32.7999,39.3924439,9.0774056,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
+111093,Ussana,,L512,SU,09008,0,3997,32.7999,39.3924439,9.0774056,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111094,Ussaramanna,,L513,SU,09020,0,466,9.5464,39.691386,8.9106027,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
-111095,Vallermosa,,L613,SU,09010,0,1782,61.5674,39.3637249,8.7966745,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
+111095,Vallermosa,,L613,SU,09004,0,1782,61.5674,39.3637249,8.7966745,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111096,Villacidro,,L924,SU,09039,0,12878,183.5093,39.4559009,8.7321357,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111097,Villamar,,L966,SU,09020,0,2392,38.2067,39.6178626,8.9620618,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111098,Villamassargia,,L968,SU,09010,0,3278,91.426,39.2755752,8.6405778,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
@@ -7894,4 +7894,4 @@ codice,nome,nomeAltraLingua,codiceCatastale,sigla,cap,capoluogo,popolazione,supe
 111104,Villasalto,,M016,SU,09040,0,876,130.3421,39.4934413,9.3900761,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111105,Villasimius,,B738,SU,09049,0,3762,58.1088,39.1424558,9.5208716,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
 111106,Villasor,,M025,SU,09034,0,6480,86.7929,39.380459,8.9407229,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
-111107,Villaspeciosa,,M026,SU,09010,0,2700,27.0633,39.3127449,8.926936,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
+111107,Villaspeciosa,,M026,SU,09005,0,2700,27.0633,39.3127449,8.926936,Isole,5,Sardegna,20,Sud Sardegna,111,SU,provincia
